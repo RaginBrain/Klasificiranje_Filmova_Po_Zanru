@@ -1,0 +1,5916 @@
+1
+00:01:18,687 --> 00:01:22,687
+www.titlovi.com
+
+2
+00:01:25,687 --> 00:01:28,679
+PRINCETON
+RUJAN 1947
+
+3
+00:01:30,732 --> 00:01:33,087
+Matematièari su dobili rat.
+
+4
+00:01:33,987 --> 00:01:36,865
+Provalili su japanske šifre...
+
+5
+00:01:37,198 --> 00:01:39,029
+i stvorili atomsku bombu.
+
+6
+00:01:39,492 --> 00:01:42,086
+Matematièari poput vas.
+
+7
+00:01:43,620 --> 00:01:47,056
+Sovjetski je cilj svjetski komunizam.
+
+8
+00:01:47,958 --> 00:01:49,676
+U medicini ili ekonomiji...
+
+9
+00:01:49,877 --> 00:01:51,788
+tehnologiji ili svemiru...
+
+10
+00:01:52,172 --> 00:01:54,163
+izazovi su sve veæi.
+
+11
+00:01:54,922 --> 00:01:57,482
+Da bismo pobijedili trebaju nam rezultati...
+
+12
+00:01:57,842 --> 00:02:00,675
+primjenjivi rezultati.
+
+13
+00:02:00,885 --> 00:02:03,638
+Koji æe od vas biti buduæi Morse?
+
+14
+00:02:05,432 --> 00:02:06,990
+Einstein?
+
+15
+00:02:07,601 --> 00:02:10,274
+Koji æe od vas biti predvodnik demokracije...
+
+16
+00:02:10,479 --> 00:02:12,515
+slobode i otkriæa?
+
+17
+00:02:13,606 --> 00:02:17,281
+Danas amerièku buduænost polažemo
+u vaše moæne ruke.
+
+18
+00:02:19,318 --> 00:02:21,388
+Dobrodošli u Princeton, gospodo.
+
+19
+00:02:38,798 --> 00:02:41,312
+Nije dovoljno što je Hansen dobio
+Carnegie stipendiju.
+
+20
+00:02:41,507 --> 00:02:43,384
+Mora sve sebi zgrabiti.
+
+21
+00:02:44,428 --> 00:02:47,977
+Ovo je prvi put da se Carnegie
+dodjeljuje dvojici. Hansen je shrvan.
+
+22
+00:02:48,221 --> 00:02:52,373
+Cilja na nova vojna istraživanja
+na Tehnološkom Institutu u Massachussettsu.
+
+23
+00:02:52,642 --> 00:02:54,837
+Ove godine primaju samo jednoga.
+
+24
+00:02:55,020 --> 00:02:56,817
+Hansen je naviknut da ga prvoga odaberu.
+
+25
+00:02:56,980 --> 00:02:58,572
+Da, u matematici bi propao.
+
+26
+00:02:58,732 --> 00:03:01,166
+Trebao bi se kandidirati za predsjednika.
+
+27
+00:03:10,911 --> 00:03:14,506
+Moglo bi postojati matematièko objašnjenje
+za tvoju lošu kravatu.
+
+28
+00:03:20,085 --> 00:03:21,564
+Hvala.
+
+29
+00:03:23,044 --> 00:03:24,682
+Neilson, kriptografija simbola.
+
+30
+00:03:24,839 --> 00:03:27,876
+Provalio je japansku šifru.
+Pomogao osloboditi svijet od fašizma.
+
+31
+00:03:28,094 --> 00:03:30,927
+Barem to govori djevojkama, zar ne, Neils?
+
+32
+00:03:31,137 --> 00:03:33,128
+Bender. Atomska fizika.
+
+33
+00:03:33,305 --> 00:03:35,261
+-A ti si?
+-Jesam li zakasnio?
+
+34
+00:03:35,432 --> 00:03:38,230
+-Da, g. Sol.
+-Dobro. Bog.
+
+35
+00:03:39,226 --> 00:03:41,786
+-Sol. Richard Sol.
+-Breme genija.
+
+36
+00:03:41,979 --> 00:03:43,856
+-Evo ga.
+-Toliko mnogo zahtijeva, a tako malo vremena.
+
+37
+00:03:43,982 --> 00:03:46,177
+-G. Sol.
+-Kako ste, gospodine?
+
+38
+00:03:46,360 --> 00:03:47,713
+-Bender.
+-Drago mi je vidjeti te.
+
+39
+00:03:47,861 --> 00:03:50,250
+-Èestitam, g. Hansen.
+-Hvala.
+
+40
+00:03:50,822 --> 00:03:52,460
+Uzet æu još jedan.
+
+41
+00:03:53,781 --> 00:03:54,930
+Molim?
+
+42
+00:03:55,075 --> 00:03:57,145
+Oprosti. Mislio sam da si konobar.
+
+43
+00:03:57,327 --> 00:03:59,795
+-Lijepo se ponašaj.
+-Hansenu to baš ne ide od ruke.
+
+44
+00:03:59,997 --> 00:04:01,350
+Iskrena pogreška.
+
+45
+00:04:01,498 --> 00:04:03,375
+Pa, Martin Hansen.
+
+46
+00:04:04,627 --> 00:04:06,265
+Martin, zar ne?
+
+47
+00:04:06,628 --> 00:04:08,425
+Da, tako je, Johne.
+
+48
+00:04:08,589 --> 00:04:11,945
+Vjerujem da ti krive procjene postaju navikom.
+
+49
+00:04:14,553 --> 00:04:16,623
+Proèitao sam tvoje tekstove...
+
+50
+00:04:18,055 --> 00:04:19,170
+oba.
+
+51
+00:04:19,306 --> 00:04:20,978
+Onaj o nacistièkim šiframa...
+
+52
+00:04:21,142 --> 00:04:23,417
+i drugi o nelinearnim jednadžbama...
+
+53
+00:04:24,018 --> 00:04:27,294
+i potpuno sam uvjeren
+kako nema ni jedne važne...
+
+54
+00:04:27,520 --> 00:04:30,080
+ili inovativne zamisli ni u jednom od njih.
+
+55
+00:04:33,154 --> 00:04:34,826
+Uživaj u punèu.
+
+56
+00:04:38,991 --> 00:04:41,061
+Gospodo, upoznajte Johna Nasha...
+
+57
+00:04:41,535 --> 00:04:43,765
+tajnovitog genija Zapadne Virginije.
+
+58
+00:04:43,954 --> 00:04:46,832
+Drugog dobitnika prestižne stipendije Carnegie.
+
+59
+00:04:47,042 --> 00:04:48,600
+-Shvaæam.
+-Da?
+
+60
+00:04:48,752 --> 00:04:49,980
+Naravno.
+
+61
+00:05:21,364 --> 00:05:23,161
+Kriste.
+
+62
+00:05:24,368 --> 00:05:26,928
+Stiže razmetni cimer.
+
+63
+00:05:27,953 --> 00:05:29,625
+Cimer?
+
+64
+00:05:29,788 --> 00:05:31,460
+Bože, ne.
+
+65
+00:05:33,791 --> 00:05:36,430
+Jesi li znao da mamurluk...
+
+66
+00:05:37,047 --> 00:05:39,356
+znaèi da nemaš dovoljno vode u tijelu...
+
+67
+00:05:39,547 --> 00:05:41,424
+da bi potakao Krebsov ciklus.
+
+68
+00:05:42,133 --> 00:05:45,728
+Isto se dogaða kad umireš od žeði.
+
+69
+00:05:46,178 --> 00:05:48,976
+Umiranje od žeði...
+
+70
+00:05:50,181 --> 00:05:52,172
+vjerojatno je...
+
+71
+00:05:52,727 --> 00:05:56,925
+poput mamurluka koji te naposljetku ubije.
+
+72
+00:05:59,191 --> 00:06:00,544
+John Nash?
+
+73
+00:06:00,692 --> 00:06:02,250
+Zdravo.
+
+74
+00:06:02,527 --> 00:06:03,960
+Charles Herman.
+
+75
+00:06:04,278 --> 00:06:05,836
+Drago mi je.
+
+76
+00:06:15,497 --> 00:06:17,294
+U redu! Izvrsno!
+
+77
+00:06:22,838 --> 00:06:25,796
+Službeno je. Ponovno sam ljudsko biæe.
+
+78
+00:06:26,758 --> 00:06:30,273
+Vidio sam vozaèa koji me udario.
+Zvao se Johnny Walker.
+
+79
+00:06:36,183 --> 00:06:38,617
+Sinoæ sam stigao na vrijeme za...
+
+80
+00:06:38,979 --> 00:06:41,015
+koktele na odsjeku Anglistike.
+
+81
+00:06:41,398 --> 00:06:42,592
+Koktel je bio moj...
+
+82
+00:06:42,732 --> 00:06:46,964
+a rep je pripadao osobito
+dražesnoj mladoj osobi sa strašæu za...
+
+83
+00:06:47,486 --> 00:06:50,842
+D.H. Lawrenceom. Nije te lako omesti, zar ne?
+
+84
+00:06:51,239 --> 00:06:53,628
+-Došao sam raditi.
+-Zaista? Dobro.
+
+85
+00:06:53,824 --> 00:06:55,542
+Da. Zaboga!
+
+86
+00:07:05,751 --> 00:07:07,582
+Je li mi cimer idiot?
+
+87
+00:07:11,841 --> 00:07:13,240
+Slušaj.
+
+88
+00:07:13,511 --> 00:07:15,342
+Ako ne možemo razbiti led...
+
+89
+00:07:16,346 --> 00:07:18,223
+zašto ga ne otopimo?
+
+90
+00:07:28,482 --> 00:07:30,154
+Kakva je tvoja prièa?
+
+91
+00:07:31,152 --> 00:07:34,588
+Siromašni djeèak koji nije išao
+u najbolje srednje škole?
+
+92
+00:07:35,531 --> 00:07:38,091
+Unatoè mojem privilegiranom odgoju,
+uravnotežen sam.
+
+93
+00:07:38,282 --> 00:07:40,318
+Imam šiljke na oba ramena.
+
+94
+00:07:42,202 --> 00:07:45,638
+Možda ti bolje idu cijeli brojevi nego ljudi.
+
+95
+00:07:45,873 --> 00:07:49,582
+Moja uèiteljica iz prvog razreda rekla je
+da sam dobio dvije porcije mozga...
+
+96
+00:07:49,835 --> 00:07:51,985
+no tek pola porcije srca.
+
+97
+00:07:52,963 --> 00:07:55,193
+Aha! Dražesna je!
+
+98
+00:07:56,297 --> 00:07:58,049
+Istina je da ja...
+
+99
+00:07:58,300 --> 00:08:00,052
+ne volim baš ljude.
+
+100
+00:08:01,013 --> 00:08:02,526
+Ni oni mene.
+
+101
+00:08:02,680 --> 00:08:05,513
+Kako je to moguæe, uz taj oèigledni duh i šarm?
+
+102
+00:08:08,268 --> 00:08:09,860
+Ozbiljno, Johne.
+
+103
+00:08:11,688 --> 00:08:13,121
+Matematika...
+
+104
+00:08:14,273 --> 00:08:17,345
+Matematika te nikad neæe dovesti do više istine.
+
+105
+00:08:17,571 --> 00:08:19,209
+Znaš zašto?
+
+106
+00:08:19,738 --> 00:08:22,252
+Jer je dosadna. Zaista dosadna.
+
+107
+00:08:23,533 --> 00:08:26,570
+Znaš da su polovici ovih klinaca
+veæ objavljeni radovi?
+
+108
+00:08:27,495 --> 00:08:30,055
+Ne mogu trošiti vrijeme na ta predavanja...
+
+109
+00:08:30,288 --> 00:08:31,960
+i te knjige.
+
+110
+00:08:34,793 --> 00:08:37,705
+Pamtiti slabe pretpostavke neuglednih smrtnika!
+
+111
+00:08:40,339 --> 00:08:42,136
+Trebam shvatiti...
+
+112
+00:08:42,675 --> 00:08:44,631
+dinamiku upravljanja.
+
+113
+00:08:48,765 --> 00:08:50,756
+Pronaæi zaista originalnu zamisao.
+
+114
+00:08:50,935 --> 00:08:53,290
+To je jedini naèin da se istaknem.
+
+115
+00:08:53,478 --> 00:08:56,072
+-Jedino æu tako biti...
+-Važan.
+
+116
+00:08:59,066 --> 00:09:00,624
+Da.
+
+117
+00:09:02,485 --> 00:09:05,283
+-Dobro, tko je iduæi?
+-Dosta mi je bilo za danas.
+
+118
+00:09:05,490 --> 00:09:07,162
+-Daj.
+-Mrzim tu igru.
+
+119
+00:09:07,324 --> 00:09:08,916
+Svi ste kukavice!
+
+120
+00:09:09,076 --> 00:09:11,146
+Nitko se ne odaziva izazovu?
+
+121
+00:09:11,327 --> 00:09:14,717
+Daj, Benderu. Tko pobijedi,
+Sol æe mu prati rublje cijeli semestar.
+
+122
+00:09:14,956 --> 00:09:17,834
+-Je li pošteno?
+-Da.
+
+123
+00:09:20,169 --> 00:09:22,046
+-Pogledaj ga.
+-Nash!
+
+124
+00:09:22,213 --> 00:09:23,965
+Ideš natraške?
+
+125
+00:09:24,131 --> 00:09:27,567
+Pokušavam pronaæi algoritam
+kojim bih odredio njihovo kretanje.
+
+126
+00:09:32,596 --> 00:09:33,585
+Psiho.
+
+127
+00:09:34,848 --> 00:09:38,124
+Nash, mislio sam da si odustao.
+Vraæaš li se na predavanja ili...
+
+128
+00:09:38,353 --> 00:09:40,548
+Predavanja æe ti umrtviti um.
+
+129
+00:09:41,231 --> 00:09:43,791
+Uništiti moguænost izvorne kreativnosti.
+
+130
+00:09:43,984 --> 00:09:45,576
+To nisam znao.
+
+131
+00:09:45,735 --> 00:09:47,965
+Nash æe nas sve zapanjiti svojim umom.
+
+132
+00:09:48,652 --> 00:09:52,327
+Drugim rijeèima, nema odvažnosti za takmièenje.
+
+133
+00:09:54,035 --> 00:09:55,229
+Bojiš se?
+
+134
+00:09:55,369 --> 00:09:57,883
+Užasno. Strašno. Grozno.
+
+135
+00:09:58,078 --> 00:09:59,670
+Zapanjen sam.
+
+136
+00:10:00,956 --> 00:10:02,309
+Bez štirke.
+
+137
+00:10:02,457 --> 00:10:04,368
+Ispeglano i složeno.
+
+138
+00:10:07,380 --> 00:10:09,336
+Nešto bih te pitao, Johne.
+
+139
+00:10:09,717 --> 00:10:11,036
+Izvoli, Martine.
+
+140
+00:10:11,176 --> 00:10:15,089
+Bender i Sol toèno su dovršili
+Allenov dokaz Perronovih pretpostavki.
+
+141
+00:10:15,345 --> 00:10:16,937
+Dobar posao...
+
+142
+00:10:17,807 --> 00:10:19,399
+bez inovacija.
+
+143
+00:10:19,598 --> 00:10:22,158
+-Polaskan sam. Ti?
+-Polaskan.
+
+144
+00:10:22,351 --> 00:10:26,424
+Imam dva sažetka o oružju
+koje provjerava Ministarstvo obrane.
+
+145
+00:10:26,772 --> 00:10:28,569
+Lupetanje.
+
+146
+00:10:30,149 --> 00:10:32,902
+No, Nashova postignuæa: nula.
+
+147
+00:10:33,110 --> 00:10:36,102
+Strpljiv sam èovjek, Martine.
+Èujem li ja to pitanje?
+
+148
+00:10:37,824 --> 00:10:40,702
+Što ako nikad ne doðeš do originalne zamisli?
+
+149
+00:10:43,121 --> 00:10:46,477
+Kako æeš se osjeæati
+kad me odaberu za Wheelerov laboratorij...
+
+150
+00:10:46,707 --> 00:10:48,060
+a tebe ne?
+
+151
+00:10:51,504 --> 00:10:53,062
+Što ako izgubiš?
+
+152
+00:11:04,431 --> 00:11:06,023
+Nisi trebao dobiti.
+
+153
+00:11:07,142 --> 00:11:09,610
+Bio sam prvi na potezu,
+imao sam izvrsnu strategiju.
+
+154
+00:11:09,812 --> 00:11:11,450
+Samouvjerenost poraženog.
+
+155
+00:11:11,606 --> 00:11:13,119
+Igra ne valja.
+
+156
+00:11:19,780 --> 00:11:22,613
+Gospodo, veliki John Nash.
+
+157
+00:11:29,164 --> 00:11:31,598
+Ovdje si dva dana.
+
+158
+00:11:34,460 --> 00:11:37,054
+Znaš da je Hansen izdao još jedan rad?
+
+159
+00:11:37,253 --> 00:11:39,721
+Ja ne mogu ni pronaæi temu za doktorat.
+
+160
+00:11:41,717 --> 00:11:44,595
+No, pozitivno je što si izumio
+umjetnost na staklu.
+
+161
+00:11:46,847 --> 00:11:49,281
+Ova skupina igra rugby.
+
+162
+00:11:49,767 --> 00:11:52,998
+Ova gomila golubova bori se za mrvice kruha.
+
+163
+00:11:55,353 --> 00:11:58,948
+A ova žena lovi muškarca
+koji joj je ukrao torbicu.
+
+164
+00:12:00,067 --> 00:12:01,898
+Johne, gledao si pljaèku.
+
+165
+00:12:02,237 --> 00:12:03,590
+Èudno je to.
+
+166
+00:12:03,780 --> 00:12:06,294
+U natjecanju, netko uvijek gubi.
+
+167
+00:12:06,490 --> 00:12:09,880
+To zna i moja neæakinja, Johne, a ove je visine.
+
+168
+00:12:10,119 --> 00:12:12,508
+Kad bih mogao dobiti ravnotežu...
+
+169
+00:12:13,371 --> 00:12:15,965
+u kojoj nadmoæ nije jedinstven dogaðaj...
+
+170
+00:12:16,624 --> 00:12:18,262
+u kojoj nitko ne gubi.
+
+171
+00:12:18,668 --> 00:12:21,740
+Zamisli kakav bi uèinak
+imala na protuslovne situacije...
+
+172
+00:12:21,964 --> 00:12:23,875
+Kad si zadnji put jeo?
+
+173
+00:12:24,047 --> 00:12:26,515
+-Kad si zadnji put jeo?
+-Mijenjanje valute?
+
+174
+00:12:26,716 --> 00:12:28,388
+Znaš, hrana?
+
+175
+00:12:30,012 --> 00:12:32,572
+Nemaš poštovanja
+prema spoznajnim snatrenjima, znaš?
+
+176
+00:12:32,765 --> 00:12:35,040
+Da. Ali pizza...
+
+177
+00:12:36,809 --> 00:12:39,323
+Da, prema pizzi imam veliko poštovanje.
+
+178
+00:12:41,271 --> 00:12:43,227
+l, naravno, pivu.
+
+179
+00:12:49,072 --> 00:12:50,903
+Poštujem pivo.
+
+180
+00:12:52,367 --> 00:12:54,323
+Poštujem pivo!
+
+181
+00:13:02,707 --> 00:13:04,698
+-Dobra veèer, Neils.
+-Bog, Nash.
+
+182
+00:13:04,878 --> 00:13:06,630
+Tko pobjeðuje? Ti ili ti?
+
+183
+00:13:07,421 --> 00:13:10,015
+-Dobra veèer, Nash.
+-Bog, deèki. Bog, Nash.
+
+184
+00:13:12,134 --> 00:13:14,329
+Gleda te.
+
+185
+00:13:19,056 --> 00:13:20,409
+Bog, Nash.
+
+186
+00:13:20,561 --> 00:13:22,870
+Neils pokušava pridobiti tvoju pozornost.
+
+187
+00:13:23,062 --> 00:13:24,654
+-Šališ se.
+-Ne.
+
+188
+00:13:30,360 --> 00:13:32,351
+-Idi s Bogom.
+-Vrati se.
+
+189
+00:13:33,946 --> 00:13:36,540
+-Sudbina voli hrabre.
+-Naprijed.
+
+190
+00:13:39,076 --> 00:13:42,512
+Gospodo, mogu li vas podsjetiti
+da se moji izgledi za uspjeh...
+
+191
+00:13:42,745 --> 00:13:45,134
+znatno poboljšavaju sa svakim pokušajem?
+
+192
+00:13:53,965 --> 00:13:55,956
+Ovo æe biti izvrsno.
+
+193
+00:14:26,580 --> 00:14:28,650
+Možda me želiš èastiti.
+
+194
+00:14:33,918 --> 00:14:36,068
+Ne znam što bih trebao reæi...
+
+195
+00:14:36,253 --> 00:14:38,721
+kako bi ti vodila ljubav sa mnom...
+
+196
+00:14:38,922 --> 00:14:41,641
+no možemo li pretpostaviti
+da sam veæ sve rekao?
+
+197
+00:14:41,843 --> 00:14:44,676
+Rijeè je o razmjeni fluida, zar ne?
+
+198
+00:14:44,886 --> 00:14:47,195
+Dakle, možemo li odmah prijeæi na seks?
+
+199
+00:14:48,682 --> 00:14:50,479
+To je bilo slatko.
+
+200
+00:14:51,475 --> 00:14:53,466
+Ugodna ti noæ, kretenu!
+
+201
+00:14:54,062 --> 00:14:55,700
+Dame, èekajte!
+
+202
+00:14:57,732 --> 00:15:01,441
+Osobito mi se svidio dio o razmjeni fluida.
+Bio je...
+
+203
+00:15:02,278 --> 00:15:03,950
+zaista dražestan.
+
+204
+00:15:08,283 --> 00:15:09,762
+Prošetajmo, Johne.
+
+205
+00:15:09,952 --> 00:15:12,307
+Htio sam s tobom poprièati.
+
+206
+00:15:12,579 --> 00:15:16,049
+Fakultet dovršava semestralno ocjenjivanje.
+
+207
+00:15:16,292 --> 00:15:19,011
+Razmišljamo koje molbe za zaposlenje podržati.
+
+208
+00:15:19,210 --> 00:15:21,485
+Wheeler, gospodine. To je moj prvi odabir.
+
+209
+00:15:21,670 --> 00:15:24,309
+Zapravo, ni nemam drugi, gospodine.
+
+210
+00:15:24,507 --> 00:15:28,546
+Drugi su pohaðali predavanja.
+Pisali radove. Izdavali ih.
+
+211
+00:15:28,846 --> 00:15:30,564
+Gospodine, još uvijek tražim...
+
+212
+00:15:30,723 --> 00:15:33,191
+-Originalnu zamisao.
+-Dinamika upravljanja, gospodine.
+
+213
+00:15:33,390 --> 00:15:37,019
+Veoma je pametna, Johne,
+no bojim se da nije dovoljno dobra.
+
+214
+00:15:43,273 --> 00:15:45,025
+-Smijem?
+-Hvala.
+
+215
+00:15:45,277 --> 00:15:47,074
+Radim na mnogostrukom tumaèenju.
+
+216
+00:15:47,237 --> 00:15:49,467
+Moji stratagemi obeæavaju.
+
+217
+00:15:49,656 --> 00:15:52,773
+Ako biste mogli dogovoriti drugi sastanak
+s profesorom Einsteinom.
+
+218
+00:15:52,993 --> 00:15:55,029
+Veæ sam to tražio.
+
+219
+00:15:55,243 --> 00:15:57,518
+Mogao bih mu pokazati moje revizije njegovih...
+
+220
+00:15:57,704 --> 00:15:58,932
+Johne.
+
+221
+00:16:01,001 --> 00:16:03,561
+Vidiš li što rade?
+
+222
+00:16:06,088 --> 00:16:08,283
+Èestitam, profesore Max.
+
+223
+00:16:08,465 --> 00:16:10,979
+Hvala, gospodine. Hvala.
+
+224
+00:16:12,259 --> 00:16:13,658
+Pera.
+
+225
+00:16:14,095 --> 00:16:17,974
+Rezervirana za èlana odsjeka
+za životno postignuæe.
+
+226
+00:16:18,683 --> 00:16:20,480
+Što sad vidiš, Johne?
+
+227
+00:16:21,726 --> 00:16:23,364
+Priznanje.
+
+228
+00:16:24,187 --> 00:16:26,337
+Dobar posao, profesore.
+
+229
+00:16:26,524 --> 00:16:28,833
+Pa, pokušaj vidjeti postignuæe.
+
+230
+00:16:29,025 --> 00:16:30,743
+Ima li razlike?
+
+231
+00:16:32,779 --> 00:16:34,576
+Nisi se usredotoèio.
+
+232
+00:16:36,283 --> 00:16:40,879
+Žao mi je, no zasad tvoji rezultati
+ne jamèe nikakav posao.
+
+233
+00:16:44,998 --> 00:16:46,716
+Ugodan dan.
+
+234
+00:16:56,800 --> 00:16:58,756
+Èestitam, gospodine.
+
+235
+00:16:59,302 --> 00:17:00,860
+Hvala lijepa.
+
+236
+00:17:18,279 --> 00:17:19,917
+Ne vidim.
+
+237
+00:17:27,329 --> 00:17:28,967
+Isuse Kriste, Johne.
+
+238
+00:17:30,290 --> 00:17:31,723
+Ne smijem pogriješiti.
+
+239
+00:17:31,874 --> 00:17:34,434
+-To sam ja.
+-Doði, idemo van.
+
+240
+00:17:34,669 --> 00:17:36,500
+Moram nešto obaviti.
+
+241
+00:17:36,672 --> 00:17:39,789
+-Ne mogu buljiti u prazno.
+-Johne, dosta!
+
+242
+00:17:40,050 --> 00:17:44,089
+Moram se prilagoditi, slijediti pravila,
+èitati njihove knjige...
+
+243
+00:17:44,345 --> 00:17:46,336
+slušati njihova predavanja.
+
+244
+00:17:46,597 --> 00:17:48,986
+Hajde! Kreni, muæni glavom! Ubij se!
+
+245
+00:17:49,807 --> 00:17:52,082
+Nemoj. Nemoj švrljati.
+
+246
+00:17:52,268 --> 00:17:55,863
+Muæni glavom! Idemo, otvori tu tvoju glavu.
+
+247
+00:17:56,106 --> 00:17:59,143
+Dovraga, Charles! U èemu je tvoj problem?
+
+248
+00:18:02,361 --> 00:18:03,874
+To nije moj problem.
+
+249
+00:18:06,073 --> 00:18:07,825
+A nije ni tvoj.
+
+250
+00:18:11,289 --> 00:18:12,881
+To je njihov problem.
+
+251
+00:18:13,164 --> 00:18:16,122
+Tvoj odgovor nije: "Prilagodi se."
+
+252
+00:18:16,958 --> 00:18:18,437
+Tamo je negdje...
+
+253
+00:18:19,045 --> 00:18:20,922
+gdje ti radiš.
+
+254
+00:18:41,940 --> 00:18:43,532
+To je bilo teško.
+
+255
+00:18:47,195 --> 00:18:49,265
+Taj Isaac Newton bio je u pravu.
+
+256
+00:18:49,613 --> 00:18:52,252
+-Nešto je smjerao.
+-Bistar deèko.
+
+257
+00:18:52,700 --> 00:18:55,931
+Ne brini, to je moje. Doæi æu i uzeti ga za trenutak.
+
+258
+00:19:01,917 --> 00:19:03,748
+Dolazi, gospodo.
+
+259
+00:19:09,090 --> 00:19:10,443
+Duboko udahnite.
+
+260
+00:19:11,342 --> 00:19:15,221
+Nash, bi li prestao petljati s tim papirima?
+
+261
+00:19:19,475 --> 00:19:21,306
+Gospodo, neæu vam kupiti pivo.
+
+262
+00:19:21,477 --> 00:19:23,911
+Nismo ovdje zbog piva, moj prijatelju.
+
+263
+00:19:28,609 --> 00:19:32,238
+Osjeæa li još itko da bi se trebala kretati
+kao na usporenoj snimci?
+
+264
+00:19:32,487 --> 00:19:34,523
+Hoæe li htjeti veliko vjenèanje, što misliš?
+
+265
+00:19:34,698 --> 00:19:36,768
+Maèevanje? Ili dvoboj u zoru?
+
+266
+00:19:36,949 --> 00:19:38,621
+Sjeæaš li se ièega?
+
+267
+00:19:39,410 --> 00:19:41,526
+Sjeti se pouèaka Adama Smitha...
+
+268
+00:19:41,786 --> 00:19:43,856
+oca moderne ekonomije.
+
+269
+00:19:44,539 --> 00:19:48,373
+"U natjecanju,
+osobna ambicija u službi je opæeg dobra."
+
+270
+00:19:48,626 --> 00:19:50,503
+Svatko za sebe, gospodine.
+
+271
+00:19:50,672 --> 00:19:53,140
+Neuspješni zaglave s njezinim prijateljicama.
+
+272
+00:19:53,340 --> 00:19:54,932
+Ja æu uspjeti.
+
+273
+00:19:55,092 --> 00:19:58,050
+Možeš dovesti plavušu do izvora,
+no ne i natjerati je da pije.
+
+274
+00:19:58,260 --> 00:19:59,613
+Ne mièite se.
+
+275
+00:19:59,802 --> 00:20:02,441
+Pogledava ovamo. Gleda Nasha.
+
+276
+00:20:02,766 --> 00:20:04,916
+O, Bože. Možda je u prednosti sad...
+
+277
+00:20:05,101 --> 00:20:07,057
+no, prièekajte dok ne otvori usta.
+
+278
+00:20:07,228 --> 00:20:09,059
+Sjeæate li se prošIog puta?
+
+279
+00:20:09,229 --> 00:20:11,379
+Taj se pamti.
+
+280
+00:20:17,988 --> 00:20:21,060
+-Treba preispitati Adama Smitha.
+-O èemu govoriš?
+
+281
+00:20:22,492 --> 00:20:24,403
+Ako svi krenemo na plavušu...
+
+282
+00:20:29,247 --> 00:20:30,965
+zaustavit æemo jedni druge.
+
+283
+00:20:31,124 --> 00:20:33,957
+Neæe je dobiti nijedan od nas.
+
+284
+00:20:34,795 --> 00:20:37,184
+Potom krenemo na njezine prijateljice...
+
+285
+00:20:38,465 --> 00:20:43,141
+no one æe nas odbaciti
+jer nitko ne voli biti druga prilika.
+
+286
+00:20:43,429 --> 00:20:45,818
+No što ako nitko ne krene na plavušu?
+
+287
+00:20:47,805 --> 00:20:49,921
+Nismo jedni drugima na putu...
+
+288
+00:20:50,184 --> 00:20:52,493
+i ne vrijeðamo druge djevojke.
+
+289
+00:20:53,979 --> 00:20:55,890
+Jedino tako æemo dobiti.
+
+290
+00:20:58,232 --> 00:21:00,427
+Jedino tako æemo koju povaliti.
+
+291
+00:21:05,658 --> 00:21:07,330
+Adam Smith je rekao:
+
+292
+00:21:07,618 --> 00:21:09,688
+"Najbolji rezultati se postižu...
+
+293
+00:21:10,537 --> 00:21:13,609
+"ako svatko radi ono što je za njega najbolje."
+
+294
+00:21:13,832 --> 00:21:16,392
+Toèno. Nepotpuno. U redu?
+
+295
+00:21:17,292 --> 00:21:19,726
+Jer najbolji se rezultat postiže...
+
+296
+00:21:21,089 --> 00:21:23,045
+ako svatko u skupini...
+
+297
+00:21:23,215 --> 00:21:25,331
+radi što je najbolje za njega...
+
+298
+00:21:26,133 --> 00:21:27,248
+i za skupinu.
+
+299
+00:21:27,386 --> 00:21:30,344
+Ako je to naèin da doðeš do plavuše, idi dovraga.
+
+300
+00:21:30,554 --> 00:21:33,830
+Dinamika upravljanja. Adam Smith...
+
+301
+00:21:35,476 --> 00:21:37,148
+bio je u krivu.
+
+302
+00:21:37,311 --> 00:21:39,381
+-Tu smo.
+-Oprezno, oprezno.
+
+303
+00:21:42,315 --> 00:21:43,589
+Hvala.
+
+304
+00:21:55,829 --> 00:21:58,389
+"C" od "S" jednako je "C" od "T".
+
+305
+00:23:01,432 --> 00:23:04,868
+Svjesni ste da se suprotstavljate
+150 godina staroj ekonomskoj teoriji?
+
+306
+00:23:05,101 --> 00:23:06,170
+Da, gospodine.
+
+307
+00:23:06,310 --> 00:23:09,427
+-To je prilièno uobraženo, zar ne?
+-Da, gospodine.
+
+308
+00:23:16,737 --> 00:23:18,489
+Pa, g. Nash...
+
+309
+00:23:19,156 --> 00:23:21,670
+s ovakvim otkriæem...
+
+310
+00:23:21,908 --> 00:23:24,866
+siguran sam
+da æete moæi dobiti željeni posao.
+
+311
+00:23:31,835 --> 00:23:33,507
+Wheelerov laboratorij...
+
+312
+00:23:34,502 --> 00:23:37,175
+tražit æe da preporuèite dvije osobe za vaš tim.
+
+313
+00:23:41,216 --> 00:23:43,207
+Stills i Frank su izvrstan odabir.
+
+314
+00:23:43,386 --> 00:23:45,183
+Sol i Bender, gospodine.
+
+315
+00:23:45,347 --> 00:23:48,783
+Sol i Bender su izvrsni matematièari.
+
+316
+00:23:49,017 --> 00:23:53,329
+Je li vam palo na pamet da Sol i Bender
+imaju svoje planove?
+
+317
+00:23:57,273 --> 00:23:58,626
+Uspjeli smo!
+
+318
+00:23:58,774 --> 00:24:00,651
+Wheeler, uspjeli smo!
+
+319
+00:24:01,612 --> 00:24:03,489
+Živjeli, živjeli, živjeli!
+
+320
+00:24:05,908 --> 00:24:08,024
+U redu, neobièan trenutak, gospodo.
+
+321
+00:24:32,931 --> 00:24:34,444
+Dinamika upravljanja.
+
+322
+00:24:37,730 --> 00:24:39,163
+Èestitamo, Johne.
+
+323
+00:24:39,313 --> 00:24:42,225
+-Zdravica! Wheeler laboratoriju!
+-Wheeleru!
+
+324
+00:24:52,910 --> 00:24:56,425
+PENTAGON 1953 - PET GODINA POSLIJE
+
+325
+00:25:07,172 --> 00:25:09,766
+Generale, analitièar
+iz Wheeler laboratorija je ovdje.
+
+326
+00:25:09,967 --> 00:25:11,639
+Dr. Nash, vaš kaput?
+
+327
+00:25:11,803 --> 00:25:13,122
+Hvala, gospodine.
+
+328
+00:25:14,970 --> 00:25:17,564
+Generale, voditelj Wheelerove skupine,
+dr. John Nash.
+
+329
+00:25:17,765 --> 00:25:20,325
+-Drago mi je što ste došli, doktore.
+-Zdravo.
+
+330
+00:25:21,477 --> 00:25:22,910
+Ovamo.
+
+331
+00:25:23,396 --> 00:25:26,706
+Prisluškujemo radio prijenos iz Moskve.
+
+332
+00:25:27,776 --> 00:25:31,086
+Raèunalo ne može otkriti uzorak,
+no siguran sam da je šifra.
+
+333
+00:25:32,030 --> 00:25:33,622
+Zašto, Generale?
+
+334
+00:25:34,239 --> 00:25:36,992
+Dogodi li vam se ikad
+da nešto jednostavno znate?
+
+335
+00:25:39,035 --> 00:25:40,388
+Uvijek.
+
+336
+00:25:42,871 --> 00:25:44,941
+Stvorili smo nekoliko šifri.
+
+337
+00:25:46,750 --> 00:25:49,389
+Želite li pregledati naše prve podatke?
+
+338
+00:25:51,630 --> 00:25:52,983
+-Doktore?
+-6-7-3-7.
+
+339
+00:25:54,384 --> 00:25:56,261
+0-3-6...
+
+340
+00:26:09,940 --> 00:26:11,851
+8-4-9-4.
+
+341
+00:26:41,676 --> 00:26:43,667
+9-1-4-0-3-4.
+
+342
+00:27:01,529 --> 00:27:03,087
+Treba mi zemljovid.
+
+343
+00:27:05,615 --> 00:27:09,403
+46-13-08, 67-46-90.
+
+344
+00:27:11,996 --> 00:27:13,634
+Starkey Corners, Maine.
+
+345
+00:27:14,958 --> 00:27:16,676
+48-03-01.
+
+346
+00:27:16,835 --> 00:27:19,633
+91-26-35.
+
+347
+00:27:20,880 --> 00:27:22,598
+Prairie Portage, Minnesota.
+
+348
+00:27:23,047 --> 00:27:25,163
+To su dužine i širine.
+
+349
+00:27:25,592 --> 00:27:27,184
+Ima ih barem još 10.
+
+350
+00:27:27,342 --> 00:27:30,812
+Èini se da usmjeravaju naredbe
+preko granice u SAD.
+
+351
+00:27:32,099 --> 00:27:33,578
+Izvanredno.
+
+352
+00:27:34,477 --> 00:27:37,355
+Gospodo, moramo odmah djelovati.
+
+353
+00:27:39,688 --> 00:27:43,567
+-Tko je Veliki Brat?
+-Uèinili ste svojoj zemlji uslugu.
+
+354
+00:27:44,235 --> 00:27:45,907
+-Kapetane!
+-Da, gospodine.
+
+355
+00:27:47,363 --> 00:27:49,593
+Ispratite dr. Nasha.
+
+356
+00:27:49,823 --> 00:27:52,098
+Što Rusi smjeraju, Generale?
+
+357
+00:27:53,117 --> 00:27:56,314
+Kapetan Rogers ispratit æe vas
+do slobodne zone, doktore.
+
+358
+00:27:56,538 --> 00:27:57,607
+Hvala.
+
+359
+00:27:58,456 --> 00:28:00,686
+Dr. Nash, slijedite me, molim.
+
+360
+00:28:07,674 --> 00:28:10,632
+Nitko od onih koji su bili protiv metode...
+
+361
+00:28:10,843 --> 00:28:14,722
+nisu nam ponudili nijednu
+drugu koja bi bila uèinkovita.
+
+362
+00:28:15,805 --> 00:28:17,796
+-To je dr. Nash.
+-U redu.
+
+363
+00:28:24,273 --> 00:28:27,948
+LABORATORIJI WHEELER
+MIT
+
+364
+00:28:32,363 --> 00:28:34,513
+-Hvala, gospodine.
+-Uspješan posjet Pentagonu?
+
+365
+00:28:34,699 --> 00:28:38,214
+Jesu li rijeè "povjerljivo" izvadili iz rjeènika?
+
+366
+00:28:38,453 --> 00:28:40,569
+Bog. Klima je opet crkla.
+
+367
+00:28:40,746 --> 00:28:43,783
+Kako mogu spasiti svijet
+ako se ja ovdje rastapam?
+
+368
+00:28:43,998 --> 00:28:45,511
+Suosjeæamo s tobom.
+
+369
+00:28:46,333 --> 00:28:49,052
+Dva posjeta Pentagonu u èetiri godine.
+
+370
+00:28:49,252 --> 00:28:51,720
+-To je dva više od nas.
+-Ima još bolje.
+
+371
+00:28:51,923 --> 00:28:54,676
+Upravo smo dobili naš posljednji sjajni zadatak.
+
+372
+00:28:55,133 --> 00:28:59,206
+Rusi imaju hidrogensku bombu,
+nacisti naseljavaju Južnu Ameriku...
+
+373
+00:28:59,471 --> 00:29:02,429
+kineska vojska broji 2,8 milijuna vojnika...
+
+374
+00:29:02,640 --> 00:29:05,473
+a ja vršim ispitivanja sile na brani.
+
+375
+00:29:06,187 --> 00:29:08,462
+Opet si na naslovnici Fortunea.
+
+376
+00:29:08,648 --> 00:29:11,401
+Obrati pozornost na rijeè "ti", ne "mi".
+
+377
+00:29:12,567 --> 00:29:14,558
+Trebao sam biti samo ja.
+
+378
+00:29:17,570 --> 00:29:19,765
+Ne samo da su mi oduzeli Fieldsovo odlièje...
+
+379
+00:29:19,948 --> 00:29:23,145
+nego su me stavili na naslovnicu
+Fortunea s ovim šljakerima...
+
+380
+00:29:23,368 --> 00:29:25,086
+ovim teoretièarima besmislica.
+
+381
+00:29:25,245 --> 00:29:28,840
+Koja je toèno razlika izmeðu
+genija i veæeg genija?
+
+382
+00:29:29,792 --> 00:29:30,941
+Velika.
+
+383
+00:29:31,709 --> 00:29:34,667
+Tvoj je sin. Imaš 10 minuta.
+
+384
+00:29:34,879 --> 00:29:37,791
+-Uvijek imam 10 minuta.
+-Prije novog predavanja?
+
+385
+00:29:44,514 --> 00:29:47,233
+Mogu li dobiti lijeènièku ispriènicu ili nešto?
+
+386
+00:29:47,723 --> 00:29:49,873
+Ti si doktor, Johne, i ne možeš.
+
+387
+00:29:50,561 --> 00:29:53,280
+Znaš kako ide,
+mi dobijemo ove prekrasne zgrade...
+
+388
+00:29:53,479 --> 00:29:57,438
+Tehnološki Institut dobije
+najbriljantnije amerièke umove koji uèe buduæe.
+
+389
+00:29:57,692 --> 00:30:00,843
+-Jadnici.
+-Ugodan ti dan u školi.
+
+390
+00:30:01,196 --> 00:30:02,595
+Zvoni.
+
+391
+00:30:24,425 --> 00:30:26,495
+Revnosni mladi umovi buduænosti.
+
+392
+00:30:36,686 --> 00:30:40,156
+Mogu li ostaviti otvoreno, profesore?
+Veoma je vruæe, gospodine.
+
+393
+00:30:42,107 --> 00:30:45,895
+Tvoja udobnost dolazi poslije
+moje sposobnosti da èujem vlastiti glas.
+
+394
+00:30:51,284 --> 00:30:52,478
+Osobno...
+
+395
+00:30:53,493 --> 00:30:57,202
+mislim da æe ovaj predmet biti trošenje vašeg...
+
+396
+00:30:57,455 --> 00:30:59,366
+i što je puno gore...
+
+397
+00:31:00,919 --> 00:31:02,193
+mojeg vremena.
+
+398
+00:31:04,129 --> 00:31:06,689
+No što je, tu je.
+
+399
+00:31:06,881 --> 00:31:09,679
+Nije obavezno pohaðati predavanja.
+
+400
+00:31:10,926 --> 00:31:13,565
+Zadaæe možete napisati ako želite.
+
+401
+00:31:13,761 --> 00:31:15,035
+Poèeli smo.
+
+402
+00:31:18,225 --> 00:31:19,294
+Gospoðice.
+
+403
+00:31:22,854 --> 00:31:23,969
+Oprostite!
+
+404
+00:31:24,856 --> 00:31:26,926
+Oprostite!
+
+405
+00:31:27,274 --> 00:31:28,104
+Bog!
+
+406
+00:31:30,318 --> 00:31:31,671
+Imamo mali problem.
+
+407
+00:31:31,821 --> 00:31:34,494
+Užasno je vruæe sa zatvorenim prozorima...
+
+408
+00:31:34,699 --> 00:31:36,974
+a jako buèno kad ih otvorimo.
+
+409
+00:31:37,160 --> 00:31:39,628
+Postoji li koji naèin da...
+
+410
+00:31:39,828 --> 00:31:43,218
+radite negdje drugdje oko 45 minuta?
+
+411
+00:31:43,830 --> 00:31:46,424
+-Nema problema.
+-Puno hvala.
+
+412
+00:31:46,627 --> 00:31:48,458
+-Stanka!
+-Dobro!
+
+413
+00:31:48,796 --> 00:31:51,264
+Krenimo. Oèisti to malo.
+
+414
+00:31:53,299 --> 00:31:56,655
+U mnogostrukom varijabilnom raèunu,
+èesto postoji...
+
+415
+00:31:57,803 --> 00:32:00,442
+niz rješenja za svaki problem.
+
+416
+00:32:04,351 --> 00:32:06,581
+Kao što sam rekao, ovaj problem...
+
+417
+00:32:07,521 --> 00:32:10,081
+neki od vas rješavat æe mjesecima.
+
+418
+00:32:10,899 --> 00:32:12,537
+Drugima...
+
+419
+00:32:14,151 --> 00:32:17,029
+æe trebati cijeli život.
+
+420
+00:32:30,834 --> 00:32:32,108
+Profesore Nash.
+
+421
+00:32:45,847 --> 00:32:47,360
+William Parcher.
+
+422
+00:32:48,306 --> 00:32:49,500
+Veliki Brat...
+
+423
+00:32:51,395 --> 00:32:52,828
+vama na usluzi.
+
+424
+00:32:53,190 --> 00:32:55,704
+Što mogu uèiniti za Ministarstvo obrane?
+
+425
+00:32:56,149 --> 00:32:59,186
+-Dajete li mi povišicu?
+-Prošetajmo.
+
+426
+00:33:00,694 --> 00:33:03,492
+-Zavidan rad u Pentagonu.
+-Da.
+
+427
+00:33:03,947 --> 00:33:07,542
+Oppenheimer je govorio:
+"Genij vidi rješenje prije pitanja."
+
+428
+00:33:07,786 --> 00:33:09,538
+Poznavali ste Oppenheimera?
+
+429
+00:33:09,787 --> 00:33:12,017
+Radio je pod mojim nadzorom.
+
+430
+00:33:12,707 --> 00:33:14,106
+Na kojem projektu?
+
+431
+00:33:17,253 --> 00:33:19,972
+-Tom projektu.
+-To nije tako jednostavno, znate?
+
+432
+00:33:20,212 --> 00:33:21,691
+Pa, završili ste rat.
+
+433
+00:33:21,839 --> 00:33:25,229
+Spalili smo 150 000 ljudi u trenu.
+
+434
+00:33:25,470 --> 00:33:28,189
+Velika djela iziskuju velike žrtve, g. Parcher.
+
+435
+00:33:29,431 --> 00:33:34,425
+Èini se da je uvjerenje luksuz
+manje znaèajnih, g. Nash.
+
+436
+00:33:36,895 --> 00:33:38,851
+Zapamtit æu to.
+
+437
+00:33:41,859 --> 00:33:44,089
+Dakle, Johne, nemate obitelj...
+
+438
+00:33:44,862 --> 00:33:46,614
+niti bliske prijatelje.
+
+439
+00:33:47,196 --> 00:33:50,791
+-Zašto?
+-Vjerojatno jer sam usamljeni vuk.
+
+440
+00:33:52,116 --> 00:33:54,676
+No uglavnom zato jer me ljudi ne vole.
+
+441
+00:33:56,080 --> 00:33:57,638
+Na nekim pothvatima...
+
+442
+00:33:57,791 --> 00:34:01,625
+vaša nepristupaènost
+može se smatrati prednošæu.
+
+443
+00:34:03,962 --> 00:34:06,192
+-Ovo je sigurnosna zona.
+-Poznaju me.
+
+444
+00:34:09,717 --> 00:34:11,070
+Jeste li ikad ovdje bili?
+
+445
+00:34:11,220 --> 00:34:14,974
+Na prvom sastanku rekli su nam
+da su ova skladišta napuštena.
+
+446
+00:34:15,224 --> 00:34:17,294
+To nije sasvim toèno.
+
+447
+00:34:54,550 --> 00:34:56,461
+Onim što æete sad saznati...
+
+448
+00:34:56,634 --> 00:34:59,865
+postajete veoma povjerljiva osoba.
+
+449
+00:35:00,098 --> 00:35:03,613
+Otkrivanje tajnih informacija
+može završiti zatvorom.
+
+450
+00:35:04,226 --> 00:35:05,341
+Razumijete?
+
+451
+00:35:06,102 --> 00:35:07,501
+Kakva operacija?
+
+452
+00:35:09,314 --> 00:35:11,350
+Pripremila - STRATEŠKA SLUŽBA
+
+453
+00:35:13,193 --> 00:35:14,706
+Izvrstan izum.
+
+454
+00:35:18,948 --> 00:35:22,497
+Ovo je tvornica u Berlinu,
+zauzeli smo je na kraju rata.
+
+455
+00:35:22,744 --> 00:35:26,498
+Nacistièki inženjeri pokušavali su stvoriti
+prijenosnu atomsku bombu.
+
+456
+00:35:26,788 --> 00:35:31,020
+Sovjeti su zauzeli ovu zgradu prije nas,
+i izgubili smo prokletu stvar.
+
+457
+00:35:33,630 --> 00:35:35,860
+Preusmjeravanje naredbi u Pentagonu.
+
+458
+00:35:36,882 --> 00:35:39,157
+O tome je rijeè, zar ne?
+
+459
+00:35:39,343 --> 00:35:41,698
+Sovjeti nisu ujedinjeni koliko ljudi to vjeruju.
+
+460
+00:35:41,887 --> 00:35:44,959
+Frakcija Crvene Armije
+pod imenom Novaya Svoboda...
+
+461
+00:35:45,180 --> 00:35:47,648
+"Nova Sloboda", ima bombu...
+
+462
+00:35:47,850 --> 00:35:50,364
+i namjerava je detonirati na amerièkom tlu.
+
+463
+00:35:51,480 --> 00:35:54,677
+Njihova je namjera stvoriti
+maksimalne civilne žrtve.
+
+464
+00:35:59,193 --> 00:36:02,981
+Èovjek može uèiniti onoliko nedjela
+koliko mu dopusti mašta.
+
+465
+00:36:05,075 --> 00:36:08,226
+Nova Sloboda ima špijune u SAD-u.
+
+466
+00:36:09,747 --> 00:36:13,706
+McCarthy je idiot, no nažalost nije pogriješio.
+
+467
+00:36:15,041 --> 00:36:17,077
+Nova Sloboda komunicira sa špijunima...
+
+468
+00:36:17,252 --> 00:36:20,289
+pomoæu šifri otisnutih u novine i èasopise...
+
+469
+00:36:20,505 --> 00:36:22,143
+i tu nam vi možete pomoæi.
+
+470
+00:36:22,299 --> 00:36:25,609
+Johne, ono što vas èini osobitim...
+
+471
+00:36:26,637 --> 00:36:29,231
+je èinjenica da ste...
+
+472
+00:36:29,932 --> 00:36:33,129
+najbolji dešifrant kojeg sam ikad vidio.
+
+473
+00:36:39,399 --> 00:36:42,118
+Što toèno želite da uradim?
+
+474
+00:36:47,656 --> 00:36:50,568
+Zapamtite ovaj popis èasopisa.
+
+475
+00:36:52,035 --> 00:36:55,869
+Pregledajte svaki novi broj,
+pronaðite skrivene šifre, dešifrirajte ih.
+
+476
+00:36:59,208 --> 00:37:01,403
+Naslonite bradu na naslon.
+
+477
+00:37:01,585 --> 00:37:04,861
+-Gledajte u svjetlo.
+-Puls 88, uredan.
+
+478
+00:37:08,343 --> 00:37:10,732
+Ovo æe možda biti malo neugodno.
+
+479
+00:37:13,011 --> 00:37:15,445
+Ima zamah, zar ne?
+
+480
+00:37:15,973 --> 00:37:18,567
+Upravo je usadio radij-diodu.
+
+481
+00:37:18,893 --> 00:37:20,531
+Ne brinite, sigurno je.
+
+482
+00:37:21,228 --> 00:37:23,184
+Izotop predvidljivo propada.
+
+483
+00:37:23,564 --> 00:37:26,601
+Kao posljedica brojevi se vremenom mijenjaju.
+
+484
+00:37:27,150 --> 00:37:29,744
+To su pristupne šifre.
+
+485
+00:37:31,821 --> 00:37:34,460
+Što sam sad, špijun?
+
+486
+00:37:44,084 --> 00:37:47,201
+MAJKO! ÈUVAJ SE
+"PRLJAVIH" DANA!
+
+487
+00:37:47,878 --> 00:37:48,833
+Doðite.
+
+488
+00:37:53,173 --> 00:37:55,733
+Sigurno ste veoma važni.
+
+489
+00:38:03,768 --> 00:38:05,838
+U redu je, Mike.
+
+490
+00:38:15,487 --> 00:38:17,125
+Na èemu radite?
+
+491
+00:38:19,241 --> 00:38:20,515
+Tajna.
+
+492
+00:38:22,202 --> 00:38:24,079
+Svi su èekali pola sata.
+
+493
+00:38:24,245 --> 00:38:26,884
+-Za?
+-Predavanje.
+
+494
+00:38:27,916 --> 00:38:29,907
+Danas ste propustili predavanje.
+
+495
+00:38:30,502 --> 00:38:33,255
+Mislim da...
+
+496
+00:38:34,671 --> 00:38:36,309
+nikom nisam nedostajao.
+
+497
+00:38:37,298 --> 00:38:39,732
+Problem koji ste ostavili na ploèi...
+
+498
+00:38:41,469 --> 00:38:42,788
+riješila sam ga.
+
+499
+00:38:43,596 --> 00:38:46,315
+-Niste.
+-Niste ni pogledali.
+
+500
+00:38:47,558 --> 00:38:50,868
+Nikad nisam rekao da su vektorska polja
+racionalne funkcije.
+
+501
+00:38:55,398 --> 00:38:57,150
+Vaše je rješenje elegantno.
+
+502
+00:38:59,652 --> 00:39:01,882
+No, u ovom sluèaju...
+
+503
+00:39:03,449 --> 00:39:05,087
+potpuno netoèno.
+
+504
+00:39:26,803 --> 00:39:29,715
+-Još ste tu.
+-Još sam tu.
+
+505
+00:39:31,223 --> 00:39:32,133
+Zašto?
+
+506
+00:39:33,226 --> 00:39:35,865
+Pitala sam se, profesore Nash...
+
+507
+00:39:37,772 --> 00:39:39,683
+mogu li vas pozvati na veèeru.
+
+508
+00:39:43,986 --> 00:39:45,783
+Jedete, zar ne?
+
+509
+00:39:46,113 --> 00:39:48,343
+Povremeno, da.
+
+510
+00:39:48,533 --> 00:39:51,127
+Stol za jednu osobu.
+Prometej sam razapet na stijeni...
+
+511
+00:39:51,327 --> 00:39:54,364
+s pticom koja kruži, znate kako je to.
+
+512
+00:39:56,873 --> 00:39:59,910
+Ne, vjerujem da ne znate...
+
+513
+00:40:02,961 --> 00:40:07,034
+Ostavite adresu u mojem uredu.
+Doæi æu po vas u petak...
+
+514
+00:40:07,799 --> 00:40:10,233
+u 20.00 i idemo na veèeru.
+
+515
+00:40:18,559 --> 00:40:22,711
+Još nešto. Imate li ime
+ili æu vas i dalje zvati "gospoðice"?
+
+516
+00:40:25,566 --> 00:40:26,681
+Guvernere...
+
+517
+00:40:26,859 --> 00:40:29,657
+-smijem li vam predstaviti...
+-Gðica Alicia Larde.
+
+518
+00:40:31,320 --> 00:40:33,754
+Profesore, molim. Vi i guverner.
+
+519
+00:40:36,411 --> 00:40:38,447
+Samo trenutak. Oprostite.
+
+520
+00:40:39,621 --> 00:40:42,852
+Želim primjerak za sebe.
+Prvi veliki izlazak, znate.
+
+521
+00:40:43,625 --> 00:40:46,219
+Dakle, momci, trebate dobro izgledati...
+
+522
+00:40:47,627 --> 00:40:51,779
+a to nije baš stanje u kojem se prirodno snalazite.
+
+523
+00:40:55,761 --> 00:40:58,594
+Tako. Bolje.
+
+524
+00:40:59,556 --> 00:41:02,514
+-Iznenaðujem ga.
+-Nastavi ga iznenaðivati.
+
+525
+00:41:02,726 --> 00:41:04,045
+Profesore.
+
+526
+00:41:21,283 --> 00:41:23,080
+Bog je sigurno slikar.
+
+527
+00:41:24,204 --> 00:41:26,479
+Zašto bismo inaèe imali toliko boja?
+
+528
+00:41:29,583 --> 00:41:31,062
+Ti si slikarica?
+
+529
+00:41:32,587 --> 00:41:34,862
+Nisam baš to rekla...
+
+530
+00:41:35,589 --> 00:41:38,899
+no, da, jesam.
+
+531
+00:41:48,559 --> 00:41:49,628
+Evo.
+
+532
+00:41:51,146 --> 00:41:52,101
+Ja.
+
+533
+00:41:52,646 --> 00:41:53,874
+Tvoja djevojka.
+
+534
+00:41:56,234 --> 00:41:59,112
+Vježbajmo meðusobno druženje
+i društveno ponašanje.
+
+535
+00:41:59,903 --> 00:42:01,097
+To je plan.
+
+536
+00:42:04,408 --> 00:42:06,444
+Može šampanjac.
+
+537
+00:42:08,578 --> 00:42:09,931
+Bit æu van.
+
+538
+00:42:10,706 --> 00:42:12,742
+Uzet æu šampanjac.
+
+539
+00:42:21,381 --> 00:42:22,700
+Hvala.
+
+540
+00:42:24,302 --> 00:42:25,735
+Hvala za to.
+
+541
+00:42:25,885 --> 00:42:27,284
+Ne, zadrži.
+
+542
+00:42:28,012 --> 00:42:30,890
+Vjerujem da je odluènost znak sreæe.
+
+543
+00:42:31,850 --> 00:42:34,205
+-Zbilja?
+-Ne.
+
+544
+00:42:35,436 --> 00:42:37,347
+Ne vjerujem u sreæu.
+
+545
+00:42:41,733 --> 00:42:44,327
+No vjerujem da stvari imaju vrijednost.
+
+546
+00:42:55,039 --> 00:42:57,109
+Jednom sam ih pokušala izbrojiti.
+
+547
+00:42:58,583 --> 00:43:02,576
+Stigla sam do 4 348.
+
+548
+00:43:04,839 --> 00:43:06,591
+Veoma si èudna.
+
+549
+00:43:07,258 --> 00:43:10,011
+Kladim se da te djevojke obožavaju.
+
+550
+00:43:15,974 --> 00:43:17,771
+Èudnovati par.
+
+551
+00:43:23,648 --> 00:43:25,001
+Odaberi oblik.
+
+552
+00:43:27,152 --> 00:43:28,267
+Što?
+
+553
+00:43:29,443 --> 00:43:32,241
+Odaberi oblik, životinju, bilo što.
+
+554
+00:43:34,450 --> 00:43:35,439
+U redu.
+
+555
+00:43:36,952 --> 00:43:38,180
+Kišobran.
+
+556
+00:44:16,363 --> 00:44:17,796
+Opet.
+
+557
+00:44:19,116 --> 00:44:20,071
+Opet.
+
+558
+00:44:20,200 --> 00:44:23,636
+-U redu. Što želiš?
+-Hobotnicu.
+
+559
+00:44:43,181 --> 00:44:45,172
+UMJETNI ŽIVOT, TRI DANA STAROSTI
+
+560
+00:44:48,226 --> 00:44:50,342
+prehlade - dobro - bolje - najbolje
+
+561
+00:44:51,354 --> 00:44:54,426
+Kako smo otišli u mirovinu za 15 godina
+s 300 $ mjeseèno
+
+562
+00:44:55,151 --> 00:44:57,142
+UMJETNI ŽIVOT, TRI DANA STAROSTI
+
+563
+00:44:58,904 --> 00:45:00,895
+UMJETNI ŽIVOT
+
+564
+00:45:58,709 --> 00:46:00,506
+POVJERLJIVO
+
+565
+00:47:14,944 --> 00:47:17,014
+Ne govoriš puno, zar ne?
+
+566
+00:47:17,241 --> 00:47:19,675
+Ne mogu razgovarati o poslu, Alicia.
+
+567
+00:47:20,868 --> 00:47:22,426
+Ne mislim na posao.
+
+568
+00:47:27,207 --> 00:47:29,198
+Mislim da pokušaj sreðivanja mojih odnosa...
+
+569
+00:47:29,376 --> 00:47:32,812
+kako bih bio društveniji iziskuje izniman napor.
+
+570
+00:47:34,506 --> 00:47:37,259
+Naginjem izbacivanju niza informacija...
+
+571
+00:47:39,511 --> 00:47:40,944
+na izravan naèin.
+
+572
+00:47:42,846 --> 00:47:45,883
+-Ishod èesto nije ugodan.
+-Iskušaj me.
+
+573
+00:47:48,393 --> 00:47:49,462
+U redu.
+
+574
+00:47:54,066 --> 00:47:55,624
+Privlaèna si.
+
+575
+00:47:57,193 --> 00:48:00,947
+Tvoj agresivni pristup ukazuje da i ti osjeæaš isto.
+
+576
+00:48:01,655 --> 00:48:06,285
+No ipak, ritual nalaže da nastavimo
+s nizom platonskih djelatnosti...
+
+577
+00:48:06,703 --> 00:48:08,500
+prije seksa.
+
+578
+00:48:09,289 --> 00:48:11,678
+Nastavljam s tim djelatnostima...
+
+579
+00:48:12,206 --> 00:48:14,162
+no zapravo...
+
+580
+00:48:14,334 --> 00:48:18,407
+jedino što stvarno želim jest
+voditi ljubav s tobom što prije.
+
+581
+00:48:20,673 --> 00:48:22,709
+Hoæeš li me sad pljusnuti?
+
+582
+00:48:47,490 --> 00:48:49,162
+Kakav je bio ishod?
+
+583
+00:48:59,836 --> 00:49:01,269
+UMJETNlÈKA BOGATSTVA ANDA
+
+584
+00:49:02,462 --> 00:49:04,930
+SAD - antièki
+
+585
+00:49:06,589 --> 00:49:08,068
+Što radiš?
+
+586
+00:49:12,472 --> 00:49:16,431
+Pokušavam izolirati uzastopne uzorke
+u èasopisima kroz vrijeme.
+
+587
+00:49:16,768 --> 00:49:17,803
+A ti?
+
+588
+00:49:18,060 --> 00:49:19,812
+Smiješno prièaš, g. Nash.
+
+589
+00:49:24,816 --> 00:49:26,090
+Poznajem li te?
+
+590
+00:49:26,652 --> 00:49:29,849
+Moj ujak kaže da si veoma pametan,
+ali ne baš pristojan...
+
+591
+00:49:30,072 --> 00:49:32,745
+stoga bih trebala ignorirati
+ako si bezobrazan prema meni.
+
+592
+00:49:32,949 --> 00:49:34,826
+A tko je tvoj ujak?
+
+593
+00:49:34,992 --> 00:49:36,630
+Razmetni cimer...
+
+594
+00:49:37,661 --> 00:49:38,776
+se vraæa.
+
+595
+00:49:43,292 --> 00:49:45,248
+Doði, Charles.
+
+596
+00:49:51,131 --> 00:49:54,407
+Sestra mi je poginula u prometnoj nesreæi.
+
+597
+00:49:56,262 --> 00:49:57,854
+Ne predaleko, Marcee!
+
+598
+00:49:58,765 --> 00:50:03,077
+Njezin je muž bio prepijan
+da bi znao da ne može voziti.
+
+599
+00:50:03,352 --> 00:50:05,308
+Uzeo sam je k sebi.
+
+600
+00:50:07,271 --> 00:50:10,468
+-Tako je mala.
+-Mlada je. Takvi su.
+
+601
+00:50:13,152 --> 00:50:14,631
+Ja sam u Harvardu...
+
+602
+00:50:15,238 --> 00:50:17,468
+radim u radionici velikog pisca.
+
+603
+00:50:17,867 --> 00:50:19,664
+D.H. prokleti Lawrence.
+
+604
+00:50:19,993 --> 00:50:22,951
+Stvarno mislim da ti treba nova knjiga.
+
+605
+00:50:24,954 --> 00:50:27,343
+Dosta sam èitao o tebi.
+
+606
+00:50:28,750 --> 00:50:30,149
+Kako si, Johne?
+
+607
+00:50:31,211 --> 00:50:34,089
+Ispoèetka, sve što sam radio bilo je besmisleno...
+
+608
+00:50:34,298 --> 00:50:36,528
+no dobio sam novi zadatak i...
+
+609
+00:50:37,468 --> 00:50:39,379
+I ne mogu ti reæi potankosti.
+
+610
+00:50:39,551 --> 00:50:42,065
+Stroga tajna? Crna kutija? Tajne operacije?
+
+611
+00:50:42,346 --> 00:50:43,859
+Nešto tako.
+
+612
+00:50:44,349 --> 00:50:46,817
+-I...
+-Da?
+
+613
+00:50:48,354 --> 00:50:50,185
+Upoznao sam jednu djevojku.
+
+614
+00:50:50,480 --> 00:50:52,198
+-Ne! Ljudsko biæe?
+-Homo sapiensa.
+
+615
+00:50:52,356 --> 00:50:55,029
+-Dvonošca?
+-Da. I suprotno svim vjerojatnostima...
+
+616
+00:50:55,233 --> 00:50:58,464
+privlaèim je na razlièitim razinama.
+
+617
+00:50:58,736 --> 00:51:00,613
+Bože, izvrsno.
+
+618
+00:51:01,405 --> 00:51:04,124
+Ukus se ne raèuna, zar ne?
+
+619
+00:51:07,495 --> 00:51:10,248
+-Trebam li je oženiti?
+-Bože. Da.
+
+620
+00:51:12,084 --> 00:51:15,713
+Mislim, sve ide dobro.
+Posao je dobar. Imam dovoljno novaca.
+
+621
+00:51:15,961 --> 00:51:18,191
+Èini se da sve sjeda na svoje mjesto.
+
+622
+00:51:19,172 --> 00:51:21,208
+No kad si siguran?
+
+623
+00:51:23,134 --> 00:51:25,011
+Ništa nije sigurno, Johne.
+
+624
+00:51:26,429 --> 00:51:28,659
+Samo je to sigurno.
+
+625
+00:51:35,354 --> 00:51:36,787
+Dobra veèer.
+
+626
+00:51:43,821 --> 00:51:47,575
+Alicia, molim te ne ljuti se.
+Izgubio sam pojam o vremenu na poslu...
+
+627
+00:51:49,158 --> 00:51:50,352
+opet.
+
+628
+00:51:52,371 --> 00:51:53,486
+Žao mi je.
+
+629
+00:51:54,247 --> 00:51:56,158
+Nisam imao vremena upakirati.
+
+630
+00:51:57,417 --> 00:51:59,089
+Sretan roðendan.
+
+631
+00:52:02,878 --> 00:52:07,076
+Refraktivna priroda stakla
+stvara punu valnu raspršenost...
+
+632
+00:52:07,343 --> 00:52:09,140
+i ako pogledaš unutra, vidjet æeš...
+
+633
+00:52:09,303 --> 00:52:11,737
+Sve postojeæe boje.
+
+634
+00:52:13,306 --> 00:52:17,140
+Sjeti se, jednom si rekla,
+Bog je sigurno slikar zbog svih tih boja?
+
+635
+00:52:17,392 --> 00:52:19,667
+To si rekla u guvernerovoj kuæi.
+
+636
+00:52:21,271 --> 00:52:23,341
+Mislila sam da nisi slušao.
+
+637
+00:52:25,693 --> 00:52:27,251
+Slušao sam.
+
+638
+00:52:34,159 --> 00:52:36,036
+Prekrasno je.
+
+639
+00:52:52,342 --> 00:52:55,414
+Alicia, jamèi li naša veza dugotrajnost?
+
+640
+00:52:55,637 --> 00:53:00,074
+Buduæi da mi treba neka vrsta dokaza,
+neka vrsta provjerenih, empirijskih podataka.
+
+641
+00:53:06,022 --> 00:53:08,582
+Oprosti, samo trenutak...
+
+642
+00:53:09,649 --> 00:53:12,527
+da redefiniram moje djevojaèke
+zamisli o romansi.
+
+643
+00:53:16,407 --> 00:53:17,635
+Dokaz?
+
+644
+00:53:18,324 --> 00:53:19,837
+Lako provjeriv dokaz.
+
+645
+00:53:21,577 --> 00:53:22,726
+U redu.
+
+646
+00:53:26,291 --> 00:53:28,168
+Koliko je velik svemir?
+
+647
+00:53:28,544 --> 00:53:29,659
+Beskonaèno.
+
+648
+00:53:29,960 --> 00:53:31,075
+Kako znaš?
+
+649
+00:53:31,211 --> 00:53:34,442
+-Jer svi podaci na to upuæuju.
+-Ali, je li dokazano?
+
+650
+00:53:34,673 --> 00:53:37,267
+Nisi to vidio. Kako znaš sigurno?
+
+651
+00:53:38,427 --> 00:53:40,383
+Ne znam, vjerujem u to.
+
+652
+00:53:43,390 --> 00:53:45,460
+Isto je i s ljubavlju, mislim.
+
+653
+00:53:53,190 --> 00:53:54,259
+Sad...
+
+654
+00:53:55,025 --> 00:53:57,095
+ono što ne znaš...
+
+655
+00:53:59,196 --> 00:54:01,073
+je želim li se udati za tebe.
+
+656
+00:54:22,717 --> 00:54:24,469
+Nasmiješite se!
+
+657
+00:54:29,640 --> 00:54:31,073
+Izvrsno!
+
+658
+00:54:33,311 --> 00:54:34,903
+Èestitam.
+
+659
+00:54:35,520 --> 00:54:37,112
+Prekrasna si.
+
+660
+00:54:38,482 --> 00:54:39,801
+Zdravo, kako si?
+
+661
+00:54:46,741 --> 00:54:48,618
+Bog-bog.
+
+662
+00:54:51,203 --> 00:54:52,318
+Èuvaj se!
+
+663
+00:55:02,839 --> 00:55:04,670
+CAMBRIDGE, MASSACHUSSETTS
+LISTOPAD 1954
+
+664
+00:55:20,146 --> 00:55:21,579
+Vlada SAD-a - 73864D
+
+665
+00:55:21,981 --> 00:55:23,733
+Upadaj. Požuri.
+
+666
+00:55:27,444 --> 00:55:29,196
+Slijede nas.
+
+667
+00:55:33,616 --> 00:55:36,847
+-Tko nas slijedi?
+-Otkrili su naš položaj.
+
+668
+00:55:37,704 --> 00:55:38,978
+Spusti se!
+
+669
+00:55:39,913 --> 00:55:41,266
+Ostani tu.
+
+670
+00:56:09,609 --> 00:56:11,884
+-Evo, uzmi.
+-Neæu nikoga upucati.
+
+671
+00:56:12,069 --> 00:56:14,629
+-Uzmi prokleti pištolj!
+-Ne!
+
+672
+00:56:33,381 --> 00:56:35,417
+Stoj tu. Ne mièi se.
+
+673
+00:57:22,300 --> 00:57:23,369
+Johne?
+
+674
+00:57:30,642 --> 00:57:31,677
+Bog.
+
+675
+00:57:34,812 --> 00:57:36,404
+Gdje si bio?
+
+676
+00:57:39,358 --> 00:57:41,588
+-Sol...
+-Da, razgovarala sam sa Solom.
+
+677
+00:57:42,194 --> 00:57:44,469
+Rekao je da si davno otišao iz ureda.
+
+678
+00:57:47,782 --> 00:57:49,454
+Zašto me nisi nazvao?
+
+679
+00:57:54,455 --> 00:57:55,854
+Jesi li dobro?
+
+680
+00:58:05,092 --> 00:58:06,161
+Dušo?
+
+681
+00:58:08,551 --> 00:58:09,745
+Johne...
+
+682
+00:58:10,512 --> 00:58:13,265
+molim te, razgovarajmo. Reci mi što se dogodilo.
+
+683
+00:58:14,557 --> 00:58:16,275
+Johne, otvori vrata.
+
+684
+00:58:18,103 --> 00:58:20,253
+Daj, otvori vrata! Pusti me unutra!
+
+685
+00:58:21,148 --> 00:58:22,581
+Razgovaraj sa mnom!
+
+686
+00:58:24,400 --> 00:58:25,913
+Johne!
+
+687
+00:58:26,693 --> 00:58:28,251
+Otvori vrata!
+
+688
+00:58:45,628 --> 00:58:47,459
+Pazite na auta, klinci.
+
+689
+00:59:29,670 --> 00:59:30,705
+Johne.
+
+690
+00:59:32,545 --> 00:59:33,580
+Williame.
+
+691
+00:59:34,256 --> 00:59:36,451
+Nismo se tako dogovorili.
+
+692
+00:59:36,676 --> 00:59:38,826
+Svaki put kad se upali auto ili zalupe vrata...
+
+693
+00:59:39,013 --> 00:59:41,925
+Jasnije mi je nego što možeš zamisliti.
+
+694
+00:59:52,399 --> 00:59:54,230
+Moraš se smiriti, Johne.
+
+695
+00:59:55,235 --> 00:59:57,590
+Slušaj me. Završavamo potragu za bombom...
+
+696
+00:59:57,779 --> 00:59:59,895
+velikim dijelom tvojom zaslugom.
+
+697
+01:00:00,072 --> 01:00:03,144
+Zar ne misliš da je tvoj strah
+mala cijena koju treba platiti?
+
+698
+01:00:03,367 --> 01:00:05,881
+Williame, moje su se okolnosti promijenile.
+
+699
+01:00:06,494 --> 01:00:07,893
+Alicia je trudna.
+
+700
+01:00:16,587 --> 01:00:18,862
+Rekao sam ti da je vezivanje opasno.
+
+701
+01:00:19,674 --> 01:00:21,505
+Izabrao si ženidbu.
+
+702
+01:00:22,801 --> 01:00:24,917
+Nisam uèinio ništa da to sprijeèim.
+
+703
+01:00:27,599 --> 01:00:30,318
+Najbolji naèin da osiguram svaèiju sigurnost...
+
+704
+01:00:30,810 --> 01:00:32,607
+jest da nastaviš raditi.
+
+705
+01:00:33,855 --> 01:00:35,288
+Samo æu dati otkaz.
+
+706
+01:00:35,772 --> 01:00:36,727
+Neæeš.
+
+707
+01:00:37,441 --> 01:00:38,510
+Zašto ne?
+
+708
+01:00:38,732 --> 01:00:41,724
+Zato što ja sprjeèavam
+da Rusi saznaju da radiš za nas.
+
+709
+01:00:42,570 --> 01:00:44,526
+Ako prestaneš raditi za mene...
+
+710
+01:00:45,240 --> 01:00:46,958
+prestat æu raditi za tebe.
+
+711
+01:01:00,378 --> 01:01:02,448
+Parcheru!
+
+712
+01:01:07,885 --> 01:01:09,398
+Johne, jesi li dobro?
+
+713
+01:01:30,740 --> 01:01:31,729
+Johne?
+
+714
+01:01:31,950 --> 01:01:34,339
+Ugasi to! Ugasi svjetlo!
+
+715
+01:01:37,538 --> 01:01:39,017
+Zašto si to uradila?
+
+716
+01:01:39,623 --> 01:01:42,456
+-Zašto si upalila svjetlo?
+-Što ti je?
+
+717
+01:01:42,709 --> 01:01:44,506
+Moraš iæi k sestri.
+
+718
+01:01:45,422 --> 01:01:48,573
+Ostavio sam auto iza.
+Idi ulicom Commonwealth, ne sporednima.
+
+719
+01:01:48,798 --> 01:01:50,026
+Budi na prometnim mjestima.
+
+720
+01:01:50,175 --> 01:01:51,733
+Johne, ne idem nikamo!
+
+721
+01:01:51,884 --> 01:01:54,273
+Kad doðeš kod sestre, prièekaj moj poziv.
+
+722
+01:01:54,469 --> 01:01:56,141
+-Spremi stvari.
+-Ne idem!
+
+723
+01:01:56,305 --> 01:01:57,897
+Dosta! Dosta je!
+
+724
+01:01:58,890 --> 01:02:00,243
+Molim te, Alicia.
+
+725
+01:02:02,895 --> 01:02:04,726
+Objasnit æu kad budem mogao.
+
+726
+01:02:43,265 --> 01:02:45,733
+HARVARD
+DRŽAVNA KONFERENCIJA MATEMATlÈARA
+
+727
+01:02:51,774 --> 01:02:54,368
+Ujaèe Johne!
+
+728
+01:02:58,863 --> 01:03:00,376
+Hej, djevojèice!
+
+729
+01:03:01,282 --> 01:03:03,193
+Netko traži zagrljaj!
+
+730
+01:03:04,077 --> 01:03:06,352
+Vidio sam te na popisu, i pomislio sam:
+
+731
+01:03:06,539 --> 01:03:10,657
+"Kako mogu propustiti predavanje
+jedinstvenog Johna Nasha?"
+
+732
+01:03:13,794 --> 01:03:15,113
+Što nije u redu?
+
+733
+01:03:18,006 --> 01:03:20,884
+Upao sam u nešto. Mislim da mi treba pomoæ.
+
+734
+01:03:21,468 --> 01:03:23,379
+Reci mi, što?
+
+735
+01:03:23,638 --> 01:03:25,276
+Profesore Nash!
+
+736
+01:03:25,722 --> 01:03:26,791
+Dobrodošli!
+
+737
+01:03:29,266 --> 01:03:30,221
+Poslije?
+
+738
+01:03:38,443 --> 01:03:43,233
+Vidimo da nule funkcije Riemann Zeta...
+
+739
+01:03:44,030 --> 01:03:46,180
+odgovaraju osobitostima...
+
+740
+01:03:46,575 --> 01:03:48,691
+u prostor-vremenu...
+
+741
+01:03:49,534 --> 01:03:51,809
+Osobitosti u prostor-vremenu potom...
+
+742
+01:03:55,624 --> 01:03:57,740
+I konvencionalna teorija brojeva...
+
+743
+01:04:00,129 --> 01:04:04,202
+Propada u odnosu na relativistièko istraživanje.
+
+744
+01:04:20,689 --> 01:04:23,567
+Ponekad brojevi izdaju naša oèekivanja.
+
+745
+01:04:25,569 --> 01:04:30,040
+Varijable ne mogu dati
+nijednu racionalnu vrijednost.
+
+746
+01:04:50,883 --> 01:04:52,396
+Profesore Nash!
+
+747
+01:05:02,770 --> 01:05:05,159
+-Stani!
+-Profesore Nash!
+
+748
+01:05:07,065 --> 01:05:12,344
+Profesore Nash, izbjegnimo scenu, hoæemo li?
+
+749
+01:05:13,447 --> 01:05:14,516
+Što želite?
+
+750
+01:05:15,490 --> 01:05:16,923
+Zovem se Rosen.
+
+751
+01:05:17,408 --> 01:05:19,319
+Dr. Rosen. Psihijatar.
+
+752
+01:05:19,994 --> 01:05:22,064
+Oprostite ako me niste uvjerili.
+
+753
+01:05:22,831 --> 01:05:24,947
+Volio bih da poðete sa mnom, Johne.
+
+754
+01:05:26,542 --> 01:05:27,975
+Samo na razgovor.
+
+755
+01:05:29,878 --> 01:05:31,709
+Èini se da nemam izbora.
+
+756
+01:05:42,973 --> 01:05:44,611
+Pomozite mi!
+
+757
+01:05:49,354 --> 01:05:50,343
+Pomozite mi!
+
+758
+01:05:50,482 --> 01:05:52,996
+Pomozite mi! Maknite se!
+
+759
+01:05:53,650 --> 01:05:55,129
+Znam tko ste vi!
+
+760
+01:05:55,568 --> 01:05:56,967
+Ne, ne nemojte!
+
+761
+01:05:57,110 --> 01:05:59,670
+Charles, to su Rusi! Rusi!
+
+762
+01:05:59,947 --> 01:06:01,585
+Zovi nekoga!
+
+763
+01:06:01,741 --> 01:06:03,459
+-Rusi su!
+-Smiri nogu.
+
+764
+01:06:03,618 --> 01:06:05,097
+Makni se od mene.
+
+765
+01:06:05,286 --> 01:06:07,402
+Makni se od mene!
+
+766
+01:06:12,751 --> 01:06:13,866
+Dobro, sad.
+
+767
+01:06:15,169 --> 01:06:16,443
+Bolje je.
+
+768
+01:06:20,259 --> 01:06:21,897
+Sad je sve u redu.
+
+769
+01:06:24,178 --> 01:06:25,850
+Pazi glavu.
+
+770
+01:06:55,332 --> 01:06:56,242
+Johne?
+
+771
+01:07:00,296 --> 01:07:01,615
+Èujete li me?
+
+772
+01:07:15,851 --> 01:07:17,250
+Opustite se sad.
+
+773
+01:07:18,019 --> 01:07:20,533
+Treba malo da Thorazine prestane djelovati.
+
+774
+01:07:23,901 --> 01:07:25,573
+Žao mi je zbog vezivanja.
+
+775
+01:07:26,488 --> 01:07:28,524
+Imate bogovski udarac.
+
+776
+01:07:30,824 --> 01:07:31,939
+Gdje sam?
+
+777
+01:07:34,076 --> 01:07:36,226
+U psihijatrijskoj bolnici MacArthur.
+
+778
+01:07:39,083 --> 01:07:41,039
+Ne vjerujem.
+
+779
+01:07:42,126 --> 01:07:43,559
+Pogriješili ste.
+
+780
+01:07:45,045 --> 01:07:47,036
+Moja djelatnost nije vojna.
+
+781
+01:07:48,172 --> 01:07:49,810
+Koja djelatnost, Johne?
+
+782
+01:07:52,595 --> 01:07:53,948
+Ništa ne znam.
+
+783
+01:07:54,973 --> 01:07:57,328
+Nije dobro tajiti, znate.
+
+784
+01:08:13,322 --> 01:08:14,311
+Charles?
+
+785
+01:08:16,575 --> 01:08:17,644
+Charles?
+
+786
+01:08:19,994 --> 01:08:22,303
+Nisam te mislio uplesti u ovo.
+
+787
+01:08:23,622 --> 01:08:25,021
+Žao mi je.
+
+788
+01:08:30,838 --> 01:08:32,157
+Charles?
+
+789
+01:08:40,137 --> 01:08:42,207
+Razmetni se cimer pojavio.
+
+790
+01:08:44,893 --> 01:08:46,770
+"Vidio si moje ime na popisu"?
+
+791
+01:08:47,854 --> 01:08:49,890
+Lažljivèe pokvareni!
+
+792
+01:08:50,272 --> 01:08:52,502
+S kim prièate? Recite mi koga vidite.
+
+793
+01:08:52,941 --> 01:08:55,296
+Kako se kaže "Charles Herman" na ruskom?
+
+794
+01:08:55,485 --> 01:08:57,555
+Kako se to kaže na ruskom?
+
+795
+01:08:57,946 --> 01:09:00,301
+Nema nikoga, Johne. Nikoga.
+
+796
+01:09:00,867 --> 01:09:03,904
+Tu je. Tu.
+
+797
+01:09:04,911 --> 01:09:06,663
+Dosta! Ništa ne znam!
+
+798
+01:09:06,913 --> 01:09:09,473
+Dosta! Ništa ne znam!
+
+799
+01:09:11,540 --> 01:09:13,178
+Zovem se John Nash.
+
+800
+01:09:13,379 --> 01:09:15,290
+Zatoèen sam protiv svoje volje.
+
+801
+01:09:15,630 --> 01:09:17,905
+Neka netko nazove Ministarstvo obrane.
+
+802
+01:09:18,173 --> 01:09:20,050
+Zovem se John Nash.
+
+803
+01:09:20,342 --> 01:09:22,094
+Zatoèen sam protiv svoje volje!
+
+804
+01:09:28,140 --> 01:09:29,459
+Što je s njim?
+
+805
+01:09:32,688 --> 01:09:34,360
+John ima šizofreniju.
+
+806
+01:09:35,898 --> 01:09:38,492
+Ljudi s tim poremeæajem èesto su paranoièni.
+
+807
+01:09:42,403 --> 01:09:43,836
+Ali njegov rad.
+
+808
+01:09:44,364 --> 01:09:46,241
+Bavi se urotom.
+
+809
+01:09:47,411 --> 01:09:49,561
+Da, znam.
+
+810
+01:09:50,537 --> 01:09:53,768
+U Johnovom svijetu,
+ta su ponašanja prihvaæena...
+
+811
+01:09:54,164 --> 01:09:55,279
+podupirana.
+
+812
+01:09:56,041 --> 01:09:58,999
+Kao takva, njegova se bolest mogla i ne lijeèiti...
+
+813
+01:09:59,212 --> 01:10:01,043
+duže nego što je uobièajeno.
+
+814
+01:10:02,172 --> 01:10:03,685
+Što mislite? Koliko dugo?
+
+815
+01:10:03,841 --> 01:10:05,638
+Vjerojatno od poslijediplomskog studija.
+
+816
+01:10:05,801 --> 01:10:08,713
+Èini se da su tada zapoèele njegove halucinacije.
+
+817
+01:10:08,929 --> 01:10:11,238
+O èemu prièate? Kakve halucinacije?
+
+818
+01:10:11,432 --> 01:10:13,548
+Barem jedna, koju sam zapazio.
+
+819
+01:10:14,349 --> 01:10:17,227
+Izmišljeni cimer Charles Herman.
+
+820
+01:10:18,646 --> 01:10:20,602
+Charles postoji.
+
+821
+01:10:20,775 --> 01:10:22,891
+Bili su najbolji prijatelji od Princetona.
+
+822
+01:10:23,068 --> 01:10:26,026
+Jeste li ga ikad upoznali?
+Je li ikad došao na veèeru?
+
+823
+01:10:26,862 --> 01:10:29,501
+Uvijek je u gradu kratko, drži predavanja.
+
+824
+01:10:29,739 --> 01:10:32,207
+-Je li bio na vašem vjenèanju?
+-Imao je predavanja.
+
+825
+01:10:32,408 --> 01:10:35,081
+Jeste li ga vidjeli na slici,
+ili razgovarali telefonom?
+
+826
+01:10:35,288 --> 01:10:36,607
+Ovo je smiješno.
+
+827
+01:10:37,081 --> 01:10:38,594
+Nazvao sam Princeton.
+
+828
+01:10:39,542 --> 01:10:42,420
+Prema njihovim spisima, John je živio sam.
+
+829
+01:10:46,378 --> 01:10:49,097
+Što je vjerojatnije? Da je vaš muž...
+
+830
+01:10:49,301 --> 01:10:51,610
+matematièar, bez vojne obuke...
+
+831
+01:10:51,844 --> 01:10:55,473
+-špijun koji bježi pred Rusima...
+-Ispada lud.
+
+832
+01:10:55,723 --> 01:10:58,521
+Ili da je izgubio tlo pod nogama?
+
+833
+01:11:01,644 --> 01:11:04,795
+Jedini naèin da mu pomognem
+jest da mu pokažem razliku...
+
+834
+01:11:05,148 --> 01:11:08,265
+izmeðu stvarnosti i onoga što mu je u glavi.
+
+835
+01:11:12,530 --> 01:11:13,758
+Doðite.
+
+836
+01:11:16,199 --> 01:11:17,871
+Na èemu je radio?
+
+837
+01:11:19,744 --> 01:11:21,302
+Njegov je posao tajna.
+
+838
+01:11:21,497 --> 01:11:23,453
+Spomenuo je direktora...
+
+839
+01:11:23,957 --> 01:11:25,834
+koji se zove William Parcher.
+
+840
+01:11:26,375 --> 01:11:28,843
+Možda bi nam g. Parcher
+mogao ponešto objasniti.
+
+841
+01:11:29,045 --> 01:11:31,434
+No do njega ne mogu doæi bez dopuštenja.
+
+842
+01:11:33,257 --> 01:11:36,647
+Želite da vam pomognem doæi do pojedinosti
+o radu mojega muža?
+
+843
+01:11:38,012 --> 01:11:40,082
+John misli da sam ruski špijun.
+
+844
+01:11:40,556 --> 01:11:41,989
+Mislite li i vi?
+
+845
+01:11:46,852 --> 01:11:49,127
+-Što je lijeènik rekao?
+-Je li bolestan?
+
+846
+01:11:49,314 --> 01:11:50,349
+Ne znam.
+
+847
+01:11:50,480 --> 01:11:52,596
+Želim vidjeti na èemu je John radio.
+
+848
+01:11:52,774 --> 01:11:55,493
+-Ne možeš u njegov ured.
+-Povjerljivo je, Alicia.
+
+849
+01:11:55,696 --> 01:11:56,606
+Stani.
+
+850
+01:12:11,420 --> 01:12:12,489
+O, Bože.
+
+851
+01:12:17,048 --> 01:12:18,606
+O, Bože.
+
+852
+01:12:26,640 --> 01:12:28,437
+Zašto niste ništa rekli?
+
+853
+01:12:29,227 --> 01:12:31,536
+Alicia, John je uvijek bio...
+
+854
+01:12:31,896 --> 01:12:33,807
+pomalo èudan.
+
+855
+01:12:34,230 --> 01:12:36,539
+Rekao je da se bavi dešifriranjem.
+
+856
+01:12:36,732 --> 01:12:39,610
+-Da je to povjerljivo.
+-Stroga tajna, dio vojne akcije.
+
+857
+01:12:39,818 --> 01:12:41,046
+Je li to radio?
+
+858
+01:12:42,738 --> 01:12:43,966
+Moguæe je.
+
+859
+01:12:44,115 --> 01:12:47,107
+Naredbe dolaze cijelo vrijeme,
+od kojih neke nisu odobrene.
+
+860
+01:12:47,327 --> 01:12:50,797
+-Moguæe je.
+-Moguæe, no vjerojatno nije.
+
+861
+01:12:53,540 --> 01:12:57,897
+U posljednje je vrijeme jako uzrujan,
+i kad si nazvala...
+
+862
+01:12:58,253 --> 01:13:00,813
+Je li to sve što je radio svakodnevno?
+
+863
+01:13:02,007 --> 01:13:03,804
+Rezao èasopise?
+
+864
+01:13:05,759 --> 01:13:07,431
+Ne, ne stalno.
+
+865
+01:14:29,546 --> 01:14:31,696
+-Žao mi je.
+-U redu je.
+
+866
+01:14:35,719 --> 01:14:37,118
+Nedostajala si mi.
+
+867
+01:14:40,555 --> 01:14:42,068
+Moramo porazgovarati.
+
+868
+01:14:42,766 --> 01:14:43,881
+U redu.
+
+869
+01:14:49,271 --> 01:14:51,341
+Alicia, razmišljao sam...
+
+870
+01:14:51,860 --> 01:14:54,693
+i shvatio kako je moje ponašanje...
+
+871
+01:14:55,069 --> 01:14:58,141
+i moja nesposobnost
+da o tome s tobom razgovaram...
+
+872
+01:14:58,822 --> 01:15:00,778
+izgledala bolesno.
+
+873
+01:15:01,324 --> 01:15:03,394
+Nisam ti ostavio drugu moguænost.
+
+874
+01:15:03,994 --> 01:15:05,586
+Shvaæam...
+
+875
+01:15:06,039 --> 01:15:08,599
+-i iskreno mi je žao.
+-U redu je.
+
+876
+01:15:10,042 --> 01:15:11,760
+Sve æe biti u redu.
+
+877
+01:15:13,795 --> 01:15:15,387
+Sve æe biti u redu.
+
+878
+01:15:16,756 --> 01:15:18,587
+Samo moramo tiho prièati.
+
+879
+01:15:20,092 --> 01:15:22,765
+Možda slušaju. Možda imaju mikrofone.
+
+880
+01:15:24,889 --> 01:15:26,527
+Sad æu ti sve isprièati.
+
+881
+01:15:27,601 --> 01:15:31,037
+Nije u skladu s protokolom, no moraš znati...
+
+882
+01:15:31,853 --> 01:15:34,890
+jer mi moraš pomoæi da odem odavde.
+
+883
+01:15:36,983 --> 01:15:39,702
+Radim na tajnom zadatku za vladu.
+
+884
+01:15:40,071 --> 01:15:41,709
+Postoji opasnost...
+
+885
+01:15:42,364 --> 01:15:44,195
+katastrofalnih razmjera.
+
+886
+01:15:45,407 --> 01:15:48,160
+Mislim da Rusi misle
+da sam na visokom položaju.
+
+887
+01:15:48,369 --> 01:15:50,325
+Zato me neæe ubiti.
+
+888
+01:15:50,703 --> 01:15:53,740
+Drže me ovdje kako bi me sprijeèili
+da radim svoj posao.
+
+889
+01:15:53,999 --> 01:15:55,557
+Moraš otiæi u Wheeler.
+
+890
+01:15:55,710 --> 01:15:58,349
+-Moraš pronaæi Williama Parchera.
+-Dosta.
+
+891
+01:15:58,669 --> 01:15:59,784
+Dosta!
+
+892
+01:16:05,384 --> 01:16:06,863
+Bila sam u Wheeleru.
+
+893
+01:16:07,469 --> 01:16:08,618
+Dobro, dobro.
+
+894
+01:16:08,803 --> 01:16:10,714
+Nema Williama Parchera.
+
+895
+01:16:12,017 --> 01:16:14,212
+Naravno da ga ima. Radim za njega.
+
+896
+01:16:14,393 --> 01:16:16,987
+Što? Dešifriraš?
+
+897
+01:16:17,563 --> 01:16:21,602
+Ubacuješ pakete u tajni pretinac
+koje æe vlada pokupiti?
+
+898
+01:16:23,401 --> 01:16:24,754
+Kako si znala?
+
+899
+01:16:25,028 --> 01:16:26,302
+Sol te slijedio.
+
+900
+01:16:28,325 --> 01:16:30,885
+-Mislio je da je bezopasno.
+-Sol me slijedio?
+
+901
+01:16:36,456 --> 01:16:37,525
+POVJERLJIVO
+
+902
+01:16:40,083 --> 01:16:41,835
+Nikad nisu otvorena.
+
+903
+01:16:45,047 --> 01:16:46,765
+To nije stvarno.
+
+904
+01:16:48,175 --> 01:16:50,131
+Nema urote, Johne.
+
+905
+01:16:53,554 --> 01:16:55,590
+Nema Williama Parchera.
+
+906
+01:16:57,099 --> 01:16:58,578
+To je u tvojoj glavi.
+
+907
+01:17:01,353 --> 01:17:03,787
+Razumiješ, dragi?
+
+908
+01:17:05,733 --> 01:17:06,927
+Bolestan si.
+
+909
+01:17:10,778 --> 01:17:12,211
+Bolestan si, Johne.
+
+910
+01:17:12,820 --> 01:17:13,969
+Johne?
+
+911
+01:17:24,958 --> 01:17:26,073
+Šifra crveno.
+
+912
+01:17:26,210 --> 01:17:29,122
+Dr. Rosen, šifra crveno.
+Soba za promatranje, br. 2.
+
+913
+01:17:44,018 --> 01:17:45,007
+Johne?
+
+914
+01:17:51,650 --> 01:17:53,003
+Umetak je nestao.
+
+915
+01:17:54,904 --> 01:17:56,257
+Ne mogu ga naæi.
+
+916
+01:18:00,866 --> 01:18:01,935
+Nestao je.
+
+917
+01:18:33,771 --> 01:18:36,001
+Noæna mora šizofrenije...
+
+918
+01:18:36,985 --> 01:18:39,055
+jest što ne znate što je stvarno.
+
+919
+01:18:40,446 --> 01:18:41,845
+Zamislite...
+
+920
+01:18:42,155 --> 01:18:45,147
+da ste odjednom shvatili da ljudi i mjesta...
+
+921
+01:18:45,407 --> 01:18:50,561
+i najvažniji dogaðaji nisu nestali, umrli...
+
+922
+01:18:51,247 --> 01:18:54,284
+nego gore, nikad nisu postojali.
+
+923
+01:18:58,170 --> 01:19:00,001
+Kakav pakao to mora biti?
+
+924
+01:19:06,304 --> 01:19:07,862
+Dajte mu inzulin.
+
+925
+01:19:08,973 --> 01:19:10,565
+8.42.
+
+926
+01:20:09,152 --> 01:20:10,346
+Koliko èesto?
+
+927
+01:20:12,657 --> 01:20:15,125
+Pet puta tjedno 10 tjedana.
+
+928
+01:20:36,846 --> 01:20:38,518
+PRINCETON - GODINU POSLIJE
+
+929
+01:20:38,680 --> 01:20:41,672
+John je uvijek govorio lijepo o Princetonu.
+
+930
+01:20:42,518 --> 01:20:44,429
+Hansen sada vodi odsjek.
+
+931
+01:20:44,770 --> 01:20:47,330
+On nas podsjeæa i podsjeæa.
+
+932
+01:20:48,649 --> 01:20:49,638
+Da.
+
+933
+01:20:50,024 --> 01:20:53,573
+John se ne želi približiti fakultetu.
+Mislim da se srami.
+
+934
+01:20:58,406 --> 01:20:59,680
+Želiš to?
+
+935
+01:21:01,369 --> 01:21:03,837
+Alicia, kako se suoèavaš s tim?
+
+936
+01:21:05,579 --> 01:21:07,058
+Iluzije su prestale.
+
+937
+01:21:07,456 --> 01:21:11,085
+Kažu da uz lijekove i smirenu okolinu...
+
+938
+01:21:12,878 --> 01:21:14,311
+Kako si ti?
+
+939
+01:21:21,887 --> 01:21:24,117
+Èesto mislim da je ono što osjeæam...
+
+940
+01:21:24,848 --> 01:21:26,520
+obveza.
+
+941
+01:21:29,184 --> 01:21:31,539
+Ili krivnja što bih htjela pobjeæi.
+
+942
+01:21:34,065 --> 01:21:37,296
+Bijes prema Johnu, Bogu, i...
+
+943
+01:21:40,403 --> 01:21:41,677
+Ali...
+
+944
+01:21:44,741 --> 01:21:46,220
+potom ga pogledam...
+
+945
+01:21:47,911 --> 01:21:50,789
+i trudim se vidjeti èovjeka za kojeg sam se udala.
+
+946
+01:21:53,166 --> 01:21:54,804
+I on postaje taj èovjek.
+
+947
+01:21:55,293 --> 01:21:58,808
+Postaje osoba koju volim.
+
+948
+01:22:02,340 --> 01:22:04,695
+I ja postajem osoba koja ga voli.
+
+949
+01:22:08,681 --> 01:22:10,433
+Ne cijelo vrijeme, ali...
+
+950
+01:22:13,060 --> 01:22:14,413
+dovoljno je.
+
+951
+01:22:15,852 --> 01:22:19,288
+John je veoma sretan èovjek, Alicia.
+
+952
+01:22:24,946 --> 01:22:26,584
+Tako nesretan.
+
+953
+01:22:30,408 --> 01:22:31,727
+-To smo mi.
+-To?
+
+954
+01:22:32,075 --> 01:22:33,827
+Blizu je posla.
+
+955
+01:22:34,453 --> 01:22:36,842
+Johne? Imaš posjetitelja.
+
+956
+01:22:40,418 --> 01:22:41,373
+Zdravo.
+
+957
+01:22:44,337 --> 01:22:45,895
+Nadam se da je u redu.
+
+958
+01:22:53,515 --> 01:22:54,709
+Zdravo, šefe.
+
+959
+01:22:56,558 --> 01:22:58,514
+-Cigaretu?
+-Ne, hvala.
+
+960
+01:22:58,851 --> 01:23:00,364
+Prestao sam, zapravo.
+
+961
+01:23:04,774 --> 01:23:06,093
+-Bog.
+-Hej, Johne.
+
+962
+01:23:09,070 --> 01:23:10,628
+Jesi li vidio Harveya?
+
+963
+01:23:13,991 --> 01:23:15,629
+-Nema...
+-Opusti se, u redu je.
+
+964
+01:23:15,785 --> 01:23:18,618
+Nema smisla biti lud ako se
+ne možeš malo našaliti.
+
+965
+01:23:18,829 --> 01:23:21,263
+Isuse Kriste, Johne. Trebao sam znati.
+
+966
+01:23:23,917 --> 01:23:24,872
+Evo.
+
+967
+01:23:27,129 --> 01:23:30,485
+-Mogu ih uzeti kasnije.
+-Trebao bi sad.
+
+968
+01:23:32,006 --> 01:23:34,156
+-Mogu li ti što donijeti?
+-Ne, hvala.
+
+969
+01:23:35,510 --> 01:23:36,499
+U redu.
+
+970
+01:23:40,056 --> 01:23:44,015
+Bio sam na seminaru u gradu.
+
+971
+01:23:44,268 --> 01:23:46,145
+Vraæam se veèeras.
+
+972
+01:23:46,604 --> 01:23:49,641
+Bender je htio svratiti...
+
+973
+01:23:50,399 --> 01:23:53,152
+vidjeti te. Posjetiti.
+
+974
+01:23:53,568 --> 01:23:54,717
+Muèno mu je?
+
+975
+01:23:55,446 --> 01:23:56,435
+Da.
+
+976
+01:23:58,031 --> 01:23:59,703
+Mislim da bi i meni bilo.
+
+977
+01:24:00,158 --> 01:24:02,069
+No, moram živjeti sa sobom.
+
+978
+01:24:05,706 --> 01:24:08,015
+Pokušavam riješiti Riemannovu hipotezu.
+
+979
+01:24:10,376 --> 01:24:11,729
+Da?
+
+980
+01:24:12,628 --> 01:24:15,620
+Shvatio sam ako ih osupnem...
+
+981
+01:24:15,964 --> 01:24:18,194
+morat æe me ponovno vratiti na posao.
+
+982
+01:24:19,718 --> 01:24:22,596
+No teško je s lijekovima...
+
+983
+01:24:22,928 --> 01:24:25,761
+jer je teško...
+
+984
+01:24:29,019 --> 01:24:31,135
+vidjeti rješenje.
+
+985
+01:24:39,111 --> 01:24:41,067
+Johne, trebao bi se opustiti.
+
+986
+01:24:42,113 --> 01:24:45,822
+Ima drugih stvari pored posla.
+
+987
+01:24:48,829 --> 01:24:50,023
+Kojih?
+
+988
+01:25:26,363 --> 01:25:28,274
+O èemu razmišljaš?
+
+989
+01:25:32,078 --> 01:25:33,830
+Što ljudi rade?
+
+990
+01:25:34,122 --> 01:25:36,033
+To je život, Johne.
+
+991
+01:25:36,497 --> 01:25:39,489
+Aktivnosti su dostupne, samo dodaj smisao.
+
+992
+01:25:48,593 --> 01:25:50,584
+Mogao bi pokušati izaæi iz kuæe.
+
+993
+01:25:51,178 --> 01:25:52,691
+Znaš, možda...
+
+994
+01:25:54,181 --> 01:25:55,773
+prièati s ljudima.
+
+995
+01:26:00,727 --> 01:26:02,683
+Baciti smeæe.
+
+996
+01:26:25,168 --> 01:26:27,966
+I ima toga još, ima još u...
+
+997
+01:26:40,348 --> 01:26:41,940
+S kim prièaš?
+
+998
+01:26:43,893 --> 01:26:45,167
+Smetlarom.
+
+999
+01:26:54,322 --> 01:26:56,074
+Smetlari ne dolaze po noæi.
+
+1000
+01:26:59,617 --> 01:27:01,369
+Èini se da ovamo dolaze.
+
+1001
+01:27:27,726 --> 01:27:28,795
+Oprosti.
+
+1002
+01:28:36,081 --> 01:28:37,594
+Je li zbog lijekova?
+
+1003
+01:29:19,247 --> 01:29:21,044
+Ne znam što æu napraviti.
+
+1004
+01:29:39,306 --> 01:29:42,503
+Moja æe majka èuvati bebu malo duže veèeras.
+
+1005
+01:29:43,434 --> 01:29:45,584
+Dobit æu tri sata prekovremenog.
+
+1006
+01:30:11,920 --> 01:30:13,239
+Idem u krevet.
+
+1007
+01:30:20,679 --> 01:30:22,317
+Laku noæ.
+
+1008
+01:31:42,004 --> 01:31:43,915
+Drago mi je vidjeti te, Johne.
+
+1009
+01:31:45,340 --> 01:31:46,978
+Odavno se nismo vidjeli.
+
+1010
+01:31:47,926 --> 01:31:48,915
+Parcheru?
+
+1011
+01:31:50,052 --> 01:31:51,246
+Da, gospodine.
+
+1012
+01:31:54,557 --> 01:31:55,785
+Ti ne postojiš!
+
+1013
+01:31:56,267 --> 01:31:58,701
+Naravno da postojim. Ne budi smiješan.
+
+1014
+01:32:03,649 --> 01:32:05,879
+Ne bih tamo išao.
+
+1015
+01:32:07,402 --> 01:32:09,632
+Vrijeme je da se vratiš na posao.
+
+1016
+01:32:10,447 --> 01:32:13,245
+Bomba je u završnici ovdje u SAD-u.
+
+1017
+01:32:15,702 --> 01:32:19,900
+S obzirom da se zbog tvoje situacije
+moraš pritajiti, "Muhamede"...
+
+1018
+01:32:21,581 --> 01:32:23,856
+doveli smo planinu tebi.
+
+1019
+01:32:42,518 --> 01:32:47,114
+Suzili smo moguænost položaja bombe
+negdje na istoènu obalu.
+
+1020
+01:32:48,733 --> 01:32:51,850
+No nismo uspjeli locirati toèan položaj.
+
+1021
+01:32:54,236 --> 01:32:57,273
+Šifre postaju sve složenije.
+
+1022
+01:33:00,075 --> 01:33:01,554
+Pogledaj ovo, Johne.
+
+1023
+01:33:04,456 --> 01:33:05,286
+Što?
+
+1024
+01:33:06,833 --> 01:33:07,948
+Što?
+
+1025
+01:33:10,503 --> 01:33:13,176
+-Dr. Rosen je rekao...
+-Rosen! Taj šarlatan!
+
+1026
+01:33:14,380 --> 01:33:17,850
+"Šizofreni odmak od stvarnosti", zar ne?
+Psihološko sranje!
+
+1027
+01:33:18,343 --> 01:33:19,776
+Pogledaj me, Johne.
+
+1028
+01:33:20,846 --> 01:33:22,438
+Johne, pogledaj me.
+
+1029
+01:33:24,515 --> 01:33:26,312
+Izgledam li kao iz mašte?
+
+1030
+01:33:28,769 --> 01:33:30,521
+Wheeler nema spisa o vama.
+
+1031
+01:33:30,854 --> 01:33:32,970
+Misliš li da popisujemo zaposlene?
+
+1032
+01:33:35,484 --> 01:33:38,157
+Žao mi je što si kroz sve to morao proæi.
+
+1033
+01:33:39,280 --> 01:33:42,078
+Jako sam se namuèio da te vratim.
+
+1034
+01:33:42,323 --> 01:33:44,393
+Mogu te vratiti u Wheeler.
+
+1035
+01:33:44,700 --> 01:33:47,260
+Mogu svijetu pokazati što si uèinio.
+
+1036
+01:33:47,911 --> 01:33:49,663
+No sada mi trebaš, vojnièe.
+
+1037
+01:33:56,420 --> 01:33:58,411
+Tako sam se bojao da ne postojite.
+
+1038
+01:34:00,048 --> 01:34:02,039
+Princeton, New Jersey - Travanj 1956
+
+1039
+01:34:06,805 --> 01:34:08,443
+Dolazi oluja.
+
+1040
+01:34:08,808 --> 01:34:10,924
+Pokupit æu rublje.
+
+1041
+01:34:11,558 --> 01:34:13,071
+Napunit æu kadu.
+
+1042
+01:34:16,856 --> 01:34:17,891
+U redu.
+
+1043
+01:34:19,648 --> 01:34:20,558
+U redu.
+
+1044
+01:35:59,993 --> 01:36:00,903
+Johne!
+
+1045
+01:36:07,958 --> 01:36:10,518
+Još malo! Charles, èuvaj bebu.
+
+1046
+01:36:11,712 --> 01:36:12,508
+Ne!
+
+1047
+01:36:24,682 --> 01:36:27,674
+-Charles ga je èuvao. U redu je.
+-Nema nikoga.
+
+1048
+01:36:29,605 --> 01:36:30,879
+Nema nikoga ovdje!
+
+1049
+01:36:31,023 --> 01:36:33,059
+Ubrizgali su mu nevidljivi serum.
+
+1050
+01:36:33,233 --> 01:36:36,987
+Mogu ga vidjeti zbog kemikalije
+koja se aktivirala u krvnom sustavu...
+
+1051
+01:36:37,235 --> 01:36:38,953
+kad mi se umetak rastopio.
+
+1052
+01:36:40,780 --> 01:36:43,692
+Nisam ti to smio reæi zbog tvoje sigurnosti!
+
+1053
+01:36:44,826 --> 01:36:46,544
+Alicia!
+
+1054
+01:36:51,542 --> 01:36:54,614
+-Ne!
+-Molim ured dr. Rosena.
+
+1055
+01:36:54,835 --> 01:36:56,712
+Moraš je zaustaviti, Johne.
+
+1056
+01:36:58,337 --> 01:37:00,487
+Ne miješaj nju u to.
+
+1057
+01:37:02,010 --> 01:37:04,604
+-S kim govoriš?
+-Nije ona kriva.
+
+1058
+01:37:05,429 --> 01:37:07,579
+-Opet æe nas izdati.
+-Neæe.
+
+1059
+01:37:07,764 --> 01:37:09,436
+Završit æeš opet u bolnici.
+
+1060
+01:37:09,599 --> 01:37:11,590
+-Odgovori mi!
+-Mnogi æe umrijeti.
+
+1061
+01:37:11,768 --> 01:37:13,486
+Alicia, molim te spusti slušalicu.
+
+1062
+01:37:13,644 --> 01:37:15,919
+-Ne mogu to dopustiti.
+-Halo?
+
+1063
+01:37:16,104 --> 01:37:18,254
+Trebam dr. Rosena. Je li tu?
+
+1064
+01:37:19,276 --> 01:37:21,631
+Žao mi je, Johne.
+
+1065
+01:37:22,444 --> 01:37:23,593
+Ne!
+
+1066
+01:37:27,616 --> 01:37:30,084
+-Znaš što trebaš uraditi.
+-Kloni me se.
+
+1067
+01:37:30,366 --> 01:37:32,721
+-Preopasna je.
+-Makni se!
+
+1068
+01:37:33,747 --> 01:37:35,703
+Nisam te htio ozlijediti!
+
+1069
+01:37:37,459 --> 01:37:40,257
+Dokrajèi je. Previše zna.
+
+1070
+01:37:43,923 --> 01:37:45,561
+Ujaèe Johne?
+
+1071
+01:37:45,716 --> 01:37:49,504
+Pobrini se za nju, ti patetièno govno,
+ili æu se ja pobrinuti za tebe.
+
+1072
+01:37:50,554 --> 01:37:53,068
+Kriste, Johne, molim te uèini što kaže.
+
+1073
+01:37:53,433 --> 01:37:55,867
+Kreni, vojnièe.
+
+1074
+01:37:56,141 --> 01:37:57,335
+Odmah.
+
+1075
+01:37:57,476 --> 01:37:58,625
+Ujaèe Johne?
+
+1076
+01:37:59,605 --> 01:38:01,516
+Johne, molim te!
+
+1077
+01:38:02,688 --> 01:38:04,201
+Odmah!
+
+1078
+01:38:04,399 --> 01:38:07,516
+Alicia i Charles nikad istovremeno ne postoje.
+
+1079
+01:38:08,570 --> 01:38:10,049
+Parcher i Charles...
+
+1080
+01:38:12,116 --> 01:38:15,267
+Charles i Marcee
+ne mogu postojati istovremeno s Aliciom.
+
+1081
+01:38:20,623 --> 01:38:22,215
+Jasno mi je.
+
+1082
+01:38:39,058 --> 01:38:40,969
+Nikad ne stari.
+
+1083
+01:38:44,063 --> 01:38:46,657
+Marcee nije stvarna. Nikad ne stari.
+
+1084
+01:39:20,346 --> 01:39:21,904
+Vidiš ih sad?
+
+1085
+01:39:31,189 --> 01:39:32,827
+Da.
+
+1086
+01:39:34,650 --> 01:39:36,606
+Zašto si prestao piti lijekove?
+
+1087
+01:39:39,447 --> 01:39:41,642
+Jer nisam mogao raditi.
+
+1088
+01:39:41,824 --> 01:39:43,655
+Nisam mogao pomoæi oko bebe.
+
+1089
+01:39:43,828 --> 01:39:45,500
+Nisam...
+
+1090
+01:39:47,078 --> 01:39:49,228
+Nisam mogao imati spolne odnose.
+
+1091
+01:39:52,084 --> 01:39:54,279
+Misliš da je to bolje nego da si lud?
+
+1092
+01:39:54,459 --> 01:39:58,691
+Morat æemo pojaèati dozu
+inzulinskih šokova i novih lijekova.
+
+1093
+01:39:58,964 --> 01:40:00,556
+Ne.
+
+1094
+01:40:01,425 --> 01:40:04,815
+-Mora postojati drugi naèin.
+-Šizofrenija je degenerativna.
+
+1095
+01:40:05,053 --> 01:40:08,682
+Ponekad simptoma nema,
+no s vremenom stanje se pogoršava.
+
+1096
+01:40:08,931 --> 01:40:11,843
+To je problem. Samo to.
+
+1097
+01:40:12,601 --> 01:40:16,640
+Nema rješenja tom problemu.
+A ja se bavim rješavanjem problema.
+
+1098
+01:40:16,898 --> 01:40:17,887
+Ovo nije matematika.
+
+1099
+01:40:18,024 --> 01:40:21,573
+Ne možeš izmisliti formulu koja
+mijenja naèin tvojeg doživljaja svijeta.
+
+1100
+01:40:21,819 --> 01:40:25,050
+-Moram samo promijeniti um.
+-Nema teorema, nema dokaza.
+
+1101
+01:40:25,280 --> 01:40:27,555
+-Razumom se ne možeš izvuæi.
+-Zašto ne?
+
+1102
+01:40:27,741 --> 01:40:30,778
+Jer je tvoj um usmjeren na problem.
+
+1103
+01:40:32,747 --> 01:40:34,863
+Mogu ja to.
+
+1104
+01:40:35,625 --> 01:40:38,298
+Mogu to riješiti. Samo mi treba vremena.
+
+1105
+01:40:42,296 --> 01:40:44,048
+Je li to beba?
+
+1106
+01:40:46,134 --> 01:40:48,125
+Beba je kod moje mame, Johne.
+
+1107
+01:41:02,023 --> 01:41:04,059
+Bez lijeèenja, Johne...
+
+1108
+01:41:05,110 --> 01:41:07,180
+mašta može prevladati...
+
+1109
+01:41:08,071 --> 01:41:09,550
+potpuno.
+
+1110
+01:41:27,505 --> 01:41:29,257
+Spreman?
+
+1111
+01:41:31,718 --> 01:41:33,948
+Rosen èeka ispred.
+
+1112
+01:41:34,721 --> 01:41:37,315
+Ne mogu se vratiti u tu bolnicu.
+
+1113
+01:41:40,933 --> 01:41:42,924
+Neæu se vratiti kuæi.
+
+1114
+01:41:46,731 --> 01:41:48,847
+Rekao je da ako to kažeš...
+
+1115
+01:41:49,777 --> 01:41:52,735
+ima papire za upuæivanje u bolnicu.
+
+1116
+01:41:55,614 --> 01:41:57,605
+Možda ih neæeš potpisati.
+
+1117
+01:41:59,076 --> 01:42:01,226
+Možda æeš mi dati malo vremena.
+
+1118
+01:42:04,122 --> 01:42:06,033
+Pokušat æu to riješiti.
+
+1119
+01:42:08,419 --> 01:42:10,216
+Što god uèinila...
+
+1120
+01:42:11,045 --> 01:42:13,195
+Rosen je jednim dijelom u pravu.
+
+1121
+01:42:14,382 --> 01:42:16,816
+Ne bi smjela biti tu.
+
+1122
+01:42:18,843 --> 01:42:20,640
+Više nije sigurno.
+
+1123
+01:42:26,352 --> 01:42:28,263
+Zar bi me ozlijedio, Johne?
+
+1124
+01:42:37,861 --> 01:42:39,453
+Ne znam.
+
+1125
+01:42:40,366 --> 01:42:43,676
+Možda bi trebala dopustiti dr. Rosenu
+da te odvede do majke.
+
+1126
+01:43:04,303 --> 01:43:06,214
+Rekao mi je da odem.
+
+1127
+01:43:13,479 --> 01:43:14,992
+Shvaæam.
+
+1128
+01:43:50,179 --> 01:43:53,535
+Rosen je rekao da nazovem
+ako me pokušaš ubiti ili slièno.
+
+1129
+01:44:10,656 --> 01:44:12,851
+Želiš znati što je stvarnost?
+
+1130
+01:44:17,830 --> 01:44:19,661
+Ovo.
+
+1131
+01:44:27,088 --> 01:44:28,601
+Ovo.
+
+1132
+01:44:34,136 --> 01:44:35,535
+Ovo.
+
+1133
+01:44:37,890 --> 01:44:39,608
+Ovo je stvarno.
+
+1134
+01:44:43,019 --> 01:44:44,691
+Možda dio...
+
+1135
+01:44:45,188 --> 01:44:47,656
+koji razlikuje stvarnost od sna...
+
+1136
+01:44:48,944 --> 01:44:50,775
+možda nije tu.
+
+1137
+01:44:54,780 --> 01:44:57,135
+Možda je tu.
+
+1138
+01:45:02,456 --> 01:45:04,526
+Trebam vjerovati...
+
+1139
+01:45:04,709 --> 01:45:07,621
+da je nemoguæe moguæe.
+
+1140
+01:45:56,003 --> 01:45:59,234
+Princeton - Dva mjeseca poslije
+
+1141
+01:46:10,852 --> 01:46:12,524
+Naprijed.
+
+1142
+01:46:21,402 --> 01:46:23,154
+Zdravo, Martine.
+
+1143
+01:46:28,367 --> 01:46:29,561
+Isuse Kriste.
+
+1144
+01:46:31,329 --> 01:46:32,887
+Ne. Ja...
+
+1145
+01:46:33,997 --> 01:46:38,275
+Ja ga nemam. Moj je spasitelj
+u potpuno drugom obliku.
+
+1146
+01:46:39,920 --> 01:46:42,036
+Èuo sam što se dogodilo i...
+
+1147
+01:46:42,213 --> 01:46:44,852
+htio sam pisati,
+pokušao doæi do tebe u MacArthuru...
+
+1148
+01:46:45,051 --> 01:46:47,121
+no otišao si, i samo...
+
+1149
+01:46:59,439 --> 01:47:01,316
+Ovo je Helingerov stari ured.
+
+1150
+01:47:01,606 --> 01:47:03,119
+Da.
+
+1151
+01:47:03,317 --> 01:47:05,706
+Da, ukrao sam mu ga.
+
+1152
+01:47:08,237 --> 01:47:10,831
+Èini se da si naposljetku pobijedio, Martine.
+
+1153
+01:47:12,200 --> 01:47:14,668
+Pogriješili su, Johne. Nitko ne pobjeðuje.
+
+1154
+01:47:15,245 --> 01:47:17,281
+Sjedni, molim te.
+
+1155
+01:47:18,289 --> 01:47:20,439
+Bože, dobro te vidjeti.
+
+1156
+01:47:23,252 --> 01:47:25,288
+Što te dovodi opet u Princeton?
+
+1157
+01:47:27,256 --> 01:47:29,486
+Johne, žao mi je, no moraš mu reæi.
+
+1158
+01:47:29,675 --> 01:47:31,825
+Reci mu da si genij. Genij!
+
+1159
+01:47:32,009 --> 01:47:34,762
+Reci mu da je tvoj rad kljuèan. Johne, molim te!
+
+1160
+01:47:49,693 --> 01:47:52,890
+Postoji li moguænost da
+zanemariš što sam upravo uèinio?
+
+1161
+01:47:54,906 --> 01:47:57,136
+Naravno, èemu služe stari prijatelji?
+
+1162
+01:47:59,119 --> 01:48:01,394
+Jesmo li mi to, Martine? Prijatelji?
+
+1163
+01:48:01,788 --> 01:48:03,779
+Johne, naravno.
+
+1164
+01:48:04,457 --> 01:48:06,732
+Naravno. Oduvijek.
+
+1165
+01:48:11,713 --> 01:48:13,544
+Alicia i ja mislimo...
+
+1166
+01:48:14,298 --> 01:48:16,971
+da bi uklapanje, postajanje èlanom zajednice...
+
+1167
+01:48:20,345 --> 01:48:21,824
+moglo biti dobro za mene.
+
+1168
+01:48:21,972 --> 01:48:25,806
+Da bi mi odreðena razina bliskosti,
+poznatih mjesta i ljudi...
+
+1169
+01:48:27,060 --> 01:48:28,732
+mogla pomoæi...
+
+1170
+01:48:29,521 --> 01:48:31,910
+riješiti se...
+
+1171
+01:48:34,526 --> 01:48:37,120
+ovih mojih iluzija.
+
+1172
+01:48:42,783 --> 01:48:45,297
+Previše tražim, i sad kad sam ovdje...
+
+1173
+01:48:47,497 --> 01:48:50,136
+siguran sam da æeš me odbiti.
+
+1174
+01:48:53,211 --> 01:48:55,884
+No pitao sam se
+mogu li se malo motati ovdje.
+
+1175
+01:49:10,184 --> 01:49:12,254
+Treba li ti ured?
+
+1176
+01:49:16,690 --> 01:49:17,964
+Ne.
+
+1177
+01:49:21,112 --> 01:49:23,262
+Ne, mogao bih raditi u knjižnici.
+
+1178
+01:49:23,948 --> 01:49:26,223
+Taj tip pokušava uæi u knjižnicu...
+
+1179
+01:49:26,408 --> 01:49:29,286
+-no nema iskaznicu.
+-Zašto ljudi ne èitaju dopise?
+
+1180
+01:49:29,495 --> 01:49:31,213
+Potom potpuno pošizi.
+
+1181
+01:49:31,371 --> 01:49:34,044
+Ti ne postojiš!
+
+1182
+01:49:34,373 --> 01:49:35,488
+Misija ne postoji.
+
+1183
+01:49:36,584 --> 01:49:38,176
+Sranje. Sranje.
+
+1184
+01:49:39,338 --> 01:49:41,693
+Ne postojiš!
+
+1185
+01:49:42,089 --> 01:49:45,001
+Jesi li to ti, vojnièe? Neki beskorisni lešinar?
+
+1186
+01:49:45,300 --> 01:49:47,131
+Mjesni luðak?
+
+1187
+01:49:47,301 --> 01:49:49,735
+-Nisam vojnik.
+-Završit æeš u æeliji!
+
+1188
+01:49:49,929 --> 01:49:51,965
+Star, bezvrijedan, odbaèen.
+
+1189
+01:49:52,140 --> 01:49:53,289
+Misija ne postoji.
+
+1190
+01:49:53,434 --> 01:49:56,631
+I dok se ti ljuljaš i zanosiš,
+svijet se pretvara u pepeo!
+
+1191
+01:49:56,853 --> 01:49:59,083
+Ti ne postojiš!
+
+1192
+01:49:59,272 --> 01:50:01,228
+Još uvijek razgovaraš sa mnom, vojnièe.
+
+1193
+01:50:01,398 --> 01:50:04,435
+Nema misije! Ja nisam vojnik!
+
+1194
+01:50:09,699 --> 01:50:11,451
+Johne! U redu je.
+
+1195
+01:50:11,617 --> 01:50:13,494
+Upravo sam èuo što se dogodilo, žao mi je.
+
+1196
+01:50:13,661 --> 01:50:15,492
+-Nisam vojnik.
+-Johne. Nash.
+
+1197
+01:50:15,661 --> 01:50:18,050
+Nash, u redu je.
+
+1198
+01:50:21,250 --> 01:50:22,808
+Nash.
+
+1199
+01:50:26,964 --> 01:50:29,524
+Dame i gospodo, veliki John Nash!
+
+1200
+01:50:29,717 --> 01:50:30,911
+John?
+
+1201
+01:50:33,428 --> 01:50:35,225
+Trebala si im vidjeti lica.
+
+1202
+01:50:36,596 --> 01:50:38,473
+Svi su buljili u mene.
+
+1203
+01:50:38,641 --> 01:50:42,759
+Johne, znaš da stres potièe iluzije.
+
+1204
+01:50:44,105 --> 01:50:45,697
+Znam.
+
+1205
+01:50:48,275 --> 01:50:50,266
+No potom, na povratku...
+
+1206
+01:50:50,901 --> 01:50:53,176
+Charles je bio tamo.
+
+1207
+01:50:57,159 --> 01:50:59,673
+Ponekad mi zaista nedostaje prièati s njim.
+
+1208
+01:51:03,206 --> 01:51:04,798
+Možda je Rosen u pravu.
+
+1209
+01:51:06,168 --> 01:51:09,558
+Možda bih trebao razmisliti
+o ponovnom odlasku u bolnicu.
+
+1210
+01:51:09,795 --> 01:51:12,104
+Ne. Doði.
+
+1211
+01:51:17,094 --> 01:51:18,812
+Možda možeš opet sutra probati.
+
+1212
+01:51:43,702 --> 01:51:46,375
+Johne, ne možeš me vjeèno ignorirati.
+
+1213
+01:51:52,459 --> 01:51:55,053
+Bio si mi veoma dobar prijatelj.
+
+1214
+01:51:55,336 --> 01:51:56,530
+Najbolji.
+
+1215
+01:51:58,631 --> 01:52:00,542
+No više s tobom neæu prièati.
+
+1216
+01:52:04,346 --> 01:52:05,620
+Ne mogu.
+
+1217
+01:52:12,020 --> 01:52:13,897
+Isto vrijedi i za tebe, mala.
+
+1218
+01:52:22,405 --> 01:52:23,394
+Zbogom.
+
+1219
+01:52:30,744 --> 01:52:31,938
+Zbogom.
+
+1220
+01:52:46,801 --> 01:52:49,361
+Pitao sam se mogu li slušati vaše predavanje.
+
+1221
+01:52:50,806 --> 01:52:53,161
+Èast mi je, profesore Nash.
+
+1222
+01:52:56,685 --> 01:52:58,118
+Nešto ne valja?
+
+1223
+01:53:00,272 --> 01:53:02,228
+Bit æe to moje prvo predavanje.
+
+1224
+01:53:05,903 --> 01:53:07,177
+Dobro jutro...
+
+1225
+01:53:08,364 --> 01:53:09,877
+revnosni mladi umovi.
+
+1226
+01:53:30,552 --> 01:53:32,383
+Neæe uspjeti, Johne.
+
+1227
+01:53:33,218 --> 01:53:35,288
+Samo se ponižavaš.
+
+1228
+01:53:37,933 --> 01:53:39,127
+To je jadno!
+
+1229
+01:53:40,185 --> 01:53:41,777
+Jadan si.
+
+1230
+01:53:42,312 --> 01:53:43,825
+Sramim te se!
+
+1231
+01:54:11,672 --> 01:54:12,707
+Èovjeèe!
+
+1232
+01:54:17,427 --> 01:54:19,987
+Ideš li? Zakasnit æeš.
+
+1233
+01:54:23,057 --> 01:54:25,013
+-Tata, uzeo si mi knjigu.
+-Što?
+
+1234
+01:54:25,477 --> 01:54:28,355
+-Uzeo si moju knjigu.
+-Ah, da.
+
+1235
+01:54:29,063 --> 01:54:30,052
+Hvala.
+
+1236
+01:54:31,483 --> 01:54:32,757
+-Zbogom.
+-Bog.
+
+1237
+01:54:33,233 --> 01:54:34,632
+Vidimo se veèeras.
+
+1238
+01:54:35,485 --> 01:54:36,634
+Bog, dušo.
+
+1239
+01:55:56,811 --> 01:56:00,087
+Princeton - Listopad 1978
+
+1240
+01:56:09,906 --> 01:56:11,464
+Jeste li upravo riješili Riemanna?
+
+1241
+01:56:11,616 --> 01:56:13,254
+l, što mislite?
+
+1242
+01:56:14,870 --> 01:56:18,180
+Analogno je Frobeniusovim
+nekomutacijskim ekstenzijama.
+
+1243
+01:56:20,501 --> 01:56:21,570
+Tako je.
+
+1244
+01:56:22,503 --> 01:56:25,700
+No samo povremeno radi, stoga ne. Ali...
+
+1245
+01:56:27,007 --> 01:56:28,918
+vjerujem da se popravljam.
+
+1246
+01:56:33,388 --> 01:56:35,265
+Vi ste John Nash, zar ne?
+
+1247
+01:56:38,559 --> 01:56:40,151
+-Toby Kelly.
+-Zdravo.
+
+1248
+01:56:40,394 --> 01:56:43,830
+Prouèavao sam teoriju ravnoteže
+koju ste napisali ovdje u Princetonu.
+
+1249
+01:56:44,063 --> 01:56:47,021
+Postiæi nešto potpuno originalno,
+kao što ste vi napravili...
+
+1250
+01:56:47,232 --> 01:56:48,790
+Bio sam mlad.
+
+1251
+01:56:50,321 --> 01:56:52,357
+Razvijam teoriju.
+
+1252
+01:57:07,086 --> 01:57:08,963
+Vjerujem kako mogu dokazati...
+
+1253
+01:57:09,129 --> 01:57:11,597
+da Galoisove ekstenzije pokrivaju prostore.
+
+1254
+01:57:11,797 --> 01:57:16,268
+Da je sve povezano. Da je sve dio iste stvari.
+
+1255
+01:57:17,928 --> 01:57:19,884
+Kad ste zadnji put jeli?
+
+1256
+01:57:20,054 --> 01:57:22,488
+-Oprostite?
+-Znate, hrana.
+
+1257
+01:57:24,853 --> 01:57:25,968
+Moja žena...
+
+1258
+01:57:26,854 --> 01:57:28,492
+voli majonezu.
+
+1259
+01:57:31,066 --> 01:57:32,181
+Hvala.
+
+1260
+01:57:34,443 --> 01:57:35,478
+Nastavite.
+
+1261
+01:57:36,153 --> 01:57:37,472
+Funktor...
+
+1262
+01:57:38,532 --> 01:57:40,363
+je u dvije kategorije.
+
+1263
+01:57:45,078 --> 01:57:46,067
+Alicia!
+
+1264
+01:57:47,497 --> 01:57:48,486
+Alicia!
+
+1265
+01:57:49,082 --> 01:57:51,357
+Spaja se pri maksimalnoj brzini od...
+
+1266
+01:57:52,461 --> 01:57:54,292
+otprilike, 15 km na sat.
+
+1267
+01:57:54,464 --> 01:57:57,058
+Stoga imate mušicu na gumi bicikla "B"...
+
+1268
+01:57:57,548 --> 01:58:00,460
+i mušicu koja se može kretati 30 km na sat...
+
+1269
+01:58:00,676 --> 01:58:03,713
+letjeti æe s gume "B" na gumu bicikla "A"...
+
+1270
+01:58:03,929 --> 01:58:07,001
+naprijed i nazad dok se dva bicikla ne sudare...
+
+1271
+01:58:07,224 --> 01:58:09,533
+i dok ne zgnjeèe jadnu malu mušicu.
+
+1272
+01:58:10,019 --> 01:58:13,648
+Ovo je veoma važno
+kako biste se usredotoèili i shvatili...
+
+1273
+01:58:13,896 --> 01:58:16,888
+s èime imate posla.
+Matematika je veoma posebna...
+
+1274
+01:58:17,108 --> 01:58:20,418
+umjetnièka forma,
+bez obzira na to što æe vam ovdje reæi...
+
+1275
+01:58:20,653 --> 01:58:23,850
+osobito na odsjeku biologije. Ne slušajte ih.
+
+1276
+01:58:24,073 --> 01:58:27,270
+Vratimo se na vaš rad.
+Možda bih ovo mogao ukrasti...
+
+1277
+01:58:27,493 --> 01:58:29,245
+napisati knjigu i postati slavan.
+
+1278
+01:58:30,664 --> 01:58:32,734
+Mislio sam da bih mogao predavati.
+
+1279
+01:58:34,708 --> 01:58:37,984
+Uèionica sa 50 uèenika
+može svakom biti zastrašujuæa.
+
+1280
+01:58:39,378 --> 01:58:42,097
+Usto, Johne, užasan si nastavnik.
+
+1281
+01:58:43,717 --> 01:58:45,787
+Na mene se treba naviæi, Martine.
+
+1282
+01:58:46,928 --> 01:58:50,045
+Nadao sam se da bi još uvijek
+neèemu mogao pridonijeti.
+
+1283
+01:58:50,263 --> 01:58:51,662
+Što je s...
+
+1284
+01:58:52,431 --> 01:58:53,705
+Znaš.
+
+1285
+01:58:54,267 --> 01:58:55,586
+Jesu li otišli?
+
+1286
+01:59:02,484 --> 01:59:04,520
+Ne, nisu.
+
+1287
+01:59:05,069 --> 01:59:06,821
+Možda nikad neæe.
+
+1288
+01:59:06,989 --> 01:59:10,982
+No navikao sam ignorirati ih,
+i èini mi se da su odustali.
+
+1289
+01:59:12,703 --> 01:59:17,174
+Misliš li da je tako sa svim našim
+snovima i morama, Martine?
+
+1290
+01:59:18,165 --> 01:59:21,202
+Treba ih hraniti da bi postojali?
+
+1291
+01:59:21,460 --> 01:59:23,610
+Johne, još te muèe.
+
+1292
+01:59:25,296 --> 01:59:28,527
+Moja su prošIost, Martine.
+Svakoga muèi prošIost.
+
+1293
+01:59:32,553 --> 01:59:33,986
+Pa, zbogom.
+
+1294
+01:59:34,430 --> 01:59:36,500
+Johne, razgovarat æu s odsjekom.
+
+1295
+01:59:38,851 --> 01:59:40,364
+Možda u proljeæe.
+
+1296
+01:59:46,233 --> 01:59:47,427
+Zdravo, Nash.
+
+1297
+01:59:52,488 --> 01:59:53,637
+Bojiš se?
+
+1298
+01:59:56,366 --> 01:59:57,481
+Užasno.
+
+1299
+01:59:58,242 --> 02:00:00,517
+Strašno. Grozno.
+
+1300
+02:00:00,831 --> 02:00:02,423
+Zapanjen sam.
+
+1301
+02:00:03,084 --> 02:00:05,837
+Najbolje bi ti bilo nazvati Aliciu, ili æeš me...
+
+1302
+02:00:06,042 --> 02:00:08,033
+-Nazvat æu je.
+-...uvaliti u neprilike.
+
+1303
+02:00:12,047 --> 02:00:13,480
+-Hvala, profesore.
+-Zbogom.
+
+1304
+02:00:13,633 --> 02:00:15,146
+-Ugodan dan.
+-Zbogom.
+
+1305
+02:00:15,301 --> 02:00:16,780
+Princeton - Ožujak 1994
+
+1306
+02:00:16,929 --> 02:00:18,806
+Predajte mi uradak, g. Bayer.
+
+1307
+02:00:19,014 --> 02:00:20,288
+Profesore Nash?
+
+1308
+02:00:24,143 --> 02:00:26,782
+-Možete li ga vidjeti?
+-Da.
+
+1309
+02:00:26,979 --> 02:00:28,128
+Sigurno?
+
+1310
+02:00:28,396 --> 02:00:30,512
+Sigurno? U vidokrugu vam je?
+
+1311
+02:00:31,191 --> 02:00:32,260
+Dobro.
+
+1312
+02:00:32,692 --> 02:00:35,365
+Oprostite, uvijek sam sumnjièav prema novima.
+
+1313
+02:00:35,572 --> 02:00:38,564
+-Do iduæeg tjedna, profesore.
+-Vidimo se iduæi tjedan.
+
+1314
+02:00:39,199 --> 02:00:43,272
+Sad kad znam da postojite,
+tko ste i kako vam mogu pomoæi?
+
+1315
+02:00:44,119 --> 02:00:46,508
+Profesore, ja sam Thomas King.
+
+1316
+02:00:46,704 --> 02:00:47,773
+Thomas King?
+
+1317
+02:00:47,914 --> 02:00:52,066
+Došao sam vam reæi
+da ste predloženi za Nobelovu nagradu.
+
+1318
+02:01:00,634 --> 02:01:02,750
+Oprostite, ali malo sam zbunjen.
+
+1319
+02:01:02,929 --> 02:01:06,205
+Posljednjih par godina,
+vaša teorija ravnoteže postala je temeljem...
+
+1320
+02:01:06,433 --> 02:01:08,025
+moderne ekonomije.
+
+1321
+02:01:08,184 --> 02:01:10,254
+Odjednom se svima sviða.
+
+1322
+02:01:10,435 --> 02:01:14,508
+Što je s drugim mojim radovima
+poput mnogostrukog tumaèenja?
+
+1323
+02:01:15,024 --> 02:01:18,221
+Primjena vaše teorije...
+
+1324
+02:01:18,609 --> 02:01:22,363
+u Federalnoj komunikacijskoj komisiji
+ili u protutrustovima...
+
+1325
+02:01:22,614 --> 02:01:24,013
+-Protutrustovima?
+-Da.
+
+1326
+02:01:24,157 --> 02:01:26,307
+Nikad ne bih na to pomislio.
+
+1327
+02:01:26,911 --> 02:01:31,189
+Jesam li postigao neku razinu iskrenosti
+koja granièi s glupošæu?
+
+1328
+02:01:31,665 --> 02:01:35,101
+-Ne niste.
+-Jer na to ne bih pomislio.
+
+1329
+02:01:40,630 --> 02:01:42,143
+Hoæemo li popiti èaj?
+
+1330
+02:01:44,260 --> 02:01:48,173
+Ne ulazim unutra.
+Obièno pojedem sendviè u knjižnici.
+
+1331
+02:01:49,514 --> 02:01:52,426
+Idemo, Johne. Popijmo èaj. Važan je dan.
+
+1332
+02:01:53,268 --> 02:01:58,501
+Veæina dostupnih marki èajeva
+ne odgovara mojem nepcu.
+
+1333
+02:01:58,814 --> 02:01:59,929
+Nisam...
+
+1334
+02:02:00,358 --> 02:02:03,714
+Neki su sjevernoindijski èajevi dovoljno bogati...
+
+1335
+02:02:03,945 --> 02:02:07,654
+Volim njihov ukus. U ovoj prostoriji nisam bio...
+
+1336
+02:02:07,905 --> 02:02:10,863
+dosta godina. Pitam se kakav èaj nude.
+
+1337
+02:02:13,079 --> 02:02:14,797
+Hvala, mlada damo.
+
+1338
+02:02:16,748 --> 02:02:20,457
+Stvari su se zaista promijenile ovamo.
+Imam sina tog uzrasta.
+
+1339
+02:02:22,417 --> 02:02:23,452
+Harvard.
+
+1340
+02:02:29,510 --> 02:02:34,504
+Mislio sam da su prijedlozi
+za Nobelovu nagradu tajni.
+
+1341
+02:02:35,223 --> 02:02:38,533
+Mislio sam da ti samo jave jesi li je osvojio ili ne.
+
+1342
+02:02:38,933 --> 02:02:42,687
+Uglavnom je tako, no ovo su posebne okolnosti.
+
+1343
+02:02:44,481 --> 02:02:46,199
+Nagrade su znatne.
+
+1344
+02:02:46,900 --> 02:02:49,858
+Iziskuju privatno financiranje, stoga je...
+
+1345
+02:02:51,404 --> 02:02:53,440
+ugled Nobela...
+
+1346
+02:02:55,783 --> 02:02:58,502
+Shvaæam, došli ste ovamo vidjeti jesam li lud?
+
+1347
+02:02:59,997 --> 02:03:03,512
+Provjeriti hoæu li sve pokvariti
+u sluèaju da je zaista osvojim?
+
+1348
+02:03:05,668 --> 02:03:09,661
+Hoæu li plesati na podiju,
+skinuti se gol i kokodakati poput kokoši?
+
+1349
+02:03:10,462 --> 02:03:12,134
+Tako nešto, da.
+
+1350
+02:03:13,842 --> 02:03:15,434
+Hoæu li vas osramotiti?
+
+1351
+02:03:19,598 --> 02:03:21,111
+Da, moguæe je.
+
+1352
+02:03:24,559 --> 02:03:25,708
+Vidite, ja...
+
+1353
+02:03:27,604 --> 02:03:29,037
+Ja sam lud.
+
+1354
+02:03:31,401 --> 02:03:33,437
+Uzimam najnovije lijekove...
+
+1355
+02:03:37,197 --> 02:03:39,711
+no još uvijek vidim stvari koje ne postoje.
+
+1356
+02:03:42,409 --> 02:03:44,684
+Samo sam odluèio ne obazirati se.
+
+1357
+02:03:46,747 --> 02:03:50,626
+Poput dijete za um, odluèio sam
+ne udovoljavati odreðenim željama.
+
+1358
+02:03:53,628 --> 02:03:55,823
+Poput moje želje za uzorcima.
+
+1359
+02:03:57,883 --> 02:04:01,034
+Ili moje želje za zamišljanjem i sanjarenjem.
+
+1360
+02:04:02,638 --> 02:04:04,117
+Profesore Nash.
+
+1361
+02:04:09,310 --> 02:04:11,699
+Drago mi je što si tu, Johne.
+
+1362
+02:04:12,604 --> 02:04:13,639
+Hvala.
+
+1363
+02:04:18,403 --> 02:04:21,713
+-Èast mi je, gospodine.
+-Hvala lijepa.
+
+1364
+02:04:22,947 --> 02:04:24,585
+Èast mi je, profesore.
+
+1365
+02:04:29,077 --> 02:04:30,271
+Profesore.
+
+1366
+02:04:35,753 --> 02:04:38,392
+-Dobar posao, Johne.
+-Hvala, Tome.
+
+1367
+02:04:40,172 --> 02:04:41,207
+Hvala.
+
+1368
+02:04:42,757 --> 02:04:43,872
+Hvala.
+
+1369
+02:04:53,018 --> 02:04:54,292
+Hvala, Ed.
+
+1370
+02:05:02,733 --> 02:05:04,803
+Ovo je bilo zaista neoèekivano.
+
+1371
+02:05:16,706 --> 02:05:19,140
+Dodjela Nobelove nagrade
+Stockholm, Švedska
+
+1372
+02:05:19,500 --> 02:05:21,775
+Prosinac 1994
+
+1373
+02:05:26,881 --> 02:05:27,916
+Hvala vam.
+
+1374
+02:05:32,804 --> 02:05:34,795
+Oduvijek sam vjerovao brojkama.
+
+1375
+02:05:36,099 --> 02:05:39,136
+U jednadžbe i argumentiranu logiku.
+
+1376
+02:05:40,438 --> 02:05:42,906
+No nakon cijeloga života bavljenja time...
+
+1377
+02:05:43,773 --> 02:05:47,004
+pitam se, što je zaista logika?
+
+1378
+02:05:48,902 --> 02:05:50,540
+Tko odluèuje o logiènome?
+
+1379
+02:05:52,447 --> 02:05:55,405
+Moja me putanja odvela kroz fizièko...
+
+1380
+02:05:56,452 --> 02:05:58,010
+metafizièko...
+
+1381
+02:05:59,329 --> 02:06:00,808
+iluzorno...
+
+1382
+02:06:03,040 --> 02:06:04,189
+i natrag.
+
+1383
+02:06:06,126 --> 02:06:09,323
+I došao sam do najvažnijeg otkriæa
+u svojoj karijeri.
+
+1384
+02:06:11,716 --> 02:06:14,105
+Do najvažnijeg otkriæa svojeg života.
+
+1385
+02:06:17,512 --> 02:06:20,424
+Jedino u tajanstvenim jednadžbama ljubavi...
+
+1386
+02:06:21,348 --> 02:06:23,862
+Iogièni razlozi mogu se pronaæi.
+
+1387
+02:06:27,522 --> 02:06:29,956
+Veèeras sam ovdje samo zbog tebe.
+
+1388
+02:06:32,027 --> 02:06:33,858
+Ti si razlog što postojim.
+
+1389
+02:06:38,947 --> 02:06:40,744
+Ti si svaki moj razlog.
+
+1390
+02:06:45,413 --> 02:06:46,687
+Hvala ti.
+
+1391
+02:07:41,214 --> 02:07:43,091
+Drago mi je što smo se sreli.
+
+1392
+02:07:46,012 --> 02:07:47,570
+Pozvat æu auto, tata.
+
+1393
+02:07:47,722 --> 02:07:49,838
+Bog.
+
+1394
+02:07:51,307 --> 02:07:53,775
+-Idemo li?
+-Da, idemo.
+
+1395
+02:07:54,144 --> 02:07:56,135
+Da, zaista, i da, molim.
+
+1396
+02:07:56,688 --> 02:07:58,246
+Puno ti hvala.
+
+1397
+02:07:59,690 --> 02:08:00,805
+Hvala.
+
+1398
+02:08:03,569 --> 02:08:05,446
+Što je? Što ne valja?
+
+1399
+02:08:10,242 --> 02:08:11,357
+Ništa.
+
+1400
+02:08:12,495 --> 02:08:13,689
+Ništa.
+
+1401
+02:08:16,331 --> 02:08:18,003
+Poði sa mnom, mlada damo.
+
+1402
+02:08:19,626 --> 02:08:23,619
+Auto mi je ispred. Idemo se provozati?
+
+1403
+02:08:25,382 --> 02:08:26,815
+Kamo idemo?
+
+1404
+02:08:26,966 --> 02:08:29,685
+Nashove su teorije utjecale
+na svjetske trgovaèke pregovore,
+
+1405
+02:08:29,884 --> 02:08:33,354
+državne odnose prema radnoj snazi
+i napretke u evolucijskoj biologiji.
+
+1406
+02:08:33,596 --> 02:08:37,225
+John i Alicia Nash žive u Princetonu, New Jersey.
+John radi
+
+1407
+02:08:37,434 --> 02:08:39,425
+na odsjeku Matematike.
+Svaki dan pješice odlazi na posao.
+
+1408
+02:15:07,087 --> 02:15:09,681
+Subtitles : SOFTITLER
+Sync : JimDiGriz
+
+1409
+02:15:12,681 --> 02:15:16,681
+Preuzeto sa www.titlovi.com
+

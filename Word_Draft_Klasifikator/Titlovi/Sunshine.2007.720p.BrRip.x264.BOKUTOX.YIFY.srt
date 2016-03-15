@@ -1,0 +1,3978 @@
+1
+00:00:31,800 --> 00:00:35,800
+www.titlovi.com
+
+2
+00:00:38,800 --> 00:00:41,000
+Naše sunce umire.
+
+3
+00:00:41,700 --> 00:00:44,500
+Èovjeèanstvu prijeti izumiranje.
+
+4
+00:00:46,500 --> 00:00:51,200
+Prije sedam godina, projekt Icarus
+je poslao misiju da obnove sunce.
+
+5
+00:00:51,400 --> 00:00:55,200
+Ali ta je misija izgubljena
+prije nego je došla do zvijezde.
+
+6
+00:00:57,200 --> 00:01:01,500
+Prije 16 mjeseci, ja, Robert Capa,
+i sedmeroèlana posada...
+
+7
+00:01:01,700 --> 00:01:05,000
+...smo napustili zemlju
+smrznutu u solarnoj zimi.
+
+8
+00:01:06,300 --> 00:01:07,900
+Naš korisni sadržaj je...
+
+9
+00:01:08,000 --> 00:01:13,000
+...zvjezdana bomba mase
+jednake Manhattanu.
+
+10
+00:01:13,800 --> 00:01:15,800
+Naš cilj je...
+
+11
+00:01:16,500 --> 00:01:20,000
+...da stvorimo zvijezdu u zvijezdi.
+
+12
+00:01:44,800 --> 00:01:49,000
+Osam astronauta zavezano
+je za stražnji dio bombe.
+
+13
+00:01:49,500 --> 00:01:51,000
+Moje bombe.
+
+14
+00:01:52,600 --> 00:01:54,800
+Dobrodošli na Icarus II.
+
+15
+00:02:27,300 --> 00:02:28,500
+Icarus.
+
+16
+00:02:29,000 --> 00:02:31,000
+Da, dr. Searle?
+
+17
+00:02:31,200 --> 00:02:34,700
+Molim vas, filtrirajte
+portal opservacijske sobe.
+
+18
+00:02:34,900 --> 00:02:38,500
+Filtriram prema gore ili dolje, dr. Searle?
+
+19
+00:02:39,100 --> 00:02:40,800
+Dolje.
+
+20
+00:02:44,900 --> 00:02:46,800
+Jao meni.
+
+21
+00:02:49,700 --> 00:02:54,400
+Icarus, koliko je ovo
+blizu punoj svjetlosti?
+
+22
+00:02:54,900 --> 00:02:58,900
+Na udaljenosti od 36 milijuna milja...
+
+23
+00:02:59,100 --> 00:03:03,800
+...promatrate sunce na
+2% pune svjetlosti.
+
+24
+00:03:04,200 --> 00:03:05,200
+Na 2%?
+
+25
+00:03:06,700 --> 00:03:08,400
+Možeš li mi pokazati 4%?
+
+26
+00:03:08,500 --> 00:03:13,000
+4% bi rezultiralo nepovratnim
+ošteæenjem vaše mrežnice.
+
+27
+00:03:19,900 --> 00:03:23,200
+Ali možete promatrati na 3.1%,
+
+28
+00:03:23,400 --> 00:03:26,400
+ne duže od 30 sekundi.
+
+29
+00:03:26,600 --> 00:03:29,500
+U redu. Icarus, ja æu postaviti
+
+30
+00:03:29,700 --> 00:03:33,800
+filter na 3.1%.
+
+31
+00:04:10,700 --> 00:04:12,800
+Pa, to je osnažujuæe.
+
+32
+00:04:13,000 --> 00:04:15,800
+Kao da se tuširaš na svjetlu.
+
+33
+00:04:16,000 --> 00:04:19,000
+Malo se izgubiš.
+-Kao plutaæa.
+
+34
+00:04:19,200 --> 00:04:20,300
+Zapravo, ne.
+
+35
+00:04:25,800 --> 00:04:27,100
+Što je to, govedina?
+
+36
+00:04:27,300 --> 00:04:28,700
+Piletina.
+
+37
+00:04:28,800 --> 00:04:31,200
+Ako ti se ne sviða,
+slijedeæi puta uzmi moju smjenu.
+
+38
+00:04:31,400 --> 00:04:34,500
+Za psiho test u dubokom svemiru,
+ja sam provjeravao gubitak senzora.
+
+39
+00:04:34,700 --> 00:04:37,200
+Testirao sam potpunu
+tamu na plutaæama.
+
+40
+00:04:37,300 --> 00:04:41,200
+Glavna stvar u tami je
+da mi plutamo u njoj.
+
+41
+00:04:41,400 --> 00:04:44,200
+Ti i tama se razlikujete...
+
+42
+00:04:44,400 --> 00:04:48,500
+...zato što je tamo nedostatak
+neèega, ona je vakuum.
+
+43
+00:04:48,600 --> 00:04:51,700
+Ali potpuna svjetlost, ona te obuhvaæa.
+
+44
+00:04:51,800 --> 00:04:53,500
+Ona postaje ti.
+
+45
+00:04:56,000 --> 00:04:58,000
+To je veoma èudno. Ja ne--
+
+46
+00:04:58,700 --> 00:05:00,300
+Ja vam to preporuèam.
+
+47
+00:05:00,400 --> 00:05:03,300
+Èudno je, SearIe,
+što si ti psihijatar,
+
+48
+00:05:03,400 --> 00:05:05,800
+a ja sam oèito puno zdraviji od tebe.
+
+49
+00:05:08,600 --> 00:05:09,700
+Dobro je.
+
+50
+00:05:24,300 --> 00:05:26,700
+U redu, ako nitko to neæe
+spomenuti, budem ja.
+
+51
+00:05:26,800 --> 00:05:31,200
+Oèitavanje solarnog vjetra je puno više
+nego smo oèekivali na ovoj udaljenosti.
+
+52
+00:05:31,300 --> 00:05:34,500
+U ovom trenutku još uvijek
+možemo slati poruke.
+
+53
+00:05:34,700 --> 00:05:37,200
+Naleti visoke frekvencije
+æe se dignuti iznad smetnji,
+
+54
+00:05:37,400 --> 00:05:40,300
+a postaje na mjesecu æe ih moæi dobiti.
+
+55
+00:05:40,400 --> 00:05:45,700
+Ali moguæe je da nakon slijedeæih 24 sata
+neæemo uopæe moæi komunicirati.
+
+56
+00:05:45,800 --> 00:05:47,300
+Moguæe?
+
+57
+00:05:48,500 --> 00:05:50,100
+Vjerojatno.
+
+58
+00:05:52,300 --> 00:05:54,200
+Konaèno æemo biti sami.
+
+59
+00:05:54,400 --> 00:05:57,600
+Mi smo 55 milijuna milja od zemlje.
+Mislim da smo veæ sami.
+
+60
+00:05:58,100 --> 00:06:01,000
+Hajde, ljudi.
+Oèekivali smo to.
+
+61
+00:06:01,100 --> 00:06:03,200
+Nema velike drame.
+Mi letimo u smrtonosnu zonu
+
+62
+00:06:03,400 --> 00:06:05,800
+sedam dana ranije nego smo mislili.
+
+63
+00:06:06,300 --> 00:06:10,100
+Ali ako itko od vas planira
+poslati zadnju poruku kuæi...
+
+64
+00:06:10,700 --> 00:06:12,400
+...trebali bi to uèiniti sada.
+
+65
+00:06:22,800 --> 00:06:25,500
+Mama i tata.
+
+66
+00:06:27,500 --> 00:06:29,800
+Nadam se da ste ponosni na sina...
+
+67
+00:06:30,000 --> 00:06:32,800
+...koji spašava èovjeèanstvo i tako.
+
+68
+00:07:01,600 --> 00:07:06,000
+Do vremena kad dobijete ovu poruku,
+ja æu biti u smrtonosnoj zoni.
+
+69
+00:07:07,200 --> 00:07:09,800
+Došli smo brže do nje
+nego smo mislili.
+
+70
+00:07:10,300 --> 00:07:14,200
+To znaèi da vi neæete
+moæi uzvratiti porukom.
+
+71
+00:07:15,500 --> 00:07:20,100
+Ja sam vam samo želio reæi
+da ne trebam poruku.
+
+72
+00:07:20,800 --> 00:07:24,800
+Zato što znam sve što želite reæi.
+
+73
+00:07:32,500 --> 00:07:38,600
+Samo zapamtite da treba 8 minuta
+svjetlu od sunca do zemlje.
+
+74
+00:07:38,800 --> 00:07:40,900
+To znaèi da æete znati
+jesmo li uspjeli
+
+75
+00:07:41,000 --> 00:07:44,300
+negdje 8 minuta nakon što
+isporuèimo teret.
+
+76
+00:07:44,500 --> 00:07:49,000
+Vi samo morate tražiti malo
+dodatne svjetlosti na nebu.
+
+77
+00:07:49,200 --> 00:07:53,500
+Pa, ako se probudite jedno jutro,
+a vani je posebno lijep dan...
+
+78
+00:07:53,700 --> 00:07:55,700
+...znat æete da smo uspjeli.
+
+79
+00:07:57,900 --> 00:07:59,500
+Ok.
+
+80
+00:07:59,800 --> 00:08:01,600
+Ja se iskljuèujem.
+
+81
+00:08:02,700 --> 00:08:05,000
+Vidimo se za nekoliko godina.
+
+82
+00:08:53,000 --> 00:08:55,500
+Icarus, malo smanji svjetlost, može?
+
+83
+00:08:55,700 --> 00:08:57,900
+Da, Corazon.
+
+84
+00:09:02,800 --> 00:09:04,700
+Kapetane?
+
+85
+00:09:07,500 --> 00:09:09,200
+Kapetane?
+
+86
+00:09:11,700 --> 00:09:14,500
+Izgleda da ste prièali sa SearIeom.
+
+87
+00:09:16,900 --> 00:09:19,000
+Imaš li onaj izvještaj?
+-Da.
+
+88
+00:09:19,200 --> 00:09:20,500
+Ovdje je.
+
+89
+00:09:22,100 --> 00:09:26,000
+Proizvodnja kisika je dobra. Ustvari,
+ako ništa, mislim da i previše proizvodimo.
+
+90
+00:09:26,100 --> 00:09:28,800
+Dramatièno æe pasti kad se približimo.
+
+91
+00:09:29,000 --> 00:09:33,700
+Ali mi imamo rezerve da stignemo
+tamo i za èetvrtinu nazad.
+
+92
+00:09:36,000 --> 00:09:38,500
+Ti razmišljaš o Icarusu I.
+
+93
+00:09:40,300 --> 00:09:43,400
+Što god je njih iznenadilo...
+
+94
+00:09:43,500 --> 00:09:46,500
+...mislim da nije nedostatak kisika.
+
+95
+00:09:46,900 --> 00:09:49,700
+Ne na vidljivom putovanju.
+
+96
+00:09:51,100 --> 00:09:52,800
+Jebemti.
+
+97
+00:09:55,900 --> 00:09:57,300
+Jebemti.
+
+98
+00:09:59,600 --> 00:10:02,700
+Mace.
+-Mace.
+
+99
+00:10:03,200 --> 00:10:04,900
+Što radiš?
+-Hajde.
+
+100
+00:10:05,000 --> 00:10:06,900
+Jebemti.
+-Opusti se. Spusti ga.
+
+101
+00:10:07,100 --> 00:10:08,200
+Kurvin sine.
+
+102
+00:10:10,500 --> 00:10:12,100
+Trebalo mu je sat vremena
+unutra. -Prestani.
+
+103
+00:10:12,300 --> 00:10:14,600
+Ja ne mogu poslati svoju poruku
+jer je vjetar previsok.
+
+104
+00:10:14,800 --> 00:10:18,200
+Smiri se.
+-Žao mi je, u redu? Isuse.
+
+105
+00:10:18,400 --> 00:10:21,200
+Kaneda, SearIe, javite se na palubu.
+
+106
+00:10:21,400 --> 00:10:23,100
+Što se dogaða?
+
+107
+00:10:23,500 --> 00:10:27,400
+Imamo eksces muževnosti
+u centru za komunikaciju.
+
+108
+00:10:31,400 --> 00:10:32,500
+Kako to sad ide?
+
+109
+00:10:32,700 --> 00:10:34,900
+Trebam li ti prièati o
+svojem djetinjstvu?
+
+110
+00:10:35,000 --> 00:10:38,200
+Ja vjerojatno više znam o
+tvojem djetinjstvu od tebe.
+
+111
+00:10:44,200 --> 00:10:45,400
+Vrijeme je krivo.
+
+112
+00:10:48,500 --> 00:10:51,500
+U 16 mjeseci se možeš
+na sve naviknuti.
+
+113
+00:10:52,000 --> 00:10:53,500
+Jednostavno...
+
+114
+00:10:54,000 --> 00:10:55,800
+...se izgubiš.
+
+115
+00:11:00,200 --> 00:11:02,300
+Znam da sam zajebao.
+
+116
+00:11:08,500 --> 00:11:10,300
+Od sada...
+
+117
+00:11:10,500 --> 00:11:13,200
+...više se neæu izgubiti.
+
+118
+00:11:15,300 --> 00:11:16,700
+Recept...
+
+119
+00:11:18,000 --> 00:11:20,200
+...soba na zemlji.
+
+120
+00:11:20,400 --> 00:11:21,800
+Dva sata?
+
+121
+00:11:22,300 --> 00:11:25,700
+I ošišaj se, Mace.
+-Da.
+
+122
+00:11:40,300 --> 00:11:41,500
+Vrati valove.
+
+123
+00:11:41,700 --> 00:11:45,600
+Recept dr. Searlea precizira mirni modul.
+
+124
+00:11:45,800 --> 00:11:47,400
+Valovi me èine mirnim.
+
+125
+00:11:57,200 --> 00:11:58,900
+Ponovno.
+
+126
+00:12:16,900 --> 00:12:19,600
+Mace, žao mi je.
+Trebao sam te pustiti da prvi ideš.
+
+127
+00:12:19,800 --> 00:12:23,100
+Capa. Ja sam kriv.
+Ja se isprièavam, u redu?
+
+128
+00:12:23,500 --> 00:12:25,100
+U redu.
+
+129
+00:12:30,600 --> 00:12:32,400
+Je li to bila isprika?
+-Da.
+
+130
+00:12:32,500 --> 00:12:35,000
+Smatraj ju prihvaæenom.
+-Ok.
+
+131
+00:13:00,400 --> 00:13:04,100
+Slijed kontaktnih izvješæa
+na lijevom štitu,
+
+132
+00:13:04,800 --> 00:13:09,400
+koji se je do 17 sati pretvorio
+u manju asteroidnu oluju.
+
+133
+00:13:09,600 --> 00:13:11,600
+Nijedan nije bio veæi
+od kapi kiše,
+
+134
+00:13:11,800 --> 00:13:13,300
+ali imali smo 19 probijanja,
+
+135
+00:13:13,500 --> 00:13:16,800
+a i sekundarni kontakt
+na odjeljku motora.
+
+136
+00:13:17,000 --> 00:13:19,700
+Trebale su nam tri smjene
+da ga zakrpamo.
+
+137
+00:13:19,900 --> 00:13:22,700
+Izgubili smo malo pare. Ništa ozbiljno.
+
+138
+00:13:23,200 --> 00:13:26,000
+Gledao sam kako nas pogaðaju
+iz opservacijske sobe.
+
+139
+00:13:26,400 --> 00:13:29,000
+Moram vam reæi, bazo na mjesecu, bilo je--
+
+140
+00:13:29,800 --> 00:13:31,600
+Bilo je...
+
+141
+00:13:32,000 --> 00:13:33,700
+...prelijepo.
+
+142
+00:13:35,200 --> 00:13:37,700
+Moram vam reæi, bazo na mjesecu, bilo je--
+
+143
+00:13:38,600 --> 00:13:40,300
+Bilo je...
+
+144
+00:13:40,700 --> 00:13:42,600
+...prelijepo.
+
+145
+00:13:58,800 --> 00:14:00,800
+Mace?
+-Da.
+
+146
+00:14:01,000 --> 00:14:03,900
+Tvoj program održavanja
+dopušta još 14 minuta
+
+147
+00:14:04,100 --> 00:14:07,500
+ploèi glavnog raèunala da
+ostane bez rashlaðivanja.
+
+148
+00:14:09,100 --> 00:14:10,600
+Sranje.
+
+149
+00:14:35,600 --> 00:14:36,800
+Ljudi...
+
+150
+00:14:37,000 --> 00:14:38,800
+...želite li vidjeti nešto?
+
+151
+00:14:41,900 --> 00:14:45,000
+Pa, trebao bih imati nešto za reæi...
+
+152
+00:14:45,100 --> 00:14:47,000
+...ali o odsjaju...
+
+153
+00:14:47,200 --> 00:14:48,700
+...što se može reæi?
+
+154
+00:14:48,800 --> 00:14:51,000
+Dame i gospodo.
+
+155
+00:14:52,000 --> 00:14:53,100
+Merkur.
+
+156
+00:16:30,400 --> 00:16:33,600
+Prije 23 sata,
+na sustavu za komunikaciju--
+
+157
+00:16:33,800 --> 00:16:35,500
+Dok si slušao svemirsku muziku?
+
+158
+00:16:35,600 --> 00:16:39,100
+--dok sam skenirao frekvencije,
+èuo sam prijenos.
+
+159
+00:16:40,600 --> 00:16:43,300
+Pojavio se dok smo letjeli
+u tamnu stranu Merkura.
+
+160
+00:16:43,400 --> 00:16:45,100
+Željezni sadržaj planeta
+
+161
+00:16:45,300 --> 00:16:46,600
+se ponaša kao antena.
+
+162
+00:16:46,800 --> 00:16:50,300
+Velike su smetnje u pozadini,
+ali signaI je dovoljno jasan.
+
+163
+00:16:50,500 --> 00:16:54,300
+Icarus, molim te, pusti
+audio zvuk 7-5/B.
+
+164
+00:16:54,400 --> 00:16:56,500
+Da, Harvey.
+
+165
+00:17:13,100 --> 00:17:14,100
+Kraj dosjea.
+
+166
+00:17:15,100 --> 00:17:16,700
+Što je to?
+
+167
+00:17:17,300 --> 00:17:19,100
+To je Icarus I.
+
+168
+00:17:20,800 --> 00:17:22,800
+Taj signal je njihov znak za opasnost.
+
+169
+00:17:23,000 --> 00:17:24,300
+Isuse.
+
+170
+00:17:24,400 --> 00:17:26,500
+To je nemoguæe.
+Prošlo je sedam godina.
+
+171
+00:17:26,700 --> 00:17:29,300
+Oèito nije nemoguæe
+jer ga možete èuti.
+
+172
+00:17:29,400 --> 00:17:31,500
+Jesu li još uvijek živi?
+-To ne znamo.
+
+173
+00:17:31,600 --> 00:17:33,800
+Ali mogli bi biti.
+Kisik se sam dolijeva.
+
+174
+00:17:34,000 --> 00:17:35,600
+Voda se reciklira.
+
+175
+00:17:35,800 --> 00:17:37,600
+Imaju solarnu snagu koja im treba.
+
+176
+00:17:37,700 --> 00:17:40,400
+Što je sa hranom?
+Njihove zalihe nisu mogle izdržati.
+
+177
+00:17:40,600 --> 00:17:42,000
+To ovisi.
+
+178
+00:17:42,100 --> 00:17:44,800
+Imali su zalihe da pokriju
+osam ljudi u tri godine.
+
+179
+00:17:44,900 --> 00:17:46,800
+To je èetiri godine više.
+Strašna dijeta.
+
+180
+00:17:47,000 --> 00:17:49,000
+Mi ne znamo što se
+dogodilo Icarusu I.
+
+181
+00:17:49,200 --> 00:17:51,300
+Možda se je dogodila nesreæa.
+
+182
+00:17:51,500 --> 00:17:53,700
+Možda nije trebalo hraniti osmero ljudi.
+
+183
+00:17:53,800 --> 00:17:57,800
+Kapetane, znamo li gdje su oni?
+-Bravo, Capa. To je pravo pitanje.
+
+184
+00:17:58,700 --> 00:18:00,600
+Icarus.
+
+185
+00:18:01,000 --> 00:18:04,600
+Molim te, prikaži naš put oko Merkura.
+
+186
+00:18:04,800 --> 00:18:06,700
+Da, kapetane.
+
+187
+00:18:09,100 --> 00:18:12,700
+Sada prikaži izvor znaka Icarusa I.
+
+188
+00:18:17,900 --> 00:18:19,900
+Isuse. Skoro su uspjeli.
+
+189
+00:18:20,100 --> 00:18:22,500
+Zato nitko do sada nije èuo signal.
+
+190
+00:18:23,700 --> 00:18:25,800
+Bio je izgubljen u pozadini
+svjetla i buke.
+
+191
+00:18:26,000 --> 00:18:27,500
+Proæi æemo pokraj njih.
+
+192
+00:18:27,700 --> 00:18:31,000
+Oko 10 do 15 tisuæa milja.
+
+193
+00:18:31,200 --> 00:18:33,200
+Može li netko preživjeti?
+
+194
+00:18:33,300 --> 00:18:35,900
+Ako je štit netaknut.
+
+195
+00:18:36,200 --> 00:18:38,300
+Hoæemo li ih moæi vidjeti?
+
+196
+00:18:39,300 --> 00:18:40,700
+Da.
+
+197
+00:18:40,800 --> 00:18:44,800
+Moram ovo pažljivo pogledati.
+Veoma pažljivo.
+
+198
+00:18:44,900 --> 00:18:50,200
+Ali da moram pogaðati,
+rekao bih da možemo prilagoditi naš put.
+
+199
+00:18:50,600 --> 00:18:52,100
+Možemo letjeti ravno prema njima.
+
+200
+00:18:52,200 --> 00:18:53,800
+Ali mi to neæemo uèiniti.
+
+201
+00:18:57,300 --> 00:19:01,200
+Samo da to razjasnimo,
+nema šanse da æemo to uèiniti.
+
+202
+00:19:04,300 --> 00:19:06,800
+Moram li vam slovkati?
+
+203
+00:19:07,000 --> 00:19:10,000
+Imamo teret koji moramo isporuèiti
+u srce naše najbliže zvijezde.
+
+204
+00:19:10,100 --> 00:19:12,600
+Radimo to zato što
+ta zvijezda umire.
+
+205
+00:19:12,700 --> 00:19:14,600
+A ako ona umre, i mi æemo umrijeti.
+
+206
+00:19:14,800 --> 00:19:16,100
+Sve æe umrijeti.
+
+207
+00:19:16,300 --> 00:19:18,100
+To je naš zadatak.
+Ne postoji ništa...
+
+208
+00:19:18,200 --> 00:19:22,000
+...doslovno ništa važnijeg od
+izvršavanja našeg zadatka. Kraj prièe.
+
+209
+00:19:22,200 --> 00:19:24,600
+On je u pravu.
+-Naravno da sam u pravu.
+
+210
+00:19:24,800 --> 00:19:27,100
+Da li netko ovdje smatra drugaèije?
+
+211
+00:19:27,300 --> 00:19:29,000
+Mogu li reæi protuargument?
+-Ne.
+
+212
+00:19:29,100 --> 00:19:30,500
+Kapetane?
+
+213
+00:19:30,700 --> 00:19:31,800
+Samo naprijed.
+
+214
+00:19:32,600 --> 00:19:34,700
+Naravno, bilo bi
+
+215
+00:19:34,800 --> 00:19:39,300
+apsurdno da mijenjamo naš put
+da pomognemo posadi Icarusa I.
+
+216
+00:19:39,400 --> 00:19:42,800
+Èak i da znamo da je netko ili
+èak svi èlanovi posade živi...
+
+217
+00:19:43,300 --> 00:19:48,300
+...njihovi životi su potrošni kada
+pogledamo kontekst našeg zadatka.
+
+218
+00:19:49,500 --> 00:19:50,500
+Kao i naši životi.
+
+219
+00:19:50,700 --> 00:19:52,300
+Toèno tako.
+-Unatoè tome...
+
+220
+00:19:53,200 --> 00:19:56,700
+...postoji nešto na Icarusu I
+što je vrijedno promjene puta.
+
+221
+00:19:56,800 --> 00:19:59,500
+Kao što si naglasio, Mace,
+mi imamo teret za isporuèiti.
+
+222
+00:19:59,600 --> 00:20:00,700
+Teret. Samo jedan.
+
+223
+00:20:00,800 --> 00:20:04,400
+Sve vezano uz tu isporuku
+i uèinkovitost tereta
+
+224
+00:20:04,600 --> 00:20:07,100
+je posve teoretsko.
+
+225
+00:20:07,300 --> 00:20:09,000
+Jednostavno reèeno...
+
+226
+00:20:09,100 --> 00:20:11,500
+...ne znamo hoæe li to upaliti.
+
+227
+00:20:11,700 --> 00:20:14,900
+Ali mi znamo ovo...
+
+228
+00:20:15,200 --> 00:20:18,400
+...ako bi imali dvije bombe,
+imali bi i dvije prilike.
+
+229
+00:20:18,600 --> 00:20:21,500
+Ti pretpostavljaš da æemo
+moæi pilotirati Icarusom I.
+
+230
+00:20:21,600 --> 00:20:22,700
+Da.
+-Time pretpostavljaš
+
+231
+00:20:22,800 --> 00:20:27,300
+da ono što je njih zaustavilo nije bila
+greška ili šteta na letjelici.
+
+232
+00:20:27,500 --> 00:20:29,400
+Da.
+-To je puno pretpostavki.
+
+233
+00:20:29,600 --> 00:20:30,600
+Znam.
+
+234
+00:20:30,800 --> 00:20:32,100
+To je procjenjivanje rizika.
+
+235
+00:20:32,300 --> 00:20:33,300
+Pitanje je:
+
+236
+00:20:33,500 --> 00:20:37,400
+Da li je rizik mijenjanja puta veæi
+od koristi dodatnog tereta?
+
+237
+00:20:46,600 --> 00:20:47,900
+Morat æemo glasati.
+-Ne, ne.
+
+238
+00:20:48,400 --> 00:20:49,800
+Ne, neæemo.
+
+239
+00:20:51,000 --> 00:20:52,600
+Mi nismo demokracija.
+
+240
+00:20:54,200 --> 00:20:57,100
+Mi smo skupina astronauta i znanstvenika.
+
+241
+00:20:57,300 --> 00:21:00,800
+Zato æemo donijeti najbolju
+odluku koju i možemo.
+
+242
+00:21:00,900 --> 00:21:02,200
+Koju æeš možda ti donijeti?
+
+243
+00:21:02,400 --> 00:21:05,600
+Donijet æe ju osoba koja je najkvalificiranija
+da razumije kompleksnosti...
+
+244
+00:21:05,800 --> 00:21:07,700
+...isporuke tereta.
+
+245
+00:21:08,200 --> 00:21:09,600
+Naš fizièar.
+
+246
+00:21:17,700 --> 00:21:19,300
+Sranje.
+
+247
+00:21:24,200 --> 00:21:28,700
+Ok, Icarus, izraèunaj
+uspješnu isporuku tereta.
+
+248
+00:21:28,800 --> 00:21:31,200
+Ok, toèka isporuke tereta je dosegnuta.
+
+249
+00:21:31,300 --> 00:21:32,500
+Odvoji teret.
+
+250
+00:21:33,000 --> 00:21:36,100
+Zvjezdana bomba je pokrenuta i odvojena.
+
+251
+00:21:36,200 --> 00:21:38,700
+Posada i svi živi imaju 4 minute
+
+252
+00:21:38,800 --> 00:21:41,700
+da otiðu i zapoènu put prema kuæi.
+
+253
+00:21:42,100 --> 00:21:46,700
+Èetiri minute nakon rastavljanja,
+pobuðivaèi automatski pucaju.
+
+254
+00:21:46,800 --> 00:21:51,600
+Pobuðivaèi tereta æe automatski
+pucati nakon kašnjenja od 4 minute.
+
+255
+00:21:51,800 --> 00:21:54,300
+Ulaze u koronalnu rupu
+u Južnopolarnom èepu.
+
+256
+00:21:54,400 --> 00:21:56,100
+Otvara se magnetsko polje.
+
+257
+00:21:56,300 --> 00:21:58,800
+Temperatura je 37 000 stupnjeva.
+
+258
+00:21:59,000 --> 00:22:02,700
+Pouzdanost projekcije je
+pala ispod 45 posto.
+
+259
+00:22:02,900 --> 00:22:06,400
+Preostala projekcija nije
+otvorena korisnom nagaðanju.
+
+260
+00:22:06,600 --> 00:22:08,200
+Varijable su beskonaène.
+
+261
+00:22:08,300 --> 00:22:09,700
+Preciznost je nepoznata.
+
+262
+00:22:09,800 --> 00:22:11,500
+To je probIem.
+
+263
+00:22:11,600 --> 00:22:14,000
+Izmeðu pobuðivaèa i
+gravitacije sunca...
+
+264
+00:22:14,200 --> 00:22:16,000
+...ubrzanje æe biti toliko da æe...
+
+265
+00:22:16,200 --> 00:22:18,500
+...prostor i vrijeme postati
+razliæeni zajedno.
+
+266
+00:22:18,700 --> 00:22:21,800
+Sve æe se izoblièiti,
+sve æe biti nepregledno.
+
+267
+00:22:22,000 --> 00:22:24,800
+Moraš se odluèiti za jednu ili drugu stranu.
+
+268
+00:22:25,100 --> 00:22:28,900
+Treba mi odluka.
+-To ne bi bila odluka, nego pogaðanje.
+
+269
+00:22:29,300 --> 00:22:33,500
+Kao da bacaš novèiæ i pitaš me
+da odluèim hoæu li biti pismo ili glava.
+
+270
+00:22:34,400 --> 00:22:36,000
+I?
+
+271
+00:22:37,100 --> 00:22:38,400
+Glava.
+
+272
+00:22:43,400 --> 00:22:46,900
+Potrošili smo sve zemaljske
+materijale za ovu bombu.
+
+273
+00:22:47,300 --> 00:22:49,900
+Neæe biti još jednog tereta.
+
+274
+00:22:51,500 --> 00:22:54,300
+Onaj koji mi nosimo
+je posljednja šansa.
+
+275
+00:22:54,500 --> 00:22:58,300
+Naša zadnja najbolja nada.
+
+276
+00:23:01,700 --> 00:23:04,200
+SearIeov argument je dobar.
+
+277
+00:23:04,600 --> 00:23:06,500
+Dvije zadnje nade su bolje nego jedna.
+
+278
+00:23:08,600 --> 00:23:10,000
+To je sve.
+
+279
+00:23:27,000 --> 00:23:28,600
+Kruženje je dovršeno.
+
+280
+00:23:28,800 --> 00:23:31,900
+Icarus napušta Merkurovu orbitu.
+
+281
+00:24:00,400 --> 00:24:01,500
+Hej.
+
+282
+00:24:01,700 --> 00:24:03,500
+Hej.
+
+283
+00:24:08,800 --> 00:24:10,500
+Dobar san?
+
+284
+00:24:11,700 --> 00:24:13,000
+Da pogodim.
+
+285
+00:24:13,300 --> 00:24:15,300
+Površina sunca?
+
+286
+00:24:17,300 --> 00:24:19,200
+Jedini san koji sanjam.
+
+287
+00:24:19,900 --> 00:24:23,200
+Svaki puta kada zatvorim oèi.
+Uvijek je isto.
+
+288
+00:24:24,800 --> 00:24:27,500
+Možda bi trebala prièati s
+dr. SearIeom o tome.
+
+289
+00:24:28,100 --> 00:24:30,700
+Vidjeti može li ti on pomoæi.
+
+290
+00:24:33,200 --> 00:24:35,000
+Možda.
+
+291
+00:24:38,500 --> 00:24:40,900
+Samo sam željela da znaš...
+
+292
+00:24:41,500 --> 00:24:44,000
+...da ja mislim da si donio
+ispravnu odluku.
+
+293
+00:24:45,200 --> 00:24:46,600
+Dobro.
+
+294
+00:24:48,900 --> 00:24:53,700
+Mace to ne misli, a niti Harvey i Trey.
+
+295
+00:24:53,800 --> 00:24:55,300
+Da...
+
+296
+00:24:55,700 --> 00:24:57,500
+...ali ja mislim.
+
+297
+00:25:23,800 --> 00:25:26,200
+Ugasi alarm. Što se dogaða?
+-Zajebao sam.
+
+298
+00:25:26,400 --> 00:25:28,300
+Nisi ti. To je moja odgovornost.
+
+299
+00:25:28,500 --> 00:25:30,700
+Ne bi smjeli lutati.
+-Trey, objasni.
+
+300
+00:25:30,900 --> 00:25:34,300
+Da mogu promijeniti rutu,
+morao sam ruèno premostiti Icarusa.
+
+301
+00:25:34,500 --> 00:25:38,100
+Sam sam sve izraèunao.
+I provjerio sam dva-tri puta.
+
+302
+00:25:38,300 --> 00:25:39,500
+Svaki put je bilo dobro.
+
+303
+00:25:39,700 --> 00:25:42,600
+Postavio sam nove koordinate
+i stavio nas na novi put.
+
+304
+00:25:42,800 --> 00:25:45,000
+U èemu je probIem?
+Je li putanja loša?
+
+305
+00:25:45,200 --> 00:25:46,400
+Putanja je dobra.
+
+306
+00:25:47,000 --> 00:25:51,300
+Ali ona mijenja naš kut pristupa
+suncu za 1.1 stupanj.
+
+307
+00:25:51,400 --> 00:25:54,200
+Nisi postavio štitove
+prema novom kutu.
+
+308
+00:25:57,500 --> 00:25:59,800
+Isuse Kriste, Trey.
+
+309
+00:26:00,300 --> 00:26:02,100
+Zaboravio sam.
+
+310
+00:26:05,000 --> 00:26:10,100
+Moja glava je bila puna vektora i
+izraèunavanja goriva i milijun drugih--
+
+311
+00:26:10,300 --> 00:26:13,100
+Zajebao sam, u redu?
+
+312
+00:26:14,900 --> 00:26:16,600
+Ljudi rade sranja.
+
+313
+00:26:16,800 --> 00:26:18,500
+Oni su pod stresom...
+
+314
+00:26:19,400 --> 00:26:21,300
+...i zajebu stvar.
+
+315
+00:26:22,100 --> 00:26:23,300
+Zajebao sam.
+
+316
+00:26:23,500 --> 00:26:25,300
+Trey.
+
+317
+00:26:30,200 --> 00:26:33,200
+Èinjenica je da smo još uvijek živi.
+
+318
+00:26:34,300 --> 00:26:36,800
+Rupa nije zapalila stranu broda.
+
+319
+00:26:37,000 --> 00:26:39,100
+Nemamo klimu od 10 000 stupnjeva.
+
+320
+00:26:39,300 --> 00:26:42,200
+Koja je prava šteta?
+-Ne znamo.
+
+321
+00:26:42,300 --> 00:26:45,900
+Icarus je pokušao postaviti štitove
+neovisno o nama kada se je oglasio aIarm.
+
+322
+00:26:46,000 --> 00:26:48,100
+Ali svi senzori su izgorjeli.
+
+323
+00:26:48,300 --> 00:26:50,900
+Nemamo pojma o stanju
+pogoðenog podruèja.
+
+324
+00:26:51,800 --> 00:26:54,400
+Znati æemo samo ako izaðemo van.
+
+325
+00:26:56,100 --> 00:26:57,600
+Ok.
+
+326
+00:26:57,800 --> 00:26:59,600
+Idem se obuæi.
+
+327
+00:26:59,800 --> 00:27:01,700
+To je posao za dvojicu.
+
+328
+00:27:01,900 --> 00:27:04,500
+Kao drugi zapovjednik,
+ti ne ideš nikuda.
+
+329
+00:27:04,600 --> 00:27:06,600
+Ja se dobrovoljno javljam.
+-Ne, ja se javljam.
+
+330
+00:27:07,400 --> 00:27:08,500
+Dobro.
+
+331
+00:27:08,700 --> 00:27:10,900
+Ja prijavljujem Capu.
+
+332
+00:27:15,400 --> 00:27:16,700
+Naravno.
+
+333
+00:27:16,900 --> 00:27:18,300
+Ja æu iæi.
+
+334
+00:27:20,400 --> 00:27:21,900
+Ok.
+
+335
+00:27:47,500 --> 00:27:48,900
+Ok.
+
+336
+00:28:28,200 --> 00:28:31,200
+Uèinio si ovo tisuæu puta
+na treningu zemljane orbite.
+
+337
+00:28:32,000 --> 00:28:33,500
+Da.
+
+338
+00:28:33,600 --> 00:28:35,400
+Bit æeš dobro.
+
+339
+00:28:35,500 --> 00:28:36,600
+Ok?
+
+340
+00:28:49,100 --> 00:28:50,200
+Ok, Icarus.
+
+341
+00:28:50,300 --> 00:28:52,300
+Ja æu nakratko preuzeti kontrolu.
+
+342
+00:28:52,500 --> 00:28:54,800
+Ok, Cassie.
+-Smanjit æu brzinu.
+
+343
+00:28:55,000 --> 00:28:58,000
+Ja æu nas zarotirati da ošteæeno
+mjesto nije okrenuto prema suncu.
+
+344
+00:28:58,100 --> 00:29:00,500
+Da li se razumijemo?
+-Da, Cassie.
+
+345
+00:29:00,600 --> 00:29:03,800
+Ako toliko zarotiraš, izgubit æemo
+komunikacijske tornjeve 3 i 4.
+
+346
+00:29:04,000 --> 00:29:06,500
+Pa, onda je dobro to
+što ih ne trebamo.
+
+347
+00:29:06,600 --> 00:29:09,300
+Ne trebamo ih sada, ali trebat
+æemo ih kada æemo iæi doma.
+
+348
+00:29:09,500 --> 00:29:11,500
+O tome æemo kada doðemo do toga.
+
+349
+00:29:11,700 --> 00:29:15,300
+U meðuvremenu, ja æu im
+pokušati pružiti što više sjene.
+
+350
+00:29:15,500 --> 00:29:16,700
+U redu, ljudi.
+
+351
+00:29:16,800 --> 00:29:18,600
+Otvaram nas.
+
+352
+00:29:51,100 --> 00:29:53,000
+Ok.
+
+353
+00:29:58,600 --> 00:30:01,100
+Ukljuèena je kamera na kacigi.
+
+354
+00:30:01,300 --> 00:30:03,000
+Potvrdno. Dobra slika.
+
+355
+00:30:05,500 --> 00:30:07,500
+Capa, provjera,
+kamera na kacigi je ukljuèena.
+
+356
+00:30:07,600 --> 00:30:09,300
+Potvrdno.
+
+357
+00:30:13,200 --> 00:30:16,500
+Izlazim iz zraène komore
+sa modulima za održavanje.
+
+358
+00:30:30,200 --> 00:30:34,000
+Kreæemo se prema dolje da
+istražimo ošteæeno podruèje.
+
+359
+00:30:34,900 --> 00:30:36,800
+Ok, ljudi.
+
+360
+00:30:36,900 --> 00:30:38,600
+Lijepo i polako.
+
+361
+00:30:39,600 --> 00:30:41,400
+Lijepo i polako.
+
+362
+00:30:41,500 --> 00:30:43,300
+Primljeno.
+
+363
+00:30:55,800 --> 00:30:58,800
+Icarus, molim te, prilagodi
+štit da dopustiš rotaciju.
+
+364
+00:30:59,000 --> 00:31:01,100
+Da, Cassie.
+
+365
+00:31:29,300 --> 00:31:31,700
+Formiram novo podešavanje prema suncu.
+
+366
+00:31:34,300 --> 00:31:36,000
+Isuse.
+
+367
+00:31:36,100 --> 00:31:38,300
+To je mijenjanje temperature na štitovima.
+
+368
+00:31:38,400 --> 00:31:41,000
+Metal se samo uvija i širi.
+
+369
+00:31:41,100 --> 00:31:43,800
+Znam što je to, leteæi deèko.
+
+370
+00:31:52,100 --> 00:31:55,000
+Zvuèi kao da se raspada.
+
+371
+00:32:16,200 --> 00:32:20,000
+Fatalna šteta komunikacijskih tornjeva 3 i 4.
+
+372
+00:32:20,100 --> 00:32:23,500
+Primljeno, Icarus. Gubitak
+tornja 3 i 4. Otkaži aIarm.
+
+373
+00:32:23,600 --> 00:32:26,800
+Ugasi senzore komunikacijskih tornjeva 3 i 4.
+
+374
+00:32:36,500 --> 00:32:39,500
+Trebali bi vidjeti kako je ovdje, ljudi.
+
+375
+00:32:40,400 --> 00:32:42,600
+Prilièno je impresivno.
+
+376
+00:32:54,400 --> 00:32:55,800
+Ok.
+
+377
+00:32:56,000 --> 00:32:59,000
+Ovdje su 4 ošteæene ploèe.
+
+378
+00:33:01,900 --> 00:33:04,900
+One su udaljene 300 metara.
+
+379
+00:33:17,600 --> 00:33:20,900
+Capa, lakše malo. Brzo trošiš kisik.
+
+380
+00:33:22,700 --> 00:33:24,800
+Primljeno, Cory.
+
+381
+00:33:29,900 --> 00:33:32,100
+Tako je. Uspori disanje.
+
+382
+00:33:32,300 --> 00:33:34,300
+Opušteno kretanje.
+
+383
+00:33:54,100 --> 00:33:56,500
+Prilazim prvoj ploèi.
+
+384
+00:34:19,500 --> 00:34:20,700
+Imali smo sreæe.
+
+385
+00:34:20,900 --> 00:34:23,200
+Možete li vi vidjeti ovo?
+
+386
+00:34:23,300 --> 00:34:24,400
+Možemo.
+
+387
+00:34:24,600 --> 00:34:27,000
+Hidraulika je izgorjela.
+
+388
+00:34:27,100 --> 00:34:29,400
+Idemo ovo zatvoriti.
+
+389
+00:34:50,900 --> 00:34:52,900
+Ok, Mace.
+
+390
+00:34:53,300 --> 00:34:54,400
+To je to.
+
+391
+00:34:59,000 --> 00:35:00,600
+Prva je zatvorena.
+
+392
+00:35:00,800 --> 00:35:02,400
+Možeš li ti to?
+
+393
+00:35:02,600 --> 00:35:03,900
+Trebat æe mi neko vrijeme, ali--
+
+394
+00:35:05,100 --> 00:35:06,800
+Da.
+
+395
+00:35:07,600 --> 00:35:08,600
+Možemo mi to.
+
+396
+00:35:10,600 --> 00:35:12,400
+Bravo.
+
+397
+00:35:20,500 --> 00:35:22,000
+Puno je nasmijanih lica
+u ovoj sobi, momci.
+
+398
+00:35:22,200 --> 00:35:24,200
+Bravo.
+-Volim vas, kapetane.
+
+399
+00:35:34,000 --> 00:35:36,300
+Premještamo se na
+slijedeæu ploèu.
+
+400
+00:35:36,600 --> 00:35:38,400
+Još su tri ostale.
+
+401
+00:35:59,200 --> 00:36:00,700
+Hej.
+
+402
+00:36:02,300 --> 00:36:04,400
+Nemoj se ubijati, èovjeèe.
+Sredit æemo ovo, ok?
+
+403
+00:36:07,400 --> 00:36:08,600
+Što se dogaða, momci?
+
+404
+00:36:09,100 --> 00:36:10,300
+Brod se kreæe.
+
+405
+00:36:10,500 --> 00:36:12,200
+Pušta nam kisik. Sranje.
+
+406
+00:36:12,400 --> 00:36:13,800
+Mislim da nam pušta kisik.
+
+407
+00:36:14,000 --> 00:36:15,800
+Nastavljam raèunalnu kontrolu Icarusa II.
+
+408
+00:36:16,000 --> 00:36:17,600
+Negativno, Icarus. Ruèna kontrola.
+
+409
+00:36:17,800 --> 00:36:19,600
+Negativno, Cassie. Raèunalna kontrola.
+
+410
+00:36:19,800 --> 00:36:22,300
+Vraæam brod u originalnu rotaciju.
+-Molim?
+
+411
+00:36:22,500 --> 00:36:24,600
+Icarus, premosti raèunalo
+na ruènu kontrolu.
+
+412
+00:36:24,700 --> 00:36:26,400
+Negativno. Ugrožen zadatak.
+
+413
+00:36:26,600 --> 00:36:29,500
+Premosti zapovijed na
+ruènu kontrolu leta.
+
+414
+00:36:29,700 --> 00:36:31,000
+Zašto?
+-Negativno, Icarus.
+
+415
+00:36:31,200 --> 00:36:32,900
+Negativno. Navedi razlog odmah.
+
+416
+00:36:33,000 --> 00:36:35,500
+Požar u vrtu s kisikom.
+
+417
+00:36:40,400 --> 00:36:41,700
+Ne.
+
+418
+00:36:44,500 --> 00:36:45,600
+Zatvori opskrbu kisika.
+
+419
+00:36:45,700 --> 00:36:48,700
+Ukljuèi zaštitu od požara.
+-Zatvaram sektor. Zatvaram opskrbu.
+
+420
+00:36:51,200 --> 00:36:54,200
+Zatvori odjele od pet do devet.
+-Zatvaram pet do devet.
+
+421
+00:36:57,300 --> 00:36:59,400
+Kaneda, Capa, odmah se
+vratite u zraènu komoru.
+
+422
+00:36:59,500 --> 00:37:00,900
+Ne možemo.
+
+423
+00:37:02,200 --> 00:37:04,600
+Ne mogu ovako ostaviti ploèe.
+
+424
+00:37:05,200 --> 00:37:08,000
+Ovaj brod æe izgorjeti ako
+štitovi ne budu popravljeni.
+
+425
+00:37:08,200 --> 00:37:09,500
+Oni æe umrijeti.
+-Nemoj.
+
+426
+00:37:09,700 --> 00:37:11,400
+Izgorjet æe.
+-Neæe.
+
+427
+00:37:11,600 --> 00:37:13,200
+Premosti Icarusa. Cassie, pilotna...
+
+428
+00:37:13,300 --> 00:37:15,400
+...hitna zapovijed 0-0-0.
+
+429
+00:37:15,600 --> 00:37:17,400
+Primljena je zapovijed 0-0-0.
+
+430
+00:37:17,500 --> 00:37:20,200
+Zahtijevam drugu ljudsku potvrdu.
+-Primljeno.
+
+431
+00:37:20,300 --> 00:37:21,400
+Mace?
+
+432
+00:37:22,100 --> 00:37:23,200
+Mace?
+
+433
+00:37:23,400 --> 00:37:24,500
+Èekaj, Cassie.
+
+434
+00:37:27,200 --> 00:37:28,500
+Isuse Kriste, Harvey.
+
+435
+00:37:29,300 --> 00:37:32,200
+Harvey, komunikacijski èasnik,
+potvrðujem zapovijed 0-0-0.
+
+436
+00:37:32,400 --> 00:37:33,800
+Zapovijed premošæivanja potvrðena.
+
+437
+00:37:34,000 --> 00:37:35,700
+Vraæena je ruèna kontrola.
+
+438
+00:37:35,900 --> 00:37:37,100
+Ne.
+
+439
+00:37:37,600 --> 00:37:39,000
+Icarus, nastavi s postupkom.
+
+440
+00:37:39,900 --> 00:37:40,900
+Molim?
+
+441
+00:37:41,500 --> 00:37:42,700
+Kapetane.
+
+442
+00:37:43,500 --> 00:37:45,800
+Podržite me.
+-Primljeno, Mace.
+
+443
+00:37:46,000 --> 00:37:48,400
+Prioritet posade je zaštita tereta.
+
+444
+00:37:49,000 --> 00:37:50,400
+Ugasite vatru.
+
+445
+00:37:50,600 --> 00:37:53,000
+Icarus, preuzmi kontrolu nad brodom.
+
+446
+00:37:53,600 --> 00:37:56,300
+Potvrdno, kapetane.
+-Kvragu.
+
+447
+00:37:58,800 --> 00:38:02,100
+Vraæam brod u originalnu rotaciju.
+
+448
+00:38:17,500 --> 00:38:19,300
+Pusti me unutra. Molim te.
+-Negativno.
+
+449
+00:38:19,500 --> 00:38:21,900
+Vrata je zatvorio nadreðeni
+komunikacijski èasnik.
+
+450
+00:38:22,300 --> 00:38:23,700
+Mamu ti jebem.
+
+451
+00:38:23,900 --> 00:38:25,000
+Pusti me unutra.
+
+452
+00:38:27,500 --> 00:38:29,700
+Završena je dijagnoza hazarda.
+
+453
+00:38:29,800 --> 00:38:31,600
+Sustav prskalica ne radi.
+
+454
+00:38:31,700 --> 00:38:34,000
+Vatra æe gorjeti šest sati.
+
+455
+00:38:34,200 --> 00:38:36,500
+60% šansa za propust u zadržavanju.
+
+456
+00:38:36,700 --> 00:38:40,700
+75% šansa za usputnu štetu na
+sustavu za održavanje života.
+
+457
+00:38:40,900 --> 00:38:42,900
+Što æemo uèiniti?
+
+458
+00:38:44,000 --> 00:38:45,800
+Poplavi ju kisikom.
+-Molim?
+
+459
+00:38:46,000 --> 00:38:48,400
+To æe izazvati buknuæe.
+Samo æe izgorjeti.
+
+460
+00:38:48,500 --> 00:38:50,100
+Izgubit æemo cijeli vrt.
+
+461
+00:38:50,300 --> 00:38:51,300
+Veæ smo ga izgubili.
+
+462
+00:38:52,200 --> 00:38:53,900
+Isuse, Mace, ne znam baš.
+
+463
+00:38:54,300 --> 00:38:56,200
+Icarus, otvori boce s kisikom.
+
+464
+00:38:56,400 --> 00:38:58,000
+Cory, izlazi odande.
+
+465
+00:38:58,200 --> 00:38:59,800
+Otvaram boce s kisikom.
+
+466
+00:39:04,000 --> 00:39:05,700
+Ne.
+
+467
+00:39:22,100 --> 00:39:25,700
+89% štita je na punoj
+sunèevoj svjetlosti.
+
+468
+00:39:44,200 --> 00:39:46,900
+Capa, vrati se.
+
+469
+00:39:47,100 --> 00:39:49,000
+Ja æu ovo završiti.
+
+470
+00:39:49,200 --> 00:39:50,200
+Molim te, mogu ja to.
+
+471
+00:39:53,000 --> 00:39:54,500
+Idi.
+
+472
+00:40:03,100 --> 00:40:05,000
+Capa se vraæa u zraènu komoru.
+
+473
+00:40:05,200 --> 00:40:06,600
+Èujete li?
+
+474
+00:40:08,700 --> 00:40:11,900
+Capa se vraæa u zraènu komoru.
+Èujete li?
+
+475
+00:40:12,000 --> 00:40:14,800
+Èujemo, Capa. Požuri se.
+
+476
+00:40:16,100 --> 00:40:19,700
+91% štita je na punoj
+sunèevoj svjetlosti.
+
+477
+00:40:44,400 --> 00:40:48,100
+94% štita je na punoj
+sunèevoj svjetlosti.
+
+478
+00:40:53,700 --> 00:40:57,600
+Kapetane? Kapetane?
+Ja sam na rubu štita.
+
+479
+00:40:58,100 --> 00:40:59,700
+Èujete li?
+
+480
+00:41:00,200 --> 00:41:02,600
+Kapetane, morate odmah otiæi.
+Kapetane?
+
+481
+00:41:02,800 --> 00:41:06,100
+97% štita je na punoj
+sunèevoj svjetlosti.
+
+482
+00:41:06,300 --> 00:41:09,300
+Zatvaram zadnju ploèu.
+Štit je osiguran.
+
+483
+00:41:09,500 --> 00:41:10,800
+Morate se odmah maknuti.
+
+484
+00:41:11,000 --> 00:41:13,500
+Kapetane, nad vama je.
+
+485
+00:41:13,700 --> 00:41:16,200
+Kaneda neæe uspjeti.
+-Morate krenuti.
+
+486
+00:41:16,400 --> 00:41:18,300
+Odmah.
+
+487
+00:41:18,500 --> 00:41:19,600
+Predaleko je.
+
+488
+00:41:21,100 --> 00:41:23,200
+Kapetane, krenite.
+
+489
+00:41:24,800 --> 00:41:26,300
+Zašto se on ne kreæe?
+
+490
+00:41:27,300 --> 00:41:28,500
+Kaneda.
+
+491
+00:41:28,600 --> 00:41:30,200
+Što vidiš?
+
+492
+00:41:30,400 --> 00:41:32,700
+Searle, reci kapetanu da se pokrene.
+
+493
+00:41:32,900 --> 00:41:36,000
+Kaneda, što možeš vidjeti?
+
+494
+00:41:36,100 --> 00:41:37,900
+Searle, èuješ li me?
+
+495
+00:41:54,000 --> 00:41:55,200
+Kaneda?
+
+496
+00:42:26,300 --> 00:42:29,100
+Rotacija štita dovršena.
+
+497
+00:42:55,200 --> 00:42:57,100
+Uslijedio je slom živaca.
+
+498
+00:42:57,300 --> 00:42:59,100
+Trey je pod sedativima u
+lijeènièkoj sobi.
+
+499
+00:42:59,300 --> 00:43:02,000
+Dr. SearIe je dijagnosticirao
+da postoji rizik samoubojstva.
+
+500
+00:43:03,500 --> 00:43:06,400
+Mislim da se nitko od nas neæe
+protiviti toj dijagnozi.
+
+501
+00:43:06,600 --> 00:43:10,400
+Kao drugi zapovjednik,
+ja sam sada kapetan Icarusa II.
+
+502
+00:43:10,500 --> 00:43:12,900
+Hvala i Kanedi...
+
+503
+00:43:13,000 --> 00:43:16,100
+...i Capi, naši štitovi su netaknuti.
+
+504
+00:43:16,300 --> 00:43:18,500
+Kao i naš teret.
+
+505
+00:43:19,000 --> 00:43:22,500
+Ali vrt s kisikom je
+potpuno uništen.
+
+506
+00:43:22,900 --> 00:43:26,800
+Da dodam, veliki dio kisika
+je izgorio u požaru.
+
+507
+00:43:27,100 --> 00:43:28,500
+Kako se sada èini...
+
+508
+00:43:29,700 --> 00:43:34,300
+...mi nemamo dovoljno kisika
+da doðemo do toèke isporuke tereta,
+
+509
+00:43:36,000 --> 00:43:38,300
+a kamoli da preživimo
+put prema natrag.
+
+510
+00:43:38,500 --> 00:43:41,300
+Onda bolje otkažimo paradu.
+
+511
+00:43:44,600 --> 00:43:48,700
+Sada nemamo drugog izbora
+nego da se naðemo s Icarusom I.
+
+512
+00:43:49,900 --> 00:43:52,300
+Ako želimo izvršiti zadatak...
+
+513
+00:43:52,500 --> 00:43:55,200
+...Icarus I je naša jedina nada.
+
+514
+00:44:07,200 --> 00:44:09,900
+Tehnièki, on je pogriješio.
+
+515
+00:44:10,000 --> 00:44:11,600
+Što želiš reæi, Cory?
+
+516
+00:44:11,800 --> 00:44:15,500
+Harvey je rekao da nema dovoljno
+kisika da doðemo do toèke isporuke.
+
+517
+00:44:15,600 --> 00:44:17,700
+Ali ima.
+
+518
+00:44:19,000 --> 00:44:22,600
+Samo nema dovoljno kisika
+da svi doðemo tamo.
+
+519
+00:44:23,500 --> 00:44:26,100
+Da li predlažeš da
+pustimo Treyja da se ubije?
+
+520
+00:44:26,300 --> 00:44:27,900
+Ne.
+
+521
+00:44:28,900 --> 00:44:31,100
+A i u tom sluèaju...
+
+522
+00:44:31,600 --> 00:44:34,100
+...Trey ne bi bio dovoljan.
+
+523
+00:44:35,200 --> 00:44:37,500
+Trebamo izgubiti još dvoje.
+
+524
+00:44:43,100 --> 00:44:46,200
+Tri od sedam.
+To je puno kratkih cjevèica.
+
+525
+00:45:27,700 --> 00:45:30,000
+Capa, ja sam.
+
+526
+00:45:35,600 --> 00:45:37,200
+Drugaèije je.
+
+527
+00:45:37,400 --> 00:45:40,500
+Bojati se da se neæeš vratiti kuæi.
+
+528
+00:45:41,200 --> 00:45:44,900
+A onda znati da se neæeš.
+
+529
+00:45:46,600 --> 00:45:49,600
+Naše preživljavanje ovisi o
+tome što možemo naæi na Icarusu I.
+
+530
+00:45:49,700 --> 00:45:51,300
+Ne.
+
+531
+00:45:52,600 --> 00:45:53,900
+Mi æemo umrijeti ovdje.
+
+532
+00:45:54,800 --> 00:45:57,000
+Kao i druga posada.
+
+533
+00:45:57,400 --> 00:45:59,100
+Ja to znam.
+
+534
+00:46:01,100 --> 00:46:02,800
+A i ti.
+
+535
+00:46:06,400 --> 00:46:07,500
+Jesi li uplašen?
+
+536
+00:46:16,600 --> 00:46:18,600
+Kada aktiviramo zvjezdanu bombu...
+
+537
+00:46:19,800 --> 00:46:22,400
+...isprva æe se malo toga dogoditi.
+
+538
+00:46:22,800 --> 00:46:25,800
+A onda æe nastati iskra...
+
+539
+00:46:26,000 --> 00:46:29,800
+...stajati æe na trenutak,
+lebdjeti svemirom. A onda...
+
+540
+00:46:31,300 --> 00:46:33,300
+...æe se rastaviti na pola.
+
+541
+00:46:33,400 --> 00:46:35,100
+A to æe se opet rastaviti...
+
+542
+00:46:35,300 --> 00:46:37,200
+...i opet i opet.
+
+543
+00:46:41,500 --> 00:46:43,600
+Detonacija koju nitko
+nije zamišljao.
+
+544
+00:46:45,600 --> 00:46:47,200
+Veliki udar na maloj ljestvici.
+
+545
+00:46:47,400 --> 00:46:49,300
+Nova zvijezda æe se roditi
+iz ove koja umire.
+
+546
+00:46:51,600 --> 00:46:53,700
+Mislim da æe to biti prelijepo.
+
+547
+00:46:54,800 --> 00:46:56,800
+Ne, ja nisam uplašen.
+
+548
+00:47:01,900 --> 00:47:03,500
+Ja jesam.
+
+549
+00:47:52,100 --> 00:47:54,700
+Searle, Capa, èekaju vas.
+
+550
+00:47:54,900 --> 00:47:56,900
+Ok, idemo.
+
+551
+00:49:43,400 --> 00:49:45,900
+Budite oprezni, pazite kuda stajete.
+
+552
+00:49:50,300 --> 00:49:52,400
+Cassie, vidiš li ovo na snimci?
+
+553
+00:49:52,500 --> 00:49:54,000
+Vidim li što?
+
+554
+00:49:54,600 --> 00:49:57,900
+Zrak. Pun je prašine.
+
+555
+00:49:58,000 --> 00:49:59,700
+Ljudska koža.
+
+556
+00:49:59,900 --> 00:50:01,000
+Molim?
+
+557
+00:50:01,100 --> 00:50:04,400
+80% prašine je ljudska koža.
+
+558
+00:50:09,300 --> 00:50:11,000
+Oprostite.
+
+559
+00:50:15,600 --> 00:50:17,100
+Nema svjetla?
+-Ne.
+
+560
+00:50:17,200 --> 00:50:18,500
+Nema iznenaðenja.
+
+561
+00:50:20,000 --> 00:50:22,400
+Da li se netko boji mraka?
+
+562
+00:50:23,300 --> 00:50:24,400
+Mi bi se trebali rastaviti.
+
+563
+00:50:24,500 --> 00:50:27,100
+Nisam siguran da je to dobra ideja.
+
+564
+00:50:27,600 --> 00:50:29,000
+Da, vjerojatno si u pravu.
+
+565
+00:50:29,100 --> 00:50:32,300
+Mogli bi nas jednog po
+jednog oteti vanzemaljci.
+
+566
+00:50:32,500 --> 00:50:35,900
+Icarus I je veliki brod. Ne možemo ga
+pretražiti u jednoj grupi.
+
+567
+00:50:36,100 --> 00:50:38,500
+Ok. U pravu ste.
+
+568
+00:50:39,800 --> 00:50:43,000
+Mace, kreni prema palubi
+da vidiš može li poletjeti.
+
+569
+00:50:44,900 --> 00:50:47,700
+SearIe, provjeri sobu
+za društvo i spavaonice.
+
+570
+00:50:47,900 --> 00:50:49,700
+Capa, idi prema teretu.
+
+571
+00:50:51,300 --> 00:50:53,500
+Ja æu provjeriti vrt.
+
+572
+00:50:53,700 --> 00:50:56,400
+Budimo u kontaktu, momci.
+
+573
+00:51:34,100 --> 00:51:36,500
+Slušajte svi.
+
+574
+00:51:37,100 --> 00:51:40,700
+Morate ovo vidjeti.
+Sedam godina neprovjerenog rasta.
+
+575
+00:51:42,300 --> 00:51:44,300
+Vidite li ovo?
+
+576
+00:51:44,600 --> 00:51:47,700
+Ekosustav radi prelijepo
+nakon ovoliko vremena.
+
+577
+00:51:47,900 --> 00:51:50,100
+Vidite li ovo. To je kisik.
+
+578
+00:51:51,000 --> 00:51:52,100
+Prekrasno je.
+
+579
+00:51:52,500 --> 00:51:53,600
+Oh, moj Bože.
+
+580
+00:51:53,700 --> 00:51:55,600
+Cory, pogledaj paprati.
+
+581
+00:52:11,700 --> 00:52:13,900
+To je èudno.
+
+582
+00:52:14,300 --> 00:52:16,900
+Podsustavi su dobro.
+Solarna žetva je dobro.
+
+583
+00:52:17,100 --> 00:52:21,000
+Brod bi trebao letjeti, samo što
+ništa ne dobivam od raèunala leta.
+
+584
+00:52:28,000 --> 00:52:29,000
+Ima vode.
+
+585
+00:52:33,000 --> 00:52:34,500
+Hrane.
+
+586
+00:52:40,600 --> 00:52:42,400
+Nema posade.
+
+587
+00:52:43,000 --> 00:52:44,100
+Nema tijela.
+
+588
+00:52:51,700 --> 00:52:53,500
+Moj Bože.
+
+589
+00:52:54,600 --> 00:52:57,000
+Jedva možeš hodati kako je gusto.
+
+590
+00:53:00,700 --> 00:53:03,700
+Ja sam Pinbacker.
+
+591
+00:53:05,600 --> 00:53:07,900
+Zapovjednik Icarusa I.
+
+592
+00:53:11,600 --> 00:53:14,400
+Mi smo napustili naš zadatak.
+
+593
+00:53:15,600 --> 00:53:18,400
+Naša zvijezda umire.
+
+594
+00:53:19,900 --> 00:53:22,400
+Sva naša znanost...
+
+595
+00:53:23,900 --> 00:53:26,200
+...sve naše nade...
+
+596
+00:53:27,600 --> 00:53:31,200
+...naši snovi, su glupi.
+
+597
+00:53:32,000 --> 00:53:34,200
+U lice ovome...
+
+598
+00:53:35,100 --> 00:53:36,800
+...mi smo...
+
+599
+00:53:37,500 --> 00:53:41,200
+...prašina. Ništa više.
+
+600
+00:53:41,700 --> 00:53:46,600
+A u tu prašinu, mi æemo se vratiti.
+
+601
+00:53:49,900 --> 00:53:55,700
+Kada æe on izabrati da mi umremo.
+
+602
+00:53:55,900 --> 00:53:58,100
+Nije na nama da...
+
+603
+00:53:59,100 --> 00:54:01,900
+...izazivamo Boga.
+
+604
+00:54:05,900 --> 00:54:07,800
+Ok, ima li to nekome smisla?
+
+605
+00:54:07,900 --> 00:54:11,400
+Prijenosni kod je star
+šest i pol godina.
+
+606
+00:54:13,500 --> 00:54:15,900
+To bi bilo nakon što su ušli
+u ne-komunikacijsku zonu.
+
+607
+00:54:16,800 --> 00:54:20,000
+To je vrijeme kada su oni
+trebali isporuèiti teret.
+
+608
+00:54:37,000 --> 00:54:39,600
+Teret je potpuno ispravan.
+
+609
+00:54:39,800 --> 00:54:41,000
+Ponovi to, Capa?
+
+610
+00:54:41,100 --> 00:54:43,800
+Teret je potpuno ispravan.
+Za èistu peticu.
+
+611
+00:54:45,800 --> 00:54:48,800
+To su sjajne vijesti.
+Izgleda da imamo ono po što smo i došli.
+
+612
+00:54:49,000 --> 00:54:50,600
+Ne, nemamo.
+
+613
+00:54:50,800 --> 00:54:52,300
+Samo naprijed, Mace?
+
+614
+00:54:52,500 --> 00:54:55,000
+Znam što je izazvalo
+signal za pomoæ.
+
+615
+00:54:55,400 --> 00:54:58,700
+Kvar je na sustavu rashlaðivanja.
+Najvažnije je to što...
+
+616
+00:54:58,800 --> 00:55:01,700
+...nije važno da je Capa
+pronašao teret.
+
+617
+00:55:01,900 --> 00:55:04,300
+Bez glavnog raèunala
+ne može letjeti.
+
+618
+00:55:05,700 --> 00:55:07,900
+Sabotirano je.
+
+619
+00:55:11,300 --> 00:55:13,600
+Nikad se nismo smjeli
+maknuti sa zadatka.
+
+620
+00:55:31,600 --> 00:55:33,800
+Ja imam nešto za reæi.
+
+621
+00:55:35,600 --> 00:55:36,600
+Pronašao sam posadu.
+
+622
+00:55:58,200 --> 00:55:59,900
+Što se dogodilo?
+
+623
+00:56:01,800 --> 00:56:03,400
+Oni su doživjeli neku pojavu.
+
+624
+00:56:04,400 --> 00:56:05,500
+Vidjeli su svjetlo.
+
+625
+00:56:06,600 --> 00:56:08,600
+Oni su se zapalili.
+
+626
+00:56:08,700 --> 00:56:10,100
+Sereš.
+
+627
+00:56:10,500 --> 00:56:13,900
+Sumnjam da je opservacijski
+filter potpuno otvoren.
+
+628
+00:56:14,100 --> 00:56:19,400
+Da nismo bili iza Icarusa II,
+pridružili bi im se.
+
+629
+00:56:19,900 --> 00:56:21,300
+Pepeo pepelu.
+
+630
+00:56:23,600 --> 00:56:25,700
+Svemirska prašina svemirskoj prašini.
+
+631
+00:56:26,600 --> 00:56:27,700
+Icarus!
+
+632
+00:56:33,000 --> 00:56:34,600
+Icarus. StabiIizatori.
+
+633
+00:56:41,000 --> 00:56:43,900
+Što je to bilo?
+-Momci, vratite se u zraènu komoru.
+
+634
+00:56:49,300 --> 00:56:50,900
+Mi imamo veliki incident.
+
+635
+00:56:51,100 --> 00:56:52,900
+Mi lebdimo odvojeni od vas.
+
+636
+00:56:53,000 --> 00:56:54,800
+Ponavljam, mi lebdimo odvojeni.
+
+637
+00:56:55,500 --> 00:56:56,900
+Posada neka se vrati
+u zraènu komoru.
+
+638
+00:57:09,300 --> 00:57:11,000
+Cassie.
+-Zraèna komora se razdvojila.
+
+639
+00:57:11,100 --> 00:57:12,700
+Ne znamo zašto.
+
+640
+00:57:12,900 --> 00:57:15,500
+Sustav zakljuèavanja na Icarusu I
+je potpuno rastrgnut i otvoren.
+
+641
+00:57:15,700 --> 00:57:18,900
+Ja mogu držati naš položaj, ali
+neæemo se moæi ponovno spojiti.
+
+642
+00:57:19,100 --> 00:57:20,400
+Ima još jedna stvar, momci.
+
+643
+00:57:20,600 --> 00:57:23,400
+Imate pukotinu, vidim ju.
+Gubite atmosferu.
+
+644
+00:57:24,200 --> 00:57:25,200
+Sjebani smo.
+
+645
+00:57:26,200 --> 00:57:27,300
+Nismo.
+
+646
+00:57:33,800 --> 00:57:35,300
+Jedan od nas nije.
+
+647
+00:57:53,500 --> 00:57:54,600
+Što se dogodilo?
+
+648
+00:57:54,700 --> 00:57:57,700
+Zraèna komora je uništena.
+Ima samo jedno odijelo. Capa æe ga uzeti.
+
+649
+00:58:06,500 --> 00:58:08,900
+Zašto Capa?
+-Ostali imaju niži prioritet.
+
+650
+00:58:09,100 --> 00:58:10,500
+Ja nemam niži prioritet.
+
+651
+00:58:10,600 --> 00:58:13,500
+Ti si komunikacijski èasnik na
+brodu koji nema komunikacije.
+
+652
+00:58:13,600 --> 00:58:14,800
+Ja sam kapetan.
+
+653
+00:58:15,800 --> 00:58:18,000
+Misija treba kapetana
+koji æe sve to držati pod kontrolom.
+
+654
+00:58:19,300 --> 00:58:23,100
+Harvey, Capa je jedina osoba van
+Icarusa koja zna upravljati teretom.
+
+655
+00:58:23,600 --> 00:58:24,700
+Nema drugog izbora.
+
+656
+00:58:24,900 --> 00:58:26,400
+Nema izbora za vas.
+
+657
+00:58:26,600 --> 00:58:29,400
+Capa, nareðujem ti da
+skineš to odijelo.
+
+658
+00:58:32,800 --> 00:58:34,600
+Svuci to odijelo.
+
+659
+00:58:38,000 --> 00:58:41,000
+To je izravna naredba.
+
+660
+00:58:43,700 --> 00:58:48,400
+Uvjeravam te, dok sam ja na Icarusu II,
+ja æu uèiniti sve što je u mojoj moæi--
+
+661
+00:58:48,600 --> 00:58:51,200
+Da što? Da se vratiš s više odijela?
+
+662
+00:58:51,300 --> 00:58:52,900
+Zraèna komora je slomljena na pola.
+
+663
+00:58:53,100 --> 00:58:56,800
+Jednom kad slomimo tu pregradu,
+kako æemo vratiti zrak u kabine?
+
+664
+00:59:03,400 --> 00:59:04,900
+Cassie.
+
+665
+00:59:05,600 --> 00:59:07,100
+Reci.
+
+666
+00:59:07,200 --> 00:59:10,200
+Slušaj. Ne možemo vratiti
+zrak kada otvorimo zraènu komoru.
+
+667
+00:59:10,400 --> 00:59:13,300
+Sila plina æe ga ispaliti van, zar ne?
+
+668
+00:59:13,800 --> 00:59:14,800
+Toèno.
+
+669
+00:59:15,000 --> 00:59:18,300
+Ako vi otvorite zraènu komoru i ako ga
+dobro postavimo, on æe biti ispaljen unutra.
+
+670
+00:59:20,300 --> 00:59:21,300
+A i mi isto.
+
+671
+00:59:24,600 --> 00:59:25,700
+Bez odijela?
+
+672
+00:59:27,200 --> 00:59:30,000
+Približi se što je više moguæe.
+-Imat æete 20 metara razmaka.
+
+673
+00:59:30,100 --> 00:59:32,800
+Na minus 273 stupnja po Celziju.
+
+674
+00:59:34,900 --> 00:59:36,700
+Biti æe hladno.
+
+675
+00:59:37,200 --> 00:59:39,100
+Ali uspjet æemo.
+
+676
+00:59:41,600 --> 00:59:43,300
+Ima li tko bolju ideju?
+
+677
+00:59:48,500 --> 00:59:49,800
+Primljeno.
+
+678
+01:00:06,600 --> 01:00:08,300
+Mace.
+
+679
+01:00:08,800 --> 01:00:10,700
+Postoji jedan problem.
+
+680
+01:00:11,200 --> 01:00:13,200
+Raèunalo ne radi.
+
+681
+01:00:13,400 --> 01:00:16,900
+Jedan od nas mora ruèno
+upravljati otvorom.
+
+682
+01:00:17,200 --> 01:00:19,100
+Iznutra.
+
+683
+01:00:20,100 --> 01:00:22,300
+Sranje.
+
+684
+01:00:24,500 --> 01:00:26,300
+U pravu si.
+
+685
+01:00:26,400 --> 01:00:30,500
+Pa, što god se dogodilo,
+jedan od nas mora ostati.
+
+686
+01:00:33,100 --> 01:00:35,600
+Shvaæam. Kužim.
+
+687
+01:00:35,800 --> 01:00:39,100
+Taj sam ja.
+To svi mislite?
+
+688
+01:00:41,800 --> 01:00:43,300
+Ne, Harvey.
+
+689
+01:00:43,400 --> 01:00:44,500
+Ja sam taj.
+
+690
+01:01:05,400 --> 01:01:06,900
+Jesi li dobro?
+
+691
+01:01:08,400 --> 01:01:10,000
+Hej, Capa.
+
+692
+01:01:10,400 --> 01:01:12,000
+Mi smo samo svemirska prašina.
+
+693
+01:01:25,500 --> 01:01:27,100
+Mace, mi smo spremne.
+
+694
+01:01:27,300 --> 01:01:29,400
+Sve je sreðeno.
+
+695
+01:01:34,400 --> 01:01:36,000
+Searle, jesi li spreman?
+
+696
+01:01:38,900 --> 01:01:42,000
+U redu. Imamo samo jednu priliku.
+
+697
+01:01:42,200 --> 01:01:43,200
+Cassie.
+
+698
+01:01:43,800 --> 01:01:45,600
+Jesi li spremna?
+-Jesam.
+
+699
+01:01:45,800 --> 01:01:49,500
+Harvey, drži zatvorene
+oèi i polako izdiši.
+
+700
+01:01:49,700 --> 01:01:50,800
+Primljeno.
+
+701
+01:01:55,000 --> 01:01:56,400
+Idemo.
+
+702
+01:02:43,200 --> 01:02:44,900
+Posada je uoèena u zraènoj komori.
+
+703
+01:02:45,300 --> 01:02:47,600
+Preporuèano je zatvaranje
+vanjskih vrata zraène komore.
+
+704
+01:02:47,700 --> 01:02:50,300
+Izgubio sam Harveyja.
+
+705
+01:02:50,500 --> 01:02:53,000
+Harvey je nestao.
+-Posada je uoèena u zraènoj komori.
+
+706
+01:02:53,700 --> 01:02:55,900
+Zatvaram vanjska vrata
+zraène komore.
+
+707
+01:03:32,000 --> 01:03:33,400
+Diši, Mace. Samo diši.
+
+708
+01:03:33,600 --> 01:03:34,800
+Sredi mi ruku.
+
+709
+01:03:34,900 --> 01:03:36,400
+Diši, Mace.
+-Capa?
+
+710
+01:03:36,500 --> 01:03:39,400
+Dobro si, Mace.
+Molim te, diši.
+
+711
+01:03:57,700 --> 01:04:01,100
+Capa, jesi li dobro?
+-Da. Da.
+
+712
+01:04:02,600 --> 01:04:04,500
+Idemo vas odvesti odavde.
+
+713
+01:04:46,900 --> 01:04:48,600
+Searle?
+
+714
+01:04:49,400 --> 01:04:51,200
+Mi sada odlazimo.
+
+715
+01:04:55,500 --> 01:04:57,700
+Mi æemo završiti misiju.
+
+716
+01:04:59,500 --> 01:05:01,700
+Svi mislimo na tebe, Searle.
+
+717
+01:05:03,100 --> 01:05:04,100
+Searle?
+
+718
+01:05:05,200 --> 01:05:07,100
+Mi sada odlazimo.
+
+719
+01:05:12,800 --> 01:05:14,000
+Volimo te.
+
+720
+01:05:42,200 --> 01:05:44,800
+Gledao sam dokumente o Icarusovoj
+aktivnosti i provjerio ih.
+
+721
+01:05:44,900 --> 01:05:47,100
+Dvaput sam ih provjerio.
+Cory ih je treæi put provjerila.
+
+722
+01:05:47,300 --> 01:05:49,600
+I uvijek je isti rezultat.
+
+723
+01:05:50,700 --> 01:05:54,400
+Drugim rijeèima, ako Icarus ne briše
+vlastite dokumente, ona to nije uèinila.
+
+724
+01:05:54,600 --> 01:05:57,700
+Nije bilo kvara u
+hardwareu zraène komore.
+
+725
+01:05:57,900 --> 01:06:01,300
+To znaèi da je zraèna komora
+odvojena ruèno.
+
+726
+01:06:02,400 --> 01:06:04,600
+Cassie i ja smo bile u palubi.
+
+727
+01:06:04,800 --> 01:06:06,800
+A ja sam bio s Capom i SearIeom.
+
+728
+01:06:07,200 --> 01:06:10,800
+A mislim da možemo pretpostaviti
+da Harvey to nije uèinio.
+
+729
+01:06:11,200 --> 01:06:13,600
+To ostavlja samo jednu moguænost.
+
+730
+01:06:15,100 --> 01:06:16,200
+Trey.
+
+731
+01:06:16,400 --> 01:06:19,000
+Trey je toliko nadrogiran da
+jedva može hodati i hraniti se.
+
+732
+01:06:19,200 --> 01:06:22,900
+On spava 23 sata na dan.
+I on krivi sebe za sve.
+
+733
+01:06:23,100 --> 01:06:24,600
+Zašto bi on to uèinio?
+-Ne znamo.
+
+734
+01:06:24,800 --> 01:06:28,600
+Ali ostaje moguænost da je on
+kriv i moramo to ozbiljno shvatiti.
+
+735
+01:06:28,700 --> 01:06:30,100
+Tako da ga još više nadrogiramo?
+
+736
+01:06:30,700 --> 01:06:35,300
+Ovdje se ne radi samo o moguænosti
+da je on sabotirao zraènu komoru.
+
+737
+01:06:35,500 --> 01:06:37,700
+Tu ima još nešto.
+
+738
+01:06:40,900 --> 01:06:45,400
+Kada su umrli SearIe i Harvey,
+mi smo izgubili dva disatelja.
+
+739
+01:06:46,200 --> 01:06:48,200
+Ako Trey umre...
+
+740
+01:06:49,200 --> 01:06:52,600
+...imat æemo dovoljno kisika
+da doðemo do mjesta isporuke.
+
+741
+01:06:52,800 --> 01:06:55,000
+Sada barem znamo što se
+dogodilo na Icarusu I.
+
+742
+01:06:55,200 --> 01:06:58,500
+Isto ono što se i ovdje dogaða.
+-Jebi se, Capa.
+
+743
+01:06:58,600 --> 01:07:01,800
+Na što nas želiš podsjetiti?
+Na izgubljenu humanost?
+
+744
+01:07:07,200 --> 01:07:08,200
+Ja æu to uèiniti.
+
+745
+01:07:10,000 --> 01:07:12,000
+Neæu ništa prepustiti sluèaju.
+
+746
+01:07:12,700 --> 01:07:14,500
+Kako æeš to uèiniti?
+
+747
+01:07:16,000 --> 01:07:18,200
+To je izmeðu mene i Treyja.
+
+748
+01:07:21,000 --> 01:07:23,900
+Ovaj put æemo glasovati.
+Traži se jednoglasna odluka.
+
+749
+01:07:24,900 --> 01:07:27,500
+Znate koje je moje stajalište.
+
+750
+01:07:34,700 --> 01:07:35,800
+I moje.
+
+751
+01:07:39,200 --> 01:07:41,100
+Što ti pitaš?
+
+752
+01:07:41,800 --> 01:07:44,900
+Da mjerimo život jednoga
+sa buduænošæu èovjeèanstva?
+
+753
+01:07:49,700 --> 01:07:51,000
+Ubij ga.
+
+754
+01:07:51,700 --> 01:07:53,300
+Cassie?
+
+755
+01:07:57,300 --> 01:07:58,800
+Ne.
+
+756
+01:08:02,200 --> 01:08:05,400
+Cassie.
+-Znam koji je argument.
+
+757
+01:08:05,600 --> 01:08:07,600
+Znam da je to logièno.
+
+758
+01:08:08,600 --> 01:08:10,600
+Rekao si da ti treba moj glas.
+
+759
+01:08:10,700 --> 01:08:13,200
+Ja ti kažem da ga ne možeš dobiti.
+
+760
+01:08:21,900 --> 01:08:23,700
+Što æemo uèiniti?
+
+761
+01:08:30,000 --> 01:08:32,100
+Oh, Bože.
+
+762
+01:08:33,900 --> 01:08:35,600
+Žao mi je, Cassie.
+
+763
+01:08:41,500 --> 01:08:44,000
+Olakšaj mu muke.
+
+764
+01:08:45,400 --> 01:08:47,100
+Nekako.
+
+765
+01:08:47,800 --> 01:08:50,000
+Pronaði dobrotu.
+
+766
+01:09:54,100 --> 01:09:55,800
+Trey.
+
+767
+01:09:59,500 --> 01:10:02,200
+Doðite svi ovdje.
+
+768
+01:10:18,500 --> 01:10:19,500
+On je prerezao žile.
+
+769
+01:10:19,700 --> 01:10:21,900
+Preuzeo je odgovornost.
+
+770
+01:10:25,400 --> 01:10:27,400
+Sve ove smrti.
+
+771
+01:10:27,500 --> 01:10:29,000
+Kaneda.
+
+772
+01:10:29,100 --> 01:10:31,600
+SearIe. Harvey.
+
+773
+01:10:31,800 --> 01:10:33,200
+Trey.
+
+774
+01:10:34,000 --> 01:10:37,500
+Ništa od toga se ne bi dogodilo
+da ti nisi promijenio misiju.
+
+775
+01:10:39,300 --> 01:10:42,100
+Što želiš da kažem?
+-Ne želim da išta kažeš.
+
+776
+01:10:42,300 --> 01:10:45,500
+Samo želim da znaš da...
+
+777
+01:10:45,600 --> 01:10:47,600
+...ovo pripada ovdje.
+
+778
+01:10:50,100 --> 01:10:51,800
+Jebi se.
+
+779
+01:11:11,500 --> 01:11:15,200
+Zrak je slab.
+Moramo Iimitirati naša naprezanja.
+
+780
+01:11:48,900 --> 01:11:51,100
+Icarus?
+-Da, Capa?
+
+781
+01:11:51,300 --> 01:11:53,900
+Provjeri biometriène
+znakove cijele posade.
+
+782
+01:11:54,100 --> 01:11:56,600
+Provjeri potrošnju kisika.
+
+783
+01:11:57,200 --> 01:11:58,900
+Provjeravam.
+
+784
+01:11:59,400 --> 01:12:01,100
+Hvala ti.
+
+785
+01:12:02,500 --> 01:12:04,300
+Capa.
+
+786
+01:12:04,400 --> 01:12:06,200
+Da?
+-Ti umireš.
+
+787
+01:12:06,900 --> 01:12:08,500
+Cijela posada umire.
+
+788
+01:12:08,600 --> 01:12:10,500
+Znamo da umiremo.
+
+789
+01:12:11,100 --> 01:12:14,600
+Ali ako æemo živjeti dovoljno
+dugo da isporuèimo teret,
+
+790
+01:12:14,800 --> 01:12:16,000
+nama to odgovara.
+
+791
+01:12:16,100 --> 01:12:18,700
+Capa, upozorenje.
+
+792
+01:12:18,900 --> 01:12:21,800
+Neæete živjeti dovoljno
+dugo da isporuèite teret.
+
+793
+01:12:24,600 --> 01:12:26,700
+Molim te pojasni.
+
+794
+01:12:26,800 --> 01:12:30,600
+12 sati prije, posada neæe
+moæi izvoditi kompleksne zadatke.
+
+795
+01:12:30,800 --> 01:12:34,400
+14 sati prije, posada neæe
+moæi izvoditi osnovne zadatke.
+
+796
+01:12:34,600 --> 01:12:36,400
+16 sati do smrti.
+
+797
+01:12:36,600 --> 01:12:38,100
+Vrijeme putovanja do toèke isporuke:
+
+798
+01:12:38,200 --> 01:12:40,600
+19 sati.
+-Nemoguæe. Corazon je bila sigurna.
+
+799
+01:12:40,800 --> 01:12:43,100
+Imamo dovoljno kisika za
+èetiri èlana posade.
+
+800
+01:12:43,300 --> 01:12:46,200
+Potvrdno. 4-èlana posada bi
+mogla preživjeti na ovim rezervama--
+
+801
+01:12:46,400 --> 01:12:48,800
+Trey je mrtav.
+Samo su èetiri èlana posade.
+
+802
+01:12:48,900 --> 01:12:50,000
+Negativno.
+
+803
+01:12:50,100 --> 01:12:53,100
+Potvrdno, Icarus. 4 èlana posade:
+Mace, Cassie, Corazon i ja.
+
+804
+01:12:53,200 --> 01:12:55,300
+Pet èlana posade.
+
+805
+01:13:00,700 --> 01:13:02,300
+Icarus?
+
+806
+01:13:02,400 --> 01:13:04,000
+Da?
+
+807
+01:13:06,500 --> 01:13:07,800
+Tko je peti èlan posade?
+
+808
+01:13:09,100 --> 01:13:10,800
+Nepoznato.
+
+809
+01:13:13,200 --> 01:13:15,500
+Gdje je peti èlan posade?
+
+810
+01:13:15,700 --> 01:13:18,500
+U opservacijskoj sobi.
+
+811
+01:13:57,300 --> 01:13:59,600
+Jesi li ti anðeo?
+
+812
+01:14:02,100 --> 01:14:04,200
+Je li stiglo vrijeme?
+
+813
+01:14:07,800 --> 01:14:10,600
+Èekam tako dugo.
+
+814
+01:14:17,600 --> 01:14:19,300
+Tko si ti?
+
+815
+01:14:21,100 --> 01:14:22,600
+Tko sam ja?
+
+816
+01:14:29,100 --> 01:14:31,500
+Na kraju vremena...
+
+817
+01:14:32,300 --> 01:14:36,300
+...doæi æe trenutak kada
+æe ostati samo jedan èovjek.
+
+818
+01:14:38,000 --> 01:14:39,800
+Onda æe taj trenutak proæi.
+
+819
+01:14:42,200 --> 01:14:44,700
+Èovjek æe nestati.
+
+820
+01:14:47,600 --> 01:14:51,300
+Ništa neæe pokazivati da
+smo mi ikada bili ovdje..
+
+821
+01:14:52,300 --> 01:14:54,700
+...samo zvjezdana prašina.
+
+822
+01:14:56,800 --> 01:15:01,400
+Posljednji èovjek, sam sa Bogom.
+
+823
+01:15:04,400 --> 01:15:06,900
+Jesam li ja taj èovjek?
+
+824
+01:15:21,100 --> 01:15:22,800
+Moj Bože.
+
+825
+01:15:25,800 --> 01:15:28,800
+Moj Bože, Pinbacker?
+
+826
+01:15:29,700 --> 01:15:31,900
+Ne tvoj Bog.
+
+827
+01:15:32,100 --> 01:15:33,800
+Moj.
+
+828
+01:15:47,400 --> 01:15:49,300
+Icarus. Puna sunèeva svjetlost.
+
+829
+01:16:06,700 --> 01:16:07,700
+Bilo tko.
+
+830
+01:17:03,300 --> 01:17:04,900
+Oh, moj Bože.
+
+831
+01:17:05,500 --> 01:17:06,500
+Icarus?
+
+832
+01:17:13,400 --> 01:17:16,200
+Upozorenje, ti nemaš
+punomoæ da makneš...
+
+833
+01:17:16,400 --> 01:17:18,700
+...ploèe glavnog raèunala iz rashlaðivaèa.
+
+834
+01:17:18,900 --> 01:17:21,600
+Molim te, vrati ploèe u rashlaðivaè.
+
+835
+01:17:21,800 --> 01:17:25,500
+Ne mogu locirati tvoje
+biometrièke znakove.
+
+836
+01:17:25,700 --> 01:17:29,000
+Molim te, predstavi se.
+
+837
+01:17:51,600 --> 01:17:54,400
+Zafrkavaš me.
+
+838
+01:18:11,200 --> 01:18:13,300
+Moj Bože.
+
+839
+01:18:21,600 --> 01:18:23,500
+Dijete.
+
+840
+01:18:25,500 --> 01:18:27,100
+Prelijepo dijete.
+
+841
+01:18:27,300 --> 01:18:29,800
+Icarus, spoji me sa Maceom.
+Imam mu nešto...
+
+842
+01:18:30,000 --> 01:18:31,500
+...prekrasno za pokazati.
+
+843
+01:18:31,700 --> 01:18:34,200
+Ili sa Cassie ili Capom.
+
+844
+01:18:35,000 --> 01:18:36,600
+Icarus?
+
+845
+01:18:41,500 --> 01:18:43,400
+Ne opiri se.
+
+846
+01:18:44,700 --> 01:18:46,600
+Ne opiri se.
+
+847
+01:19:18,800 --> 01:19:20,500
+Mace?
+
+848
+01:19:56,000 --> 01:19:57,100
+Capa?
+
+849
+01:19:58,500 --> 01:20:01,200
+Da li još netko dobiva
+šutnju od Icarusa?
+
+850
+01:20:03,700 --> 01:20:05,600
+Bilo tko?
+
+851
+01:20:20,700 --> 01:20:22,500
+Capa?
+
+852
+01:20:52,200 --> 01:20:54,700
+Icarus, zašto smo mi u orbiti?
+
+853
+01:20:57,400 --> 01:20:58,600
+Odgovori.
+
+854
+01:21:01,900 --> 01:21:03,000
+Molim?
+
+855
+01:21:03,200 --> 01:21:04,300
+Isuse Kriste.
+
+856
+01:21:05,100 --> 01:21:06,700
+Capa? Capa?
+
+857
+01:21:10,400 --> 01:21:11,700
+U odijelu.
+
+858
+01:21:11,900 --> 01:21:13,300
+Iskoristi èvrsti spoj.
+
+859
+01:21:13,500 --> 01:21:14,600
+U kacigi.
+
+860
+01:21:14,800 --> 01:21:16,400
+Mace?
+
+861
+01:21:20,100 --> 01:21:21,900
+Što se dogaða?
+-Mace?
+
+862
+01:21:22,000 --> 01:21:23,700
+Ne mogu prièati sa Icarusom.
+
+863
+01:21:23,900 --> 01:21:27,200
+Pinbacker je na brodu.
+On pokušava zaustaviti misiju.
+
+864
+01:21:27,400 --> 01:21:30,200
+Pokušava ju uništiti.
+On je lud.
+
+865
+01:21:42,400 --> 01:21:44,400
+Mace, slušaj.
+Zakljuèan sam u zraènoj komori.
+
+866
+01:21:44,600 --> 01:21:47,500
+Isuse Kriste. Glavno
+raèunalo nije u rashlaðivaèu.
+
+867
+01:21:53,200 --> 01:21:54,800
+Mehanizam je onesposobljen.
+
+868
+01:21:54,900 --> 01:21:56,700
+Ne mogu spustiti ploèe
+glavnog raèunala.
+
+869
+01:21:56,900 --> 01:21:58,700
+Mace, ponavljam, molim te.
+
+870
+01:22:00,200 --> 01:22:02,300
+Icarus æe se zapaliti.
+
+871
+01:22:05,300 --> 01:22:06,300
+Mace.
+
+872
+01:22:06,500 --> 01:22:08,200
+Mace, javi se.
+
+873
+01:24:35,600 --> 01:24:37,100
+Hajde.
+
+874
+01:24:42,000 --> 01:24:43,500
+Capa.
+
+875
+01:24:43,600 --> 01:24:44,700
+Capa.
+-Mace?
+
+876
+01:24:45,400 --> 01:24:47,900
+Mi smo u orbiti. Raèunalo je ugašeno.
+
+877
+01:24:48,800 --> 01:24:51,900
+Ne znam mogu li ju
+vratiti u funkciju.
+
+878
+01:24:52,100 --> 01:24:55,900
+Moraš nas ruèno izvuæi iz orbite.
+
+879
+01:24:56,100 --> 01:24:57,600
+To možeš jedino tako...
+
+880
+01:24:57,800 --> 01:25:00,800
+...da odvojiš teret.
+Shvaæaš, Capa?
+
+881
+01:25:00,900 --> 01:25:03,700
+Natjeraj bombu prema suncu.
+
+882
+01:25:04,500 --> 01:25:06,000
+Odvojiti teret.
+
+883
+01:25:06,500 --> 01:25:11,000
+Morat æeš doæi do bombe
+i ruèno ju detonirati.
+
+884
+01:25:11,200 --> 01:25:13,700
+Otkljuèaj zraènu komoru, èuješ li?
+Otkljuèaj zraènu komoru.
+
+885
+01:25:14,200 --> 01:25:17,900
+Ne znam kako, samo to uèini.
+
+886
+01:25:19,100 --> 01:25:20,800
+Ok.
+
+887
+01:25:21,100 --> 01:25:23,500
+Ja æu ovo uèiniti.
+
+888
+01:25:24,300 --> 01:25:25,900
+Primljeno, Mace.
+
+889
+01:25:27,400 --> 01:25:29,100
+Primljeno.
+
+890
+01:26:25,900 --> 01:26:27,300
+Capa.
+
+891
+01:26:27,400 --> 01:26:29,500
+Moja noga.
+
+892
+01:26:43,600 --> 01:26:45,300
+Oh, Bože.
+
+893
+01:26:52,700 --> 01:26:54,900
+Uèini to, Capa.
+
+894
+01:27:00,100 --> 01:27:01,600
+Uèini to.
+
+895
+01:27:07,800 --> 01:27:08,900
+Mace.
+
+896
+01:31:50,900 --> 01:31:52,400
+Hajde.
+
+897
+01:32:50,100 --> 01:32:52,100
+Jedini san koji sanjam.
+
+898
+01:32:52,400 --> 01:32:53,900
+Je li to površina sunca?
+
+899
+01:32:55,300 --> 01:32:58,600
+Svaki puta kada zatvorim oèi.
+Uvijek isti san.
+
+900
+01:35:00,900 --> 01:35:02,500
+Cassie?
+
+901
+01:35:11,000 --> 01:35:12,600
+Cassie?
+
+902
+01:35:12,800 --> 01:35:14,000
+Mi letimo prema suncu.
+
+903
+01:35:17,900 --> 01:35:20,000
+Cassie, nema puno vremena.
+Ja moram znati.
+
+904
+01:35:20,200 --> 01:35:21,700
+Gdje je on? Je li ovdje?
+
+905
+01:35:28,400 --> 01:35:32,200
+Sedam godina sam prièao s Bogom.
+
+906
+01:35:39,600 --> 01:35:43,100
+On mi je rekao da nas
+sve odvedem u raj.
+
+907
+01:35:49,800 --> 01:35:51,400
+Ne.
+
+908
+01:36:34,900 --> 01:36:36,600
+Završi to.
+
+909
+01:37:55,500 --> 01:37:56,800
+Recimo na 25. Namjesti na 25.
+
+910
+01:38:09,300 --> 01:38:10,500
+Molim te.
+
+911
+01:38:10,600 --> 01:38:12,100
+Molim te.
+
+912
+01:40:03,200 --> 01:40:06,000
+Bok, seko.
+
+913
+01:40:07,000 --> 01:40:09,100
+Poljubi djecu.
+
+914
+01:40:17,900 --> 01:40:19,100
+Hajde, ljudi.
+
+915
+01:40:19,800 --> 01:40:21,600
+Vrijeme je.
+
+916
+01:40:27,000 --> 01:40:28,900
+Ako se probudite jedno jutro...
+
+917
+01:40:29,000 --> 01:40:33,400
+...a vani je posebno lijep dan,
+znat æete da smo uspjeli.
+
+918
+01:40:36,000 --> 01:40:37,600
+Ok.
+
+919
+01:40:37,700 --> 01:40:39,600
+Ja se iskljuèujem.
+
+920
+01:40:42,600 --> 01:40:46,600
+Preuzeto sa www.titlovi.com
+

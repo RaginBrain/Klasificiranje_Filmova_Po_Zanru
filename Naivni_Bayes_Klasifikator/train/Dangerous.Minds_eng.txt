@@ -1,0 +1,1362 @@
+{1}{1}23.976
+{1026}{1092}As I walk through the Valley|of the Shadow of Death
+{1096}{1172}I take a look at my life|and realize there's nothin' left
+{1175}{1236}'Cause I been blastin'|and laughin' so long
+{1240}{1312}That even my mama thinks|that my mind is gone
+{1315}{1380}I really hate to trip|but I gotta loc
+{1383}{1448}As they croak I see myself|in the pistol smoke
+{1450}{1519}Fool, I'm the kind of "G"|the little homies wanna be like
+{1522}{1614}On my knees in the night|sayin' prayers in the street light
+{1618}{1754}Been spending most their lives|living in a gangsta's paradise
+{1757}{1898}They been spending most their lives|living in a gangsta's paradise
+{1902}{2042}We keep spending most our lives|living in a gangsta's paradise
+{2045}{2174}We keep spending most our lives|living in a gangsta's paradise
+{2177}{2242}Look at the situation|they got me facin'
+{2246}{2314}I can't live with no hope|I was raised by the state
+{2318}{2386}So I gotta be down|with the hood team
+{2390}{2459}Took much television-watchin'|got me chasin' dreams
+{2463}{2532}I'm a educated fool|with money on my mind
+{2536}{2603}Got my tin in my hand|and a gleam in my eye
+{2607}{2676}I'm a loc'd out gangsta|set trippin' banga
+{2679}{2741}And my homies is down|So don't arouse my anger
+{2745}{2814}Fool, death ain't nothin'|but a heartbeat away
+{2818}{2895}I'm livin' life do or die|What can I say
+{2898}{2967}I'm 23, never will I live|to see 24
+{2970}{3026}The way things is goin'|I don't know
+{3029}{3170}Tell me why are we|so blind to see
+{3174}{3341}That the ones we hurt|are you and me
+{3344}{3484}Been spending most their lives|living in a gangsta's paradise
+{3488}{3625}They been spending most their lives|living in a gangsta's paradise
+{3629}{3768}We keep spending most our lives|living in a gangsta's paradise
+{3772}{3907}We keep spending most our lives|living in a gangsta's paradise
+{3911}{3981}Power and the money|Money and the power
+{3985}{4054}Minute after minute|Hour after hour
+{4057}{4156}Everybody's runnin', but half|of them ain't looked what's|goin' on in the kitchen
+{4160}{4194}But I don't know what's cookin'
+{4197}{4267}They say I got to learn|but nobody's here to teach me
+{4271}{4345}lf they can't understand it|how can they reach me
+{4349}{4400}I guess they can't|I guess they won't
+{4404}{4496}I guess they front, that's why|I know my life it outta luck, fool
+{4500}{4635}Been spending most their lives|living in a gangsta's paradise
+{4639}{4779}They been spending most their lives|living in a gangsta's paradise
+{4782}{4874}We keep spending most our lives|living in a gangsta's paradise
+{4878}{4952}And-- Yeah, I'm just gonna|have to check the schedule.
+{4955}{5060}Thank you. Mm-hmm. Okay.|Let me write that down.
+{5064}{5121}Carla? My friend Louanne|Johnson's here to see you.
+{5125}{5202}Oh, God, is that today?|Hal, it's-it's not a good time.
+{5205}{5252}Well, she came in.
+{5255}{5318}All right. Uh, I'm gonna have to|call you back. Thank you.
+{5322}{5412}Louanne, I'd like you to meet, uh,|Carla Nichols, our assistant principal.
+{5415}{5469}- Hello.|- Carla, Louanne Johnson.
+{5472}{5513}I'll wait outside.
+{5516}{5567}Uh, please, uh,|have a, have a seat.
+{5600}{5656}- Thank you for seeing me.|- Oh, well,
+{5660}{5778}Mr Griffith-- Uh, HaI--|has told me so much about you.
+{5782}{5842}- I hope not everything.|- Oh--
+{5845}{5934}Oh. No, only-- only good.
+{5937}{6014}And I must say, it-it isn't often|that we have an applicant...
+{6018}{6118}of your maturity and, uh,|varied experience.
+{6122}{6251}Um, B.A. in English Lit,|public relations, telemarketing.
+{6255}{6286}- M-Marine.|- Mm-hmm.
+{6290}{6355}- You don't look like a Marine.|- Oh, well.
+{6359}{6406}Long sleeves. Hides the tattoos.
+{6531}{6639}Uh, fully accredited, except for one|term of, of supervised student teaching.
+{6642}{6744}Why did you stop so close|to being certified?
+{6747}{6846}Well, I met my husband and|started working for his company.
+{6850}{6882}Uh, w-we're divorcing.
+{6962}{7062}W-Well, it would be no problem to|get you emergency certification.
+{7066}{7141}- When could you start?|- Start?
+{7144}{7202}Teaching.
+{7206}{7262}Miss Johnson,|I'lI-I'll cut to the chase.
+{7266}{7352}One of our, uh, academy|teachers, Mrs. Shepherd, left,
+{7356}{7443}and since then we've had|three substitute teachers.
+{7447}{7537}The last one, Mrs. Gingrich,|fell ill just this morning.
+{7541}{7621}So we have a fulI-time position|and we need to fill it now.
+{7625}{7669}- I-- Um-- Full time.|- Yes.
+{7672}{7770}I'm sorry, um, I thought this was an|interview to, uh, t-to student teach.
+{7773}{7818}- WelI--|- Uh, w-w-w-w-wh-- Um, what is a--
+{7822}{7875}What-- What is|an academy teacher?
+{7878}{7938}Uh, well, the academy is, uh--
+{7942}{7999}lt--lt's sort of a school|within a school.
+{8003}{8122}Uh, special kids. Passionate,|energetic, challenging.
+{8167}{8247}The, uh, salary is, is $24,700 a year.|Are you interested?
+{8317}{8405}Yes, I-- Yes, I'm, I'm,|I'm interested.
+{8409}{8484}Oh, that's wonderful.|That-- Great. Great.
+{8487}{8572}Okay, so-- Oh, welI-- So, uh,|these-- these are for you.
+{8575}{8646}Uh, curriculum, schedule|and, uh, whatnot.
+{8650}{8698}And if you would just|follow me.
+{8773}{8855}- We have a new teacher.|- Great!
+{8859}{8902}- Congratulations!|- Full time.
+{8906}{8958}- What?|- Yeah.|- Yes. Uh, starting tomorrow,
+{8961}{9023}Mrs. Johnson is going to be|teaching one of our academy classes.
+{9026}{9078}I'm afraid Mrs. Gingrich|is no longer with us.
+{9081}{9166}- Carla, they--|- Mr Griffith's classroom|is right next to yours.
+{9170}{9254}So would you meet her outside|tomorrow and show her 107?
+{9258}{9294}- Right.|- Thank you.
+{9297}{9341}- I just know this is gonna work out.|- Thank you so much.
+{9345}{9377}Thank you.
+{9405}{9450}- Full time.|- Louanne--
+{9453}{9536}-Hal!|-Louanne, d-did she t-tell you|about, uh, the academy programme?
+{9539}{9576}Yeah, yeah. No,|she told me all about it.
+{9580}{9636}She said, you know,|bright, special kids and--
+{9639}{9694}- Uh, Louanne, d--|- I wanna teach, Hal!
+{9697}{9802}- lf I have any questions,|I'll know who to ask, right?|- Yeah. I'll be counting on it.
+{9847}{9936}Fly ho's and chains|and swingin' thangs
+{9939}{9997}Save me
+{10000}{10066}Just another young nigger|havin' thangs
+{10069}{10138}Just a-havin' thangs
+{10142}{10215}Fly ho's and chains|and swingin' thangs
+{10219}{10263}Why must I feel like that
+{10303}{10384}Just another young nigger|havin' thangs
+{10484}{10528}lt's to your right.
+{10581}{10674}I guess Miss Shepherd's lesson|plans will be in her desk.
+{10711}{10756}Very possibly.
+{10897}{10953}This is your classroom.
+{11067}{11147}- Noisy bunch, aren't they?|- Yes, but if you stand there|long enough,
+{11150}{11190}they'll usually quiet down.
+{11194}{11238}Don't try and shout over them.
+{11261}{11308}Right. Thanks.
+{11373}{11450}Louanne.
+{11453}{11518}- I'm right next door.|- I wrote this about my life because|it's my shit you never heard before
+{11522}{11582}- Why don't you live in my world|That's my point that you|been searchin' for|- Thanks.
+{11586}{11666}I know that you need to relax|A supported fact
+{11669}{11726}A little history|and history of government--
+{11730}{11778}lmmobilizing your physical|and your brain
+{11781}{11826}With the emotion|of subliminal motivation
+{11830}{11911}- Look at that!|- No, no, no. Not yours.
+{11914}{11999}- White bread.|- Snappin' my fingers|appropriately when I rip
+{12003}{12072}You get flipped and then I pass|the microphone to my homegirl Chris
+{12075}{12160}Now I see you runnin'|I'm comin', boom, how stunnin'
+{12164}{12214}Fast as I step|Got to earn a big rep
+{12217}{12285}For huntin' homies like deer|Crack a beer and some heads
+{12289}{12378}Then go find another poor person|I can trap in my cage for a night
+{12381}{12439}Let loose, fool, run|'Cause my first meal is done
+{12442}{12536}- May I have your attention, please?|- How long y'all been together?
+{12539}{12585}You run, I'll shoot|'Cause your homies said 'boo' to me
+{12589}{12648}Your life is a joke|Smoked by the A to the K
+{12651}{12738}You went to bed without a trace|lnfrared dot marks the spot
+{12741}{12814}-So duck or find your ass shot|-What happened to Miss Shepherd?
+{12818}{12875}- Better not do that.|- What?
+{12878}{13002}- What happened to Miss Shepherd?|- Ooh, no, she ain't askin' about|Miss triflin'-ass Shepherd.
+{13006}{13058}You playin' yourself.|Playin' yourself.
+{13062}{13153}Yo, yo, yo, yo, yo!|Listen up! Yo, listen up!
+{13156}{13212}White Bread wanna know|what happened to Miss Shepherd.
+{13281}{13328}We killed the bitch.
+{13331}{13388}Kick it, kick it, kick it,|kick it, kick it. Hey!
+{13391}{13437}I was beginning to like|the puta!
+{13441}{13531}Ohh! No, no, no.|Everybody, everybody. Emilio ate her.
+{13603}{13656}Bullshit.
+{13834}{13905}- That bitch was too ugly to eat.|- Yeah!
+{13937}{13992}Fed her to my dogs.
+{14184}{14227}But I'll eat you.
+{14472}{14530}What is your name?
+{14534}{14598}Emilio Ramirez.
+{14662}{14776}- Now, Emilio!|- Emilio, you in trouble!
+{14953}{15051}Emilio! Emilio! Emilio!|Emilio! Emilio!
+{15053}{15127}- Emilio! Emilio! Emilio! Emilio!|- Oh, my God.|- What's that?
+{15131}{15199}Come on, come on, come on,|come on, come on. You know|what they're like. Come on.
+{15203}{15298}Emilio! Emilio! Emilio! Emilio!|Emilio! Emilio! Emilio! Emilio!
+{15700}{15763}Madison surrendered|to the nationalists.
+{15817}{15949}Hamilton himself could have already have|composed the message that embraced--
+{16057}{16120}Donna. Donna,|take over the class.
+{16263}{16307}Shut up!
+{16476}{16521}What happened to Miss Shepherd?
+{16525}{16578}- Well, she quit.|- Why?
+{16582}{16657}Well, she was a very|high-strung individual.
+{16660}{16707}What, did she have a breakdown?
+{16710}{16763}No. She quit before that.
+{16767}{16825}One of the substitutes,|she had a breakdown.
+{16829}{16914}- That's how they weed them out.|- Who are these kids, rejects from hell?
+{16917}{17023}No. They're bright kids with|little or no educational skills...
+{17026}{17100}and what we politely call|a lot of social problems.
+{17104}{17148}Damn it, Griffith,|you could've warned me!
+{17151}{17250}Hey, Louanne,|you said you wanted to teach.
+{17254}{17299}- Now, is that a load of bull or what?|- No!
+{17303}{17337}- So teach.|- I ca--|- What?
+{17341}{17395}I can't teach them!
+{17398}{17503}Yes, you can. All you gotta do|is get their attention.
+{17557}{17596}Or quit.
+{17795}{17851}I'm back!
+{18454}{18561}"She decided that if Brian broke a rule|she would utilize these consequences:
+{18564}{18652}The first time he broke a rule his name|would be put on the board."
+{18992}{19088}This is the life
+{19169}{19270}This is the life
+{19273}{19354}This is the life
+{19451}{19491}Okay, you little bastards.
+{19495}{19530}- Come on|- Put your back into it
+{19533}{19559}- Come on|- Put your back into it
+{19580}{19623}- Come on|- Put your back into it
+{19626}{19664}- Come on|- Put your back into it
+{19667}{19728}- Come on|- Put your back into the beat
+{19732}{19768}Achieve the goals|in which you seek
+{19772}{19810}Don't let nobody|steer you wrong
+{19813}{19855}Or you'll be singin'|that same old song
+{19858}{19911}- How someone's always holdin you down|- There she is.
+{19914}{19952}- Just keep your two feet on the ground|- Girl, you didn't get enough yesterday?
+{19955}{20020}And when you come you be direct|'cause punks get no respect
+{20023}{20084}- My eyes to the west side|- East side, west side
+{20323}{20400}How you doin'? Yeah.
+{20504}{20612}Hey, everybody, everybody, look!|A cowboy!
+{20616}{20702}Put your back into it|Put your back into it
+{20705}{20821}- Put your back into it|- Don't talk about-- Don't talk|about yourself like that.
+{20825}{20904}"I am a--"
+{20907}{20999}- Shut up! Y'all sound|like them fifth-graders!|- You shut up!|- You shut up!
+{21050}{21159}"Does... anyone...
+{21163}{21199}know--"
+{21270}{21353}- What's "karate"?|- Karate, you stupid asshole.
+{21357}{21458}- You're so stupid.|- You're a Marine? A for-real Marine?
+{21461}{21537}- Discharged, but yes.|- Estupido.
+{21541}{21609}I'll try some karate|with you, Miss Johnson.
+{21683}{21780}I'm sorry, but I'm not allowed|to touch a student.
+{21783}{21864}But if you really think you know|what you're doin', come on up here.
+{21867}{21940}Hey, sounds like a challenge to me,|ése. You'd better get up there.
+{21944}{22040}Oh, I know what I'm doin'.|There's no sense doin' it though|if you can't touch me.
+{22080}{22165}Okay, anybody else know|any karate? What about you?
+{22169}{22249}- Durrell Chang Chang.|- I know some motherfuckin' karate.
+{22307}{22342}Whoo! Durrell, gimme it!
+{22345}{22390}- Durrell.|- Shit.
+{22464}{22575}- What about you? You know any karate?|- Raul. Yeah, I know enough.
+{22579}{22625}- Okay, Raul.|- Go on up there.
+{22629}{22682}Come on up here.
+{22685}{22746}- All right. Yeah, shit. I'm|gonna take that motherfucker.|- Come on, Nacho.
+{22750}{22815}Shit. All right.|Come on, let's go, ése.
+{22819}{22855}Let's go.
+{23120}{23166}Shit!
+{23170}{23223}You guys--|Wait, wait, wait. Whoa!
+{23226}{23303}You guys don't know shit.
+{23307}{23368}-"l don't know shit," man.|I know what I'm doin', lady.|-You don't even know any throws.
+{23372}{23504}Now, I heard that a Marine|can kill a man with his, uh,|bare hands. ls that true?
+{23507}{23559}Absolutely.
+{23583}{23635}Oh, shit.
+{23725}{23788}Okay, h-here's how it starts.
+{23792}{23878}Um, okay, where's a-- Can you two move|that desk down there a little bit?
+{23967}{24047}Um, okay, everything is|slow motion at first.
+{24051}{24115}- Um, Durrell.|- Yeah.
+{24119}{24212}Okay, you, um, you move into|Raul like you're gonna hit him.
+{24216}{24261}Yeah, I can do that.
+{24264}{24295}- Okay.|- Nacho.
+{24298}{24396}Now, Raul, you're gonna|step into Durrell...
+{24400}{24467}and you're gonna|grab his wrist, okay?
+{24471}{24616}You're gonna turn your body|away from him so that your butt|is in his stomach. Okay?
+{24620}{24696}Fuck you!|Get the fuck off me, man!
+{24699}{24764}What you gonna do?
+{24767}{24824}- Man, you wish, homes! You wish, man!|- Bring it on, homes!
+{24827}{24886}- Fuck you! Get your hands off me!|- Bring it on, Nacho.|- You wish, man!
+{24889}{24975}- Bring it on.|- Now, it's a hip throw.|lt's a hip throw.
+{24979}{25063}- Okay, take your fighting|stance again, okay.|- Nacho.
+{25067}{25117}Okay, grab his wrist.|Okay.
+{25121}{25172}Now, now this time,|as you move in,
+{25176}{25260}you're gonna take this hand,|you're gonna grab onto this shoulder.
+{25264}{25308}Okay? Ready?
+{25339}{25385}Oh, shit!
+{25389}{25481}Thank you! Hey! Hey!|All right!
+{25484}{25560}- Ow, man! I'll kick your|motherfuckin' ass, ése!|- Sucker! Sucker!
+{25742}{25817}Well, that was "A" work.
+{25820}{25865}You'd make good Marines.
+{25899}{25978}ln fact, from this moment,
+{25981}{26044}each one of you|is like an inductee...
+{26048}{26126}- Who's a duck?|- with a clean record.|- Quack.
+{26130}{26250}- So, if you wanna pass,|- Quack quack.
+{26254}{26298}all you have to do is try.
+{26393}{26442}Oh, homes.
+{26498}{26575}Because at this point,|everyone has an "A."
+{26579}{26637}- What?|- ls she serious?
+{26751}{26817}But it's up to you to keep it.
+{26855}{26948}-Bullshit.|-Yo, why don't you shut up, man.
+{26951}{27036}What if it ain't bullshit? Ain't|never had no fuckin' "A" before.
+{27099}{27137}I once knew a man|who couldn't read
+{27141}{27187}He said it ain't no thang|'cause I graduated twice
+{27191}{27220}With the game I possess
+{27224}{27257}Bulletproof vest|to the chest
+{27261}{27317}But when his kids needed help|to prepare for a test
+{27320}{27388}lt was stress 'cause Pops|didn't achieve any academics
+{27392}{27445}And true, indeed|This problem is an epidemic
+{27449}{27527}Who want to work five long hard days|through it and get taxed
+{27530}{27565}So that's a message|for your mind
+{27568}{27651}The story's been told|about a thousand times
+{27655}{27692}So here's a message|for your mind
+{27695}{27771}One thousand-one|One thousand-two
+{27774}{27817}So here's a message|for your mind
+{28000}{28045}Morning.
+{28143}{28239}- Okay, today we are going|to conjugate some verbs.|- What?|- What?
+{28243}{28291}Hey, what about karate?
+{28294}{28365}Well, I can't just teach you karate.|I'll show you another hold next week.
+{28368}{28433}Get outta here!
+{28624}{28680}Belt it out, too.|I wanna hear it.
+{28895}{28965}We eat green beans for dinner.|What you do with 'em?
+{28968}{29018}"We eat green beans for dinner."
+{29022}{29112}- Okay--|- Hey, Pam. Pam!
+{29187}{29232}Ye-- Yo, Chris!
+{29448}{29487}Hey. Hey. Hey, what's up?
+{29643}{29704}Hey, man, it's not|a big deal, okay?
+{29865}{29900}ls that true?
+{29904}{29970}lf we wanna die?|Shit, no.
+{29974}{30053}We want you to die.
+{30056}{30160}- ls that true?|- Well, if it was between|you and us, hell yeah.
+{30163}{30234}- Okay.|- Hey! Hey! I don't care|if I live or die!
+{30292}{30352}- What about that?|- Suicide, man.|- What's all this bullshit with dying?
+{30355}{30452}- You want us dead?|- No, darlin', but I do|want you to keep your "A."
+{30455}{30500}So, no, I'm gonna make it|real easy on you, okay?
+{30504}{30629}All you have to do is tell me the verb|that makes this sentence true.
+{30632}{30704}We choose to do some karate.
+{30707}{30774}- Yeah, right.|- Okay, give me a verb|instead of "choose."
+{30778}{30842}- We're going to die?|- We must die, okay.
+{30845}{30956}- Okay, "we must die." ls "must"|a verb? Can you, uh--|- No, "must" ain't no verb.
+{30960}{31068}- Can you "must" something?|- Yeah. I must piss right now.|You'd better believe it.
+{31232}{31324}Okay, what verb that we used|today is the most powerful?
+{31328}{31390}- Die.|- Piss.
+{31393}{31448}Oh, you so stupid!
+{31499}{31567}- Choose.|- Choose.
+{31570}{31612}- What's your name?|- Callie.
+{31616}{31672}Callie, why?
+{31675}{31745}Because that's the difference between|owning your life and being afraid.
+{31749}{31788}Saying "l choose"|no matter what.
+{31792}{31836}You mean, like a guy's got|a gun to your head...
+{31840}{31904}and he's pulling the trigger|and you say, "l choose to die"?
+{31906}{32025}No, you ain't choosin' to die,|but you can choose to die|without screaming, right?
+{32029}{32080}I mean, you could always|choose somethin'.
+{32084}{32136}- Not where I live.|- Shit.
+{32140}{32189}Did you read that somewhere|in this class?
+{32261}{32400}No. ln our class we readin' this book|called My Darling, My Hamburger.
+{32404}{32444}- From this.|- My what?
+{32448}{32516}- My Darling, My Hamburger.|- Hamburger?
+{32561}{32643}Possessive pronoun, noun,|possessive pronoun.
+{32647}{32712}- Oh, watch it, girl.|- Let's see.
+{32716}{32761}E-Excuse me.
+{32765}{32808}- Excuse me, Miss Johnson.|- Uh-- Oh, yes.
+{32811}{32887}Would you stop by the principaI's office|before your next class, please?
+{32891}{32966}Mr Grandey would like|to speak to you.
+{32969}{33041}The principal!
+{33044}{33124}Oooh, White Bread in trouble!
+{33607}{33673}Yes. I'll talk to you later.
+{33676}{33735}Bye-bye.
+{33738}{33832}Miss Johnson, this is an office.|We knock before we enter.
+{33860}{33909}Oh, I'm sorry.
+{33912}{33945}Please.
+{34088}{34197}Now, Miss Johnson,|I'm taking into consideration|the fact that you're new...
+{34200}{34297}and therefore don't know that teaching|karate is against school policy...
+{34300}{34394}and can lead to a lawsuit|in case of an injury.
+{34398}{34473}But you can avoid this kind of error--|you simply follow the curriculum...
+{34476}{34533}dictated by|the Board of Education.
+{34608}{34711}Well, um, sir, that's|almost impossible, um--
+{34714}{34800}Most of my students don't|even know what a verb is.
+{34804}{34842}lf you're going to teach them,
+{34845}{34959}I'm sure there's a better sentence|than "We choose to die."
+{34962}{35041}I'm sure there are, but I--|I-l needed a sentence that|would get their attention...
+{35044}{35152}- Mmm.|- and, well, it had to|be better than this.
+{35205}{35288}Miss Johnson, that is the approved|curriculum for second period.
+{35292}{35343}Your class.
+{35346}{35428}Now, I know the newer the teacher,|the smarter she is,
+{35431}{35563}but I-I'm afraid you're just|going to have to go along|with our policies,
+{35567}{35635}even if you don't|agree with them.
+{35687}{35742}- All right?|- Mm-hmm.
+{35773}{35820}What a fuckin' idiot.
+{35943}{36000}- Griffith.|- Don't let them get to you.
+{36004}{36079}I'm not. I-ln fact, I'm about to|challenge the entire curriculum.
+{36082}{36209}- lf I could just find the paper|in the Xerox room.|- You can't. There isn't any.
+{36212}{36273}- What do you mean?|- I mean there isn't any.
+{36276}{36376}I mean, we're out of Xerox paper and art|paper and we're short on pencils.
+{36380}{36473}But we do have plenty of students.|I guess that, uh, balances things out.
+{36538}{36573}Thanks.
+{36756}{36811}Another fuckin' idiot.
+{36814}{36884}No, I can't run, I can't hide|from all this pressure
+{36887}{36961}lf I sell out, that means|I'm coppin' to a lesser charge
+{36964}{37035}- And whenever there's a will|baby, there's a way|- Shit!
+{37038}{37108}Each one teach one I always say|the murder rate is risin'
+{37112}{37209}Society ain't scarin' me|Life is like a puzzle|Ain't no tellin' when they'll bury me
+{37212}{37304}- Problems, problems|How are we gonna solve 'em|- So, what's on today's lesson plan?
+{37307}{37401}A little kickboxing?|Some, uh, target practice, huh?
+{37405}{37477}No. My own little|secret weapon.
+{37481}{37547}Problems, problems|How are we gonna solve 'em
+{37632}{37721}Okay, so, "never" is--
+{37725}{37776}- lt's a verb!|- Adverb! Adverb!|- Adverb! Adverb!
+{37780}{37830}Adverb! Fantastic!
+{37833}{37889}- Whoo!|- You guys'll be reading poetry soon.
+{37893}{37950}- You guys are sharp.|- Oh, my--
+{37954}{37994}- Whoa!|- Okay.
+{38044}{38096}- Homeboy!|- King of the calle!
+{38100}{38153}Sit down, sit down, sit down.
+{38230}{38294}- Sit down.|- Honourable sensei. Hmm.
+{38296}{38389}lt's obvious that "homeboy"|is a noun.
+{38444}{38489}Noun is correct!
+{38493}{38559}Well, give me my damn candy bar.
+{38562}{38596}- Whoo!|- Thank you.
+{38600}{38677}Boy, poetry will be a piece|of cake for this crowd.
+{38681}{38778}Yo, how come you keep sayin' poetry?|What's poetry got to do with this shit?
+{38781}{38846}Poetry? WelI--
+{38850}{38917}Because if you can read poetry,|you can read just about anything, hon.
+{38937}{39007}- When you're ready for poetry,|you're ready for bear.|- I say bring on the bear!
+{39011}{39090}- I'm always ready for bear. Shit.|- I'm always ready to see you bare.
+{39094}{39191}- Whoa!|- Oh, shut up, you stupid!|- Oh, yeah? Ohh! Ohh!
+{39194}{39292}Well, okay, here's the bear.
+{39319}{39368}So what the fuck is that?
+{39371}{39510}- I just happen to have copies|of-of-- of a poem...|- Wait for me! Shit!
+{39513}{39601}- That's okay.|- written by the greatest poet.
+{39605}{39653}My Darling, My Hamburger.|How's that?
+{39718}{39762}- Okay, here's the deal.|- She was joking about the bear.
+{39766}{39867}When we finish this assignment,|I am gonna take...
+{39870}{39912}all of you...
+{39916}{39962}to a place that has...
+{39966}{40051}the highest parachute jumps,
+{40055}{40101}the biggest roller coaster,
+{40105}{40152}the best rides,
+{40156}{40220}the most delicious hot dogs,
+{40224}{40262}the hardest games...
+{40266}{40361}and the best prizes|in the world.
+{40364}{40414}- You're kiddin'.|- For real?
+{40418}{40487}- And we don't gotta pay for it?|- Huh?
+{40491}{40558}- And we don't gotta pay for it?|- Not a penny.
+{40562}{40633}So then, who pays?
+{40637}{40695}The Board of Education.
+{40699}{40749}- Lord, did you hear that?|- I don't believe it.
+{40788}{40865}- Sound good?|- Hey!
+{40924}{40968}That's bullshit, man!
+{41012}{41047}I'm sorry?
+{41095}{41165}Since when has the Board of Education|done anything for us, huh?
+{41169}{41237}Yeah, man, we fuckin'|barely get lunch.
+{41273}{41339}Well, I'm sorry you feel|that way, Emilio.
+{41398}{41452}Good.
+{41456}{41561}- Uh, Durrell, you wanna read|the first four lines?|- Oh, man, you trippin', man.
+{41564}{41611}I ain't readin'. You trippin'.
+{41687}{41750}- Okay, how about the f--|- You've got to read it.|- How about the first line?
+{41794}{41858}I'm scared to death, motherfucker,|all right? That's all.
+{42136}{42229}- Move slowly to the right, people.|- Yep, yep
+{42232}{42299}Miss Johnson.
+{42302}{42365}- You better be for real.|- Yep, yep
+{42449}{42504}- Yep, yep|- Miss Johnson?
+{42507}{42560}Yes, Callie?
+{42563}{42642}lf you wanna get the class|to listen, get Emilio.
+{42700}{42745}- Yep, yep|- lt's all right
+{42749}{42820}- lt's all right|- As you may have heard
+{42824}{42862}- Yeah|- To smoke a fat one
+{42866}{42934}- To smoke a fat one|- And drink a Thunderbird
+{42937}{43004}- Drink a Thunderbird|- lt's okay
+{43007}{43076}- lt's okay|- To play this loud
+{43080}{43222}- Mister DJ, don't mean|to sweat you down|- Wait
+{43226}{43303}- I'll get you, you little fucker.|- Yep
+{43307}{43374}- Poetry?|- Poetry, yeah.
+{43377}{43435}- These kids?|- Why not these kids?
+{43438}{43491}Well, hey, go for it.
+{43495}{43577}No, but I gotta find a gimmick|first, you know. Something|that'll grab their attention.
+{43581}{43630}- Who's your favourite poet, Griffith?|- My favourite?
+{43633}{43701}- Oh, there are so many.|How do I choose?|- I'm serious.
+{43705}{43769}Mmm. Serious. Okay.
+{43771}{43828}- Big D. Dylan.|- Get out!
+{43832}{43876}Why not?
+{43880}{43937}Well, I don-- He's n-- You know,|he's not for everybody.
+{43940}{44010}I mean, he's a little|long-winded, don't you think?
+{44013}{44066}I suppose that's 'cause|he wrote drunk.
+{44070}{44112}He had a drinking problem?
+{44115}{44171}Well, the guy's Welsh.|There ain't a lot to do there.
+{44175}{44229}I thought he was from Minnesota.
+{44232}{44308}You know, if the guy's your|favourite poet, you might want|to read up on him a little bit.
+{44312}{44362}He was Welsh and|he drank himself to death.
+{44365}{44441}Dead? He's not dead.|I saw him yesterday on MTV.
+{44499}{44555}You saw Dylan Thomas on MTV.
+{44589}{44631}No. Bob Dylan.
+{44634}{44688}Oh--
+{44692}{44766}-Bob Dylan? Ohh!|-He looked dead. He looked dead.
+{44770}{44853}- Ohh!|- Hey, Mr Tambourine Man
+{44857}{44931}Play a song for me
+{44951}{45022}"Hey, Mr Tambourine Man--"
+{45026}{45074}- Tambourine!|- Tambourine!|- Tangerine.
+{45077}{45142}"T-Tambourine Man,
+{45145}{45222}Play a song for me
+{45226}{45325}I'm not sleepy and there is|no place I'm going to"
+{45328}{45368}Wow, he can read.
+{45371}{45417}Thank you. Taiwana?
+{45476}{45545}The next three lines, Taiwana.
+{45549}{45600}"Hey, Mr Tambourine Man
+{45603}{45659}Play a song for me
+{45663}{45749}ln the jingle-jangle morning|I'll come following you"
+{45752}{45799}- Good.|- All right.
+{45802}{45846}- Yes.|- What does that mean?
+{45850}{45906}What do you think it means?
+{45909}{45956}What, some guy's|got a tambourine...
+{45959}{46041}and this other guy wants him to|play it 'cause he can't sleep.
+{46045}{46108}- Okay.|- Yeah, but how come he want|to play the tambourine?
+{46112}{46176}Don't he got a radio or somethin'?|You know what I'm sayin'?
+{46178}{46297}Well, you kn-- That's a good point.|I mean, i-i-it's-- it's a weird choice.
+{46301}{46404}So, what if I told you|that Mr Tambourine Man...
+{46407}{46449}is a code name?
+{46452}{46532}- A code name for what?|- James Bond.
+{46536}{46596}- A drug dealer.|- ls it?
+{46600}{46644}Well, a lot of people think so.
+{46647}{46721}You know, this song is from the '60s,|when you couldn't sing about drugs,
+{46725}{46775}so they had to make up codes.
+{46778}{46910}So what was the code?|What does "Hey, Mr Tambourine Man|Play a song for me" mean?
+{46913}{46986}- Well, you figure--|- "Play a song for me"|means "give me the stuff."
+{46989}{47055}Yeah, it's like that nigger|been out drinkin' all night|and smokin' some shit...
+{47058}{47115}and everybody broke out on his|ass, you know what I'm sayin'?
+{47119}{47216}And he's high-- he's still high,|but he's kinda low and shaky.|You know-- "jingle-jangle."
+{47220}{47298}Yeah, and he needs something, like|a big hit of crack or cocaine and shit.
+{47301}{47350}He's crazy, okay?
+{47353}{47425}So, what do you think, Emilio?|Do you think that Raul is right?
+{47488}{47586}- All right, it's too|personal to discuss.|- What?
+{47589}{47669}You mean you choose not to|participate in the discussion?
+{47672}{47751}- Boy's too slick.|- Not about somethin' so personal.
+{47870}{47930}Wanna draw for it?
+{47933}{47982}What?
+{47986}{48075}High card, you don't have to|discuss anything.
+{48117}{48189}Why do I gotta draw for it?|That's the way it is now.
+{48633}{48693}Listen to this.
+{48696}{48782}Name one of the most influential|presidents of the 20th century.
+{48786}{48854}- Roosevelt.|- Simple, right?
+{48857}{48941}Wrong.|A history teacher's nightmare.
+{48977}{49026}How about Snoop Doggy Dogg|for an answer?
+{49030}{49112}Joe Montana. Winston Churchill.
+{49157}{49237}But this-- this is the best.
+{49240}{49336}"l will not answer this question on the|grounds that it is culturally biased...
+{49339}{49397}against individuals|such as myself."
+{49451}{49527}Actually, for this answer I'm|gonna give him partial credit.
+{49577}{49638}Louanne, you lose your|sense of humour, it's over.
+{49672}{49726}Uh, here.|New pictures of the rug rats.
+{49730}{49804}- Oh, God. People are supposed|to ask first, Griffith.|- Shut up.
+{49859}{49934}Ohh. They look like Maggie.|Thank God.
+{49938}{50022}Oh, I don't know. Harry with his thumb|in his mouth, he kinda looks like me.
+{50026}{50098}ls that his thumb?|I thought that was a cigarette.
+{50101}{50154}- How is Maggie?|- Good.
+{50157}{50206}She wants you to come over|for dinner.
+{50209}{50314}We had some fun times, you and Maggie|and me and-- what's his name?
+{50353}{50404}- I remember.|- Yeah.
+{50463}{50566}I remember too. That's why it's|hard for me to come to dinner.
+{50626}{50674}- Seeing anybody?|- No.
+{50720}{50778}How do you do that? You walk around|with a bag over your head?
+{50782}{50848}- No.|- Louanne, it's over six months.
+{50851}{50896}I'm not ready, Hal.
+{50971}{51098}You know, I thought you guys|always stuck together. What are|you sitting here with me for?
+{51101}{51221}You know, he was my best friend,|Louanne. "Was" is the operative word.
+{51256}{51312}He isn't worth your spit.
+{51525}{51573}What was that for?
+{51577}{51659}Just tell Maggie|she's a lucky lady, Griffith.
+{51662}{51750}Yeah, when they made me they|broke the mold. Both of them.
+{51854}{51901}- Good morning, ladies.|- Good morning.
+{52097}{52146}We gotta stop meeting like this.
+{52232}{52301}You sound awful.
+{52305}{52343}I refuse to take|medical advice...
+{52346}{52453}from somebody who eats Cheetos|at 8:00 in the morning.
+{52457}{52551}Yeah, well, you shouldn't smoke.|Listen to that cough!
+{52595}{52627}You know--
+{52680}{52739}- I'll see you inside.|- You're gonna finish|the cigarette, aren't you?
+{52743}{52828}No, I'm not. Really.|Honest. I swear.
+{52832}{52911}Here! Right here! Yeah!
+{53174}{53240}- Guys are off playin' pool.|- You wanna smoke a cigarette?
+{53244}{53308}- I gave you your money, man. 350 bucks!|- Three-fifty?
+{53310}{53362}What are you talkin' about, homes?|Are you callin' me a liar?
+{53366}{53447}- What, do you think I'm fuckin' stupid?|- Yo, man, no.|Don't get loud, motherfucker!
+{53450}{53516}I'm gonna kick your fuckin'|spic ass!
+{53520}{53584}- Fuck you, man!|- Jump back, motherfucker!|- Fight! Fight!
+{53587}{53662}- Get back, get back.|- You fuckin' pendejo!|- Okay, okay, okay!
+{53666}{53731}Back off! Hey, hey, hey, hey!|Hey! Hey! Hey!
+{53734}{53788}- iPuto!|- One of you makes a move,|I will call security!
+{53792}{53856}- Aw, bullshit!|- Big fuckin' deal.|- They don't care.
+{53859}{53971}Okay, get to your classes.|Okay. lt's all over. Move!
+{54100}{54179}-You are stronger than these two|put together, and you know it!|-Bullshit, man!
+{54183}{54216}- iVato!|- He wishes, man!
+{54300}{54418}You could all be expelled if I report|this to the office, and you know that.
+{54421}{54532}Okay, if you give me your word that|it ends here, I'll forget it.
+{54535}{54598}ls it over?
+{54601}{54671}Yeah.
+{54674}{54719}How about you?
+{54722}{54795}- Yeah, simón.|- Absolutely.
+{54883}{54967}Okay, I trust you.|Now get to your classes.
+{55003}{55064}See you later, puto.
+{55068}{55118}Catch you later, ése.
+{55283}{55370}lf you hit those kids,|you'll pay for it. I swear.
+{55560}{55617}Get to your class|and behave yourself.
+{55683}{55741}You shouldn't have done that.
+{55745}{55839}- Oh? Why not?|- 'Cause you just shouldn't|mess with Emilio.
+{55843}{55924}Raul knows that if you make a deal|with Emilio and you fuck up on him,
+{55928}{55972}you get your locker smashed in|with your head.
+{55975}{56035}Everybody knows that.
+{56038}{56095}Well, maybe they'll all have|time to think about it...
+{56098}{56139}before they get to|the locker-smashing stage.
+{56143}{56214}They're gonna fight,|no matter what they tell you.
+{56258}{56311}What do you mean?
+{56315}{56375}When? Now?
+{56443}{56491}Where? Angela! Where?
+{56586}{56627}- Come on, motherfucker! Come on!|- Get him!
+{56631}{56663}Keep fightin'!|Keep kickin' his ass!
+{56719}{56775}Shit! Fuck!
+{56833}{56858}Ohh!
+{56986}{57028}Oh, shit.
+{57079}{57162}- Come on! Fuckin' come on!|- Fuck that!
+{57166}{57198}Shit!
+{57274}{57339}Come on, break it up!|Break it up!
+{57343}{57419}- Get the fuck off me!|- Get outta there!|- iPuto! You motherfucker!
+{57422}{57524}Get back! Now!|Get back! Get back!
+{57528}{57583}All of you! Comin' through!
+{57683}{57739}- Watch your head.|- Kickin', man.
+{57743}{57823}No. Wait a minute. Wait. No, no.|Gimme-- G-- Just give me a minute.
+{57911}{57956}- You promised!|- Yeah, but we had to,
+{57959}{58027}or we couldn't walk around|with our heads up no more.
+{58031}{58116}We got a reputation to protect.|You a Marine. You understand.
+{58120}{58170}Like, if America didn't stand up|everyone would attack it.
+{58173}{58247}Well, in our neighbourhood if you don't|stand up you can't walk down the street,
+{58250}{58302}'cause everyone will attack you,|you know?
+{58353}{58414}Rata, you fuckin' puto.
+{58418}{58495}- Man, I cracked that|motherfucker's head, ése.|- See you in the fuckin|neighbourhood, ése.
+{58584}{58629}Okay, I see.
+{58688}{58759}And I made it worse and I made you and|Gusmaro look bad in front of everyone...
+{58762}{58815}by saying that Emilio was|stronger than the both of you.
+{58819}{58879}Yeah, well, you thought|you was helpin' us.
+{58883}{58965}Ma'am, I'm sorry. We really have to go.|I gotta get 'em home.
+{60000}{60030}Nasty cut.
+{60156}{60221}You mind telling me what the fight|was about in the first place?
+{60224}{60264}Yeah.
+{60346}{60450}I really would like to know|what happened. I'm not gonna|make any trouble for you.
+{60454}{60530}- I just wanna know, was it worth it?|- Yeah, it was worth it.
+{60533}{60606}- Why?|- Because it felt good|hittin' him in the face.
+{60609}{60683}- I got him good, man.|- Yeah, you like to hit people?
+{60686}{60731}Yeah, I like to hit people.
+{60791}{60851}Why?
+{60855}{60916}You feel angry|a lot of the time?
+{60920}{60989}So now you're gonna|try and psychologize me?
+{60993}{61079}You're gonna try and figure|me out? I'll help you.
+{61083}{61155}I come from a broken home,|and we're poor. Okay?
+{61191}{61259}I see the same fuckin' movies|you do, man.
+{61346}{61406}I would like to help you,|Emilio.
+{61409}{61507}Thank you very much. And how|would you like to do that?
+{61510}{61587}You gonna give me some good|advice? "Just say no"?
+{61591}{61671}You gonna get me off|the streets? Well, forget it!
+{61674}{61749}How the fuck you gonna|save me from my life, huh?
+{61917}{61961}Yep, yep
+{61988}{62033}Karen?
+{62036}{62110}I have three, uh,|student files here...
+{62113}{62191}- and I can't find a phone|number in any of 'em.|- Yep, yep
+{62195}{62248}Well, sometimes they don't|give a number...
+{62251}{62310}- and sometimes|they don't have a phone.|- Yep, yep
+{62313}{62409}- lt's all right|- lt's all right|- As you might have heard
+{62412}{62484}- Yeah|- To smoke a fat one|- To smoke a fat one
+{62487}{62552}- And drink a 'Bird|- A Thunderbird
+{62556}{62608}- lt's okay|- lt's okay
+{62611}{62680}- To play this loud|- Oh, play it loud
+{62684}{62802}Mister DJ, don't mean|to sweat you down
+{62806}{62856}- lt's all right|- lt's all right
+{62859}{62917}- As you may have heard|- Yeah
+{62921}{62982}- To smoke a fat one|- Smoke a fat one
+{62985}{63100}- And drink a 'Bird|- A Thunderbird, now
+{63104}{63208}lt's okay
+{63385}{63442}Come on. Come on.
+{63482}{63514}Do your homework.
+{64020}{64112}- You have a lovely family,|Mrs. Sanchero.|- Thank you.
+{64235}{64292}We know why you're here,|Miss Johnson.
+{64325}{64401}I warned Raul to|stay out of trouble.
+{64405}{64484}He's first in our family to|maybe graduate high school.
+{64487}{64561}- So he gonna get punished big|for what he done.|- N--
+{64609}{64647}Don't you worry about that.
+{64650}{64719}But he didn't do anything wrong.
+{64760}{64812}-But he expelled for three days.|-l know. No, I know.
+{64816}{64927}But he didn't start the fight. He was|defending himself from a bigger boy.
+{64931}{64992}He was protecting himself.
+{64996}{65062}- Uh, why they send him home?|- lt's just school policy.
+{65066}{65144}I-I-lt gives the other boy|time to cool down.
+{65147}{65206}Actually,
+{65209}{65311}I'm here because I just wanted|to tell you both personally...
+{65314}{65409}what a pleasure it's been having|Raul in my class this semester.
+{65412}{65470}You must be very proud.
+{65547}{65588}Yes.
+{65592}{65663}He's, um--|Well, he's very bright...
+{65667}{65748}and funny, articulate.
+{65797}{65871}The truth is, he's--|he's one of my favourites.
+{66905}{66962}Uh, soy Louanne Johnson.
+{67123}{67152}Oh.
+{67197}{67276}"l will not go down underground
+{67280}{67344}'Cause somebody tells me|that death's comin' 'round"
+{67374}{67431}Okay, this is another|Dylan poem.
+{67434}{67535}Now, is that a code, or does|that just mean what it says?
+{67744}{67793}"And I will not carry myself|down to die
+{67797}{67848}When I go to my grave|My head will be high"
+{67851}{67910}"My head will be high."|What does that mean?
+{67980}{68010}Anybody.
+{68094}{68156}Nobody.
+{68159}{68216}ls there something|I should know?
+{68251}{68292}Yeah. I'll tell you.
+{68296}{68384}You ratted on Raul,|Gusmaro and Emilio.
+{68387}{68448}Yeah. You got Emilio|put into detention.
+{68451}{68500}lt wasn't none of your|business, chismosa.
+{68504}{68556}And you got Raul|and Gusmaro suspended.
+{68559}{68614}- Now they're gonna get|their fuckin' asses kicked.|- And you got Emilio--
+{68618}{68669}- Hey, I didn't rat on anybody.|- Wasn't none of your business|anyway, you chismosa.
+{68672}{68750}- Bullshit.|- Let this--|- Told you she was full of shit.
+{68754}{68850}- Snitches get stitches, bitch.|- Do you wanna talk about this?
+{68854}{68936}On you, shit. Whatever|floats your boat, teach.
+{68939}{68993}We don't have no choices|in this room.
+{68997}{69061}Well, if you all feel that strongly|about it, leave the room.
+{69064}{69117}- What?|- Hey, listen.
+{69121}{69258}Nobody's forcing you to be here.|You have a choice.|You can stay, or you can leave.
+{69261}{69332}Lady, why are you playin' this|game? We don't have a choice.
+{69335}{69416}You don't have a choice? You don't have|a choice on whether or not you're here?
+{69420}{69500}No. lf we leave, we don't|get to graduate. lf we stay,|we gotta put up with you.
+{69504}{69553}Well, that's a choice, isn't it?|You have a choice.
+{69557}{69607}You either don't graduate|or you have to put up with me.
+{69610}{69676}lt may not be a choice you like,|but it is a choice.
+{69680}{69755}Man, you don't understand nothin'. l|mean, you don't come from where we live.
+{69759}{69852}- You-- You're not bussed here.|- Do you have a choice|to get on that bus?
+{69856}{69912}Man, you come and live in my|neighbourhood for one week...
+{69916}{69971}and then you tell me|if you got a choice.
+{69974}{70080}There are a lot of people who|live in your neighbourhood who|choose not to get on that bus.
+{70084}{70149}What do they choose to do?|They choose to go out and sell drugs.
+{70152}{70231}They choose to go out and kill people.|They choose to do a lot of other things.
+{70234}{70288}But they choose not to|get on that bus.
+{70292}{70393}The people who choose to get on|that bus, which are you,|are the people who are saying,
+{70397}{70452}"l will not carry myself|down to die
+{70456}{70523}When I go to my grave|My head will be high"
+{70526}{70579}That is a choice.
+{70583}{70639}There are no victims|in this classroom!
+{70768}{70819}Why do you care anyway?|You just here for the money.
+{70822}{70884}Because I make a choice to care.|And, honey, the money ain't that good.
+{70887}{70944}- Whatever.|- Read it again, Miss Johnson.
+{70947}{71040}- What?|- Read those lines you just read again.
+{71388}{71431}"l will not go down underground
+{71435}{71528}'Cause somebody tells me|that death's comin' 'round"
+{71632}{71686}Does that mean|just what it says?
+{71721}{71813}No, it don't mean|just what it says.
+{71817}{71877}Because...
+{71881}{71937}you wouldn't go|under the ground...
+{71940}{72030}if someone told you|death was comin'.
+{72034}{72119}But you would go into the ground|if you were already dead.
+{72297}{72377}Do the rest of you|agree with that?
+{72557}{72602}Well, I kinda agree with it,
+{72606}{72699}but I think|it just means that...
+{72702}{72744}he ain't gonna help death out,|you know?
+{72748}{72812}lt's not like he's just gonna|lay down and wait for it.
+{72815}{72925}I think he's gonna choose-- No,|I think he's gonna make the choice--
+{72928}{72973}to die hard.
+{73028}{73072}Mm-hmm.
+{73075}{73132}- Yeah, I agree with that.|- Yeah, me too.
+{73135}{73181}- That's what it sounds like to me.|- Okay.
+{73185}{73270}Well, what about, uh,|the rest of it? Um--
+{73273}{73321}"When I go to my grave|My head will be high"
+{73324}{73389}"Head will be high."|What does that mean?
+{73393}{73485}- You're gonna die with pride.|- Right.
+{73488}{73549}- See you tomorrow.|- Callie, wait up!
+{74064}{74162}You went to RauI's house last|night, and Gusmaro's too, right?
+{74165}{74227}Mm-hmm.
+{74231}{74283}Yeah, that's what they told me.
+{74313}{74373}That's cool.
+{74656}{74734}Hold up, wait a minute|Don't go there 'cause I ain't with it
+{74737}{74816}Hold up, wait a minute|Don't go there 'cause I ain't with it
+{74915}{75003}What you want|Baby, I got it
+{75007}{75081}What you need|Babe, you got it
+{75085}{75159}All I'm askin'|is for a little respect
+{75215}{75290}Yo, kick it, homes!|What you waitin' for, man?
+{75294}{75369}- Are you trying to steal my $2.50, ése?|- Ah, go, go, go.
+{75373}{75475}Man, that ain't shit.|Go faster, man. Go faster, man.
+{75615}{75688}- Come on, come on|- Faster, man, faster!|- You got to gimme, gimme
+{75692}{75772}- R-E-S-P-E-C-T|- I got to get it, get it
+{75775}{75854}- R-E-S-P-E-C-T|- You got to gimme, gimme
+{75858}{75936}- R-E-S-P-E-C-T|- I got to get it, get it
+{75939}{75980}- R-E-S-P-E-C-T|- Come on, get back.
+{75984}{76057}Are you all right, man? That looked|like a real bitch right then.
+{76060}{76156}Hey, get the fuck|out of there, man. Look at you!|You look like my grandma, man.
+{76225}{76286}- R-E-S-P-E-C-T|- Miss Johnson,
+{76289}{76363}the-- the School Board would have every|right to insist on your dismissal.
+{76367}{76442}You informed no one.|You got no permission slips.
+{76446}{76552}Oh, but there was no one to inform.|All the kids just decided to go to|the amusement park at the last minute.
+{76556}{76620}And then they let me come along.
+{76623}{76699}- Did they pay for you?|- No, I paid for them.
+{76768}{76859}I was just so moved|by the invitation.
+{76944}{77008}This wasn't, by any chance,
+{77011}{77122}their reward for reading|poetry, was it, Miss Johnson?
+{77125}{77238}ln my class, Mr Grandey,|poetry is its own reward.
+{77362}{77430}Angela, would you read|the first line?
+{77434}{77538}"Appetizers. Freshly cut bay shrimp|grilled to perfection."
+{77542}{77628}- This is a Xerox of a menu.|- That is correct.
+{77632}{77728}lt's from The Flowering Peach,|the best restaurant in town.
+{77732}{77806}- Ever hear of it?|- Yeah, we heard of it.
+{77810}{77864}lt's supposed to be like|some special restaurant or somethin'.
+{77868}{77920}Mm-hmm.|So, does it sound good?
+{77965}{78072}Because whoever wins the, uh,|the-- the Dylan-Dylan contest...
+{78075}{78132}- The what?|- goes there for dinner with me.
+{78135}{78206}Hey, what's the Dylan-Dylan|contest about?
+{78210}{78254}Well.
+{78323}{78379}There's Bob Dylan,
+{78383}{78444}who we've been reading.
+{78448}{78492}And then...
+{78496}{78600}there's Dylan Thomas,
+{78603}{78644}who also wrote poems.
+{78648}{78731}lf you can find the poem|written by Dylan Thomas...
+{78735}{78852}that is like a poem|written by Bob Dylan,
+{78856}{78910}you win the Dylan-Dylan contest.
+{78913}{79028}Hey, Mr Tambourine Man|Play a song for me
+{79032}{79176}I'm not sleepy and there|is no place I'm going to
+{79180}{79302}Hey, Mr Tambourine Man|Play a song for me
+{79306}{79364}ln the jingle-jangle morning
+{79368}{79452}I'll come following you
+{79743}{79865}Yo, every fuckin' poem Dylan Thomas|wrote is about death, man.
+{79869}{79922}Now, how we supposed to know|which one to write?
+{79925}{80006}"The sniper laid him low,|and strewed his brains.
+{80010}{80059}One would not think|the greenness of this valley...
+{80062}{80110}could let a day be sick|with so much blood."
+{80113}{80193}Man, that's some Rambo-Schwarzenegger|bullshit you found.
+{80197}{80241}- That's how it's supposed to be, right?|- No.
+{80245}{80299}- There's supposed to be killing shit.|- But it-- But it don't--
+{80301}{80368}But it don't even mean the same as|"l will not go under the ground."
+{80414}{80473}Now you're some sort of|poetic critic, now, right?
+{80476}{80529}- Oh, well, it don't.|- Thank you.
+{80533}{80594}Okay. Listen to this.
+{80645}{80713}"Do not go gentle|into that good night.
+{80716}{80802}Old age should burn|and rave at close of day.
+{80806}{80901}Rage, rage against|the dying of the light."
+{80935}{80986}Where's the code?|Where's the death?
+{80989}{81053}Night. All that stuff|about night. That's death.
+{81091}{81141}So it's "Don't go gentle|into that good death."
+{81145}{81229}Yeah, but I think "good"|is sarcastic.
+{81233}{81333}When he say, "Do not go gentle,"|that's like sayin', "Don't go easy."
+{81336}{81422}- So it's the same as|"l will not go down."|- We just won us|a motherfucking chicken.
+{81425}{81483}Shh.
+{81486}{81555}This is the life
+{81559}{81655}Everyone has to be somewhere
+{81714}{81791}Oh
+{81795}{81915}I am here
+{82045}{82143}This is the life
+{82147}{82242}This is the life
+{82246}{82370}- This is my|- Well, the results of the|Dylan-Dylan contest are in.
+{82374}{82421}- Life|- The winners are--
+{82424}{82517}- That's me. Right here.|- Sit down. I am Bob Dylan. Sit down.
+{82521}{82592}- Yo, shh! Shh!|- Sorry, Miss Johnson.
+{82596}{82651}- Shh.|- Shh.
+{82695}{82763}Raul, Durrell and Callie!
+{82886}{82933}- Congratulations.|- Thanks.
+{82936}{83011}- Here's your certificate.|- Hey!|- Congratulations.
+{83040}{83085}Congratulations, Callie.
+{83088}{83146}Okay!
+{83149}{83217}But there are no losers in this class.|You guys did great.
+{83221}{83276}You all get to pick a prize|from the box.
+{83279}{83357}How come they get a prize|when they got the wrong answer?
+{83361}{83445}Well, because sometimes|it takes a lot of wrong answers|to get to the right one.
+{83449}{83527}Hey, everyone can't be right,|'cept for us!
+{83588}{83634}Come on up.
+{83831}{83888}- Miss Johnson?|- Hey, Callie.
+{83891}{83980}- Um, I wanted to talk to you|about the restaurant.|- Uh-huh.
+{83984}{84041}- I can't go.|- Why?
+{84045}{84115}Because I have to work at this|supermarket every night until|June and I already told them--
+{84119}{84163}Oh, isn't there any way|to get out of it?
+{84166}{84252}No. Because of the schedule|and everything, I have to do it.
+{84256}{84349}- But thank you anyway.|- Well, o-okay. Well.
+{84352}{84413}Shoot.
+{84416}{84525}Well, no, it's okay. lf you|can't come to dinner, then, uh,|well, we'll bring dinner to you.
+{84528}{84615}- Really?|- Mm-hmm.
+{84619}{84687}- Thank you.|- I'm taking orders, Miss Roberts.
+{84919}{84961}I couldn't find|a parking space.
+{84964}{85009}lt's okay.|I just got here myself.
+{85012}{85073}- Oh, you look very handsome.|- How 'bout this jacket?
+{85076}{85121}lt's fantastic.
+{85124}{85172}Go ahead, touch it.|lt's real leather.
+{85175}{85241}- Ooh!|- Hey, where's Callie?
+{85245}{85298}Oh, she had to work.|Where's Durrell?
+{85301}{85387}- Oh, he had to work too.|- Oh.
+{85390}{85477}Well, I guess it's just|you and me, handsome.
+{85481}{85525}I guess so.
+{85559}{85619}Oh. Ladies first.
+{85623}{85667}Thank you.
+{85839}{85903}- Hey, are you sure they got chicken?|- Mm-hmm.
+{86007}{86076}May I tell you a little|about this evening's specials?
+{86079}{86209}The chef is featuring foie gras|with smoked duck and figs|on a hill of bulgar.
+{86212}{86295}Uh, salmon tartar|in potato gaufrette...
+{86299}{86366}over wild mushrooms,|and fennel salad.
+{86370}{86423}Uh, for the entree|we're featuring...
+{86426}{86517}a complex shellfish|pan roast with orso,
+{86521}{86612}a touch of comfit and a broth|thickened with lobster shell oil.
+{86615}{86686}All very, very good.
+{86750}{86802}- Could we have a few minutes, please?|- Ah, yes.
+{86806}{86861}Thank you.
+{86864}{86917}- Are you sure they got chicken?|- Yes.
+{86921}{86989}Here. See, it's right there,|sweetie. You see? Poulet.
+{86993}{87119}And when the waiter comes back,|you may as well talk to him.
+{87123}{87201}lt'll be good practice|for your summer job interviews.
+{87204}{87269}I can't talk to that guy. He probably|thinks I'm weird or something.
+{87272}{87377}He does not. He can't help|but notice your natural charm.
+{87381}{87472}You just look him straight|in the eye and you talk to him|like you would anyone else.
+{87501}{87542}Now, go ahead and call him over.
+{87611}{87707}Go ahead. Just give him|a little nod.
+{87844}{87928}- Are we ready?|- Okay, I'll have the chicken.
+{87979}{88024}A whole one.
+{88097}{88154}And I'll have the same.
+{88158}{88227}And one to go, please.
+{88231}{88306}One to go. Thank you.
+{88723}{88762}Hey, Miss J?
+{88765}{88884}I was wondering maybe, like,|in the next couple of days, if I--
+{88887}{88972}- ls everything all right?|- Everything's fine. Thank you.
+{88975}{89025}All right.
+{89028}{89085}Now don't be mad or nothing,|but I gotta be absent...
+{89088}{89151}for a couple of days|without your coming to my house.
+{89154}{89221}lt's important.
+{89224}{89309}- You'll have to tell me why.|- I got some shit to do.
+{89404}{89453}I gotta make some money|to pay back this guy.
+{89560}{89624}This doesn't sound important|enough to cut school.
+{89627}{89695}lt is. I gotta pay|for this jacket.
+{89699}{89754}See, I got it off the street|from this guy for 200 dollars,
+{89757}{89802}and he said he'd trust me|for it until Friday.
+{89805}{89878}Why did you buy it on the street|instead of in a store?
+{89882}{89952}Are you crazy? You know how much|this would cost in a store?
+{89955}{90052}I needed a nice jacket and fast,|and I got it from this guy|'cause he cut me a deal...
+{90055}{90163}'cause he stole it,|probably.
+{90166}{90279}So, are you gonna go out and get|a job or are you gonna go out|and steal too to pay him back?
+{90283}{90342}Miss J, I gotta pay him back.
+{90346}{90398}He'll kill me.
+{90426}{90473}I didn't have nothing to wear!
+{90699}{90775}Fine. I'll lend it to you.
+{90828}{90889}I can't take your money.|Teachers are poor. Everyone knows that.
+{90929}{90987}Well, you don't really|have a choice, do you?
+{90990}{91048}lf you don't pay the guy back,|he'll kill you.
+{91051}{91142}lf you cut school, I'll tell|your father and he'll kill you.
+{91146}{91256}- So I'm your only way out.|- Oh, man.
+{91260}{91337}- But I do have one condition.|- Big?
+{91340}{91389}- Huge.|- What do you want, interest?
+{91392}{91471}- Mm-mmm. Bigger.|- Jesus Christ, what is it?
+{91500}{91568}Well.
+{91572}{91646}- Would you like dessert?|- No!
+{91650}{91720}- Another glass of wine?|- Oh, no, I'm fine. Thank you.
+{91724}{91792}- Coffee, perhaps?|- Hey, man, we're talking!
+{91882}{91944}So, what's the condition?
+{91999}{92086}You have to pay me back|on the day you graduate.
+{92144}{92201}But-- But what if|I don't graduate?
+{92204}{92287}Well, then you'll never|pay me back the money.
+{92290}{92375}But I know that|if you say you will,
+{92378}{92443}you'll kill yourself|keeping your word.
+{92940}{93018}Well, what do you say?
+{93022}{93122}I don't get it. Why do you|care so much if I graduate?
+{93125}{93179}Weird, isn't it?
+{93317}{93366}All right, I'll pay you back.
+{93458}{93526}- You have my word.|- Hey.
+{93529}{93594}lt is a very nice jacket.
+{93647}{93706}Thank you.
+{94174}{94218}- Hey.|- Oh, hi!|- Hi.
+{94222}{94278}- How you doin'?|- Oh, good.
+{94282}{94365}I think this is the first time I ever|brought food into a supermarket.
+{94369}{94450}-Yeah, I can smell it from here.|-Yeah.|-Good. Thanks.
+{94453}{94530}Well, Raul says if you don't like it,|he'll take it off your hands.
+{94534}{94616}Oh, please.|Like hell he will.
+{94620}{94688}Callie, could you help load|in aisle three, please?
+{94691}{94809}Be right there. I'm telling you,|this place would fall to pieces|if it wasn't for me.
+{94812}{94889}You know, Callie,
+{94892}{94937}just between you and me,
+{94940}{95066}with your scores, I think you should|consider going into Advanced English.
+{95070}{95159}- Oh, but I'm gonna be at Clearview.|You didn't know?|- No.
+{95162}{95247}You didn't see my record?|I tell you.
+{95250}{95295}No, I-- I didn't know.
+{95299}{95364}- Bye now.|- Yeah.
+{95421}{95485}ln the middle of a semester?|Are-- Are you moving?
+{95487}{95544}No. I'm pregnant.
+{95548}{95632}And since I'm startin' to show,|they thought it was time, you know?
+{95695}{95818}- Who thought it was time?|- The school. They don't let you|stay there if you're pregnant.
+{95822}{95904}But they told me they have this|really good programme at Clearview|for, like, teenage mothers.
+{95908}{96002}And they teach you stuff like parenting|and nutrition, all kinds of stuff.
+{96005}{96066}So I thought it would|be good for me, you know?
+{96070}{96124}- Yeah.|- Aisle three.
+{96163}{96247}"Degrade first the arts|if you'd mankind degrade."
+{96250}{96329}Hey, that's the spray can poem.
+{96405}{96493}-Hey, hey, what's the code word?|-The code word is "great rides|and great prizes."
+{96497}{96562}I'm keeping it undercover|But comin' soon, I surmises
+{96619}{96691}Does anybody know where, um,|Durrell and Lionel are today?
+{96740}{96830}- Durrell and Lionel.|- No.|- They around.
+{96834}{96934}Yeah, so what's the prize we're|gonna get for learning this poem?
+{96937}{97024}Learning is the prize.
+{97027}{97072}Yeah.
+{97075}{97149}Knowing how to read something|and understand it is the prize.
+{97152}{97230}Okay? Knowing how to think|is the prize.
+{97234}{97314}- I know how to think right now.|- Okay. Well, yeah, well,|you know how to run too.
+{97317}{97373}But not the way you|could run if you trained.
+{97376}{97445}You know, the mind|is like a muscle.
+{97449}{97543}Okay? And if you want it to be really|powerful, you got to work it out. Okay?
+{97547}{97659}Each new fact|gives you another choice.
+{97662}{97752}Each new idea builds|another muscle, okay?
+{97755}{97828}And it's those muscles that are|gonna make you really strong.
+{97832}{97928}Those are your weapons,|and in this unsafe world...
+{97932}{97985}I want to arm you.
+{97988}{98078}- And that's what these poems|are supposed to do?|- Yeah.
+{98082}{98142}Hey, try it. You're just|sittin' here anyway.
+{98146}{98214}Look. Okay.|lf at the end of the term,
+{98217}{98291}you're not faster, stronger|and smarter,
+{98295}{98366}you will have lost nothing.
+{98370}{98446}But if you are,
+{98450}{98568}you'll be that much tougher|to knock down.
+{98572}{98705}So what's "Hire idiots to paint|with cold light and hot shade"?
+{98736}{98777}They're being sarcastic, Raul.
+{98780}{98838}I mean, 'cause you know that light|is supposed to be warm, right?
+{98841}{98892}- And shade is supposed to be what?|- Cold?
+{98896}{98989}Exactly. But if you go|and hire an idiot to do the job,|he's gonna do it backwards.
+{98992}{99046}- Hello.|- There you go.|- Hmm.
+{99082}{99147}Don't make a big fuss|about this, Louanne.
+{99151}{99228}You have to help me. You have|no idea how bright this girl is.
+{99231}{99302}Yes, I do. And there's nothing|I can do about it.
+{99305}{99389}Oh! That just makes me crazy!
+{99392}{99475}What right do these miserable,|self-righteous sons of bitches|from the Board of Education...
+{99478}{99552}have to make a moral judgment|on Callie Roberts?
+{99555}{99605}- Do you know--|- Louanne, there are parents|in the next room.
+{99609}{99661}Look, I don't c--|I'm gonna fight this ruling.
+{99664}{99754}I'm gonna write an open letter|to every newspaper condemning|the entire School Board.
+{99758}{99812}- Oh, you can't do that.|- Why not?
+{99815}{99908}Well, first of all, the Board|has nothing to do with it.
+{99963}{100060}We prefer that these girls go to|the mother-to-be programme at Clearview.
+{100151}{100206}Oh, wait a minute.
+{100210}{100301}You mean this isn't a rule?|You mean this is your preference?
+{100337}{100383}Well, yes.
+{100387}{100486}You mean Callie Roberts is free|to go to any school she wants?
+{100489}{100597}- lncluding this one?|- Unless she's absent|for more than 30 days.
+{100601}{100662}And then she has to wait|until the baby's born|before she can come back here.
+{100665}{100803}But, Louanne, once these girls|have babies, very few of them|come back to school anyway.
+{100806}{100865}I see.
+{100868}{100967}So you make them think|they have to leave.
+{100971}{101048}You just push 'em out a little earlier,|make it a little harder,
+{101051}{101103}make it a little more hopeless.
+{101106}{101160}I do what I have to do...
+{101163}{101235}because it is dangerous to have|a pregnant girl in a classroom.
+{101238}{101351}lt's not a warning, Louanne. I-lt's|prestige, it's stardom, it's attention.
+{101354}{101408}You know, not all these girls|become pregnant by accident.
+{101412}{101487}- Pregnancy is contagious.|- Yep, yep
+{101490}{101535}- lt's all right|- lt's all right
+{101538}{101596}As you may have heard
+{101600}{101667}- Yeah|- To smoke a fat one|- To smoke a fat one
+{101671}{101731}- And drink a 'Bird|- Drink a Thunderbird
+{101735}{101787}- lt's okay|- lt's okay
+{101790}{101859}- To play this loud|- Play it loud
+{101863}{101957}Mister DJ, don't mean|to sweat you down
+{101961}{102007}Who is it?
+{102011}{102089}lt's Louanne Johnson,|Callie's second period teacher.
+{102195}{102247}Hi.
+{102251}{102327}Um, Callie's getting ready|to go to work.
+{102330}{102372}- Come on in.|- Thank you.
+{102376}{102436}Curiosity killed the cat
+{102440}{102483}- Oh.|- Hi.|- Hi, there.
+{102486}{102561}- What you doing?|- Watching TV.
+{102605}{102680}- What's your name?|- Tyeisha.
+{102683}{102761}- Oh, that's a pretty name.|- She just love her TV.
+{102765}{102850}Why ain't you in bed?|Come here, baby.
+{102853}{102935}Callie? Honey?|Your teacher's here.
+{103051}{103123}- Hi.|- Hi.
+{103126}{103207}I'm sorry to just bust in|on you like this, but I have|the most wonderful news...
+{103210}{103278}and I wanted to come|tell you personally.
+{103281}{103356}You do not have to go|to Clearview.
+{103359}{103485}There is nothing in the rules that says|you can't stay exactly where you are.
+{103489}{103534}But, uh, she already|enrolled in Clearview.
+{103537}{103612}Uh, well, that's all right. She-- that--|But she doesn't have to go there.
+{103616}{103701}Yeah, but Kimboley wants me|to take the mother-to-be programme|at Clearview, you know.
+{103704}{103785}He thought it would be a good|idea if I learned how to take|care of the baby and stuff.
+{103840}{103909}I don't understand.
+{103912}{103999}Do you not want to stay|at Parkmont?
+{104002}{104083}Well, yeah, but I gotta learn how|to take care of us, you know.
+{104086}{104145}I mean, we're getting our own|place and everything, so--
+{104232}{104307}Callie, just don't throw away|all you can become.
+{104351}{104429}Kimboley was so right.|He was so right.
+{104432}{104499}He told me that you'd probably|try to talk me out of this.
+{104502}{104548}You want to know|what else he said?
+{104551}{104614}He said that you probably|don't even like men...
+{104618}{104682}and that you're probably not married|and you don't want anybody else to be.
+{104685}{104759}That's why you're always|in everybody else's life.
+{104852}{104937}Look, I'm not saying|that I agree with him, okay?
+{104941}{105010}Well, Kimboley's wrong.
+{105014}{105071}I was married...
+{105075}{105119}and I was pregnant.
+{105182}{105244}So what happened?
+{105291}{105354}We got divorced...
+{105357}{105431}and I had an abortion.
+{105519}{105567}He beat me.
+{105634}{105714}Well, sometimes|you start out wrong...
+{105718}{105791}and just keep going.
+{106128}{106189}Hey, don't touch me.|Oh, get outta here!
+{106231}{106304}I'll see you.
+{106307}{106369}You took something that|fuckin' belonged to me, ése.
+{106373}{106444}Man, she came to me|with open arms.
+{106448}{106505}Besides, you gotta have|one of these.
+{106555}{106600}You're dead.
+{106901}{106969}As I walk through the valley|of the shadow of death
+{106973}{107049}I take a look at my life|and realize there's nothing left
+{107052}{107113}'Cause I've been blastin'|and laughin' so long
+{107117}{107192}That even my mama thinks|that my mind is gone
+{107196}{107259}I really hate to trip|but I gotta loc
+{107262}{107321}As they croak I see myself|in the pistol smoke
+{107325}{107414}Fool, I'm the kind of "G"|the little homies wanna be like
+{107418}{107491}On my knees in the night|sayin' prayers in the street light
+{107495}{107623}Been spendin' most their lives|livin' in a gangsta's paradise
+{107626}{107675}- Hey, Miss Johnson.|- Hey!|- Been spendin' most their lives
+{107678}{107761}- Haven't seen you guys in a week.|- Livin' in a gangsta's paradise
+{107765}{107827}Thought maybe you got lost|on your way to class.
+{107830}{107880}I wanted to help you|find your way back.
+{107883}{107948}Get on inside.
+{107951}{108019}Clean up that pigsty of a room.
+{108146}{108215}Hi. I'm Louanne Johnson.|I'm the boys' teacher.
+{108219}{108263}I know who you are.
+{108267}{108352}You're that white-bread bitch|messin' with my babies' minds.
+{108355}{108401}I beg your pardon?
+{108404}{108479}My boys don't go to your school|no more, and that's gonna be it.
+{108522}{108581}- You took 'em out of school?|- You're damn right I did.
+{108584}{108676}I saw what they were bringing|home-- poetry and shit.
+{108679}{108794}A waste of time. They got|more important things to worry about.
+{108856}{108949}Don't you think that finishing high|school will be valuable to their future?
+{108952}{109000}That's not in their future.
+{109003}{109096}I ain't raising no doctors and lawyers|here. They got bills to pay.
+{109100}{109151}Why don't you just|get on outta here.
+{109154}{109250}Go find yourself some other|poor boys to save.
+{109576}{109644}Mama! I could stand|some lemonade.
+{109790}{109887}"lt is easier|to forgive an enemy...
+{109891}{109953}than to forgive a friend.
+{109956}{110051}The man who permits you|to injure him...
+{110054}{110120}deserves your vengeance.
+{110124}{110205}He also will receive it."
+{110208}{110275}Wow, who wrote that?|Some Mafia guy?
+{110278}{110323}You know, let's go on|with this poem tomorrow.
+{110327}{110381}Why don't you-- Take out your work|sheets and do the vocabulary drill.
+{110384}{110465}- Say what?|- Oh, man!|- Man, I don't wanna do no vocabulary.
+{110469}{110521}I don't wanna do|no damn vocabulary.
+{110525}{110577}Then don't.
+{110580}{110663}What do you mean?|You mean I have a choice?
+{110667}{110757}You're not gonna let me get away with|not learnin' my vocabulary, right?
+{110840}{110922}That's right. You have to do|your vocabulary.
+{110926}{110990}Words are thoughts|and we can't think without 'em.
+{110993}{111075}So-- Please?
+{111078}{111166}And so let's just do it, man. She's|gonna be down our back in a minute.
+{111170}{111250}- Whatever. She's grouchy.|- Grouch.
+{111253}{111318}- Thanks, Louanne.|- Grouch, grouch.
+{111322}{111398}Thank you, Louanne.|Such a nice lady, Louanne.
+{111455}{111532}What do I do?|What the fuck you want from me?
+{111535}{111602}Who, my teacher? You think|I'm gonna fuckin' talk to a teacher?
+{111605}{111665}Like they're gonna|really help me, huh? Huh?
+{111669}{111743}Teachers aren't gonna|fuckin' help me, okay?
+{111747}{111840}Miss Johnson! Miss Johnson,|we gotta talk to you.
+{111844}{111915}- There's nothing to talk about, Angela!|- What, are you Superman?
+{111919}{111991}ls your ass bulletproof?|ls that what you think? Tell her!
+{111995}{112058}- Tell her what you're gonna do.|- What is it?
+{112061}{112131}- He's strapped.|- Shut the fuck up!|She don't need to know my business.
+{112134}{112203}ls your business dying? No!
+{112206}{112276}There's this crackhead named Shorty.|He just came out of jail.
+{112279}{112338}He says that I'm his girl and|that Emilio took me from him.
+{112342}{112400}And now he wants to kill Emilio.
+{112448}{112525}Emilio, if this boy is threatening you,|we can go to the police.
+{112528}{112583}Look, this is nothing you|can do anything about.
+{112586}{112652}This guy is looking for me to kill me,|and the only way for me to stop him...
+{112655}{112715}is for me to kill him first.
+{112719}{112774}That's just the way it is,|all right?
+{112777}{112858}Wait, Emilio, wait, wait, wait, wait,|no! Can we-- Can we talk about this?
+{112861}{112926}- Come to my house.|- Yeah, right.
+{112928}{112981}Oh, what?|You're too proud to hide?
+{112984}{113061}lt's better to wander|the streets all night?
+{113065}{113136}- Come on.|- Please?
+{113140}{113184}Please, just go.
+{113272}{113344}Go. Go.
+{113391}{113450}- Can we drop you?|- Just go.
+{113838}{113900}ls this boy your age?
+{113974}{114054}- Yeah.|- Does he go to Parkmont?
+{114057}{114126}I won't tell you who it is.
+{114129}{114174}No, don't.
+{114227}{114298}But if you tell Mr Grandey|about him--
+{114302}{114430}not about his threatening you,|but about his being on crack--
+{114433}{114541}he'll be turned over to the juvenile|court for-- for drug abuse in school.
+{114545}{114601}H-He won't serve hard time,
+{114604}{114706}but by the time he gets out and|he's detoxed, he-- he will have|gotten over trying to kill you.
+{114879}{114924}No, I can't rat on him.
+{114927}{114999}Right. Kill him.|That's better.
+{115036}{115098}Man,
+{115102}{115146}you don't understand.
+{115227}{115342}You asked me once how I was|gonna save you from your life.
+{115346}{115408}This is how. This moment.
+{115448}{115514}Right now.
+{115518}{115575}This will make the difference|in your life forever.
+{116306}{116351}Emilio?
+{116525}{116569}Emilio?
+{116879}{116970}- Oh, Mr Grandey.|- ls there a problem, Miss Johnson?
+{116974}{117022}- Shouldn't you be in class?|- Yes, I'm late.
+{117026}{117139}Um, I just wanted to ask.|Did Emilio Ramirez come|to your office this morning?
+{117143}{117204}- Yes.|- Oh, God. Oh, thank God.
+{117207}{117279}- Did you talk to him?|- No, I sent him away.
+{117282}{117332}You-- What do you mean?
+{117382}{117475}- I mean I sent him away.|- Why?
+{117478}{117540}Because he didn't knock,|Miss Johnson.
+{117544}{117642}- Here we are.|- Because he didn't knock?
+{117646}{117748}Yes, Miss Johnson. I'm trying to teach|these children how to live in the world.
+{117752}{117829}And in the world, you just don't|burst into someone's office.
+{117898}{117966}Because he didn't knock?
+{118041}{118094}Damn it!
+{118878}{118923}Uh, Louanne.
+{118958}{119030}Mr Grandey is with the police.
+{119033}{119086}- Yes?|- Um.
+{119089}{119175}They just found Emilio Ramirez|three blocks from the school.
+{119178}{119243}He was shot this morning.
+{119299}{119343}ls he dead?
+{119416}{119502}- He's dead.|- I'm very sorry.
+{119545}{119598}Um...
+{119602}{119651}are you going to tell them now?
+{119712}{119769}Do you think that's wise?
+{119841}{119891}Yeah.
+{119895}{119980}Well, uh, perhaps if you talk to them|a little bit about death...
+{119983}{120059}and-- and-- and what it means.
+{120089}{120147}What would you like me to say?
+{120151}{120219}That if you don't want to die,|remember to knock?
+{120254}{120317}- That's not fair.|- What is?
+{120733}{120788}Bad news.
+{120823}{120897}Emilio was shot this morning.
+{120941}{121002}ls he dead?
+{121005}{121099}- Yes, baby, he's dead.|- Oh, no.
+{122238}{122358}Yo! Listen up. Miss Johnson|got something to say!
+{122361}{122444}- Shh.|- Thank you.
+{122448}{122528}I just want to say...
+{122531}{122606}l, uh-- I won't, um--
+{122662}{122736}I will not be here next year.
+{122739}{122784}I'm not coming back.
+{122823}{122878}How come?|ls it something we did?
+{122881}{122947}No. No, no, no. No. Um--
+{123021}{123073}I-l never intended to stay.
+{123077}{123141}Um, this was an unexpected job.
+{123145}{123239}So if you knew you wasn't|gonna stay, how come you made me|promise what I promised?
+{123277}{123321}I--
+{123370}{123443}At that time,|I thought I would stay.
+{123447}{123496}So how come you're leaving?
+{123546}{123590}I just...
+{123624}{123683}have my reasons,|certain reasons.
+{123686}{123785}ls it because it's too sad for you,|what happened to Emilio?
+{124127}{124174}Maybe.
+{124178}{124240}And Durrell and Lionel|and Callie. And I just--
+{124244}{124288}I just think that--
+{124404}{124484}So if you love us so much and you're|so interested in our graduating,
+{124487}{124560}- how come you choose to leave?|- Yeah.
+{124563}{124679}You sad about Durrell and Callie|and Emilio and Lionel, but we're here.
+{124682}{124769}What about us, huh?|None of us make you feel happy?
+{124773}{124883}We been working hard and we stayed|in school, man. What about us?
+{124886}{124939}- Yeah.|- Yeah.
+{125303}{125381}Why are you packing up today|when tomorrow is your last day?
+{125410}{125455}Oh, just gettin' a head start.
+{125492}{125537}Oh, I see.
+{125635}{125743}What you did, when you|gave me the 200 dollars?
+{125808}{125935}That was the nicest thing|anybody ever did for me.
+{125938}{125997}I don't know anybody else|who would give 200 dollars...
+{126001}{126063}to a Mexican kid|on his word of honour.
+{126206}{126265}S-So you gotta let me|pay you back.
+{126354}{126429}Even if I don't graduate,|all right?
+{126432}{126497}Why wouldn't you graduate?
+{126538}{126609}Ain't no other teacher|gonna give me no "A."
+{126612}{126677}Yes, they will, if you work for them|the way you worked for me.
+{126680}{126741}No, but it was different with you.|You gave me an "A" to start with.
+{126745}{126850}- I didn't have to earn it.|I just had to keep it.|- Are you kidding?
+{126853}{126963}Keeping an "A" is harder than getting an|"A." Almost anyone can get an "A" once.
+{126967}{127041}But keeping it,|that's an accomplishment.
+{127045}{127114}- You think so?|- Oh, I know so.
+{127118}{127181}Do you realize the work|you did this term?
+{127184}{127270}Do you realize that|the poetry that we read...
+{127274}{127321}is given to people in college?
+{127325}{127377}- ln college.|- These same poems?
+{127380}{127460}- Yes.|- But they weren't even so hard.
+{127463}{127509}So, you see?
+{127561}{127618}Keep working.
+{127622}{127678}You'll graduate.
+{127745}{127812}I might even see you|in college.
+{127815}{127860}What do you think?
+{128267}{128347}I feel so bad about leaving|I can hardly breathe.
+{128351}{128449}I know, but-- Oh, what the hell.|You're right.
+{128453}{128562}You gotta be crazy to stay here|and teach these programme classes.
+{128565}{128628}There's no money.|lt's killer work.
+{128687}{128743}Why do you stay?
+{128747}{128806}Why do I smoke?|I'm crazy.
+{128809}{128856}You need any more help?
+{128859}{128914}No. Thanks.|I'll see you tomorrow.
+{128918}{128962}Yeah. Bye.
+{129007}{129080}This is the life
+{129083}{129177}Everyone has to be somewhere
+{129235}{129300}Oh
+{129304}{129444}I am here
+{129509}{129609}This is the life
+{129612}{129677}This is the life
+{129710}{129811}'Cause this is my life
+{129814}{129944}This is my life
+{129981}{130026}Hi.
+{130094}{130193}Well. Welcome back.
+{130197}{130288}This is the 29th day,|the last day I have to come back.
+{130292}{130367}So, am I still okay|for next term?
+{130397}{130441}Yeah.
+{130487}{130544}Did, uh,
+{130548}{130642}did you come back because|it was your last day or did somebody...
+{130646}{130724}ask you to come today|to talk me into staying?
+{130728}{130794}Well, it was both, really.
+{130798}{130904}See, 'cause I wasn't really sure|what I wanted to do...
+{130907}{130977}until I heard that you|were leaving and--
+{130980}{131042}'Cause up until then,|I don't know, I thought...
+{131046}{131127}that you'd always be here|for me, you know.
+{131130}{131182}You know, whenever I came back.
+{131220}{131280}But then Raul tells me|that you're leaving...
+{131283}{131328}just like that.
+{131415}{131471}And I realized that this|was my last chance.
+{131523}{131571}And I decided--
+{131602}{131676}We decided that...
+{131679}{131734}we're not gonna just|let you leave like that.
+{131803}{131864}Yeah, we realized|like the poem said:
+{131868}{131934}You can't give in.
+{131937}{131990}"You can't go gentle.
+{131994}{132092}- You got to rage against|the dying of the light."|- Yeah.
+{132096}{132149}Yeah, you gotta go for yours.|You know that, right?
+{132153}{132226}- Yeah.|- You gotta kick it in and get it up.
+{132229}{132308}Wait a minute, wait a minute.|No, no. Wait, wait. I'm not giving in.
+{132311}{132397}Um, this is my choice.
+{132401}{132479}I have no reason to "rage|against the dying of the light."
+{132482}{132554}'Cause you're not the one who's raging.|We're the ones who are raging.
+{132557}{132612}See, 'cause we see you|as being our light.
+{132665}{132758}- What?|- You're our Tambourine Man.
+{132761}{132878}- Oh, I'm your drug dealer?|- You got the stuff, Miss J?
+{132881}{132978}You're our teacher. You got|what we need. lt's the same thing.
+{132981}{133073}Come on, Miss J. All the poems|you taught us say you can't give in.
+{133077}{133131}You can't give up.
+{133134}{133203}- Well, we ain't giving you up.|- No way.
+{133206}{133312}Now, listen, baby, we gonna have to|tie you down to the chair and gag you...
+{133315}{133435}'cause you know|we want you to stay.
+{133438}{133551}What you need to stay, girl?|You want a candy bar?
+{133554}{133662}Okay, on the left and on the right,|a "Louanne, Louanne." Uh, here we go.
+{133665}{133746}Louanne, Louanne,|Louanne, Louanne.
+{133750}{133832}- Louanne, Louanne, Louanne, Louanne.|- Come on!
+{133835}{133945}Louanne, Louanne,|Louanne, Louanne.
+{134070}{134172}- You have to go first.|- I don't want to go first.|- Come on. You have to.
+{134176}{134220}Ready? You go like this. Go.
+{134280}{134333}- lt go like this.|- This how you do it.
+{134336}{134431}Go, Louanne. Go, Louanne.|Go, Louanne. Go, Louanne.
+{134434}{134509}Go, Louanne. Go, Louanne.|Go, Louanne.
+{134668}{134734}Let me see.
+{134737}{134808}- Excuse me.|- Are you okay?|- Yeah.
+{134874}{134942}- You want to sign my book?|- Yeah, I'll sign your book.
+{135533}{135598}How'd they get you|to come back?
+{135602}{135688}They gave me candy|and called me "the light."
+{135692}{135736}That'll do it.
+{136434}{136492}I won't do you wrong
+{136496}{136551}I'll do you right
+{136555}{136672}You can roll with me|for the rest of the night
+{136676}{136779}No need to fuss|'cause I don't wanna joke
+{136782}{136878}Baby, sit right here|and let the chronic smoke
+{136881}{136951}So hang around, love
+{136955}{137022}And give it up
+{137026}{137129}'Cause all the real "G"s|know what I'm thinkin' of
+{137132}{137266}'Cause you wanna be down, down|so give it up
+{137270}{137365}There's a party over here|So, baby, show your love
+{137369}{137469}'Cause I got the gin and juice|Yeah
+{137473}{137547}- You know that, you know that|- I got the gin and juice
+{137551}{137614}Yeah
+{137618}{137719}'Cause I got the gin and juice|Yeah
+{137776}{137839}- I got the, I got the gin and juice|- Yeah
+{137843}{137935}- I got the answer|- 'Cause I got the gin and juice
+{138159}{138225}As I walk through the valley|of the shadow of death
+{138229}{138307}I take a look at my life|and realize there's nothing left
+{138310}{138371}'Cause I've been blastin'|and laughin' so long
+{138375}{138452}That even my mama thinks|that my mind is gone
+{138455}{138520}I really hate to trip|but I gotta loc
+{138523}{138609}As they croak I see myself|in the pistol smoke
+{138612}{138662}Fool, I'm the kind of "G"|the little homies wanna be like
+{138665}{138751}On my knees in the night|Sayin' prayers in the street light
+{138755}{138894}Been spending most their lives|livin' in a gangsta's paradise
+{138898}{139035}Been spending most their lives|livin' in a gangsta's paradise
+{139038}{139187}We keep spending most our lives|livin' in a gangsta's paradise
+{139453}{139513}You spent so many nights|in heat
+{139516}{139579}- And out of control|- Like that
+{139582}{139642}Waiting impatiently to see
+{139646}{139706}- What's under my clothes|- Like that
+{139709}{139832}I just wanna take time|to get right into the point
+{139835}{139881}Now you got your choice, girl
+{139884}{139956}- To come and rock this funky joint|- Like that
+{139959}{140093}Don't you take too long, baby
+{140097}{140216}I'll be waitin' here|for you, baby, baby
+{140220}{140339}Here's a gift|to you from me
+{140343}{140451}Just you wait and see|lt's the curiosity
+{140455}{140591}- lt's the curiosity|- Curiosity
+{140595}{140667}- Do you wanna feel my body|- Like that
+{140671}{140715}Girl, all night long, yeah
+{140719}{140785}lt's the curiosity
+{140858}{140947}- Why not now|- Oh, yeah
+{140951}{141025}- Oh, yeah|- lt's the curiosity
+{141029}{141077}For you, for me
+{141080}{141142}lt's the curiosity

@@ -1,0 +1,789 @@
+{1}{1}25.000
+{2500}{2575}V R A T A   S U D B I N E
+{3700}{3800}Sranje, sranje, sranje...
+{3810}{3910}"Zdravo Helen. O, skoro da smo|zaboravili da ti radiš ovdje."
+{3960}{4085}Znam, skoro da ste zaboravili da radim ovdje,| ali, cijelu noæ  sam razmišljala o modnoj reviji i...
+{4085}{4160}... stvarno imam super ideju.|Vidite...
+{4210}{4242}Što...??
+{4335}{4409}Uzela sam èetiri boce votke|u petak...
+{4410}{4480}Bio mi je roðendan, nisam stigla kupiti|piæe, pa sam posudila par boca za tulum.
+{4481}{4534}Donijela sam nove da ih|zamijenim.
+{4535}{4660}To mi ništa ne znaèi kad nisam imao èime|poslužiti glavne face u petak kasno uveèer.
+{4685}{4810}Mogao si im reæi da ti je nestalo, to je sad| vrlo moderno...kažeš: sranje, sranje...
+{4810}{4885}Pa, mi smo u poslu "Odnosi sa |javnošæu", zar ne? To stalno radimo.
+{4935}{5035}Ali, ti to nisi rekao, |zar ne, Paul?
+{5060}{5135}Znaèi, ispadam?|Zar ne?!
+{5235}{5310}E, baš super.
+{5310}{5435}Èestitam! Godinama ste me htjeli|izbaciti i sad vam je uspjelo. Svaka èast!
+{5485}{5560}Kraða... baš valjan razlog.
+{5560}{5660}U redu, idem.
+{5660}{5810}Veæ sam se poèela gušiti od silnih |testosterona ovdje. Idem dok mi nije izrastao penis.
+{5835}{5885}Rekao sam ti! |Lezbijka.
+{9660}{9769}Obavještavamo vas da æe zbog radova na |stanici Victoria, svi vlakovi izuzetno kasniti.
+{9770}{9880}Savjetujemo vam da potražite|neki drugi oblik prijevoza.
+{10635}{10760}Jesi li dobro, dušo? U, baš gadna posjekotina.|Trebat æe ti tu par šavova. Hajde.
+{11010}{11160}Tekst od Beatlesa, a? |"Elastic Thrombosis", oni su plagijatori.
+{11185}{11260}To je tekst od Beatlesa, zar ne?|- Stvarno ne znam.
+{11260}{11360}Ma, naravno  da znate. Mi se svi rodimo |sa znanjem rijeèi svih pjesama Beatlesa.
+{11360}{11460}Oni se jednostavno nesvjesno |implantiraju u fetus.
+{11460}{11535}Oni bi se zapravo trebali | zvati  Fetulsi.
+{11585}{11635}Oèigledno nije njihov|obožavatelj.
+{12160}{12235}Zanimljivo kako u|metrou nitko ne prièa.
+{12235}{12310}Doduše i ja se vozim metroom, ali...|...ili liftovi?!
+{12310}{12385}Zašto svi nabace ozbiljne|face, stvarno ne znam.
+{12385}{12510}Možda mislimo da su svi u metrou ili liftu|potencijalne psihopate ili pijanice...
+{12510}{12610}...pa se pretvaramo da èitamo knjigu.|Joj, imate groznu fleku od èaja na knjizi.
+{12610}{12685}Slušajte, stvarno ne mislim da ste|psihopat. Samo èitam knjigu.
+{12685}{12760}Razumijem. Isprièavam se.
+{12760}{12860}U stvari, danas sam baš nešto raspoložen...|Oprostite.
+{12935}{13035}Jesmo li se mi veæ negdje sreli?|Ne, zaista, izgledate mi poznato.
+{13060}{13110}Mislim da nismo.
+{13110}{13210}Da, da, bili ste maloprije u liftu.|Ispala Vam je naušnica, a ja sam je podigao.
+{13210}{13335}O, da, tako je. Hvala Vam.|- Nema na èemu.
+{13335}{13435}Tamo radite?|- Da, radila sam, i baš su me otpustili, OK?
+{13460}{13535}To je baš grozno.|Oprostite.
+{13535}{13685}U redu je. Niste Vi to uèinili. Hvala Vam |na brizi i drago mi je što ste raspoloženi...
+{13685}{13810}...hvala Vam što ste mi podigli naušnicu,|ali ja stvarno želim èitati svoju knjigu.
+{14085}{14185}Ja silazim na sljedeæoj stanici.|To Vam govorim zato što, ako i Vi silazite...
+{14185}{14310}... pa ustanete prije mene, a onda ja ustanem,pa Vi |pomislite da æu Vas pratiti, što neæu, tj. ne bih...
+{14385}{14535}Stvarno Vas nisam želio da uvrijediti. Isprièavam se |zbog svega. Stvarno nisam neki luðak. Oprostite.
+{14735}{14835}Oprostite, molim Vas. Stvarno ne|mislim da ste luðak ili psihopat i tako to...
+{14885}{14985}...ja...nisam tako dobra...|u...ovaj...
+{15010}{15085}U sklapanju reèenica?
+{15110}{15160}- Ja sam James.|- Helen.
+{15360}{15435}Kako to da nismo |ostali zajedno Jerry?
+{15460}{15560} - Ti si se vratila u Ameriku, sjeæaš se?|- Da, ali sam se ipak vratila.
+{15585}{15710}Nema me tri godine, a ti me|bezobzirno ostaviš zbog druge žene.
+{15735}{15810}Znam, mora da sam|okrutan po prirodi.
+{15810}{15885}Živim sa nekim.|Sa muškarcem.
+{15935}{16010}Stvarno? Ni moji najbolji prijatelji|mi se ne povjeravaju ovoliko.
+{16035}{16135}I što bi Vam rekao da Vas vidi kako izlazite iz| metroa usred bijela dana sa potpunim neznancem?
+{16310}{16385}Drago mi je što smo se upoznali, Helen.|Baš mi je žao zbog Vašeg posla.
+{16385}{16460}Pošto sam Blizanac,|ja sam uvijek optimist.
+{16460}{16535}Sjeæate se što kažu|Montipajtonovci?
+{16535}{16610}Što, ono...|"Uvijek gledaj ljepšu stranu života"?
+{16610}{16685}Ne. "Nitko nikad ne oèekuje|španjolsku inkviziciju!"
+{18335}{18410}Mislila sam da ne voliš |Elthona Johna?
+{18435}{18485}Volim...ponekad.
+{18735}{18860}Nisi trebao tako prestati.|Ženi æe trebati 3 dana da se oporavi.
+{18910}{18984}Tko je ona?
+{18984}{19034}Ona je Lydia.
+{19334}{19434}E, pa, dan mi je bio grozan.|Šutnuli su me sa posla.
+{19434}{19510}A izgleda da si|me i ti šutnuo.
+{19534}{19610}- Može èaj?|- To bi bilo baš fino.
+{19634}{19710}Bijednièe!
+{19710}{19784}Prokleti, jebeni, bijednièe!
+{19959}{20109}Doðem kuæi i uhvatim te |sa jebenom Lady Godivom?
+{20109}{20259}Radim kao crnac kako bih te izdržavala,|dok ti navodno pišeš svoj prvi roman.
+{20309}{20384}Koliko dugo to traje?
+{20409}{20484}Voliš li je?|Ne, ne zanima me.
+{20484}{20584}Ne, reci mi,|baš me zanima.
+{20584}{20709}Pitam te to samo da bih |znala kolika sam budala ispala.
+{22434}{22534}- Helen, jesi to ti?|- Ne, tvoja ljubavnica.
+{22559}{22634}Srijeda je dan za jebaèinu,|sjeæaš se?
+{22809}{22884}Što je, tek si ustao,|bubo lijena?
+{22909}{23034}Nisam baš dobro spavao noæas, |pa, kad si ti otišla...baš sam se...
+{23034}{23159}...baš sam se...razvalio od spavanja.
+{23184}{23259}Izgleda da me hvata neki...
+{23259}{23359}A što ti radiš kod kuæe u ovo doba...
+{23384}{23484}Gospode, što ti se dogodilo?
+{23509}{23609}Zavisi...|Koju prièu prvo hoæeš èuti?
+{23659}{23709}Opljaèkali su me...
+{23784}{23834}Što to radiš?
+{23859}{23909}Mrzim ovog Elton Johna.
+{23934}{24059}Dobro, prièaj. Što se dogodilo?|Što ti je s glavom?
+{24059}{24134}Pa, opljaèkali su me |i šutnuli su me.
+{24134}{24259}Doduše, ne baš tim redoslijedom, i to nije bila prava|pljaèka, veæ samo pokušaj, kako su rekli u policiji...
+{24259}{24384}Èekaj, èekaj malo...|Doði ovamo. Sjedi.
+{24409}{24459}Sjedi lijepo ovdje.
+{24484}{24559}Ti si u šoku, dušo.
+{24559}{24634}Samo si u malom šoku.|Opusti se malo.
+{24709}{24759}Hoæeš malo brandyja?
+{24759}{24859}- Èetiri je sata poslije podne.|- Da, da. Oprosti.
+{24934}{25034}- Je li sve u redu?|- Sa mnom? O, da, naravno.
+{25059}{25109}Nego, reci mi, |što ti se dogodilo.
+{25759}{25909}I stalno sam mislila - samo da sam stigla na taj|prokleti vlak, ništa od ovoga se ne bi dogodilo.
+{25909}{26034}- Bila bih kod kuæe veæ odavno.|- Ne bi trebala tako razmišljati.
+{26034}{26134}Sve to "što bi bilo da je bilo".
+{26209}{26284}Sad je sve gotovo.
+{26334}{26384}Doði. Doði.
+{26409}{26484}Umij se.|Izvest æu te...
+{26484}{26609}...i ima da se ubijemo od piva.|Obriši se.
+{26609}{26709}A onda...|Doði...doði...doði...
+{26709}{26809}A kad iz sveg glasa otpjevaš sve|pjesme Barbre Streisand...
+{26809}{26884}...i kad te izbace iz puba...
+{26884}{26934}Obuci ovo.
+{26934}{27034}Onda æu te odvesti na indijsku piletinu u umaku, |što znam da ne smiješ jesti jer si na dijeti...
+{27059}{27159}...sa duplom kremom od|vanilije, koju æeš poslije...
+{27159}{27259}... ispovraæati pred uglancanim vratima |gospodina i gospoðe Gebels iz susjedstva, a ja æu ti pomoæi.
+{27259}{27309}Volim te Jerry.
+{27334}{27459}Jerry, ona nije ovdje.|- Ana, ti si joj najbolja prijateljica.Gdje bi bila?
+{27459}{27559}Uði i pretresi stan, ako hoæeš.|Ona nije ovdje.
+{27559}{27659}Što si uopæe napravio?|Sigurno nije nešto lijepo kad te ostavila.
+{27659}{27809}Molim te, ako doðe, samo je nagovori da |mi se javi. Samo te to molim.
+{27809}{27934}Jerry, ja sam Helenina najbolja prijateljica.|Ako doðe, uèinit æu kako ona kaže.
+{28584}{28634}Tu je u pravu.|Ti mrziš Eltona Johna.
+{28659}{28709}Ma, zajebi Eltona Johna. Nije u tome stvar.|Što da radim?
+{28709}{28884}Veæ tjednima govoriš kako ne znaš što |uèiniti. I žališ što si se opet spetljao sa Lydiom.
+{28884}{28984}I da neæeš da te Helen ostavi|zato što si bio nevjeran.
+{28984}{29059}Ali nisi mogao prekinuti sa Lydiom,|jer nisi znao kako bi ona to podnijela.
+{29059}{29159}- Znam sve to.|- A ja sam ti rekao da æe se nešto...
+{29159}{29259}...da æe se nešto dogoditi, van tvoje|kontrole što æe staviti toèku na i.
+{29284}{29359}- Znam.|- I, eto, nešto se dogodilo.
+{29484}{29584}- To i nije tako smiješno Russelle.|- Oprosti prijatelju, malo sam se zanio.
+{29609}{29684}Jeste smiješno, jako jako smiješno.
+{29684}{29784}Pogledaj se samo. Nisi se baš  |pretrgao da je pronaðeš.
+{29784}{29859}- Bio sam kod Anne. Nije bila tamo.|- U, bio si kod Anne. Jaka stvar.
+{29859}{29934}Baš si pravi detektiv.
+{29984}{30034}Hoæeš èuti moje mišljenje?
+{30034}{30134}- Hoæe li mi se svidjeti?|- Naravno da neæe. Bit æe u vezi sa stvarnošæu.
+{30334}{30434}Nije uopæe fora u tome da |reklamiraš svoj restoran.
+{30434}{30509}To treba iæi od usta do usta.|Da ljudi prièaju.
+{30509}{30609}A kako æe ti ljudi što prièaju|saznati za restoran?
+{30609}{30684}Uostalom, to je tvoj restoran Clive...|Helen...
+{30759}{30834}Sjeæaš se...jako neprijatan tip u metrou...
+{30859}{30989}Snuždila si se i nisi znala kuda da ideš?|Ma, ne brini zbog posla, bit æe drugih.
+{31034}{31159}Nešto je drugo u pitanju? Nekada stvarno |pomaže kada kažeš naglas što te muèi.
+{31159}{31259}A opet, pomaže i da te drugi|ostave na miru. Oprosti.
+{31259}{31384}- Znaš, kad sam danas stigla kuæi, zatekla sam svog|deèka.... - ...U krevetu sa drugom ženom...sranje...
+{31384}{31484}Kakav jadnik.|Mislim, koji kreten.
+{31509}{31634}- U redu je, htio si znati.|- Ne mislim na sebe....tvoj deèko je kreten.
+{31634}{31709}Oprosti, nije na meni da sudim.
+{31734}{31784}U redu je.
+{31784}{31859}Slušaj, ako æeš se ljepše osjeæati...|Vidiš onog tipa tamo?
+{31859}{32009}Ima komplet kofera od krokodilske kože sa svojim |monogramom, a "Baywatch" mu je omiljena serija.
+{32009}{32084}Vidiš, ima veæih patnika od tebe.
+{32134}{32209}- Voliš li ga?|- Ne.
+{32209}{32284}Nikad ne bih mogla voljeti|obožavatelja "Baywatcha".
+{32284}{32409}Hej,napravila si štos usred lošeg stanja.|To je pozitivno.
+{32434}{32534}Ako ti bude trebalo društvo,|tu smo, ok?
+{32559}{32609}Jako mi je žao Helen.
+{32909}{32984}Dajte mi dva najveæa piva što imate...
+{32984}{33084}...i jedan Jack Daniels. |I meni isto to.
+{33184}{33259}Zaostaješ.|Još jednu turu.
+{33334}{33384}Petnaest?
+{34034}{34134}Jerry je bio kod mene, tražio te je.|Je li ono što mislim da jest?
+{34134}{34284}Ovisi. Ako misliš na to da sam došla kuæi|i zatekla ga kako se tuca sa Lydiom i zatim otišla...
+{34284}{34384}- Tako nešto, da.|- E, pa onda si u pravu.
+{34809}{34909}- Jutros je bilo fenomenalno.|- Oprostite, ne èujem ništa.
+{34909}{34984}- Ne èujem Vas ništa.|- Jerry, èuješ li me?
+{34984}{35059}Nisam znao da je ukljuèen.|Spremna...pozor...sad.
+{35259}{35334}- Tko je to?|- Moj prijatelj.
+{35384}{35484}Hajde, idemo kuæi.|Budalo pijana.
+{35659}{35759}- Hoæete da vas povezemo?|- Da, to bi bilo odlièno, hvala.
+{35759}{35909}- Što je bilo, popila si malo više?|- Nisam ja tako pijana kao što vi mislite.
+{35909}{35984}Ima da se lijeèi 15 dana.
+{36109}{36184}Manlowe Avenija, 9.|Puno Vam hvala.
+{36259}{36359}...malo pileta, malo riže,|još jedan mali Indijac.
+{36384}{36509}- Neæu, pozlit æe mi. - Dobro, sve ide po planu, ali| moramo promijeniti lokaciju...
+{36609}{36734}Ne sviðam mu se. Samo se ponudio|da nas poveze. Samo je bio pažljiv.
+{36734}{36884}Da, da. Da nije imao obzira prema meni,|ne bih te ja sad stavljala u krevet.
+{36884}{36984}- Jesam li u krevetu?|- Jesi, bit æeš kod mene neko vrijeme.
+{36984}{37034}Ne brini ništa.|Bit æe ti dobro.
+{37034}{37109}Bit æe ti dobro.
+{37334}{37484}Jesi li ti neka nova, još neotkrivena|vrsta kretena?
+{37484}{37559}Imaš dva velika problema.
+{37559}{37634}Prvo: to je bilo za dlaku.
+{37659}{37734}Za dlaku. Da pojasnim malo:
+{37734}{37809}Zamalo da te uhvati.|I drugo:
+{37809}{37909}Ovo je još gore od prvog.
+{37934}{38034}Ponovno prièaš sa svojim|likom u ogledalu.
+{38034}{38084}Jaaako loš znak.
+{38434}{38509}Samo gucni...samo gutljaj.
+{38509}{38584}Nemoj se ispovraæati|po meni.
+{38634}{38734}Nema posla u Odnosima sa javnošæu. |(PR - Public Relations).
+{38759}{38834}Moram naæi bilo |kakav posao, Jerry.
+{38884}{38984}Treba malo promijeniti imidž.|Znaš onako...
+{38984}{39059}...a šiške malo naprijed.
+{40684}{40809}Hej, šeæeru. Što radiš osim što|ovdje poslužuješ hamburgere?
+{40809}{40934}Èekaj da vidim. Ustajem oko 7:30 pa |raznosim sendvièe po West Endu cijeli dan.
+{40934}{41009}Onda doðem ovdje u 6 i |ostanem do ponoæi.
+{41009}{41084}Poslije toga, ako imam snage,|popušim svom deèku.
+{41084}{41134}Hoæete li majonezu u prilog?
+{41159}{41259}- Ne misliš tako.|- Mislim. Zaista.
+{41259}{41359}Znaèi, bili ste zajedno |dvije i pol godine i...
+{41359}{41484}... a ti ovdje sjediš veæ tjedan dana kao |primjerak za samoubojstvo.- Devet dana, Anne.
+{41484}{41559}Dobro, devet dana. Za koj' moj?|-Toèno.
+{41559}{41684}Zašto nije bar nazvao, da vidi jesam li dobro, |da prizna da je ispao smrad?
+{41684}{41784}"Zdravo Helen, ovdje Jerry. Ja sam smrad.|Molim te, vrati se kuæi."
+{41784}{41859}"Volim te", i ta sranja...ma, boli me uho.|Nek' se nosi. Preboljela sam ga.
+{41859}{41934}- O, preboljela si ga?!|- Jesam.
+{41934}{42059}- Potpuno, skroz i definitivno.|- E, pa , nisi. - Jesam. - Nisi.
+{42059}{42159}Anne, jesam. Kako to misliš - "Nisi"?|Otkud ti znaš da nisam?
+{42159}{42284}Iz dva razloga. Prvo: još uvijek brojiš|dane otkad niste zajedno...
+{42284}{42359}Vjerojatno i sate i minute.
+{42359}{42459}Ali najveæi znak da nisi preboljela|nekoga je to kad èitaš njegov horoskop...
+{42459}{42559}...u nadi da æe ga raznijeti bomba|u nekom teroristièkom napadu.
+{42609}{42684}- Što je on?|- Drkadžija.
+{42684}{42734}Oh, Ovan.
+{42859}{42909}Slušaj sad...da vidiš kako sam pametna.
+{42909}{43009}Pod utjecajem ste Marsa i raznijet æe vas |bomba u teroristièkom napadu...
+{43009}{43084}...a Helen æe vam reæi da se nosite.|Ovaj tip je genije...
+{43184}{43284}Ti otvori. Ne ja æu.|Ne ti idi.
+{43284}{43359}Nisam tu, izašla sam.|Ne znaš gdje ni s kim.
+{43359}{43434}Naroèito s kim.
+{43434}{43484}Brzo, idi.
+{43484}{43609}- Nema šanse da otvorim ovako obuèena.|- Anne, molim te. I ovako to neæe biti on.
+{43609}{43684}Pa onda nema veze |tko æe otvoriti.
+{43834}{43934}Nek' se nosi. Nek' se nosi.|Nek' se nosi. Nek' se nosi.
+{44234}{44334}Daj, ako ne popiješ ovo punomasno piæe,|nikada neæeš imati kvalitetan celulit.
+{44359}{44459}Baš ti je dobra frizura.|Stvarno, ne zezam se.
+{44459}{44559}Nikad se ne zezaj sa ženskim frizurama,|odjeæom i menstrualnim ciklusima. Pravilo br. 1!
+{44559}{44709}James, možda ne bih trebala biti ovdje.|Oprosti, to nije fer s moje strane.
+{44734}{44884}Da je situacija drugaèija, bio bi mi |vrlo drag. I zabavan.
+{44909}{44984}- Moja prijateljica Anne misli da si sladak.|- Èekaj, èekaj malo.
+{44984}{45084}Tvoja prijateljica Anne misli da sam sladak?|Tvoja prijateljica Anne misli da sam sladak?
+{45084}{45159}Sranje! To znaèi da sam potrošio...
+{45184}{45259}... 2,85 na pogrešnu djevojku.
+{45259}{45409}Helen, ponekad upadneš u neèiji život kad mu je| potreban netko da ih oraspoloži i razuvjeri...
+{45409}{45559}...i ponekad ispadne da ti je to životni zadatak.|Ne znamo zašto je to tako.
+{45559}{45659}A tvoj sluèaj je moj zadatak.|Ali, moram biti iskren.
+{45659}{45784}Èinjenica da mi se tek onako sviðaš,|razlog je što je to moj zadatak.
+{45784}{45909}Moje namjere su krajnje èasne. Nemam namjeru |prelaziti granicu. Najozbiljnije.
+{45934}{46009}Voliš li više dijamante|ili safire? O, oprosti.
+{46009}{46134}Sviðam ti se "tek onako"?|- Aha, znao sam da si me slušala.
+{46134}{46234}Èim su tebi prestale suziti oèi,|i faca ti nije više ozbiljna, znaèi da napredujem.
+{46259}{46384}E sad, kada smo ustanovili pravila,|što radiš u subotu za dva tjedna?
+{46384}{46459}- Vjerojatno æu se ubijati.|- Odlièno!
+{46459}{46509}Kad æeš završiti s tim?|Voliš li èamce?
+{46559}{46659}Znaš da nisam to|radila veæ 2 mjeseca?
+{46659}{46759}Dva mjeseca, skoro u dan.
+{46759}{46859}Skoro u dan? Što prièaš?|Jesmo li mi u nekom istraživanju, ili što?
+{46909}{47034}Jerry, kako se jedna od mojih kristalnih èaša |za brandy našla u korpi za rublje?
+{47034}{47109}- Gdje?|- U korpi za rublje.
+{47134}{47209}Nemam pojma.|Može li neko pitanje o glazbi?
+{47209}{47309}Prošli tjedan, kad sam dobila otkaz|i kad sam došla kuæi...
+{47309}{47409}...reci mi ako sam poludjela, ali, da li su na komodi|bile dvije èaše i boca brandyja?
+{47409}{47484}- Ne znam, ne sjeæam se.|- Bile su tamo, sigurna sam.
+{47509}{47609}Èekaj, sjeæam se. |Bila je boca i jedna èaša...
+{47609}{47684}Ne, sigurna sam da su bile dvije èaše.
+{47709}{47784}Helen, mislim da ne razumijem|kuda ide ovaj razgovor.
+{47784}{47909}Rekao sam ti da nisam mogao spavati i da sam| uzeo jednu èašicu. Da me obori.
+{47909}{48009}Još uvijek je stajala na komodi kad si ti došla |kuæi popodne. A tog dana si i ti...ti si...
+{48034}{48109}...ti si tog dana dobila taj|udarac u glavu.
+{48109}{48234}Skoro smo pravili tulum. Možda je neka od tvojih | blesavih prijateljica, npr. Anne, bacila tamo.
+{48284}{48409}Hajde sad da upropastimo ovu lijepu veèer.|Što mi to hoæeš reæi?
+{48409}{48484}Da li jebem neku ispijaèicu|brandyja? Da!
+{48484}{48584}Daj, Jerry, pobogu. Pa samo sam pitala.
+{48584}{48659}A, ne. Žene nikada ne pitaju. Ne, ne.|One insinuiraju.
+{48659}{48784}A ti sad insinuiraš, i to ne baš suptilno, |ako smijem primijetiti, da ja...
+{48859}{48909}Hvala.
+{48909}{48984}Ne, ne, baš ti hvala.
+{49034}{49134}Baš ti hvala. Hvala.|Ovo je baš trenutak...
+{49134}{49259}...da pokrenemo pitanje naše|veze. Baš, baš...
+{49259}{49334}Baš pravi trenutak.
+{49334}{49484}Jerry, daj, postavila sam ti jednostavno pitanje,|nemaš se potrebe pretvarati u Woody Allena.
+{49759}{49859}Hvala ti James.Oprosti ako si se dosaðivao.|- Zezaš me?
+{49859}{49984}Ispijanje dva milkshakea od èokolade za|jednu veèer je za mene izlazak prve lige.
+{49984}{50084}To je jedna od prednosti kad si tupav.|Èuvaj se Helen. Bit æeš ti dobro.
+{50734}{50834}Neverojatno kako možeš zamrziti|beznaèajne predmete!
+{50834}{50934}Otvaraèe za konzerve koji ne otvaraju,|majonezu za jaja i konzerve tunjevine.
+{50934}{50984}Izlaziš?
+{51009}{51084}Baš sam ti pisao poruku. Idem u biblioteku.|Moram dosta èitati.
+{51159}{51234}Bit æu tamo nekoliko sati.
+{51234}{51334}-Bi li ti bilo draže da ostanem ?|- Ma ne, u redu je. Idi.
+{52559}{52634}Lydia, što to prièaš?|Pratila me je.
+{52659}{52758}Rekao sam joj da idem u biblioteku, |pa sam i došao u biblioteku, pobogu.
+{52808}{52908}Naravno da ne mogu sad doæi.|Što ako je još tu, vreba me u nekom kutu ili...?
+{52934}{53034}Lydia, otkud znam zašto me|je pratila, nisam vidovit!
+{53058}{53158}Dobro, nemoj sad šiziti. |Ne šizi. Oprosti. U redu je.
+{53158}{53308}Rezervirala sam nam hotel u Dorsetu? Hoæemo li iæi| uopæe? Hoæeš da otkažem? Hoæe li nas i tamo pratiti?
+{53308}{53408}Hoæemo li završiti s ovim Jerry, jer ja...|- Da, ne, neæu.
+{53434}{53534}Naravno da idemo.|Nemoj...nemoj...nemoj...
+{53534}{53608}- Nemoj, nemoj, nemoj, ŠTO?|- Ne znam.
+{53633}{53733}Slušaj, idemo u Dorset.|Bit æe nam fenomenalno i ...
+{53733}{53808}... zvat æu te sutra.
+{54033}{54133}Eto, to je sve.|Više ne živiš tamo.
+{54133}{54208}Hvala ti što si išla tamo Anne.
+{54208}{54308}- Ima li neki dokaz o njenom postojanju tamo?|- Nisam vidjela.
+{54533}{54583}James.
+{54758}{54858} Da, veèeras-veèeras.|Znaš veèer - ono što ide poslije dana?
+{54858}{54958}- Hoæe da izaðemo veèeras.|- Idi.
+{54958}{55033}Molim te, hajde.|Super æemo se provesti.
+{55083}{55158}- Ok.|- Super, vidimo se.
+{55233}{55333}- Ne ide joj se odavde.|- Znam.
+{55333}{55408}Vrlo je osjetljiva, James.|Hoæeš da otkažem put?
+{55408}{55508}- Ima drugi teèaj krajem godine.|- Ne, to je samo za nekoliko tjedana. Samo ti idi.
+{55508}{55608}- Jesi li siguran? Nije mi to baš tako važno.|- Važno je. Želim da ideš.
+{55633}{55783}- Bit æe teško otiæi odavde James, ali...|- Ali, još uvijek imaš stan u Londonu.
+{55783}{55883}Bit æeš bliže bolnici, a i nabavljat æeš|mnogo bolju travu u gradu.
+{55933}{55983}Znaš ono što kažu Montipajtonovci?
+{55983}{56058}"Nitko nikad ne oèekuje |španjolsku inkviziciju!"
+{56108}{56158}Oprosti, slušaj me.
+{56158}{56208}Lydia postaje sve zahtjevnija...
+{56208}{56308}...a ti osjeæaš krivnju zato što Helen danonoæno|radi kako bi donijela pare u kuæu.
+{56308}{56433}I sad si ti pitao Helen da poðe sa tobom na put|u Dorset , znajuæi da ona to neæe moæi...
+{56433}{56508}...samo kako bi sakrio|èinjenicu da ideš tamo sa Lydiom.
+{56533}{56633}I iako ti je Lydia dala šansu da raskinete |preko telefona, a ti to nisi prihvatio....
+{56633}{56758}...sad imaš moralnu dilemu u glavi.|Jerry , ti uopæe nemaš morala.
+{56758}{56833}A zašto o ovome svemu prièam,|ako nemam morala?
+{56833}{56933}Èija je ideja bila ovo sa Dorsetom?|Tvoja ili Lydijina?
+{56983}{57083}Ako budeš htio prekinuti ovo sa Lydiom,|ja ti predskazujem probleme.
+{57083}{57183}I ne bih se kladio s tobom da æeš uskoro |opet prièati sam sa sobom u ogledalu.
+{57183}{57308}- Jako loš znak.|- Uopæe ne suosjeæaš sa mnom. Nimalo!
+{57308}{57433}- Što ti se ja, koj' moj, povjeravam?|- Ja sam ti ortak. Želim ti pomoæi.
+{57558}{57608}Želim ti pomoæi.
+{57708}{57783}"Nitko nikad ne oèekuje |španjolsku inkviziciju!"
+{57783}{57903}"Naše jedino oružje je iznenaðenje. Iznenaðenje i |strah. Naša dva glavna oružja su iznenaðenje i strah."
+{57908}{58007}I nemilosrdna uèinkovitost.|Znaèi, tri...tri glavna oružja su...
+{58008}{58083}"Strah, iznenaðenje i |nemilosrdna uèinkovitost. Uæi æu ponovno!"
+{58258}{58333}Dodaj mi tanjur.
+{58583}{58683}- Mrtav sam ozbiljan.|- Da otvorim svoju agenciju za PR?
+{58683}{58808}A zašto ne? Imaš iskustvo, |znanje, kontakte...
+{58808}{58933}Hoæeš cijelog života raditi za druge?|Što se može dogoditi u najgorem sluèaju?
+{58933}{59008}Mogu totalno propasti i|postati teški gubitnik.
+{59033}{59083}Toèno, znaèi, nemaš se zašto brinuti.
+{59258}{59383} - Stvarno sam se super provela James.|- Uf, sranje. To je protiv pravila, zar ne?
+{59383}{59508}Da, i molim te da zapamtiš za ubuduæe.|Ja prolazim kroz tešku krizu poslije prekida.
+{59508}{59608}Oprosti, neæe se više ponoviti.
+{59883}{60008} Znaš, trebaš se poèeti nadati najboljem.|Nikada neæeš znati kako je, ako ne pokušaš.
+{60008}{60083}Obuci nešto toplo u subotu.|Zna biti hladno na rijeci.
+{60308}{60358}NAJBOLJI NAÈIN DA|OSNUJETE MALO PODUZEÆE
+{60558}{60633}Znaèi, Jamesove ideje tek|tako prolaze kraj tebe?
+{60633}{60758}Anne, nemoj to raditi. Nemoj mi |izigravati mamu. On mi je samo prijatelj.
+{60808}{60883}- Nisam ni najmanje zainteresirana za njega| u ljubavnom smislu. - Nisi?
+{60908}{61058}- Ne. - A kako to da sinoæ po prvi put nisi pitala|da li je netko zvao èim si ušla na vrata?
+{62158}{62208}Žao Vam je?
+{62233}{62383}Žao Vam je što se èetvero ljudi ovdje otrovalo |Vašim sendvièima? I prije nego što pitate...
+{62383}{62533}Jeli su isti sendviè, i svi su imali iste |simptome u isto vrijeme.
+{62533}{62583}Jeste li Vi uopæe obuèeni |za snabdjevaèa hranom?
+{62583}{62708}- Ne, ja sam završila za PR-a...|- Pa, danas baš i ne pokazujete dobro znanje.
+{62733}{62858}Sreæa Vaša što sam uvjerila svoje kolege|da ne poduzimaju oštrije mjere. Za sada.
+{62858}{62958}A sad me, molim Vas, isprièajte.|Imam posla za petoro.
+{62983}{63108}Molim? Helen je isporuèivala|sendvièe u tvoj ured?!
+{63108}{63258}Da, a danas sam imala razloga da je pozovem na| razgovor. Da budem iskrena, izmislila sam razlog.
+{63258}{63333}Prilièno je lijepa na neki|englesko-konjski naèin, zar ne?
+{63333}{63483}Lydia, što to dovraga radiš? Jesi li totalno |pukla? Nije ona glupa, znaš?
+{63483}{63608}Ne bih baš rekla. Htjela sam vidjeti kako |izgleda žena zbog koje si me ostavio.
+{63608}{63708}Èekaj malo. Nisam ja tebe ostavio.|Ti si se vratila u Ameriku...
+{63708}{63808}Htjela sam vidjeti što ima ta djevojka koju|nemaš namjeru ostaviti...
+{63808}{63958}...osim ponekad u pred-orgazmiènim obeæanjima...|što to ona ima što je tako "neostavljivo".
+{63958}{64058}I moram ti reæi, da sam po završetku našeg|razgovora, bila malo zbunjena.
+{64083}{64183}Ne govori tako. To je ružno. Veæ sam ti rekao|da ne mogu ostaviti Helen zbog...zbog...
+{64258}{64333}- Znaš...|- Zbog mene?
+{64358}{64433}Je l' to mi pokušavaš reæi?
+{64433}{64508}Ne možeš je ostaviti|zbog mene?
+{64533}{64633}Nikad i nisi rekla da želiš da budem samo tvoj.|- James, ja sam žena!
+{64633}{64758}Mi ne govorimo što želimo. Ali, zadržavamo pravo|da se naljutimo ako to ne dobijemo.
+{64758}{64883}To je ono što nas èini tako nevjerojatnim.|A sad i pomalo zastrašujuæim.
+{64958}{65083}Napokon, Gerald Flanningan.|Ovdje tvoj ujak Russell.
+{65108}{65208}Slušaj, gdje god da si bio veèeras,|ako te netko pita, nisi bio kod mene.
+{65208}{65283}Helen je zvala, tražila te je.
+{65408}{65458}Hvala Bogu. Tako sam se brinuo.|Gdje si bila?
+{65483}{65583}Kod Anne. Morala sam vidjeti|neko prijateljsko lice.
+{65583}{65733}Dan mi je bio užasan. Jutros sam upoznala|zlu sestru Cruelle de Vil. Totalno me je razvalila.
+{65733}{65833}- Znam.|- Otkud znaš?
+{65833}{65933}Htio sam ti reæi...|vidi se...da grozno izgledaš.
+{66083}{66158}Gdje si bio danas? Stvarno sam|htjela razgovarati s tobom.
+{66158}{66283}Ma, morao sam nešto èitati,|pa sam otišao u biblioteku.
+{66283}{66358}Bože, samo visiš u toj biblioteci.
+{66358}{66483}Dosta mi je konobarenja. Znam da æemo, |kad završiš knjigu, biti milijunaši...
+{66483}{66583}...ali, kad æeš je završiti?
+{66633}{66708}Uskoro Helen.
+{66708}{66758}Uskoro.
+{66808}{66933}Helen, želim ti nešto reæi.
+{66933}{67108}Zapravo, moram ti reæi. Ima malo|veze sa onom èašom za brandy...
+{67108}{67208}...i malo sa tom ženom|koju si danas upoznala.
+{67208}{67333}Samo te molim, da mi dopustiš da završim,|prije nego bilo što kažeš.
+{67608}{67633}Sranje!
+{68408}{68533}Èudno. Znala sam da æe ovdje biti utrka èamaca i da æe| jedan tim imati ljubièasto-bijele dresove.
+{68558}{68683}- Zašto te nije pitao da ideš s njim u Dorset?|- Pitao me je. Ali, moram raditi.
+{68683}{68758}Uostalom, prijat æe mu da ode na par dana.|Da dobije malo prostora.
+{68808}{68858}Anne,mogu li ti postaviti|jako glupo pitanje?
+{68858}{68958}Jesi li ti bacila èašu u|korpu za rublje na našem tulumu?
+{68958}{69058}Zvuèi kao najveæa glupost. To znaèi|da sam sigurno bila ja?
+{69083}{69158}- Jesi li dobro?|- Samo poèinjem biti bijesna.
+{69158}{69208}Dobro je, veæ sam se bila uplašila.
+{69258}{69308}Brže!
+{69433}{69483}Na lijevo...
+{69483}{69533}na desno...
+{69558}{69583}lijevom nogom....
+{69608}{69658}desnom nogom...
+{69658}{69708}i svom žestinom pjevam...
+{69758}{69833}Otac Abraham...
+{69858}{69908}imaše sedam sinova...
+{69908}{69983}sedam sinova imaše|otac Abraham....
+{70033}{70158}Jesi li siguran da je to samo blokada u pisanju?|Tako si mi nekako dalek.
+{70208}{70308}Jerry, tu sam ako ti zatrebam.|Možemo razgovarati o bilo èemu...
+{70308}{70358}Hej, eno Helen unutra!
+{70433}{70483}Ofarbala se u plavo.
+{70483}{70608}Što je ovima ovdje? |Imaju neki kolektivni epileptièni napad?
+{70733}{70808}Možda to uopæe i nije |blokada u pisanju.
+{70833}{70908}Možda je blokada sa|Helen u pitanju.
+{70908}{70983}Neæu slušati o Helen!
+{70983}{71058}Helen me uopæe ne zanima!
+{71133}{71208}Problem je u tome...|što tebe zanima.
+{71208}{71258}Jasno kao dan.
+{71308}{71383}Upravo sam smislila dobar |kraj za tvoju knjigu.
+{71383}{71433}K R A J
+{71783}{71883}Jesi Clive. Za šest dana otvara|svoj prvi restoran...
+{71883}{71958}...i ništa nije organizirao.
+{71958}{72058}U mojoj bivšoj tvrtci je trajao rat dok smo |organizirali otvaranje Pierre-Claudeovog restorana.
+{72058}{72108}Vi ste radili otvaranje |za Pierre - Claudea?
+{72133}{72208}On je moj heroj.|Ti si radila otvaranje?
+{72233}{72308}To je bilo fenomenalno.|Ljudi su danima prièali o tome.
+{72308}{72383}Šest dana je malo...
+{72408}{72508}Mogu li doæi pogledati?|Ne mogu obeæati ništa veliko...
+{72508}{72583}Naravno, nema problema...
+{72608}{72683}Zezaš me? Da doðeš?|Pierre - Claude?
+{72808}{72908}Vrlo si pažljiv, James.|Ovako nešto mi je baš trebalo.
+{72908}{72958}I ti si isto.
+{72958}{73058}Danas si navijala za mene.|Vidio sam da si skakala k'o blesava.
+{73083}{73133}Da me podržiš.
+{73183}{73308}Volim ovaj most. Moj pradjed je bio jedan|od onih koji su ga sazidali.
+{73308}{73408}S vremena na vrijeme, doðem|i stojim tu po sat, dva i...
+{73433}{73508}  I zidaš most?
+{73733}{73808}Nemoj James, molim te...
+{73808}{73883}Oprosti, ja...
+{73883}{73983}Znam da je ovo jedan od najidealnijih|trenutaka za poljubac...
+{73983}{74083}Noæ, mjesec, èamac, |voda je uzburkana...
+{74083}{74233}Sve je savršeno i nije da |ne mislim da bi bilo lijepo, samo...
+{74233}{74333}...stvarno ne znam mnogo o tebi...
+{74333}{74458}...i još uvijek se oporavljam. |O, Bože, kako mrzim tu rijeè.
+{74458}{74608}Tko se ne oporavlja? I ja se|trenutno oporavljam. U neku ruku.
+{74658}{74733}Od koga se oporavljaš?
+{74733}{74858}Zove se Pamela. Cijeli moj život|se okreæe oko prekida sa Pamelom.
+{74858}{74958}- Kada je to bilo?|- 1973. Imali smo osam godina.
+{74958}{75033}Jebote, al' sam volio tu ženu.
+{75033}{75133}Tek tako, bez upozorenja...vuf...|ode sa nekim drugim.
+{75133}{75208}- S kim?|- Sa Garryjem Glitterom.
+{75208}{75308} Sa Garryjem Glitterom! |Pobogu i zaboga!
+{75333}{75433}Svi moji prijatelji su bili ostavljani zbog nekih|Donny Osmonda, David Casssidyja...
+{75433}{75583}Navikneš se na to vremenom. Ali Garry! Nema šanse! Tu me je sredila skroz...
+{75633}{75758}Shvaæaš da sam bio kao lud. U to vrijeme nije bilo| Prozaca za mlade koji bi mi pomogao, pa sam...
+{76083}{76158}- ...pa sam jaaa... - Poljubila sam te.|- Da, i ja sam to primijetio.
+{76158}{76233}Maloprije nisi htjela.
+{76233}{76408}Mogu li te zamoliti da to pripišeš|trenutku totalne dekoncentracije?
+{76408}{76483}- Znaèi, to je bilo to?|- Ne.
+{76483}{76583}Jest...ne znam...|...Pomoæ...
+{76683}{76783}Ne želim biti pomutnja u |tvom životu s Helen. Zaista to ne želim.
+{76783}{76908}Ali, otkad sam te sreo, |dogodilo mi se nešto ...
+{76908}{77008}što nisam oèekivao...
+{77033}{77183}...stvarno...nisam oèekivao...|Uf, morat æu kupiti rjeènik.
+{78258}{78383}E, TO JA ZOVEM TOTALNOM DEKONCENTRACIJOM.|NISAM TE HTIO BUDITI.JAMES
+{78858}{78933}Jesi li i oglas stavila u |"Tjedni Preljubnik"?
+{79058}{79158}- Lydia, ulazi u auto!| - Koliko æeš još biti sa tom jadnicom?
+{81408}{81558}Što to znaèi, htio si me vidjeti?|Pobogu, Jerry, što...kako si uopæe ušao?
+{81558}{81658}Jedan od konobara je Russellov prijatelj.|On mi je nabavio propusnicu.
+{81658}{81758}Ovo sve izgleda fenomenalno.|Èujem da ti tvrtka polako napreduje...
+{81758}{81858}Jerry, stvarno se ne možeš tek tako pojaviti|niotkuda! Ovo mi je jako važna veèer!
+{81858}{81933}Mogu Helen, mogu se |pojaviti tek tako.
+{81933}{82083}- Ovo je najvažnije pojavljivanje u mom životu.|- Ne možemo razgovarati ovdje.
+{82233}{82333}Nismo toliko toga prošli zajedno da bismo|sve tako brzo odbacili, zar ne? Helen?
+{82458}{82508}Pogledaj me, molim te.
+{82558}{82633}Žao mi je.
+{82658}{82708}Stvarno mi je jako žao.
+{82708}{82833}- Previše si dobra da bih te pustio bez borbe...|- Molim te, Jerry, ne prièaj o borbi.
+{82983}{83058}Dobar frajer.
+{83058}{83108}Viðaš li se s njim?
+{83133}{83183}Oprosti, nije moje da pitam.
+{83233}{83308}- Je li to on?|- Izgleda.
+{83333}{83383}- Zna li ona za Claudiu?|- Ne.
+{83408}{83533}Jako mi se sviða Clive.|Zbunjen sam, naprosto izgubljen.
+{83533}{83658}- Jerry, stvarno se moram vratiti unutra.|- Hoæeš li, molim te, svratiti do stana?
+{83683}{83808}Molim te Helen, toliko toga ti imam reæi.|Nedostaješ mi.
+{83833}{83908}Doæi æeš?
+{83958}{84033}Molim te Helen.|Otiæi æu.
+{84083}{84183}Hvala ti što si me saslušala.|Stvarno se ponosim tobom.
+{84733}{84808}- Jeste li dobro?|- Jeste li dobro?
+{84808}{84883}- Malo mi se zavrtjelo.|- Malo više šampanjca...
+{85433}{85508}Uspjeli smo.|Volim te.
+{85508}{85608}Sve je fenomenalno.|Van sebe sam od sreæe!
+{85608}{85658}Jesi li vidio Jamesa?
+{85658}{85733}Jesam, morao je otiæi. |Ustaje rano. Isprièao se.
+{86233}{86333}Službeni put. Newcastle ili tako nešto.|Nisam htjela njuškati.
+{86333}{86433}Tajnica nije baš bila opširna.|- Vjeruješ li da je otputovao? - Ne znam.
+{86458}{86558}- Misliš da te samo izbjegava? - Ne znam.|- Jesi li ostavila poruku? - Ne.
+{86558}{86632}Zar ne misliš da je trebalo? |Je li baš vidio kad te Jerry poljubio?
+{86632}{86732}- Ne znam.|- Možda on èeka da ga pozoveš, a ne zna da si zvala.
+{86732}{86832}- Možda si trebala saznati broj mobitela...|- Anne, uspori malo, pobogu!
+{86832}{86932}Postavljaš više pitanja nego u kvizu.
+{86932}{87008}Bila sam nervozna. Htjela sam što prije|prekinuti vezu. Osjeæala sam se èudno.
+{87008}{87132}Nerviraš se zbog tako malih stvari.|O, da, Jerry je zvao.
+{87158}{87208}Super!
+{87232}{87382}Prije dva mjeseca, èekam Jerryja, James naiðe.|Sad èekam Jamesa da se javi, a Jerry zove.
+{87607}{87707}SANJALA SAM TAKO ÈUDAN SAN...
+{87707}{87782}TI SI IMAO TU ÈUDNU |MASKU PREKO LICA...
+{87782}{87907}...i htio si mi nešto reæi,|ali nisi mogao.
+{87907}{88007}E, sad je kraj. Definitivno ti ukidam |jake narkotike na tjedan dana.
+{88007}{88132}Zapravo, nešto drugo sam|ti htjela reæi.
+{88207}{88332}- Onesvijestila sam se na poslu prije neku veèer.|- Ljubavi, jesi li dobro?
+{88332}{88432}Jesam, ali...ja se inaèe|nikad ne onesvješæujem, pa...
+{88482}{88557}- Što je to?|- Nemam pojma.
+{88582}{88707}Izgleda da ovi pored mene prave neke bijesne orgije.| Morat æu se iæi upoznati s njima.
+{88707}{88782}Što si ono rekla?
+{88807}{88907}Uglavnom, pošto se ne onesvješæujem|èesto, bila sam malo radoznala...
+{89032}{89157}Nabola sam se na|rub jebene kade.
+{89157}{89232}- Bože, to zvuèi grozno.|- Da.
+{89332}{89432}Evo je gazdarica. Stalno mi donosi|te sendvièe sa šunkom.
+{89457}{89557}Slušaj, nazvat æu te èim se završi |12. svjetski rat u sobi pored. Zdravo!
+{89632}{89707}I napravila sam test,|i ispalo je da sam u drugom stanju.
+{89757}{89832}Mislila sam da bi volio znati.
+{89857}{89957}Jesi li ti totalno poludjela?|Što to pokušavaš?
+{89957}{90032}Što pokušavam?|Mislim da sam polomila prst!
+{90057}{90157}Lydia, prièao sam sa Helen!|Pobogu ženo!
+{90182}{90257}Možda si zaboravila, |ali ona ne zna da si ti ovdje!
+{90257}{90332}Ona misli da sam ja na putu, |i to sam, sjeæaš se?
+{90357}{90457}Da sjeæam se. |To se ne zaboravlja tako lako.
+{90457}{90507}Pa što je onda |ono predstavljalo?
+{90532}{90632}Ulaziš u sobu i vrištiš k'o|nenormalna, dok ja prièam telefonom.
+{90657}{90782}Zar ne razumiješ? Zar ne razumiješ|što pokušavam napraviti?
+{90807}{90907}Pokušavam bit tvoja|djevojka, Jerry!
+{90907}{91007}Pokušavam da ponovno budeš |samo moj. Jednostavno.
+{91007}{91107}Stojim na peronu stanice|Zona sumraka...
+{91132}{91182}...sa srcem i dušom|spakiranima u kofer...
+{91207}{91257}...i èekam jebeni Jerry Exspress...
+{91257}{91382}... da uðe u stanicu i da mi kaže kako mi karta |još uvijek vrijedi. Kako još uvijek mogu u vlak.
+{91382}{91507}Ali, preko zvuènika non-stop |objavljuju da moj vlak kasni...
+{91532}{91657}...jer se vlakovoða, usrao od straha|tamo negdje u Neodluèno-gradu...
+{91657}{91732}...i preporuèuju nam da idemo autobusom!
+{91732}{91832}To pokušavam uèiniti, ti...moronu!
+{92007}{92082}Iako...
+{92107}{92307}...oèigledno je da se to |nikada neæe dogoditi, zar ne?
+{92357}{92432}Nema odgovora.
+{92457}{92507}Odlièno.
+{92507}{92607}E, pa ja neæu više èekati Jerry.
+{92632}{92732}Vraæam kartu za vlak. |Iæi æu autobusom.
+{92782}{92907}I reæi æu svim svojim prijateljima:| Nikada se ne vraæajte!
+{92907}{93032}Vidi me. |Mora da sam poludjela.
+{93132}{93257}Nemoj me zvati neko vrijeme.|Ne, nemoj me uopæe zvati!
+{93282}{93332}Gotovo je!
+{93332}{93382}Opet!
+{93432}{93507}Napravio sam to, Russelle.|Jebote, napravio sam to.
+{93532}{93607}Odlièno, èestitam. Što si uèinio?|- Završio sam.
+{93607}{93682}O, knjigu?|Super, èovjeèe, to je strava.
+{93682}{93782}Ne knjigu, Russell. Ne knjigu! |Ja sam romanopisac, nikada je neæu završiti.
+{93782}{93857}Aferu. Tu, jebenu aferu sa Lydiom.
+{93882}{94007}Otkaèio sam je usred Dorseta.|Bio sam odluèan ali fer.
+{94007}{94082}Bože, osjeæam se kao |da sam izašao iz zatvora.
+{94082}{94182}Neæu više varati i lagati Helen.|To je bila velika greška.
+{94182}{94257}Nikad se ne vraæaj Russell!|A sad je gotovo!
+{94282}{94357}Ne mogu ti opisati|kakav je to osjeæaj!
+{94382}{94482}Baš sam zadovoljan.|A kako je Lydia to podnijela?
+{94482}{94557}Znaš, neæe ona sad |luditi za mnom. Oèito.
+{94557}{94632}Ali, to je bilo definitivno |najbolje rješenje. Najbolje!
+{94657}{94707}Zna ona to, tj. znat æe...
+{94732}{94807}Bila je malo uznemirena,|znaš osjeæala se prevarenom i to...
+{94807}{94957}Bože, kakav osjeæaj. Moram stiæi|kuæi prije nego Helen doðe sa posla.
+{95107}{95207}Nisi mi kupovao cvijeæe kad je trebalo, a sad kad |ne treba, eto ga. Sve mi je to malo sumnjivo.
+{95207}{95282}Hoæu znati što si to još|radio što nije trebalo?
+{95282}{95407}Èekaj malo, da skužim ovo,|jer to je nešto najluðe što sam èuo.
+{95407}{95507}Kupim ti cvijeæe u hiru, u napadu...
+{95532}{95632}...romantike, ali...|- Vidiš, ne znaš ni rijeè izabrati.
+{95632}{95757}I umjesto da budeš zahvalna, puna romantiène| ljubavi...Ti si odmah sigurna da se ja...
+{95757}{95832}...tako iskupljujem jer imam neku tajnu...
+{95832}{95907}...prljavu, strasnu aferu.
+{95932}{95982}Ukratko reèeno.
+{96332}{96407}Jerry , vratio si se?
+{96407}{96482}Nedostajala si mi.|Morao sam te vidjeti.
+{96557}{96607}Što je to?
+{96632}{96707}Cvijeæe. Za tebe.
+{96732}{96807}Ne sviða ti se?
+{96807}{96882}Ta scena...ona na tebi...
+{96882}{97032}Stvarno ne znam zašto sam pristala doæi.|Molim te, prestani, ne želim da me dodiruješ.
+{97057}{97132}Oprosti. Nemoj iæi.
+{97132}{97207}Molim te, probaj to zaboraviti.|Ja sam je zaboravio.
+{97232}{97332}Gotovo je. Završeno.|Napravio sam veliku grešku.
+{97357}{97432}I žao mi je zbog toga.|Najiskrenije mi je žao.
+{97482}{97607}Taj, James Hammerton koga viðaš,|zar on nikada nije napravio nijednu grešku?
+{97607}{97732}- Otkud znaš kako se zove?|- Russellov prijatelj radi u restoranu.
+{97732}{97832}Prijatelj prijatelja...|To i nije tako važno.
+{97832}{97932}Ne želim prièati ni o Jamesu Hammertonu,|niti o bilo kome drugom. Moram iæi.
+{98007}{98082}Prestao sam da pišem knjigu.
+{98107}{98257}Helen, istina je u stvari, da je ja |ne mogu napisati bez tebe.
+{98257}{98332}Ne mogu ništa |raditi bez tebe.
+{98357}{98432}Molim te, vrati mi se Helen.
+{98482}{98607}Bilo nam je tako dobro dok smo bili zajedno.|Sjeæaš se kako nam je bilo dobro?
+{98832}{98932}Kasni mi Jerry.|Èetiri dana. Meni nikad ne kasni.
+{98932}{99057}Hej, Russell, mogu li ti se javiti |kasnije? U redu frende, èujemo se.
+{99132}{99207}To je bio Russell.
+{99232}{99282}Moram do WC-a.
+{99707}{99857}POSLJEDNJI POZIV SA BROJA 01 71-444-31 84.|PRITISNITE Tipku 3 DA IZVRŠITE POZIV.
+{99957}{100082}Zašto se pretvaraš da sam ja Russell? Znaš da|to mrzim! Što se dogaða?
+{100107}{100182}- Jerry, odgovori mi.Tko je tamo?|- Ja sam. Helen.
+{100207}{100282}Vidjele smo se jednom kada sam te|prekinula u glumljenju orgazma.
+{100282}{100357}Oprosti što ne mogu| biti detaljnija.
+{100432}{100482}Znaš što sam mislio?
+{100482}{100582}- Nije valjda da ideš?|- Drkadžijo.
+{100582}{100657}Jadni, jadni, drkadžijo.
+{100707}{100782}Osjeæam se kao debil!
+{100782}{100882}Taj jadni, odvratni, jebeni, ogavni,| nezamislivi, dvolièni, lažljivi...
+{100882}{100982}-...usrani, jebeni...|- Veæ si rekla jebeni. - ...drkadžija!
+{101107}{101207}A znaš što je bilo najgore?|Sve vrijeme sam mislila na Jamesa.
+{101207}{101307}Osjeæala sam se kao da varam Jamesa, |samo zato što sam tamo.
+{101307}{101407}To je najljepše u svemu.|I jesi ga varala time.
+{101457}{101557}Nije zvao , zar ne?
+{101557}{101682}Prošlo je skoro tjedan dana.|Upropastila sam sve, zar ne?
+{101732}{101807}Za sve je kriv Telekom.|Sva ta tehnologija.
+{101807}{101907}Ovaj broj da vidite tko vas je zvao,|ovaj drugi ako neæete da oni znaju da ste zvali...
+{101907}{101982}...raèuni sa svim pozivima, uzmeš broj |koji ti padne na pamet...
+{101982}{102132}Oni sami osuðuju svakog vatrenog |Engleza na doživotnu monogamiju.
+{102132}{102257}- Što hoæe oni, Nobelovu nagradu za mir?|- Lydia je možda trudna.
+{102382}{102482}Nemoj više, molim te.|Ne mogu više izdržati.
+{102507}{102557}Pa ovo je fenomenalno!
+{102557}{102682}Pored tebe, mnogo lakše podnosim |svaku novu epizodu Seinfelda.
+{102682}{102807}Nisam mogao ni pretpostaviti|da æe se stvari ovako odvijati.
+{102807}{102882}Što se to dogaða?
+{102882}{102982}Da se poslužim boksaèkim rjeènikom,|ako dopuštaš...
+{102982}{103032}Upravo si izgubio.
+{103032}{103157}Jesi li dobro? Nekako si nedostupna|od kad sam se vratio sa puta.
+{103157}{103207}Znam. Dobro sam.
+{103232}{103332}Ima par stvari. |Koju hoæeš prvu èuti?
+{103357}{103482}Jedna od manjih vijesti je ta da|sam išla na razgovor za posao. PR posao.
+{103532}{103632}Meðunarodna tvrtka otvara filijalu u Londonu.|Direktorica me osobno pozvala...
+{103657}{103782}...kaže da je èula dosta o meni i pozvala me|kod nje u stan sutra uveèer na ozbiljan razgovor.
+{103907}{104057}Gospode Bože!|Gospode Bože, pa to nije mala, to je ogromna vijest!
+{104057}{104157}To je fenomenalno.|To je super.
+{104157}{104232}- Je li se roletna opet pokvarila?|- Nije, mislim...ne.
+{104457}{104582}- Jesi li  dobro?|- Odlièno sam. To su divne vijesti.
+{104582}{104632}Tako sam sretan zbog tebe.
+{104682}{104782}- Moram razgovarati s tobom.|- Hej, Rus, kako si?
+{104782}{104907}Doði sutra uveèer u 8 kod mene.|Vrlo je važno.
+{104907}{104982}Stvarno?|U, kakva gnjavaža!
+{104982}{105082}Hoæu, pomoæi æu ti.|OK, prijatelju, bok!
+{105132}{105232}Russellova obitelj dolazi u posjetu.|Zamolio me da doðem sutra uveèer
+{105257}{105332}...da mu pomognem da raspremi|gostinsku sobu.
+{105532}{105632}Oprosti, što si mi još htjela reæi?
+{105632}{105707}Nema veze. Nije važno.
+{106357}{106407}Hammerton Enterprises.
+{106532}{106632}Rachel, idem u trgovinu.|Treba li ti nešto?
+{106657}{106707}Je li sve u redu?
+{106757}{106907}Da, super. Samo, idem malo |u trgovinu da, ovaj...
+{107957}{107982}Kako si?!
+{108007}{108082}- Odlièno.|- Odlièno. A ti?
+{108082}{108157}Oprosti, rekla si veæ.
+{108232}{108332}- Poslovni ruèak?|- Da, onako. Samo razgovor.
+{108332}{108407}- Ured mi je odmah iza ugla.|- Znam.
+{108407}{108482}Mislila sam da si otputovao.|Poslovno.
+{108482}{108582}Da, toèno. Baš sam se, zapravo,|sinoæ vratio.
+{108632}{108707}Helen, molim te, |nemoj misliti da ja...
+{108707}{108832}Ma, u redu je. |Nisam ni mislila da nisi.
+{108832}{108957}Mislim, nemoj misliti da te nisam zvao.|Nije da te nisam zvao...
+{108957}{109107}Ne mislim na to nije da nisam...to je dupli negativ, |a onda to znaèi da sam te u stvari zvao...
+{109107}{109207}- Kada si zvao?|- Nisam te zvao.
+{109207}{109357}Ali, nisam te zvao onako |kako ti misliš da te nisam zvao.
+{109432}{109582}Želio sam te pozvati. Okrenuo bi sve|brojeve pa bih stao kod posljednjeg broja...
+{109582}{109682}- Totalno bezvezno od mene.|- Totalno.
+{109707}{109807}- Mislio sam da još imaš srediti |neke stvari sa svojim drugim...
+{109857}{109957}Da...mislio sam da bi bilo fer|od mene dopustiti ti da...
+{109957}{110057}- Samo me zbog toga nisi zvao?|- Pa, poslije Cliveovog tuluma...
+{110057}{110132}...pretpostavio sam da si...|da smo...
+{110132}{110207}Pomislio si da idem u krevet sa svakim |uspješnim muškarcem koji naiðe?
+{110257}{110357}- Oprosti, neurozni humor.|- Nadao sam se da nisi takva.
+{110682}{110782}Dolazim odmah.| Ok, hvala.
+{110782}{110907}Moja mama mora u bolnicu.|Treba napraviti neke testove. Moram iæi.
+{110932}{111007}Hoæeš da poðem s tobom?
+{111057}{111132}Lijepo od tebe.
+{111232}{111307}- Ali, ona je sad jako slaba,|pa se plašim da...|- U redu je.
+{111332}{111407}Puno ti hvala.
+{111457}{111632}Idem veèeras sa nekim prijateljima|kod Clivea na veèeru, ako hoæeš...ako bi htjela...
+{111657}{111757}- Dobro, neki drugi put, onda.|- Ne, baš bih voljela iæi.
+{111832}{111932}Naravno, da.|Definitivno.
+{111957}{112032}Doæi æu po tebe u 8.
+{112057}{112157}Hoæeš doæi po mene|ili æeš možda doæi po mene?
+{112182}{112307}Ne brini zbog mame. Bit æe ona dobro.|Sjeæaš se Montipajtonovaca?
+{112357}{112432}Vidimo se kasnije.
+{112807}{112857}- Kako si?|- Ah, onako...
+{112932}{113057}- Je li Jerry sretan što æe biti tata?|- Nisam mu još rekla.
+{113057}{113132}Nikako da se dogodi |pravi trenutak za to .
+{113132}{113282}- Hajde, da proslavimo sa pravim piæem.|- Odlièna ideja.
+{113307}{113382}Ne bih baš trebala u ovom stanju,|ali stvarno moram.
+{113382}{113457}- Što imaš?|- Brandy.
+{113457}{113532}Uf, bljak, od njega |mi se povraæa.
+{115432}{115482}Veæ je podne?
+{115707}{115757}Jeste li to sinoæ napravili?
+{115882}{115982}Jedan test ništa ne znaèi.|Može biti pogrešan.
+{115982}{116082}Kupila sam 3 paketa. Po 2 u svakom.|To je 6 testova.
+{116082}{116157}Šest veæ nešto znaèi.
+{116182}{116232}Što æeš raditi?
+{116382}{116457}- Da li je James Hammerton tu?|- Nije.
+{116457}{116582}- Znate li kada æe se vratiti? - Nisam sigurna. Otišao| je posjetiti majku u bolnicu sa svojom suprugom.
+{116607}{116657}Hoæete li mu ostaviti poruku?
+{116707}{116807}Hoæete li mi reæi Vaše ime i broj?|Kako bi Vam se mogao javiti.
+{116882}{116932}Ne, hvala Vam.
+{118032}{118107}Želim da znaš nešto.
+{118132}{118207}Anne ne pije brandy. |Tjera je na povraæanje.
+{118282}{118407}A one èaše ne iznosimo za tulume, veæ|samo za posebne prilike. Znaš to.
+{118457}{118532}Zar ja ovdje trebam nešto reæi?
+{118532}{118607}Imaš li ljubavnicu?
+{118607}{118682}Samo mi reci.|Da ili ne?
+{118757}{118832}Ne, nemam.
+{119032}{119182}Helen, pogledaj me u oèi.|Nemam ljubavnicu.
+{119232}{119307}Nemam!
+{119407}{119482}Nisam to trebala spominjati sad.|Zakasnit æu na razgovor.
+{119507}{119582}Prièat æemo kasnije.
+{119607}{119707}- Hoæeš li biti ovdje kad se vratim?|- Naravno.
+{119782}{119857}Slušaj, Helen...
+{119882}{119932}Sretno!
+{120182}{120282}- Anne, je li Helen tu?|- Kako se usuðuješ zvati ovdje!
+{120432}{120532}Anne, molim te, otvori.|Ne znam o èemu se radi.
+{120532}{120656}Ne znaš o èemu se radi? E pa, reæi æu ti onda. |Vidjela te je, James! U bolnici, sa ženom.
+{120656}{120732}Znaš, ona što nosi tvoju burmu.|Što je to s vama muškarcima...
+{120732}{120806}- Anne, pusti me da je vidim.|- Nije ovdje.
+{120806}{120856}- Gdje je?|- Nemam pojma!
+{120882}{120932}Sranje, sranje!
+{120956}{121006}Glupi idiote!
+{121481}{121556}- Clive, jesi li vidio Helen?|- Nisam, što?
+{122531}{122631}Helen, ne razumiješ.|Kakav sam ja idiot!
+{122631}{122706}- Pogledaj me! Saslušaj me, molim te.|- Ne, ti slušaj mene!
+{122706}{122781}Ne želim te nikad više vidjeti!
+{122781}{122881}Dosta mi je svega |za jednu godinu!
+{122881}{123006}Bila sam glupa i povjerovala sam da si ti drugaèiji |od ostalih. Ali, oèigledno sam pogriješila!
+{123031}{123156}A sad, molim te,|uèini mi uslugu i idi!
+{123156}{123281}Jesam oženjen, Helen.|Ali ne živimo zajedno.
+{123281}{123356}Žena koju si danas vidjela udala|se za mene prije 3 godine.
+{123356}{123456}Razdvojili smo se prije 6 mjeseci |i uskoro æemo biti razvedeni.
+{123481}{123606}Sve je sporazumno.|Nisam ti prije rekao za to...
+{123606}{123706}Nemam pojma zašto ti to nisam ranije rekao....|Toliko sam ti puta htio to reæi...
+{123706}{123831}... a ne da èuješ od drugih...
+{123856}{124006}Moja majka je vrlo bolesna i Claudia se složila da| se pretvaramo kako je sve u redu, samo zbog mame.
+{124031}{124131}Uèini mi tu uslugu. |Ona je jako dobra žena.
+{124181}{124256}Imaš li ti mamu, Helen?
+{124331}{124431}Deset minuta Lydia. I da se nikad više|nisi tako pojavila na prozoru moje kuhinje.
+{124431}{124506}Gotovo je. Znaš?|I sama si to rekla.
+{124506}{124606}Oprosti, nisam razmišljala što govorim.|Hoæu ti pokazati nešto.
+{124831}{124981}Ako neæemo biti zajedno, hajde da za to imamo |prave razloge, a trenutno ih nema. Nijednog.
+{124981}{125081}Sada je sve pometeno. |Ali sve se može riješiti u djeliæu sekunde.
+{125156}{125206}Otvori, molim te.
+{125556}{125656}Oprosti što si morao èekati, dragi...|Tko je to?
+{125656}{125731}O, bok.|Stižeš toèno na vrijeme.
+{125781}{125856}Da li je to sve istina James?
+{126131}{126206}Dopustite da priklještim zarobljenika, sir!
+{126331}{126406}Trenutno ne mogu  |održati razgovor za posao.
+{126406}{126506}Razgovaramo o tome da li æu |ili ne, zadržati dijete tvog deèka.
+{126606}{126656}James, moram ti nešto reæi.
+{126681}{126756}Žao mi je što si to saznala na ovaj naèin.
+{126806}{126881}Moram se javiti Anne|i da reæi joj da sam dobro.
+{127031}{127081}Volim te.
+{127081}{127131}Helen, saèekaj, molim te!
+{128556}{128631}James, jeste li joj Vi suprug?
+{128656}{128731}Bit æu...vjenèat æemo se.
+{128756}{128806}Bit æu kratka.
+{128831}{128931}Helen ima velike unutrašnje ozljede.
+{128931}{129006}Žao mi je, ali je Helen |izgubila bebu.
+{129031}{129106}Žao mi je, ali je Helen |izgubila bebu.
+{129131}{129206}Znali ste da je u drugom stanju?
+{129206}{129256}Jeste li znali da je bila u drugom stanju?
+{129356}{129406}Bit æe ona dobro, zar ne?
+{129406}{129481}Probudit æe se, zar ne, doktorice?
+{130706}{130806}Helen, znam da me èuješ.
+{130906}{131006}Drago mi je što smo veèeras|sve razriješili.
+{131356}{131431}Drago mi je što si ušla u isti|metro sa mnom.
+{131806}{131881}Nemaš pojma kako æu te usreæiti.
+{131956}{132006}Obeæavam.
+{133231}{133281}Helen, èuješ li me?
+{133306}{133381}Èuješ li me, Helen?
+{134056}{134106}Oprostite što kasnim.
+{134106}{134231}Vaša majka je jutros mnogo bolje.| Sjedi u krevetu i pojela je sav doruèak.
+{134756}{134831}Helen, kunem ti se...
+{134956}{135031}Uèinit æu što god poželiš.
+{135031}{135081}Hoæeš li?
+{135131}{135231}U tom sluèaju, hoæu da ustaneš,|odeš do vrata...
+{135256}{135381}...otvoriš ih, proðeš kroz njih |i da ih zatvoriš za sobom.
+{135756}{135806}Zdravo, mama!
+{135956}{136031}Pozovite nas ako budete|imali ikakvih problema.
+{136031}{136106}Vrlo ste sretni, Helen. |Sreæom ste se izvukli.
+{136106}{136156}Ne morate dvaput reæi.
+{137456}{137531}Razvedrite se!|Znate što bi rekli Montipajtonovci?
+{137531}{137651}"Nitko nikad ne oèekuje |španjolsku inkviziciju!"
+{138160}{138260}Prevod - "Otter"

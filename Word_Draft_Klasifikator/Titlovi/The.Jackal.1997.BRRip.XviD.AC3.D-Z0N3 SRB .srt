@@ -1,0 +1,926 @@
+{1}{1}25.000
+{2826}{2857}Gosp. Gorbaèov,
+{2874}{2912}završimo ovaj rat!
+{3593}{3667}Dovelo je do kraja Sovjetsku imperiju...
+{3617}{3701}I njen 70 godišnji eksperiment komunizma...
+{3689}{3830}...uzastopna napetost u... regionima,|praæena sa raširenom korupcijom
+{3786}{3824}i ekonomskom mizerijom
+{3834}{3927}rezultirajuæi virtualnom poplavom kriminala....
+{3881}{3990}...Ruska mafija je prerasla u svjetsku klasu
+{3929}{3977}organizirane kriminalne mreže,
+{3991}{4127}sa profitom u milijardama ukljuèujuæi i znane US operacije.
+{4313}{4391}...najavljujuæi nevjerovatno otvaranje
+{4331}{4445}FBI odjela u Moskvi
+{4433}{4611}sa prvom ikada, zajednièkom US|i Ruskom saradnjom. Oni inzistiraju....
+{7388}{7446}Anatole, šampanjac za sve.
+{7720}{7804}Ghazzi je u klubu. On je na poziciji.
+{7816}{7864}O.K. Spremni. MVD samo!
+{8452}{8509}Šta je, nije bilo isplate ovog tjedna?
+{8513}{8553}Bojnik Koslova, MVD?
+{8574}{8635}Drago mi vas je sresti.
+{8637}{8710}Ova prokleta tržišna ekonomija...
+{8735}{8799}Evo, je li dovoljno?
+{8830}{8878}Ghazzi Murad, uhiæeni ste...
+{8880}{8926}radi ubistva bojnika Nikolaja Semankhoa.
+{8949}{9031}Popuši mi, draga!|Nemate svjedoka. Ništa.
+{9033}{9109}Vaša krv je svjedok.
+{9111}{9216}Ostavili ste svoj DNK na mjestu zloèina.
+{9249}{9314}DNK?
+{9350}{9375}Što je ovo?
+{9374}{9397}Amerikanac.
+{9422}{9464}Ko si jebiga ti?
+{9470}{9519}Zamjenik direktora Carter Preston,
+{9519}{9545}FBl.
+{9567}{9613}Jebete Amerikance sada?
+{9663}{9709}Ti ružna kurvo policajska.
+{9735}{9750}I ti,
+{9759}{9793}odjebite!
+{9783}{9877}Ovo nije Chikago. |Ovo je Rusija.
+{9831}{9929}Stoga, tvoja kurva i ti odjebite odavde!
+{9926}{10000}Mislite li da se plašim MVD-a?
+{10070}{10122}Kunem vam se da æu vas pobiti
+{10122}{10190}i vaše jebene kurve majke, ako ne...
+{10190}{10238}- Ponavljam... |- Jebite se, jebite se!
+{10238}{10296}Ti kurvo sa ožiljkom! Jebite se!
+{10286}{10336}U redu, sad je dosta!
+{11234}{11289}Nikad nije lako uzeti drugome život...
+{11307}{11364}ali si spasila jedan, takoðer.
+{11366}{11397}Moj.
+{11439}{11464}Hvala ti.
+{11727}{11764}Da ste imali moje upozorenje,
+{11774}{11829}mora da su zasjeli naše ljude vani,
+{11846}{11907}prije nego smo znali, došla je policija sa oružjem
+{11907}{11967}u svaki kut prostorije.
+{11967}{11993}Otvorili su vatru i ubili ga.
+{12038}{12068}Sve se odigralo isuviše brzo,
+{12090}{12128}bilo je gotovo prije nego je poèelo.
+{12176}{12214}Dobro. Moj siroti brat ...
+{12306}{12358}Koliko si policajaca ti ubio?
+{12422}{12488}Terek molim te, nismo imali nikakve šanse.
+{12494}{12528}Bilo ih je 30-ak.
+{12528}{12593}- Plus Amerikanac.|- Da, da. Ali koliko si ih ti pobio?
+{12723}{12738}Nijednog.
+{12782}{12828}Nijednog? Baš nijednog?
+{12863}{12947}Terek molim te. Uèinio sam što sam mogao ...
+{13002}{13032}Uèinio si što si mogao!
+{13042}{13087}Uèinio si što si mogao!
+{13097}{13177}Pustio si svinje policajske|i amerièke kurvare da ubiju mog brata.
+{13187}{13242}Bez da ubiješ ijednog zauzvrat?
+{13252}{13332}O.K. To je što si mogao uèiniti.
+{13375}{13412}Ovo je što ja mogu uèiniti!
+{13657}{13692}Volio sam ovog èovjeka kao brata.
+{13712}{13772}Bio mi je drag prijatelj i partner.
+{13787}{13842}Nisam uživao u ovome.
+{13897}{13916}Ali zamislite ...
+{13936}{14000}ako sam ovo uradio nekome koga volim ...
+{14011}{14061}šta æu tek uraditi onome koga mrzim?
+{14176}{14276}Pa... amerièki FBI|proglašava rat sa nama.
+{14389}{14416}Rat æe i biti.
+{14461}{14490}Za razliku od...
+{14547}{14581}Hijena ne rizikuje.
+{14581}{14653}Nikad ne napada ako nije sigurna.
+{14677}{14781}Iako je pravi ubojica,|nije neki džentlmen.
+{14873}{14925}Oprostite što ste me èekali.
+{14940}{14995}Imao sam neka posla završiti.
+{15016}{15056}Toliko potrošenog vremena,
+{15060}{15112}pomiješa želju sa ciljem.
+{15112}{15137}Još jedno piæe?
+{15163}{15235}Možemo li preæi na posao.
+{15520}{15570}MVD je ubio mog brata.
+{15575}{15655}Za to, æu se pobrinuti|da plivaju u krvi.
+{15660}{15721}Ali za njihove saveznike u Americi ...
+{15732}{15760}Želim im poslati poruku,
+{15770}{15826}vrlo javnu poruku.
+{15828}{15919}Želim im usaditi strah|u njihove kosti.
+{15981}{16029}Možeš li ubiti ovu osobu?
+{16134}{16149}Da.
+{16319}{16399}Ako uzmem ovaj posao morat æu nestati.|Zauvjek.
+{16409}{16499}Pa, ako želiš da to uèinim,|morat æeš mi platiti.
+{16525}{16550}Koliko?
+{16585}{16619}Amerièki dolari.
+{16619}{16649}Sve u kešu, naravno.
+{16679}{16724}Pola odmah, pola nakon obavljenog posla.
+{16864}{16885}70 milijuna.
+{17008}{17026}A zašto ne?
+{17059}{17076}Dogovoreno.
+{17121}{17165}Koliko ljudi zna za ovo?
+{17172}{17219}- Ti i ja.|- Neka ostane tako.
+{17239}{17314}Nemoj spominjati naš dogovor|ni telefonom ni faksom, ikada.
+{17330}{17424}Naði mjesto van Rusije za skrivanje,|dok se misija ne obavi.
+{17436}{17534}Ako bude propusta bit æe moj izbor|da li da se nastavi misija ili ne.
+{17534}{17594}Bilo kako ja zadržavam poèetnu sumu.
+{17604}{17673}- Dogovoreno?|- Ok.
+{17749}{17844}Uhode prenose, da je Terek dao ucjenu|na svoj MVD i FBI osoblje.
+{17844}{17938}Zamj. dir. Preston i ja|imamo posebnu ucjenu na naše glave.
+{17943}{18023}U dva tjedna 7 MVD operativaca je ubijeno.
+{18023}{18063}Bar znamo gdje nas to vodi.
+{18063}{18103}Uhode govore da je to samo poèetak.
+{18103}{18178}Terek je planirao nešto dramatiènije.
+{18213}{18233}Prije 8 dana...
+{18238}{18313}Terek i njegova dva bitna suradnika|su primjeæeni u pansionu u gradu Porvoo,
+{18313}{18353}60 kilometara zapadno od Helsinkija.
+{18368}{18408}Veæ su tamo,
+{18408}{18468}zauzimajuæi cijeli treæi sprat|za sebe i njihove tjelohranitelje.
+{18491}{18538}Svi su Specnaz-i, devet ih je ukupno
+{18539}{18598}Nitko nije napuštao zgradu u pet dana.
+{18611}{18708}Njihov jedini kontakt sa svijetom je ovaj èovjek,|Victor Politovsky.
+{18725}{18823}Ide do Porvoo pošte dva puta na dan|po Terekovu poštu koja dolazi na poštanski fah.
+{18861}{19029}- Zovite Interpol i saznajte sve o Politovsky-om.|- Da gospodine.
+{18960}{19007}Terekove ljude je teško pridobiti.
+{19007}{19102}Ako bude prilike,|moramo biti spremni na ispitivanje
+{19102}{19157}sa velikom efikasnošæu.
+{19157}{19212}- Doviðenja, Gosp. Preston.|- Sir.
+{19347}{19419}Ne želim znati što to znaèi.
+{22087}{22139}Imaju nove nominacije.|To je zeznut dio.
+{22154}{22199}Moraæu koristiti ethyl acetylene.
+{22209}{22232}Zeznuta stvar.
+{22233}{22283}Možete dobiti rak jetre.
+{22305}{22364}Koristila sam disk drive za brisanje|magnetne trakice.
+{22438}{22474}- Odlièno.|- Hvala ti.
+{22474}{22529}Napravila si dobar posao.
+{22529}{22589}Oh, pa, to je..., zar ne?
+{22641}{22677}Koliko sam dužan?
+{22724}{22804}Mislim da je raèun oko 375 funti.
+{22833}{22928}- Ovdje je 500 funti. |- Oh...hvala ti!
+{22928}{22964}- Sretno sa njima draga.|- Hvala ti.
+{22973}{23013}Vidimo se sljedeæi put.
+{23629}{23664}Kako želite da vam raèun obradimo?
+{23664}{23754}Popolovite depozit jednako izmeðu|Macao i Panamskog raèuna.
+{23754}{23814}- A ostatak?|- Ostavite ovdje u dolarima.
+{23819}{23884}Želim da mi otvorite raèun u Luxemburgu.
+{23889}{23933}I nabavite mi neke kreditne kartice.|Koristite neku amerièku banku.
+{23937}{23978}Poslat æu vam ime ove sedmice.
+{23985}{24063}Ostavit æu vam kreditne kartice| u vaše sanduèe u Montrealu.
+{24068}{24133}Oh..ovo je takoðer došlo.
+{24143}{24198}Trebao bih iskoristiti vaš raèunar, privatno.
+{24203}{24283}- Naravno, sve je spremno za vas.|- Dobro.
+{24358}{24403}Dobar dan.
+{24417}{24448}Kako vam mogu pomoæi?
+{24453}{24503}Zainteresiran sam za sisteme srednjeg dometa,
+{24503}{24533}visoke brzine ispaljivanja.
+{24609}{24634}Prijenosan?
+{24634}{24694}U komadu, montiran na vozilo.
+{24705}{24730}Koji kalibar?
+{24743}{24788}Ne manje od 7,62.
+{24813}{24831}Dobavljiv.
+{24831}{24952}7,62 mm, M-134 |elektrièni top sa rotirajuæom cijevi.
+{24968}{25047}Želim ne-amerièku opremu.|Jednostruki paralelni sistem.
+{25064}{25083}Dobavljiv.
+{25092}{25192}Jugoslovenski 20 mm 19/55 top.
+{25218}{25242}Previše težak.
+{25272}{25297}Dobavljiv.
+{25304}{25397}Poljski ZSU-33, elektrièni, 14,5 mm.
+{25397}{25472}Brzina ispaljivanja 1.400 metaka u minuti.
+{25507}{25527}Zainteresiran sam.
+{25544}{25630}Efektivni borbeni domet 3.500 metera.
+{25635}{25712}Srednja brzina je 1.700 metera u sekundi.
+{25750}{25772}Uzimam.
+{25772}{25862}Cijena je $200.000 US.
+{25892}{25981}Transfer novca je uobièajen,|pola odmah, pola nakon isporuke.
+{25986}{26021}Adresirati na:
+{26026}{26178}"Letterham Shipping",|Montreal, Quebec, Canada. GIH 876.
+{26199}{26261}Ime klijenta: Murdock, Charles C.
+{26501}{26579}Šta to planiraju?|Zašto je Terek u Finskoj?
+{26581}{26671}Amerikanci... Pobijeni. Primjer.
+{26682}{26720}Šakal? Koji Šakal?
+{26734}{26756}Nema nikakvog smisla.
+{26786}{26821}Šta to planiraju?
+{26869}{26891}Ko si ti?
+{27017}{27043}Ti jebeni Šakal!
+{27166}{27195}Zašto se motate okolo?
+{27210}{27230}Oživite ga.
+{27300}{27315}Isuse...
+{27378}{27480}Ispitivanje uz upotrebu droge je sasvim legalno,|kada je u pitanju državna sigurnost.
+{27487}{27580}Na nesreæu gosp. Politovsky je|imao nedijagnozirane probleme srca.
+{27621}{27640}On je rekao...
+{27670}{27690}Šakal?
+{27713}{27770}Znaèi li vam ovo išta, gosp. Preston?
+{27789}{28859}On je navodno plaæeni ubojica,|koji koristi to ime.
+{27860}{27917}Nekoliko ubojstava je njemu pripisano,
+{27917}{27979}ali nikad nismo mogli dokazati|da on uopæe postoji.
+{28322}{28376}S vremena na vrijeme je radio za KGB.
+{28398}{28439}- Imate li kakvo ime?|- Bez imena.
+{28469}{28539}Isplate su vršene preko posrednika
+{28542}{28579}ili na raèun banke u Hong-Kongu.
+{28579}{28649}Nijedan ga èlan KGB-a nije nikad vidio.
+{28649}{28709}Znamo li, je li ikada operirao u US?
+{28719}{28739}Ne.
+{28764}{28779}Ali...
+{28824}{28906}Politovsky-jeva tašna je sadržavala|biografski materijal
+{28906}{28973}vašeg Donalda Browna,|Direktora FBI-a.
+{28973}{29103}- Isuse Kriste. Ovi momci idu po zlato.|- Nazovi ga na telefon za mene.
+{29762}{29878}- Dobro jutro. Svrha vaše posjete Kanadi?|- Kraða...
+{29932}{29958}Ribarenje.
+{30017}{30095}- Uživajte u vašem boravku gospodine...| Hayslip. - Hvala vam. I hoæu.
+{30198}{30258}Èovjeèe, nudim ti zaista dobar posao|oko ovog kombija, znaš li to?
+{30258}{30358}Potpuno je nov, posve je opremljen.|Imamo 60-ostruki CD izmjenjivaè.
+{30366}{30413}Sada, jedino što trebam|je vaša vozaèka dozvola,
+{30413}{30473}vaša kreditna kartica i mala|provjera stanja kartice.
+{30473}{30548}- Mislim da æe sve biti u redu gosp. Murdock.|- Oh. Sve je u redu?
+{30548}{30623}- U redu Charlie, vidimo se za sekund.|- Polako, ne žuri.
+{32266}{32346}Želim ovo... držati zatvoreno. Bez publiciteta.
+{32366}{32456}Za zajednièku radnu grupu, Država, CIA, Tajna služba,
+{32466}{32486}Ruska ambasada.
+{32508}{32601}Svi æe imati dnevne izvještaje o napretku|u 21 sat svaku veèer u ovom uredu.
+{32636}{32671}Bojnièe Koslova, imate li šta dodati?
+{32676}{32816}Od 1983 KGB je obezbjedio novac|za misije direktne akcije.
+{32818}{32886}Jedna bombaška akcija i 4 ubojstva po ugovoru.
+{32886}{32930}Šakal je korišten kao operativac.
+{32955}{33055}- Ne dajete mi išta s èime bi radio, Preston.|- I nemamo puno toga, Sir.
+{33056}{33113}Uhode Bojnika Koslove ga ne mogu ukazati.
+{33117}{33190}Ne znaju ko je on.|CIA ga ne može pronaæi.
+{33196}{33215}Pa što onda?
+{33234}{33357}Koristeæi KGB spise, identificirano je 6 operativaca|za koje se vjeruje da su ga, u stvari, vidjeli.
+{33357}{33455}4 su mrtva, jedan je u Libiji, a za posljednjeg|se vjeruje da je ovdje u Americi.
+{33460}{33535}Baskijski separatist sa imenom|Isabella Celia Zancona.
+{33535}{33660}Ona bar zna kako on izgleda.|Ali nemamo pojma gdje se nalazi.
+{33665}{33706}Pa, neko bi morao znati...
+{33706}{33815}Interpol kaže da se 80-ih|družila sa osobom Declan Joseph Mulqueen,
+{33815}{33845}irskim snajperistom.
+{33845}{33908}Kad je IRA saznala, sir,|odluèila je da ga izvede iz Irske
+{33908}{33954}i prebaci ga ovamo.
+{33954}{34054}1989. dobio je dvaput po 25 godina|zatvora za nelegalni promet oružjem.
+{34057}{34154}Trenutno služi kaznu u|državnom zatvoru visoke sigurnosti u Massachusetts-u.
+{34154}{34264}- Mislim da on zna gdje je ona.|- Zbog èega misliš da æe prièati sa tobom?
+{34264}{34371}- Nadam se da æe suraðivati radi smanjenja kazne.|- Ali ne obeæavaj previše.
+{34374}{34431}Nakon svega... on je terorist.
+{34844}{34894}Imaš posjetitelje, Mulqueen.
+{35067}{35112}Šta želite od Isabelle?
+{35112}{35138}Nije uèinila ništa ovdje.
+{35139}{35198}Ušla je u zemlju ilegalno.
+{35263}{35279}Što?
+{35283}{35383}FBI šalje zamj. direktora zbog ilegalnih useljenika?
+{35428}{35488}Ma dajte, Preston,|što vi zaista želite?
+{35499}{35518}Profesionalca.
+{35530}{35576}Naziva sebe "The Jackal" (Šakal).
+{35710}{35743}"Misteriozni èovjek".
+{35763}{35843}Mislimo da ga je možda vidjela,|i da nam može pomoæi pronaæi ga.
+{35843}{35952}Ako je tako, sredit æemo pomilovanje za nju|potpisano od predsjednika SAD-a.
+{35977}{36122}I garantirano: bez izruèenja. I opet garancija,|da Španjolska vlada neæe saznati gdje se ona nalazi.
+{36127}{36187}Ne znaju ni sada, jel' tako?|Kao ni vi.
+{36197}{36237}Neka ostane tako.
+{36468}{36533}Da li ti išta znaèi ako bi spasio jedan život?
+{36542}{36633}Èiji bi to život trebao spasiti da|je važan ovolike frke?
+{36633}{36685}Gosp. Donald Brown, direktor FBI.
+{36768}{36786}Ma to nije istina.
+{36845}{36942}Gledaj, znamo da te neki razbojnici|unutar zatvora žele vidjeti mrtva.
+{36942}{36982}Ma cijela vlada me želi vidjeti mrtva, gospodine.
+{36992}{37027}Ipak, živ sam.
+{37032}{37079}Oh pametnjakoviæu, dosta sa zajebancijom.
+{37087}{37183}Suraðuj, i bit æeš prebaèen|u zatvor sa manjim obezbjeðenjem.
+{37183}{37207}To je što imamo ponuditi.
+{37212}{37311}A to ti je jedina šansa|da ikad izaðeš iz ovog prokletog mjesta u jednom komadu.
+{37311}{37362}Ovo je jedinstvena ponuda.|Uzmi ili ostavi.
+{37372}{37447}Ovo su teška vremena,|gubljenje jebenog vremena, zaista.
+{37472}{37517}Izvinite na jeziku, u zatvoru sam.
+{37869}{37926}U redu, što tražiš da nam pomogneš?
+{37976}{38046}Prvo, moram biti uvjeren da æe Isabella biti na sigurnom.
+{38056}{38076}Dogovoreno.
+{38086}{38206}Onda bi ste me trebali pustiti,|da se vratim u Irsku kao slobodan èovjek.
+{38231}{38264}Ni govora.
+{38322}{38416}Osim pucnjave, poznati si i kao|ubica po Britanskoj vladi.
+{38416}{38481}A da ne pominjemo koliko si žena i djece vjerovatno pobio.
+{38481}{38506}To nije bio moj rat!
+{38521}{38581}- Nisam nikad bio bombaš.|- Ne vidim razlike!
+{38581}{38626}Pa ipak si uzimao ljudske živote.
+{38626}{38725}Razlika je da sam ubijao u ratu.|Sada, želim kuæi. Sasvim jednostavno.
+{38731}{38760}Jednostavno za tebe, možda.
+{38760}{38841}Kao u Rusiji,|vojnici idu kuæama nakon završetka sukoba, njet?
+{38841}{38891}Ipak, to se neæe ostvariti. Žao mi je.
+{38965}{39020}U redu, daj mi bar šansu.
+{39055}{39096}Tvoja najbolja nastojanja da me oslobodiš.
+{39135}{39170}Prodat æu je za tvoju rijeè.
+{39233}{39252}Žao mi je.
+{39355}{39395}Šakal je znaèi pošao za vašim direktorom,|nije li?
+{39405}{39510}Samo mu recite da sve svrši na vrijeme.|Nitko ga sada ne spasio.
+{39521}{39550}Nitko, osim mene!
+{39580}{39603}Zato jer sam ga sreo!
+{39710}{39740}Oh da, nisam li vam to spomenuo?
+{40049}{40144}Mogu ga prepoznati, po njegovom licu.|Bude li prilike.
+{40144}{40184}Ali važnije, po njegovim metodama.
+{40254}{40299}Tako da Isabellu možete ostaviti van ovoga.
+{40334}{40436}- Jesi li radio sa njim?|- Sa njim? Ne. Nikad.
+{40514}{40554}Da li imaš problema sa ovim èovjekom?
+{40610}{40653}To je izmeðu njega i mene.
+{40804}{40889}Isabella Zancona je jedini kontakt kojeg imamo.
+{40889}{40993}A pronaæi æemo je.|Sa ili bez tvoje pomoæi.
+{41023}{41143}Ok.|Želim 3 stvari.
+{41152}{41200}Prvo: Izbavi me odavde.
+{41200}{41248}Ovdje, iza rešetaka, sam beskoristan.
+{41248}{41293}Što æe te sprijeèiti da ne pobjegneš?
+{41313}{41368}Ništa.|Jednostavno, dajem svoju rijeè.
+{41423}{41438}Drugo:
+{41448}{41483}Idem sa vama da se sretnemo sa Isabellom.
+{41523}{41538}Zašto?
+{41573}{41609}Da je vidim. Samo onako.
+{41713}{41748}I treæa stvar?
+{41803}{41826}Dobar brijaè.
+{41954}{41991}Evo kako æemo, Mulqueen.
+{41991}{42037}Bit æeš pretraživan bez nekog rasporeda,
+{42039}{42111}a ako ispadne da pronaðemo bar otisak,|a da nije odobren,
+{42111}{42187}vraæam te direktno u zatvor.|Isto važi za korištenje telefona.
+{42202}{42259}- Ne vjerujete mi?|- Ne baš.
+{42269}{42380}Ali i nemam izbora.|A ako pomišljaš da te IRA spasi
+{42380}{42442}pucat æemo da ubijemo...njih pa tebe.
+{42447}{42497}I to nemara iæi tim redosljedom.
+{42497}{42535}- Razumio?|- Èuo sam te.
+{42567}{42617}Suraðuj pa æemo i mi suraðivati.
+{42852}{42911}Držat æu te na oku.
+{43034}{43066}Gospoðica Koslova, nije li?
+{43262}{43297}A koje je vaše ime, onda?
+{43332}{43422}Bojnik. Bojnik Koslova.
+{43607}{43652}Malo smo zarðali, to je sve.
+{44041}{44141}Podnožje od titanijuma,|što lakše koliko naprezanje dopušta.
+{44141}{44199}Ruka æe se kretati do 270 stupnjeva.
+{44199}{44266}Trebat æe i pogonski mehanizam sa dva servoa.
+{44276}{44331}Sve æe to raditi na 12 volti istosmjerno.
+{44337}{44411}Ok. Dobro, to ja kao auto baterija, mrak.
+{44415}{44496}- Koliko težine mora ruka podnijeti?|- 55 kilograma.
+{44506}{44566}Hehe...veliki jebaè, a?
+{44591}{44641}- Hej, želiš li jedno?|- Ne.
+{44696}{44731}Znaš, treba mi ovo za 8 dana.
+{44761}{44781}Mogu to uraditi.
+{44846}{44866}Koliko æe koštati?
+{44935}{44980}Pa, titanijum æe biti problem.
+{44980}{45075}On obilježeni materijal, pa æe mi trebati vremena|i malo više novca.
+{45110}{45130}50 tisuæa?
+{45240}{45346}Mislim...pa.... 40... 40 tisuæa.
+{45375}{45400}U redu.
+{45400}{45453}Pola odmah, pola nakon isporuke.
+{45510}{45570}Ovaj pušaè æe razvaliti neèiju guzicu.
+{45640}{45665}Razjasnimo nešto.
+{45670}{45766}Kada završiš ovo,|vratit æeš planove i preostali materijal.
+{45766}{45840}Zaboravit æeš na Charlie Murdock-a|i njegove planove.
+{45862}{45949}Da, naravno èovjeèe, ja sam miran. Smiri se.
+{46029}{46049}U redu.
+{46790}{46825}Jesi li nervozan?
+{46903}{46968}8 godina.|Skoro èitav život, nije li?
+{47038}{47058}Bok!
+{47093}{47138}- Bok, gosp. Decker, nije li?|- Da.
+{47149}{47290}Bok, ja sam Declan Mulqueen.|A ovo je bojnik Koslova.
+{47293}{47328}- Kako ste?|- Bok.
+{47358}{47403}Razgovarali bismo sa vašom ženom.
+{47448}{47496}Pss. Netko te želi vidjeti!
+{48417}{48467}Odvest æu djecu otraga.
+{48597}{48627}Moj lijepi Irac.
+{48963}{49011}Pustili su me da te nešto upitam.
+{49059}{49148}Sir, nešto mislim, možda bi smo mogli|iskoristiti Zancona ženu kao osiguranje,
+{49156}{49216}u sluèaju da Mulqueen pobjegne.
+{49216}{49281}Slušaj, kako god on odigra, mi igramo po dogovoru:
+{49281}{49356}Isabella Zancon-na adresa ostaje tajna.
+{49356}{49416}To znaèi: Ništa zapisati u izvještaj.
+{49423}{49526}- Bez imena, bez adrese. Ništa. Kontaš li?|- Da gospodine.
+{49656}{49722}Nisam nikad znala njegovo ime,|ali je sigurno Amerikanac.
+{49722}{49813}Imao je nekakve posebne|vojne obuke i nauèio je Španjolski
+{49813}{49847}u El Salvadoru, mislim.
+{49857}{49901}Ne sviða mi se razgovarati o njemu.
+{49918}{49981}Pretpostavljam, svi smo mi opasni ljudi,
+{50001}{50046}ali on je ... razlièit.
+{50056}{50146}Mislim, Declan je živa vatra,|pun osjeæanja, imao je razlog.
+{50148}{50186}Ali ovaj èovjek je led.
+{50211}{50236}Bez osjeæanja, ništa.
+{50276}{50331}Ok. Hvala vam gosp. Decker. Bili ste od pomoæi.
+{50341}{50466}Svakako, bi bilo poželjno da držite|naš razgovor tajnim èak i od vašeg supruga.
+{50466}{50581}Ne brinite za George-a. On ne zna ništa o mojoj prošlosti,
+{50581}{50611}a i ne želi.
+{50621}{50696}Sve što želi da zna je...da ga volim.
+{50789}{50883}Vidim. Pa, hvala vam svakako.
+{50920}{50955}Èekat æu te u kolima.
+{51160}{51230}Ovo otvara sanduèe na autobusnom kolodvoru Norfolk.
+{51227}{51348}Unutra je "èista" putovnica|i 10000 dolara gotovine.
+{51348}{51425}Tvoji prijatelji su mi to ostavili|za sluèaj ako se ikad pojaviš.
+{51444}{51509}Uzmi, i vrati se u Irsku.
+{51539}{51564}Ne mogu.
+{51650}{51689}Dao si rijeè?
+{51767}{51789}Idi sada!
+{51813}{51895}Znaš, jednom kada srede koga trebaju|vratit æe te natrag u zatvor.
+{51897}{51944}Kad povjerujem u to, iskoristit æu kljuè.
+{52277}{52305}Jesi li sretna napokon?
+{52320}{52337}Da.
+{52359}{52393}Volim moju djecu...
+{52424}{52469}i mog muža.
+{52469}{52509}Na svoj naèin, hoæu reæi..
+{52751}{52816}Nekad noæu kada zatvorim oèi...
+{52836}{52863}i zaspim...
+{52924}{52983}a mrtva lica mi i ne dolaze da me bude.
+{52993}{53042}To je više nego sam ikad imao.
+{53126}{53177}Ne bi li želio da odustanem od toga, je li?
+{53267}{53322}Daj mi šansu draga...
+{54127}{54169}Onaj je Baskijka, nije li?
+{54242}{54262}Jest.
+{54274}{54332}Kažu, Baski žive od osvete.
+{54346}{54397}Ako nekog mrze, mrze do smrti.
+{54397}{54457}Isto je kada nekog vole.
+{54548}{54597}Moje ime je Valentina.
+{54763}{54801}Imaš li obitelji u Rusiji?
+{54812}{54879}Roditelje. Brat mi je u mornarici.
+{54892}{54913}Muž? Djeca?
+{54951}{55016}Ne. Nisam imala vremena.
+{55121}{55138}Istina...
+{55143}{55207}nikad nije bilo problema sa mnom.
+{55210}{55291}Ovo nije kvalitet koji muški traže kod žena.
+{55491}{55511}Usput,
+{55511}{55591}što god ti je Isabella dala, nakon što sam otišla
+{55596}{55681}vjerujem da to neæeš iskoristiti|dok ne završimo posao.
+{55731}{55766}Ne može ti ništa promaæi?
+{55776}{55810}Ne, gosp. Mulqueen,
+{55841}{55871}Vidim sve.
+{56136}{56214}Možda bi smo trebali zapoèeti sa|otkazivanjem vaših javnih nastupa?
+{56214}{56281}Ne, ne. Ne mislim da je to neophodno.|Mislim, ne još.
+{56281}{56343}Ta banda mora napraviti neke pripreme|i za to treba vremena.
+{56490}{56551}Gosp. Mulqueen, nešto bi ste htjeli reæi?
+{56590}{56649}On æe vjerovatno koristiti èetiri lažna indentiteta.
+{56649}{56731}Tri æe biti sa njim,|a jedan kao rezerva da se pokupi negdje.
+{56731}{56771}Tako je radio nekad.
+{56771}{56831}Šta i ako ih ima 40? Ipak je on jedan èovjek!
+{56842}{56910}Ne bi trebalo stvarati slona od miša.
+{56910}{56964}Ja, ja...toèno....100 posto.
+{57003}{57145}Direktore Bolitonov. Terek uvijeka èini|ubojstva kao èin èasti,
+{57152}{57214}èesto vrlo krvava i vrlo javna.
+{57214}{57256}"Iskaz", ako želite.
+{57260}{57320}Stoga, ako se skriva tamo negdje,
+{57325}{57400}jasno je da je ovo nešto što uzima za ozbiljno.
+{57400}{57460}Dok se ovaj Šakal ne uhvati ili ubije,
+{57464}{57525}mislim da i mi ne bi trebali èiniti manje.
+{57538}{57610}- Ma dobro, budimo realni...|- Hej, mislim, to je jedan èovjek.
+{57610}{57665}To je jedan èovjek. Bolitonov je u pravu!
+{57665}{57755}Ali sasvim sam siguran|da je ovaj èovjek dobar kao sam bog.
+{57755}{57850}Mislite da æe stršati u ringu|kao veæina ovih klovnova?
+{57953}{57989}Šta je gosp. Mulqueen?
+{58019}{58144}Žao mi je, gosp. Brown. Ovaj èovjek nije klovn.|On zna sve vaše pokrete, jedan kroz jedan.
+{58185}{58239}Za sada, imate samo ime.|I to je sve što imate.
+{58239}{58299}Šakal ima metu. Vas!
+{58299}{58409}On ima raspored. A kad su greške u pitanju,|20 godina je u poslu koji ne oprašta greške.
+{58409}{58439}A opstao je.
+{58497}{58585}Mislite li da je on ranjiv od nas?|Situacija je obrnuta.
+{60147}{60227}- Mogu li vas èastiti piæem?|- Da.
+{60539}{60583}Mislim da bi trebao poæi kuæi sa mnom?
+{60637}{60662}Volio bi.
+{60703}{60727}Ali ne mogu.
+{60752}{60797}Moram se vratiti u Atlantu.
+{60807}{60862}Po moju suprugu sa problemima.
+{60926}{60996}- Zna li ona?|- Zna.
+{61097}{61136}Pa, kako æu te vidjeti kasnije?
+{61140}{61181}Možeš mi dati vizit karticu.
+{61365}{61390}Ma neæeš me zvati.
+{61412}{61440}Douglas,
+{61519}{61590}moraš imati|više vjere u ljude, samo to.
+{61596}{61628}Kao ja.
+{63445}{63475}Rastvori košulju.
+{63504}{63525}Polako...
+{63545}{63560}Sad!
+{63637}{63658}Polako....
+{63690}{63725}Rastvori košulju...
+{63947}{64007}Suveniri...Britanskom pažnjom.
+{64152}{64174}Oprostite.
+{64279}{64299}Nema problema.
+{64314}{64378}Iz Osla je došlo da je James William Hayslip,
+{64378}{64489}letio iz Toronta 25-tog kolovoza.|Dva dana prije sastanka sa Terek-om.
+{64489}{64581}Provjerom socijalne kartice sa putovnice,|smo pronašli znaš što,
+{64622}{64744}Da to pripada pacijentu|mentalne ustanove u Virginiji od prije 12 godina.
+{64765}{64908}Sada, kanadski granièari kažu da je letio za Montreal, prije 9 dana.
+{66142}{66180}Jest, Charlie Murdock.
+{66202}{66242}Mislim da imam pošiljku.
+{66362}{66392}Da, da.
+{67996}{68100}- Bok! Trebao bi jedan od vaših raèunara.|- Naravno. Bilo koji.
+{68223}{68290}- Mogu li iæi online sa ovim?|- Da, naravno.
+{68640}{68704}Ima li kakvih novosti?
+{68868}{68885}Važno je da nas kontaktirate.
+{68888}{68940}Internet nesiguran.|Ugrožena pošiljka.
+{69040}{69079}Policija?
+{69115}{69165}Otimaèi.
+{74525}{74545}Hvala vam.
+{74595}{74685}Hayslip je nestao.|Granièna služba ima njegovu sliku iz putovnice,
+{74685}{74720}ali ništa nije još utvrðeno.
+{74725}{74793}- Prebacio se. Rekao sam vam.|- Trenutak.
+{74817}{74875}Jedino mjesto gdje je bio zasigurno je Montreal.
+{74894}{74964}Šta ako je uzeo novi identitet tamo?
+{74989}{75014}Ne mogu te upratiti.
+{75024}{75104}Hayslip je nestao,|ali to ne znaèi da je i Šakal.
+{75104}{75134}Možda se nešto desilo.
+{75186}{75289}Witherspoon, vidi sa Montrealskom policijom|da proèešlja svoje arhive u zadnjih 48 sati.
+{75289}{75347}Šta ako se prebacio na drugo ime,|jer mu je to u planu?
+{75347}{75387}Èovjek kao on ne èini greške.
+{75387}{75457}Ne. Èini se uvijek jedna. Negdje.
+{75474}{75518}Nisi li tako i ti uhvaæen?
+{75820}{75844}Koja je tvoja prièa, onda?
+{75899}{75929}Bojnik Koslova ...
+{75936}{76019}je kraj debate o ženama u borbi,|što se mene tièe.
+{76019}{76044}Kako to?
+{76074}{76140}Kada mi je spasila glavu i ubila Terekovog brata,
+{76162}{76264}Uradila je to znajuæi da æe privuæi|smrtnu presudu na svoj vrat.
+{76274}{76354}Kad smo joj ponudili da je negdje sklonimo,
+{76354}{76386}kad se ovo završi,
+{76389}{76424}znaš što mi je rekla?
+{76464}{76534}Dobri momci se nikad ne kriju.
+{76604}{76626}Hrabra žena.
+{76654}{76711}U toj zemlji, sa tim sistemom,
+{76774}{76794}zadivljujuæe.
+{76889}{76954}Oh sranje, znaš što?|Nisam mogao dobiti titanium,
+{76969}{77043}pa mi je prijatelj smutio postolje|od karbonskih vlakana.
+{77043}{77120}Stoga, je težina spala još za 23 kila| u odnosu na što si tražio.
+{77121}{77158}- Nije li to strašno?|- Da, dobro je.
+{77161}{77258}Ali još imam planove,|kalup, i preostali materijal.
+{77377}{77466}Možda bi smo mogli poprièati nešto.
+{77466}{77553}Znaš,... mislim, ova sprava.
+{77553}{77628}Shvatio sam da æe podržavati nešto teško, nije li?
+{77650}{77733}Kao...rotirajuæa strojnica možda?
+{77773}{77818}Ili...20 milimetarski top?
+{77818}{77877}Pa, mora biti sigurno|da je sve prilièno veliko, nije li?
+{77882}{77912}Oklopljena kola, možda?
+{77957}{77990}Kasa u banci?
+{77996}{78097}Ne znam! Znaš, moram biti siguran jebiga,|drugim rijeèima, od sviju koje znam,
+{78097}{78252}Ali ah....stvar je...posao kao ovaj|može privuæi mnogo pažnje.
+{78292}{78332}Ne želim nikakvu pažnju.
+{78332}{78387}Dobro, dobro...to i ja kažem,
+{78402}{78472}Mislim da planovi i kalup vrijede neki bonus.
+{78512}{78622}- Koliko?|- Ne znam... sto tisuæa?
+{78696}{78792}daj èovjeæe, znaš da to vrijedi.|Imaš ozbiljan komad opreme ovdje.
+{79025}{79121}U redu. Dobit æeš 50 tisuæa sutra.
+{79161}{79246}Trebat æe mi prostor za probu, na kraju.|Neko mjesto koje ne privlaèi pozornost.
+{79251}{79311}Imamo baš takvo mjesto,|imamo baš takvo mjesto.
+{79721}{79746}Mta je na mjestu.
+{79771}{79821}Znaš, trebao sam ponijeti nešto piva.
+{79967}{79996}Jebaè...
+{80055}{80145}Taj jebaè je pravo remek djelo!
+{80170}{80203}Dude, znao sam da je nešto veliko,
+{80203}{80255}ali nisam znao da æe|to biti jebeni top prototip!
+{80280}{80335}Jebeni monstrum!
+{80374}{80460}- Èovjeèe, pogledaj samo redenike.|- Napravljeni su od osiromašenog uranijuma.
+{80515}{80607}- Kada pogode cilj samo se rapadnu.|- Vraga, raspadnu se, da?
+{80620}{80650}Oni se zabiju i...
+{80705}{80730}Strašno!
+{80735}{80800}- Vidi samo objektiva na tome.|- Ne diraj ih!
+{80810}{80870}Isto kao 2.000 milja zoom objektiv.
+{80889}{80919}Rasturaèina.
+{80944}{80984}Je li ovo prototip, ili što?
+{81014}{81089}Kladim se da te koštalo mnogo novca!| Strašno!
+{81119}{81156}Hej, i ti rasturaš!
+{81164}{81194}Znaš na što mislim?
+{81324}{81354}Rasturaèina.
+{81614}{81744}Oh da, daj nam èarolije draga!
+{81753}{81784}- Ne mogu doèekati da vidim.... |- Lamont!
+{81839}{81869}Zatvori usta.
+{82193}{82233}Ovo je stvarno, je li?
+{83193}{83218}Pa, barem...
+{83248}{83283}si pogodio metu.
+{83283}{83316}Ne, malo je skrenulo.
+{83323}{83363}Najmanje 3 milimetra.
+{83373}{83449}Ne, to je tvornièka tolerancija.
+{83449}{83488}Znaš, ta 3 milimetra.
+{83488}{83611}Pa Lamont, reci kako pokreæeš ovu stvar automatski.
+{83618}{83725}Samo okreæeš po smjeru i elevaciji,|i stisneš Enter.
+{83733}{83776}Nešto kao po osjeæaju, huh?
+{83776}{83820}U osnovi po osjeæaju.
+{83882}{83907}I stisneš Enter.
+{84061}{84085}Predajem se!
+{84151}{84187}Mislim da automatika radi.
+{84189}{84238}Da, to je strašno.
+{84252}{84287}Pa Lamont,
+{84287}{84375}- Napravimo brzinsku probu.|- Brzinsku probu.
+{84406}{84442}Stoga ...trèi!
+{84567}{84587}Na što misliš?
+{84637}{84723}Mislim trèi.|Odmah!
+{85080}{85116}Trèi na desno!
+{85796}{85846}Predajem se.|Predajem se!
+{85955}{85985}Stani tamo!
+{86025}{86055}Stani tamo!
+{86075}{86095}Okreni se.
+{86155}{86200}Uzmi kutiju cigareta.
+{86300}{86325}Ne boj se!
+{86500}{86525}Budi miran!
+{86795}{86820}Miran!
+{87214}{87249}rekao sam ti, da je pomjeren.
+{87332}{87379}Pomjeri se do kola!
+{88731}{88798}Evo nas, Sir, Bojnièe, Mac.
+{88824}{88933}Prije 11 dana Charles C. Murdock|je kupio sebi potpuno nov Dodge kombi.
+{88940}{89012}Sada! To je bilo veliko iznenaðenje za gosp. Murdock-a,
+{89012}{89133}èija je putovnica i novèanik|ukraden 16 dana ranije na aerodromu Helsinki.
+{89133}{89158}Ima li išta sa granice?
+{89158}{89238}Odaslali smo opis kombija|svim prelazima odavde pa do Mackinaw-a.
+{89238}{89341}Imam nešto. Uphall postaja.|To je mali grad van Ottawa-e.
+{89341}{89406}- Mislim da je naš èovjek tamo.|- Idemo.
+{89801}{89843}Vlasnik je Ian Lamont...
+{89925}{89977}Da, jasno mi je. Hajdemo do skladišta.
+{90237}{90282}Opa! Mislim da imamo ovdje nešto.
+{90432}{90457}Što je to?
+{90482}{90537}Radi se o navoðenom postolju za oružje.
+{90547}{90632}Pokreæe oružje,|servo motor je preko udaljene kontrole.
+{90632}{90686}Kao ...kao kod avio modela.
+{90689}{90817}Koristim tako što kod modela ili...|Ali ništa ovoliko veliko!
+{90827}{90876}Trebat æe mu kombi, samo za prijenos ovoga.
+{90881}{90936}Što bi ove velièine koristio?
+{90936}{91011}- Protu-zraèni?|- Ne! Možeš naæi rakete za to.
+{91011}{91121}Rakete su bolje za letjelice.|Ovo je nešto posve drugo.
+{91128}{91190}Nešto sa moænim dometom!
+{91196}{91276}Ne samo dometom, pak.|Gledaj, ovo je strojnica.
+{91276}{91411}Stvar je brzini ispaljivanja. Ispuca sto metaka,|prije nego prvi pogodi metu.
+{91531}{91591}Stvar kod ovih brodova je,|da se prodaju sami od sebe.
+{91591}{91636}To je dobar brod za uloženi novac.
+{91636}{91788}Ima radar, GPS, autopilota,...|Možeš ga samostalno upravljati.
+{91821}{91905}Ima i mobitel.|Možeš zvati i ženu ako želiš.
+{91950}{91980}Pa, što mislite?
+{92010}{92035}Veæ viðeno.
+{92130}{92160}Savršena je.
+{94683}{94723}- Kako je?|- Šakal.
+{94723}{94858}Znaju da si bio u Kanadi,|i imaju za pomoæ jednog Irca.
+{94864}{94922}Irac se zove?|Mulqueen.
+{94977}{95057}- Declan Mulqueen?|- Declan Mulqueen.
+{95120}{95157}Operacija se nastavlja.
+{95255}{95272}Declan.
+{95272}{95372}Prijelazi i aerodromi imaju njegovo sliku|ali R.M.C.P. nema još ništa.
+{95372}{95458}Na našoj strani, granièna služba i I.N.S.|su u stanju visoke pripravnosti.
+{95458}{95488}Ponovno. Ništa.
+{95488}{95578}Ma, svi znamo. Ne treba biti Hudini|da se preðe iz Kanade.
+{95578}{95623}Vjerovatno æe preæi pješke.
+{95623}{95716}Neæe pješke, to vam mogu reæi.|Ima oružje za prenijeti.
+{95733}{95803}- Kakve su sigurnosne službe na ovome?|- Velika jezera?
+{95803}{95897}Ne velike. Nema potrebe.|Ljudi se radije voze ili lete.
+{95897}{96007}Ima nekoliko trajekata,|ali smo ih sve provjerili, naravno.
+{96007}{96107}A što je sa ljudima na brodovima?|Kakva je granièna kontrola nad njima?
+{96089}{96173}Pristigli brodovi se trebaju prijaviti luèkoj kapetaniji.
+{96177}{96278}- Hmm...dragovoljno?|- Da. Bez aktivne prisile.
+{96312}{96397}U redu. Recimo da ima brod.|Ipak se želi pomješati sa masom.
+{96437}{96472}Ima li kakvih okupljanja tamo?
+{96497}{96607}Da, regata Mackinaw je upravo u toku.|To je najveæa regata na jezeru Michigen.
+{96612}{96727}- Odakle dokle?|- Poèinje u Mackinaw-u i završava u Chikagu.
+{98365}{98502}Witherspoon, uzmi Wavelanda.|Declan, Valentina, Chikago Yacht klub.
+{98505}{98620}Ja æu sa lokalcima. I zapamtite, on je|na brodu registriranom u Ontariju, ako je ovdje.
+{98620}{98705}Nadgledajte sve i budite pored radija.|Ako naðete što, zovite.
+{98705}{98759}Želim ga privesti, bez vatrenog sukoba.
+{98904}{98929}U redu, idemo.
+{98999}{99119}- Preston, ima li kakav pištolj za mene?|- Ma jesi li lud?
+{99124}{99224}Ti si mi prava osoba za šetnju|koja me može prijevremeno umiroviti.
+{99324}{99344}A pištolj.
+{99454}{99519}- Toliko ljudi.|- Toliko bogatih ljudi.
+{99534}{99559}Zaigrajmo?
+{99594}{99624}Daj mi pištolj?
+{101217}{101267}Hej, želiš li šampanjca?
+{101267}{101332}- Hajde, pridruži nam se.|- Hajde, možda kasnije.
+{103950}{103975}Declan!
+{104770}{104805}Skloni se!
+{105359}{105394}Preston, mogu li poprièati s tobom?
+{105504}{105594}Gledaj, vidio me je. Nije se iznenadio!|Kao da me je oèekivao!
+{105604}{105649}Jedan od nas "igra" za drugu stranu!
+{105654}{105749}- Nemoguæe! Vjerujem svakom u ovom timu.|- Kažem vam imate izdajicu.
+{105749}{105809}Ovo nije IRA, mi ne dobijamo podatke...
+{105809}{105844}Netko mora do njega!
+{105858}{105968}Gledaj. Ovo je lov na èovjeka, nije tvoja potreba.|Nemoj da ti je osobno.
+{105988}{106027}Ma što ti znaš?
+{106271}{106313}Reæi æu ti što ja znam.
+{106313}{106383}Znam da ti je Šakal smjestio|oko oružja u Libiji.
+{106383}{106478}Znam da je Isabella ranjena,|kad je ušetala u zamku.
+{106495}{106568}Takoðer znam, da je to posao kojim si se bavio...
+{106568}{106643}Je si li znao, da je Isabella|bila u drugom stanju kada je ranjena?
+{106643}{106680}Da naše dijete nije preživjelo!
+{106813}{106872}Nemoj mi reæi da to nije osobno, gosp. Preston.
+{106937}{107016}Ne želim da nas ugroziš svojom osvetom.
+{107016}{107143}Ovo nije osveta.|Nadam se svježem poèetku, znaš.
+{107302}{107333}Možda æe se i ostvariti.
+{109511}{109571}Ovo je snimljeno u 1 sat jutros.
+{109571}{109635}Poziv je na broj u Brighton Beach, New York.
+{109691}{109870}Stvar 4: u 13:05 dir. Brown ima sastanak|sa Prvom Damom na diplomatskom prijemu u Bijeloj Kuæi,
+{109870}{109964}vezano za otvaranje bolnice New Hope.
+{110045}{110106}Ovakva je informacija izašla iz ove sobe.
+{110165}{110235}Tko? Èiji je to glas na traci?
+{110401}{110419}Moj.
+{110545}{110564}Gosp. ambasadore,
+{110564}{110656}sredili smo let u 9 naveèer.|Aeroflot-om za Moskvu.
+{110656}{110725}Kola èekaju da odvezu|pukovnika Bolitonov-a na aerodrom.
+{111139}{111199}Kako ste znali, èiji telefon da snimite?
+{111199}{111284}Nisam, tako da smo sve snimali.
+{111314}{111464}Ali ja...ja imam diplomatski imunitet.|Tko vas je ovlastio da snimate moje razgovore?
+{111464}{111504}Ja sam, ambasadore.
+{111504}{111604}Trenutno ispitujemo|papire uzete iz apartmana dir. Bolitonova.
+{111983}{112013}Šalji helikopter.
+{112703}{112723}Šakal.
+{112729}{112897}Dir. Bolitonov se ne može dobiti na ovom broju.|Svi upiti se trebaju slati na...
+{113025}{113116}Ovo je samo predostrožnost nakratko|dok ga ne uhvatimo.
+{113116}{113177}Vi i vaša obitelj æete biti|sigurniji u Washington-u.
+{113177}{113275}Ne mislite valjda da æete ga pronaæi,|jer neæete. Vjerujte mi, neæete.
+{113275}{113387}- Posao nam je da pokušamo.|- Trošite vrijeme i možda poginete za ništa?
+{113457}{113591}Poèeo sam ovo. I moram uèiniti što mogu.|Stoga molim, skloni obitelj na sigurno.
+{113747}{113766}Idemo!
+{114181}{114265}- Sve u redu?|Valentina sklanja Isabella-inu porodicu
+{114265}{114326}u sluèaju da Šakal zna gdje živi.
+{114379}{114464}Gledaj, direktor i ne zna|gdje Isabella živi.
+{114464}{114561}Naredio sam Witherspoon-u da ne unosi u izvještaj.|Bez obzira, Šakal zna.
+{114571}{114671}Pa, naš Ruski "brat"|je skoro sve izdao, nije li?
+{114676}{114696}Ovdje, vidi.
+{114776}{114840}Ovo je tvoj broj,|evo ga Valentinin.
+{114847}{114885}Dva su na dnu?
+{114980}{115020}Prvi je od Ruske ambasade.
+{115070}{115110}Drugi je...
+{115174}{115201}govnar!
+{115278}{115326}Ovo je FBI pristupni kod!
+{115474}{115511}FBI centar podataka.
+{115511}{115551}Ovdje specijalni agent Carter Preston.
+{115551}{115640}Moj autorizacijski broj je: 223578K.
+{115640}{115721}Trebam glasovni prijepis|terenskog izvještaja November-Alfa,
+{115721}{115850}od 915 ove godine, agent Witherspoon.|Žuri nam se, operatore.
+{115965}{116000}Nisam ti trebao vjerovati.
+{116080}{116190}- Terenski izvještaj November-Alfa. Datoteka 0900 sati|- Pomjeri
+{116191}{116300}Intervjuiran subjekt Isabella Zancona,|na sljedeæoj adresi:
+{116300}{116370}Witherspoon, ti govnaru jedan!
+{116795}{116830}Idem gore provjeriti.
+{116868}{116893}Witherspoon!
+{117509}{117534}Witherspoon!
+{117784}{117804}Witherspoon!
+{118158}{118178}Izaði!
+{118223}{118253}Molim te ne pucaj.
+{118298}{118333}Samo iznosim smeæe.
+{118367}{118423}- Imam još jednu turu.|- Požuri!
+{118423}{118478}- Vidimo se sprijeda.|- Da gospoðo.
+{118702}{118775}Zakljuèao sam. Gdje je Witherspoon?
+{118788}{118834}On je u dvorištu, iznosi smeæe.
+{118907}{118962}Dolazi otraga. Skloni se!
+{119322}{119352}Odakle to dolazi?
+{119358}{119377}Ne znam!
+{120000}{120126}Piše da je namješten od prije 2 minute.|Pakla mu...
+{120174}{120201}Gdje je McMurphy?
+{123104}{123134}Pritisni ovdje.
+{123134}{123199}Teško. Dosta krvariš.
+{123529}{123554}Vidiš, to je loše.
+{123598}{123659}Krv je skoro crna.|Znaèi da ti je metak u jetri.
+{123677}{123727}Imaš oko 20 minuta za živjeti.
+{123764}{123818}Ako te bude puno boljelo, možeš skloniti ruku.
+{123843}{123873}I tada æeš
+{123878}{123915}Umrijeti za 5 minuta.
+{124058}{124153}Kad te Declan ubije,|pomisli na mene, ok?
+{124257}{124292}Ok. Pokušat æu.
+{124392}{124553}Ako vidiš Declana prije nego umreš|reci mu da ne može spasiti sve svoje žene.
+{125362}{125382}Valentina.
+{125491}{125516}Bit æe u redu.
+{125577}{125607}Bok, Declan...
+{125788}{125835}Sve je u redu, draga.|Bit æeš u redu.
+{125866}{125979}Pokušala sam...|zaštititi, Isabellu...
+{125979}{126043}Oh, znam. Dobro si uradila. Ššššš....
+{126051}{126111}Rekao mi je da ti kažem,
+{126147}{126280}Kaži, ne možeš zaštititi svoju ženu.
+{126361}{126386}Valentina
+{126431}{126551}Ne, ne, Valentina!|Nemoj Valentina, nemoj iæi!
+{126555}{126591}Ostani, ostani sa mnom!
+{127939}{127989}Oh, Declan. to je bio on, nije li?
+{128029}{128069}Mislio sam, da je ovo sve iz nas.
+{128124}{128169}Hoæe li ovo ikada svršiti?
+{128210}{128228}Da.
+{128250}{128290}Obeæavam to, svršit æe.
+{128392}{128429}Ja æu završiti.
+{128565}{128590}Imaš li pištolj?
+{129037}{129097}Razmatrajuæi situaciju helikopterom,
+{129098}{129159}tim se može postaviti na ovo mjesto,
+{129159}{129218}pokrivajuæi sjeverni prilaz na "Ruti Jedan".
+{129243}{129336}Ako to oružje ima velik domet i brzinu ispaljivanja,
+{129336}{129414}može napasti vozilo ili|helikopter koji prilazi mjestu.
+{129414}{129518}Nema on helikopter|niti tim da mu pomogne.
+{129518}{129539}Sam je.
+{129574}{129614}Što kažete, Mulqueen?
+{129618}{129710}Jedini je naæin da se ubojica udalji na distancu.
+{129761}{129829}Stoga, æemo vas uvijek osiguravati, iznutra,
+{129829}{129898}sa dobrim redom ljudi vani na lokaciji.
+{129903}{129953}- I držati balans.|- Toèno.
+{129992}{130053}Zatezajuæi uže, ako želite.
+{130063}{130153}Ako napravi potez,|uže se zategne i objesi ga.
+{130183}{130267}Nije sto posto sigurno, znam,|ali je najbolje što može.
+{130273}{130298}Najbolje što može!
+{130467}{130533}- Imate poziv na liniji 6.|- Hvala.
+{130603}{130627}Doug ovdje.
+{130627}{130723}- Rekao sam ti da æu zvati|- Oh, bok, kako si?
+{130726}{130792}Moraš imati|malo povjerenja u ljude, Douglas.
+{130803}{130902}Ok, dobro, ok, sad kada imam vjere,
+{130912}{130969}Jesi li zauzet veèeras? Jesi li ovdje?|U gradi si, da?
+{131463}{131487}Bok!
+{131572}{131597}Kuæi sam!
+{131702}{131747}Vidim da si našao kljuèeve.
+{131771}{131851}- Gdje si?|- U garaži!
+{132136}{132189}- Hej, potamnio si kosu.
+{132196}{132216}Jea.
+{132230}{132251}Sviða ti se?
+{132333}{132351}Jea, naravno.
+{132491}{132516}Voliš li Koreansku hranu?
+{132542}{132564}Oh, naravno, da.
+{132622}{132646}Uzmi.
+{132751}{132806}Ja...Ja sam mislio otiæi...
+{132814}{132835}Oh, žao mi je.
+{132941}{132985}Mislio sam da æemo izaæi vani.
+{132998}{133044}Jea...možda kasnije.
+{133155}{133205}"Veèerašnja Udarna Vijest"
+{133207}{133267}"Policija traži pomoæ za lociranje ove osobe."
+{133272}{133355}"Tražen je u više država|zbog serije brutalnih ubojstava."
+{133360}{133420}"Policija misli da je u Washington-u, veèeras."
+{133420}{133475}"Èovjek je vjerovatno naoružan i vrlo opasan."
+{133475}{133595}"Ako ga vidite, ne prilazite mu.|Obavjestite nadležne, odmah."
+{135607}{135706}"...J.F. Kennedy je jednom rekao,|ako netko želi ubiti javnu osobu"
+{135711}{135784}"I ako mogu pobjeæi sa tim..."
+{135794}{135873}"nemoguæe je imati 100% sigurnost. Slažete se?"
+{135878}{135983}"Naravno! Nema rješenja za to ali nadamo se"
+{135983}{136058}"da nema toliko ljudi spremnih na to"
+{136069}{136128}- Preston!|- Declan, što?
+{136133}{136223}Sjeæaš li se što je Valentina rekla:|"Ukaz, javan i brutalan".
+{136228}{136302}Smetalo mi je uvijek,|kako to da on i dalje nadolazi?
+{136306}{136379}Pa, on zna...on zna da æemo zaštititi direktora,|sve dok sam ja umješan.
+{136385}{136428}Ali nije odustao!|Zašto?
+{136439}{136517}Nije mi bilo jasno, dok se ne sjetih|što je rekao Valentini:
+{136517}{136618}- "Reci Declanu, da ne može zaštititi svoju ženu"|- Nije li mislio na Isabellu?
+{136623}{136673}Ne, neku ženu. Sve žene!
+{136673}{136748}Sjeti se:|"javno i brutalno".
+{136773}{136811}Štitimo pogrešnu osobu.
+{136823}{136860}On cilja na Prvu Damu.
+{138261}{138371}Dame i gospodo.|Dobrodošli! Siguran sam...
+{139495}{139595}Ona je veæ na sceni!|Tajna služba želi znati što se dogaða.
+{139595}{139625}- Reci im!|- Ne!
+{139625}{139725}Sklonit æe je sa scene.|Ako urade to, on æe pucati na nju i po narodu!
+{140604}{140679}- Radite?|- Tražimo tamno smeði kombi
+{140679}{140724}koji odstupa od okoline.
+{140724}{140789}Pa, našli smo samo ovaj crveni ovdje.
+{140789}{140908}Provjerio sam prije 15 min. Ima lokalnu dozvolu,|CD registracija. Provjerit æu opet ako treba.
+{140913}{141033}Ne. Opet neka "samo provjeravaj" situacija.
+{141033}{141053}Da.
+{141544}{141624}Tajna služba kaže,|da je pretraga negativna.
+{141624}{141684}Oni su pod uzbunom,|ali ona ide na podijum!
+{141684}{141714}Sad je sve na nama!
+{141845}{141876}Trebat æe ti puška!
+{142149}{142173}Zaboravi na laser!
+{142183}{142238}Malo æe mo poraditi na ovoj optici.
+{144114}{144141}Bježite! Sklanjaj se!
+{144356}{144381}Bježite! Sklanjaj se!
+{144592}{144638}Ja idem do Prve Dame.
+{144638}{144706}Bit æe teško pucati na teško oružje.
+{144818}{144913}Dame i gospodo, drago mi je predstaviti vam
+{144913}{144961}Prvu Damu Sjedinjenih Država.
+{145149}{145245}Lijep je dan za poèetak nove nade...
+{145333}{145353}Trèi! Idemo, idemo, idemo!
+{146544}{146570}Daj mi pušku!
+{147023}{147063}To je naèin kako da pobjegne.
+{147080}{147113}Telefon, daj mi ga!
+{148303}{148353}Crveni kombi,|pored drveæa.
+{148358}{148383}Na jedan sat.
+{148429}{148468}- Isuse!|- Odmjeri ga.
+{148508}{148573}750...|762 metra!
+{149657}{149722}Stani, idem za njim!|Ti promjeri kombi!
+{160182}{160201}Upomoæ!
+{160270}{160332}- Kaži: "Pomozi mi Declan"|- Pomozi mi Declan!
+{160332}{160399}- "Pomozi mi Declan!"|- Pomozi mi Declan!!
+{160637}{160687}Molim te, pomozi mi Declan!
+{160974}{160995}Glasnije!
+{160995}{161077}- Pomozi mi, Declan!|- Pomozi mi, Declan!
+{161350}{161387}Što æeš uèiniti, Declan?
+{161406}{161467}Ne možeš spasiti nijednu od tvojih žena!
+{161497}{161557}Pusti je.|Ona nema veze sa ovim.
+{161557}{161602}Sada, možeš spasiti ovu djevojku!
+{161602}{161647}- Kako ti je ime?|- Maggie.
+{161647}{161702}Maggie. Možeš spasiti Maggie, vidiš?
+{161715}{161757}Možeš je spasiti odmah!
+{161770}{161826}Samo spusti svoj pištoljèiæ!
+{161919}{161939}Ok?
+{162046}{162066}Declan!
+{162316}{162333}Bježi.
+{162333}{162361}Hajde pucaj.
+{162493}{162586}Oh draga, bila si dobra,|bila si dobra!
+{162708}{162728}Popustio si, Declan.
+{162880}{162902}Sada je pusti.
+{162951}{162985}Odstupi od pištolja.
+{163002}{163040}Odstupi od pištolja!
+{163075}{163145}Oh Maggie, Maggie, bila si hrabra.
+{163145}{163205}Pamtit æeš ovo do kraja života.
+{163400}{163420}Dolje.
+{163550}{163570}Na koljena.
+{164169}{164204}Žao mi je, Declan.
+{166247}{166292}Sve je u redu, Sve je OK.
+{166507}{166527}To je svršeno.
+{167650}{167772}Pitam se hoæemo li ikada saznati|tko je on u stvari bio.
+{167782}{167851}Znamo što smo trebali.|Bio je vrag.
+{167886}{167956}Mrtav je, i nema ga više.|Ništa drugo nije bitno.
+{168026}{168072}Žao mi je što ti nisam sredio pomilovanje.
+{168072}{168151}Dobit æeš "minimalnu sigurnost".|To ti je kao u domu kulture.
+{168166}{168251}Usput, dir. Brown šalje tople zahvale.
+{168261}{168331}Oh, fino.|Radujem se tenisu sa njim.
+{168371}{168416}Nisam li ti spomenuo da idem ponovno u Rusiju?
+{168428}{168546}I ostajem dok Terek Murad|zaglavi u zatvori ili u grobu.
+{168586}{168606}Cijenila bi to.
+{168637}{168661}I ja mislim.
+{168692}{168711}A Isabella?
+{168756}{168805}Vratila se sigurna, sa obitelji.
+{168837}{168853}Za dobro.
+{168879}{168940}Znam za kljuè koji ti je dala.
+{168957}{169040}Znam da si mogao zbrisati|bilo kada.
+{169050}{169125}Imaš li i ti te sanduèiæe, takoðer?|Kao Šakal?
+{169205}{169281}Ne èitaš li današnje novine?|Ispao sam heroj, zbog tebe.
+{169281}{169335}Agent, koji je spasio Prvu Damu.
+{169361}{169450}Mogu zajebati bilo što|do kraja života, a da mi nitko...
+{169465}{169485}ne može ništa.
+{169540}{169560}To je to, onda.
+{169588}{169635}Vratimo se na sanduèiæ.
+{169655}{169720}Operativac, sa tvojim iskustvom,
+{169720}{169770}sa "èistom" putovnicom,
+{169770}{169802}i dosta gotovine.
+{169839}{169914}Kladim se, da si zbrisao,
+{169988}{170034}Nikad te ne bi pronašli.
+{170134}{170154}Piješ li kavu?
+{170164}{170239}Oh ne, u redu.|U Irskoj se pije Guinness.
+{170274}{170389}Vidjet æu prijeko, imaju li kakve|kave, hoæu reæi.
+{170394}{170434}Vratit æu se za...
+{170459}{170519}30 minuta?|U redu?
+{170684}{170719}Hvala Declan, za sve.
+{170758}{170794}Ne, hvala tebi, Dal.
+{171394}{172319}Prevod: Alex Wolf Podesio : ZxV Zakon

@@ -1,0 +1,756 @@
+{1}{1}23.976
+{694}{759}Nikakva prekomjerna jamèevina neæe|biti tražena, niti prekomjerna kazna.
+{762}{863}Niti okrutna i neobièna|kazna nanesena.
+{870}{935}osmi Amandman Ustava SAD-a
+{1209}{1280}Želiš li piæe?|Dat æemo ti piæe.
+{1350}{1470}Slikaš li? Napravit æemo|slike po zidovima, a?
+{1474}{1529}Zvuèi fino.
+{1840}{1883}Idemo ovamo.
+{3699}{3794}Imam nalog za tvoje uhiæenje.|Imaš pravo šutjeti...
+{3834}{4013}LOVAC NA UCJENJENE
+{4189}{4268}Izgledaš kao govno.|Osjeæam se kao govno.
+{4309}{4384}Ispustili su mi jednu isplatu,|to su uradili.
+{4393}{4468}Prošlo je veæ 4 mjeseca, Quick.|- Na èijoj si ti strani?
+{4472}{4530}Jebeni bankarski mafijaši...|Uspori, èovjeèe, eksplodirat æeš...
+{4538}{4616}aši, èovjeèe. Upravo sam se uselio ovdje|Što da trpim ovo sranje?
+{4619}{4721}Ne znam, èovjeèe, moraš se smiriti.|- Jebeni papci, da se smirim...
+{4729}{4832}Što veliš da odemo do Sretnog bara?|- Sretni bar, misliš na klub pedera?
+{4835}{4960}Vidi, hajmo na nekoliko piva, vidimo|par sisa i zaboravimo ovo sranje.
+{4969}{5051}Zvuèi dobro, ali prvo moram pokupiti|klinca iz bolnice.
+{5055}{5180}Jeli dobro?|Da, išao je izmjeriti glukozu.
+{5187}{5281}Hej, hoæeš li zatvoriti iza mene?|Ma ne, ovo je tvoja radnja.
+{5284}{5341}Znaš što, izlazi.
+{5344}{5410}To je sve što mogu uraditi,|pametnjakoviæu.
+{5665}{5753}Evo ga. Svratili smo da pojedemo|hamburgere i pomfrit.
+{5760}{5831}Stvarno ne bi trebao jesti to smeæe|od hrane, Quick, znaš to.
+{5834}{5905}Ohladi, Partisha, on je klinac.|Moj klinac.
+{5908}{5968}Naš klinac.
+{5975}{6049}Kako si ti?|Jer izgledaš kao govno.
+{6053}{6105}Èitav dan to slušam, damo.
+{6143}{6203}Treba mi novac, Quick.
+{6206}{6247}Slušaj Patrisha, nabavit æu ga.
+{6252}{6364}Iskrsli su mi neke stvari. Ali imam|neke ideje da doðem do brze love.
+{6366}{6457}Nisi mi platio ništa 5 mjeseci.|Stalno slušam...
+{6474}{6537}Idi unutra, dušo.|Dolazim odmah.
+{6569}{6696}Znaš, trebaš se sabrati, trebaš|se poèeti ponašati odgovorno.
+{6700}{6786}Kloni se ulice i poèni neki ozbiljan|posao, da se možeš pobrinuti za sina.
+{6794}{6877}doðavola Patrisha, razbijam dupe od posla|sve što dobijem od tebe je ovo sranje?
+{6881}{6969}Oprosti, u redu?|Ali razumiješ što prièam, zar ne?
+{7001}{7067}Vodi raèuna o sebi, Quick, molim te.
+{7106}{7156}Markus te treba.
+{7472}{7536}Pa, kako se zoveš?
+{7538}{7611}Quick.|- Quick?
+{7615}{7718}Ja sam Tracy.|Viðala sam te ovdje ranije, zar ne?
+{7726}{7848}I to bi trebalo biti neobièno?|Da, dolazim ovamo èesto. A ti?
+{7851}{7908}Samo èekam momka.
+{8016}{8126}Pa... zašto ime Quick?|Koristiš ga da pokupiš djevojke?
+{8134}{8201}Na tebe baš ne djeluje, zar ne?
+{8208}{8280}Jesi li zauzet veèeras,|imaš li nekih planova?
+{8283}{8350}Zar nisi rekla da imaš momka.|- Jesam...
+{8354}{8460}jer nisam znala dali æeš mi se svidjeti.|Uvijek ostavljam manevarski prostor.
+{8486}{8551}Simpatièno.|Stvarno simpatièno.
+{8807}{8901}Što je ovo?|Recimo da se nadam da ime Quick...
+{8905}{8977}ne opisuje baš sve|tvoje kvalitete.
+{9094}{9212}Jedan meè u tri tisuæice.|Mnogo para za jednu igru.
+{9215}{9272}Što ti znaš o ovoj igri, dušo?
+{9274}{9351}Recimo da volim Ijude|sa velikim štapovima.
+{9488}{9587}Kad uzmem novac od ove budale,|nas dvoje palimo odavde.
+{9591}{9704}Možda trebaš prvo smjestiti lopte|u rupe, pa æemo razgovarati.
+{9937}{10018}Hej, ta kuèka mi je|maznula novac!
+{10070}{10163}Vraæaj se, glupa kuèko!|Što si uradila s mojim parama?!
+{10166}{10235}Gdje je?!|- Pusti me!
+{10476}{10523}Jeli to tvoja kuèka?
+{10547}{10656}Obièno moja kuèka uzme moj novac.|Trebao bi je pustiti.
+{10660}{10737}Ili æu od tebe napraviti moju kuèku|pa æemo onda vidjeti.
+{10766}{10874}Prilièno oštro prièaš.|Imaš li muda da to uradiš?
+{10878}{10972}Da, imam muda, ali bi radije|koristio tvoja.
+{12032}{12094}Ko je sad kuèka?
+{12427}{12516}Šut u muda!|Imaš muda to uraditi.
+{12523}{12596}U stvari, bum!
+{12599}{12671}Propustio sam cijelu prokletu stvar.|- Da, što je još novo?
+{12674}{12753}Kad ja uðem unutra, pet momaka|se èeše po guzicama.
+{12756}{12836}Ljudi više ne grabe za muda.
+{12839}{12911}Hej, ohladi oko tih muda, OK?
+{12931}{12988}To je upravo ta kuèka,|zgrabi je!
+{13038}{13132}Stani, mamojebcu, ne mrdaj!|- Ko te proglasi šefom? Žališ se?
+{13136}{13218}Tehnièki, ovo je maltretiranje.|- Ne, ovo je maltretiranje!
+{13342}{13431}Što æeš sad uraditi?|Gurni tu kuèku u kombi!
+{13434}{13533}Što æemo s ovom dvojicom?|- Neka ližu svoje rane.
+{15488}{15550}Stvarno izgledam kao govno.
+{15721}{15812}Lovci na ucjene?|- Da, odmah ih prepoznam.
+{15986}{16072}Treba da razgovaram sa menadžerom.|- Trenutno nije dostupan.
+{16075}{16134}Ne mogu vjerovati.|Dolazi ovamo.
+{16168}{16277}Kako ide, prika?|- Hej Keno, ovo je Neil Swift.
+{16286}{16382}Godinu dana nakon smrti tvog oca,|Ubio sam novog partnera i došao ovdje.
+{16386}{16423}Lijepo, zar ne?
+{16430}{16507}Nevjerojatno kako vrijeme leti.|Prije nego što primijetiš...
+{16511}{16564}Što te dovodi ovdje?
+{16653}{16708}Neko koga znaš?|Neko sa kim smo bili.
+{16713}{16773}Ovo je službena potjernica.
+{16778}{16845}Ova osoba se nije pojavila na sudu,|zato su je pokupili.
+{16846}{16871}Tako se to zove?
+{16876}{16948}Agenti za skupljanje bjegunaca,|rade iskljuèivo za mene.
+{16951}{17022}Trebali ste naæi neke bolje prijatelje.|- Da, prièaj mi o tome.
+{17030}{17102}Kako posao?|- Držim garažu.
+{17106}{17178}Zakup mi istièe krajem mjeseca,|posao je loš...
+{17182}{17269}Moram prodati svu opremu,|da naðem drugi posao.
+{17270}{17333}Da ti nešto kažem.|Zašto ne doðeš da radiš za mene?
+{17340}{17419}Što, da budem usamljena ajkula?|Nemam ralje.
+{17422}{17517}Ne, èovjeèe, svuda tražim nekoga|za moje odjeljenje za istragu.
+{17520}{17606}Odrastao si uz ovaj posao.|Ti si kao porodica.
+{17610}{17707}Hajde, lova je dobra.|Ja volim dobru lovu. Koliko se plaæa?
+{17710}{17798}Plaæamo po poslu.|Više posla, veæi èek.
+{17802}{17849}Hej Quick, nudi novac.
+{17873}{17952}Momci, dobrodošli u moj svijet.
+{18048}{18118}Veæina jamstava iznosi izmeðu|10.000 i 30.000 dolara.
+{18120}{18194}Mnogi Ijudi nemaju toliki novac.|Pa zato dolaze kod nas.
+{18197}{18291}Mi platimo sudu, a Ijudi nam plate|10% za naše usluge.
+{18295}{18380}Pa, recimo da je Džo-Blo|pušten uz jamstvo...
+{18413}{18506}i obeæao je da æe se pojaviti na sudu,|što je njegovo Ustavno pravo.
+{18509}{18573}Ako se ne pojavi...
+{18576}{18673}jamstvo se poništava i mi ga imamo pravo|naæi i privesti pravdi.
+{18677}{18770}Ako to ne uradimo za šest mjeseci,|gubimo novac i to je kratka presuda.
+{18865}{18935}I tu vas dvojica upadate.|- Sveto sranje!
+{18997}{19052}Jeli ovo legalno?
+{19054}{19138}Trebat æete tragaèe.|- Kao lovci na ucjene, zar ne?
+{19142}{19217}Vas dvojica æete biti dio mog tima|za privoðenje bjegunaca.
+{19221}{19287}Ovo je stvarnost, ne ono|što gledate na TV-u.
+{19290}{19354}Da budemo jasni, ne treba|papirologija, dozvola...
+{19358}{19429}Prijatelju, zakon ne podržava|to što radimo.
+{19431}{19498}U stvari, više bi voljeli|da ne postojimo.
+{19501}{19606}Istina je, boli njih dupe za zakon|ili za odlazak na sud.
+{19610}{19757}Ali boje se nas.|Mi smo kraj zakona.
+{19765}{19863}Evo vam vaše znaèke, papiri,|Morat æete dijeliti ovaj sto.
+{19866}{19983}A što se tièe naoružanja, recimo|da imamo više pištolja od stolova.
+{20193}{20293}Ovo je Orin OKonor, glavni upravitelj.|Orin, upoznat æeš moje prijatelje.
+{20375}{20442}Možete li nas vas dvojica|ostaviti nasamo, molim?
+{20446}{20548}Idite i upoznajte se s poslom.|Ovo je Vinsent, a ovo je Mašrum.
+{20555}{20604}Pokažite ovoj dvojici okolinu.
+{20663}{20753}Kako ti je ta noga?|- Kako ti je oko?
+{20825}{20932}Možda griješim, ali mislim da su nas|ova dvojica zaskoèila sinoæ.
+{20939}{20999}To su mi prijatelji, Orin.|Ne vrijeðaj.
+{21002}{21105}Prijatelji, Nil? Ne trebamo prijatelje.|Trebamo profesionalce.
+{21110}{21187}Naša dupeta su u procjepu.|- Procjepu koji ne umiješ riješiti!
+{21191}{21282}Uskoro æe ti ovdje stiæi neka|brza naplata...
+{21285}{21381}Trebamo pomoæ!|- Bit æemo do koljena u jamstvima, Nil.
+{21383}{21491}Ukoliko ne dobijemo pravu pomoæ,|eto nam konopca oko vrata.
+{21494}{21551}Smiri se.|Vidi.
+{21554}{21667}Quick je dobar. Odrastao je|u ovom poslu, oštar je.
+{21670}{21765}Drži ga u dobroj formi,|Bit æe nam od velike pomoæi.
+{21847}{21921}Ovaj brod polako tone, Nil.
+{22001}{22093}Orin OKonor, oprostite.
+{22097}{22168}Stvari su malo izmakle kontroli|u zadnje vrijeme.
+{22212}{22316}Imate li nekog iskustva|u ovoj vrsti posla?
+{22320}{22400}Koliko teško može biti?|- Da ti nešto kažem.
+{22404}{22457}Znam vašeg prijatelja Nila.
+{22459}{22609}I znam da misli da je dovoðenje|novajlija jebeno fantastièna ideja.
+{22616}{22677}Boli me dupe što on misli.
+{22680}{22790}Boli me dupe ako si bio u mudima|svog oca dok su tražili loše momke.
+{22793}{22869}Ja ne unajmljujem prijatelje,|unajmljujem lovce.
+{22892}{22981}I ako me vas dvojica usporite,|odlazite.
+{23096}{23156}Kada poèinjemo?
+{23377}{23441}U redu, lièi.
+{23473}{23535}Kako misliš lièi?|Jeli to on ili nije?
+{23590}{23639}Mislim da jeste.
+{23646}{23711}Keno, jesi li siguran za tog momka?|Jeli to naš momak.
+{23718}{23809}Da, da, da, mislim da jeste.|- Kako se bijaše zove?
+{23845}{23902}Karlos Hernandez.
+{23926}{23977}U redu.|Idemo.
+{23984}{24057}Idete li s nama?|- Ovo je tvoj šou, amigo.
+{24202}{24260}Ovo se zove inicijacija, dušo.
+{24349}{24396}Hajde!
+{24537}{24616}Što je?|- Jeste li vi Karlos Hernandez?
+{24619}{24681}Što vas se to,|koji kurac, tièe?
+{24762}{24821}Najviše mrzim kad mi|zalupe vrata.
+{24825}{24901}Osjeæam da sam izvisio.|Osjeæaš li se ti isto? Jer ja se osjeæam.
+{24921}{24966}Èetiri sekunde.
+{25411}{25485}Dame, dame, smirite se!
+{25550}{25602}Dosta sranja, dosta!
+{25646}{25732}Ja sam sad vaš najbolji prijatelj.
+{25792}{25862}Sve je pod kontrolom!
+{25899}{25982}Ne znam gdje je!|- A sad, da li znaš sad?
+{26007}{26085}Ako biste prešle ovamo...
+{26093}{26167}Prièaš mi kao moj tata, odjebi!|- koliko imaš godina?
+{26172}{26266}Ja samo snimam male filmove!|Ja sam umjetnik!
+{26268}{26338}Prije nego što dobiješ Oskara,|reci mi gdje je!
+{26341}{26403}Ne znam o èemu prièaš.
+{26660}{26721}Nije baš prijatan prizor.
+{26796}{26892}To nije on.|- Da, to znamo. - To nije on?
+{26897}{26949}Vise sise.
+{26958}{27065}Jebi se, Vinsent! Što æemo s ovim?|Ovo je dio igre, dušo. Navikni se na to.
+{27106}{27161}Keno, vrati to nazad.
+{27166}{27243}Dobri kuæni filmovi.|- Keno!
+{27247}{27332}Ovo nije u redu, Vinsent.|- Što, ne sviða ti se zabava?
+{27339}{27402}Malo koke...
+{27410}{27461}mlade djevice...
+{27506}{27592}i dosta novca.|Idemo.
+{27628}{27690}Uvjetna je gotova,|ovo je stvarnost.
+{28899}{29006}Još jedan sluèaj otimanja bjegunaca,|peti ove sedmice.
+{29010}{29097}Neko radi prekovremeno.|- Legalno?
+{29101}{29265}Ne. Odmetnici od zakona se žale|da su maltretirani od davalaca jamstava.
+{29269}{29358}Zvuèi kao sluèaj za|Odjeljenje osiguranja.
+{29384}{29497}Kao i sve ostalo, Stiv voli da to ostavi|na mom stolu da ne bi spavala.
+{29502}{29593}Za to DEA i služi, zar ne?|Uputit æu ove sluèajeve u tvoje odjeljenje
+{29595}{29657}Izgleda da imate previše|slobodnog vremena.
+{29665}{29784}Nokaut, Kako bilo, reæi æu|par dobrih rijeèi za tebe u Birou.
+{29787}{29907}Kerol, trebala bi èešæe izlaziti.|poèinješ izgledati nekako... neukusno
+{29931}{30004}Znaš, imam ukusa za neke|skupe stvari.
+{30026}{30104}Na moj je raèun.|- Pokupi me u 19 h.
+{30133}{30185}Sad izlazi, imam obaviti|neke telefonske razgovore.
+{30350}{30420}Tata...|Tata...
+{30534}{30633}Hej, što radi moj momak?|Spreman si za ovaj vikend?
+{30638}{30703}Što radiš ovdje?|- Moram platiti kaznu.
+{30707}{30780}Jurila si s mojim sinom u kolima?|- Kazna za parkiranje.
+{30806}{30889}Hoæeš li ga pokupiti ovog vikenda|ili æeš opet biti zauzet?
+{30893}{30976}Uzet æu ga ovog vikenda.|Ustvari, imam nešto porodièno na umu
+{30983}{31046}Mislio sam da ovaj vikend|svi zajedno izaðemo.
+{31070}{31166}Izgledaš dobro, Quick. Drago mi je|da si se poèeo brinuti za sebe.
+{31170}{31333}Znaš, nije kao na medenom mjesecu,|ali plaæa raèune. Onda, ovog vikenda?
+{31337}{31422}Ne znam da li je to u redu, Quick.
+{31426}{31552}Obeæava, Patrisha, samo uobièajeno, znaš|Hoæu da budem tu za Markusa.
+{31610}{31665}Zovi me.
+{32023}{32112}Još nekoliko sedmica, prijatelji.|Strpljenje æe se isplatiti.
+{32239}{32329}Što doðavola radiš? Sjedit æeš ovdje|cijele noæi, za Boga miloga?
+{32333}{32414}Imamo mnogo posla.|- Da, mnogo posla i malo zabave.
+{32422}{32486}Recite mi ako vam|zatreba nešto.
+{32606}{32669}Pogledaj ovo.
+{32773}{32865}Mora da se šališ.|- Kaucija na milion dolara.
+{32868}{33055}Trevian Vuds. Za tri sedmice istièe|kaucija i stiže brza naplata.
+{33058}{33166}Sranje!|- Èudna stvar je što nema napomene...
+{33169}{33275}kao da nikome nije stalo.|- Evo adrese.
+{33445}{33519}Fino, fino šeæeru.
+{33850}{33901}Vratili su mi se oni snovi.
+{33956}{34035}Snovi koje sam ranije|stalno sanjao.
+{34066}{34132}O èemu prièaš?
+{34136}{34276}Još kao klinac imam taj strah|da ne umrem mlad.
+{34280}{34354}Loši snovi, košmari.
+{34358}{34429}Nisi mrtav i nisi|toliko mlad.
+{34477}{34581}Ne želim umrijeti prije no što|otvorim radnju sa Harley motorima i...
+{34605}{34715}Koliko veæ godina prièaš o toj radnji?|- To æe se desiti, u redu?
+{34718}{34845}Vidi, kako ja to vidim, strah uvlaèi|Ijude u nevolje.
+{34848}{34945}Onog momenta kad osjetiš strah,|tad trebaš reagirati.
+{34991}{35044}To je dubokoumno, èovjeèe.
+{35070}{35138}Ima jedna stvar koje se ja bojim.
+{35179}{35265}Žohari.|Veliki, debeli žohari...
+{35270}{35354}crveni, s oklopima na leðima|i tim antenama...
+{35358}{35445}Hoæu ti reæi nešto ozbiljno,|a ti pišaš po tome!
+{36367}{36474}Imamo aktivnost na Istoènoj strani.|- Bravo tim, držite položaje.
+{36722}{36770}Poznajem li vas?
+{36774}{36859}Je li vaš onaj bijeli Pick-up?|- Da, mog muža.
+{36862}{36939}O èovjeèe, bolje siðiti dolje,|mislim da ga je netko udario.
+{37020}{37073}Dušo...!
+{37088}{37136}Dušo...!
+{37184}{37272}Jeli ovo vaš kamionet?|Udario si mi kamionet, mamojebcu!
+{37322}{37397}Što ti radiš mom mužu?!
+{37490}{37588}Nisam uradio ništa, èovjeèe.|- Recimo da si se pojavio u vijestima.
+{37650}{37731}Imamo kontakt.|- Na moj znak.
+{37816}{37868}Keno, uzmi mu novèanik.
+{37942}{38007}To nije on.|- Nije on? - Ne.
+{38034}{38137}Gdje je Trevian Vuds?|. Imate pogrešnog èovjeka. - Siguran si?
+{38142}{38229}Samo malo, gospodine!|- Ko si ti, nisi pravi policajac?
+{38233}{38308}Znaèka, hoæeš da vidiš moju znaèku?|- Da. - Hoæe moju znaèku, a?
+{38312}{38377}Evo ti jebena znaèka!|Sad, gdje je on?
+{38456}{38523}Izgleda da imamo više kandidata|umiješanih u ovo.
+{38528}{38614}Koji ste vi? Savezni šerifi?|FBI?
+{38618}{38691}Što je to? - Karta za kauciju.|- Ne seri!
+{38694}{38811}Vi ste lovci, rekli su mi da sam|siguran od njih. -Ko ti je to rekao?
+{38814}{38901}Veliki momak. Slušajte momci,|veæ sam vam platio.
+{38904}{38973}Kome si platio, o kome govoriš?|- O momku zvanom Vinsent.
+{38976}{39052}Vidi èovjeèe, izgleda da vam nitko|ništa nije rekao.
+{39055}{39141}Veæ sam platio, zato skidaj|ovu jebenu stvar s mene!
+{39144}{39194}Kreæite, kreæite!|Odmah!
+{39486}{39549}Agent za hvatanje bjegunaca?
+{39594}{39664}Neka šala, zar ne?
+{39667}{39738}Ko ste vi?|- FBI.
+{39762}{39822}Možda ste èuli za nas.
+{39830}{39909}Imate li neke papire?|Liène isprave?
+{39914}{39981}Izgleda da ste izgubili|pamæenje, a?
+{40032}{40168}Ovo je fino. Kvinsi Najt|i Keno Rièards.
+{40199}{40301}Što vi radite ovdje?|Vidi, upravo si nam upropastio uhiæenje
+{40320}{40373}Vaše uhiæenje?
+{40381}{40555}Ovo, ovaj mali pokušaj ometanja?|O, oprostite, bilo je izvanredno.
+{40558}{40639}Jako mi se sviða dio kada|udariš momka u facu znaèkom.
+{40678}{40769}Gubite se odavde, ili æu vas|obojicu privesti.
+{41086}{41133}Što je, Ede?
+{41210}{41285}Izvini, malo sam odlutao.
+{41307}{41391}Ako želiš to da podijeliš,|ja sam ti prijatelj.
+{41395}{41469}Samo sluèaj bjegunca...
+{41473}{41544}Praæenje tih momaka je kao vjeènost.
+{41546}{41614}Mjesecima nismo imali uspjeha.
+{41618}{41708}Ne znam koliko æe nam dugo|Odjeljenje dozvoljavati praæenje.
+{41712}{41788}Žao mi je.|- Nema potrebe, nije tvoja krivica.
+{41819}{41900}Vidi ovo. Momak kojem|je posljednjem plaæeno jamstvo...
+{41902}{42001}i oni oko njega postavljaju kao one,|znaš, zeèje zamke i tako...
+{42004}{42159}imaš momka ovdje, momka tamo.|Ništa, bezvrijedno. Lovci na ucjene.
+{42193}{42289}Imaju isto pravo na uhiæenje kao i svi|ostali èuvari zakona s nalogom.
+{42430}{42550}Stvarno mi je žao,|ne treba prièati o poslu.
+{42599}{42721}Ti si opèinjen poslom.|Lovci na ucjene?
+{42723}{42843}Znaš, pitam se dali æemo prerasti|Divlji, Divlji zapad.
+{43010}{43074}Trebaš kucati prije nego|što uðeš ovdje.
+{43144}{43237}Oprosti, nisam znao da se možemo|igrati s tim.
+{43271}{43357}ar Orin ne treba voditi raèuna o tome?|- Da, ali je zauzet.
+{43360}{43461}Trebaš nešto?|- Ne, trebam ostaviti dosje za njega.
+{43647}{43741}Pazi se, još uvijek si novajlija.
+{44061}{44151}Nije bilo previše pametno.|- Ko je to?
+{44154}{44221}Kloni se Travian Woods.
+{44389}{44494}Hej, ne zaboravi na dosje Dilejni.|- U ovom poslu nema odmora.
+{44609}{44702}12 sati, 12 sati Quick.|Gledaj, gledaj.
+{44808}{44879}Mogu li vam pomoæi?|- Quick?
+{44945}{44994}Da, da.. - Tracy.|- Tracy, toèno.
+{45072}{45139}Ovo je Tracy.
+{45143}{45233}Vas dvoje samo...|U redu.
+{45304}{45357}Radiš ovdje?
+{45360}{45456}Da, tek nekoliko tjedana.|Što ti radiš ovdje?
+{45520}{45640}Možemo li negdje drugdje prièati?|Ne osjeæam se prijatno ovdje.
+{45762}{45865}Zadnji put kad smo se sreli, mene su|prebili a tebe uhitili.
+{45873}{45931}Mogu li ti vjerovati?|- Što nije u redu?
+{45935}{46000}Ja nisam uhvaæena zbog jamstva.|- Vidio sam taj nalog.
+{46003}{46069}To je sve izmišIjeno da budu sigurni|da neæu progovoriti.
+{46073}{46197}Kad su me ubacili u kombi, rekli su mi|da pazim s kim prièam ili...
+{46200}{46270}I onda su me pustili.|- Što to znaš?
+{46273}{46409}Svaki mjesec dolazim ovdje, pitaju me|par pitanja i onda mi plate. Kešom.
+{46412}{46479}Pitaju te o èemu?|- Trivijan Vuds.
+{46483}{46529}Nastavi prièati.
+{46532}{46623}Kada je uhiæen, rekao mi je|da platim kauciju za njega.
+{46627}{46692}Nisam imala novca...
+{46694}{46797}Prijetio mi je da æe ubiti mene|i mog sina ako ne založim kuæu.
+{46831}{46886}Bit æu otvorena s tobom.
+{46890}{46965}Želim buiti sigurna da neæu|biti ona koja æe nastradati.
+{46986}{47061}Ako ga hoæeš pokupiti, znam gdje je.|- Gdje je?
+{47065}{47145}Èula sam da postoji nagrada?|2000 dolara.
+{47179}{47239}Da, mislim da možemo srediti|nešto u vezi s tim.
+{47258}{47372}Odlièno, jer mi treba 4000 dolara|i to što prije.
+{47401}{47496}Dovedi mi Travian Woods,|a ja æu tebi 4000 dolara.
+{47504}{47576}Želiš li još nešto, Quick?
+{47660}{47734}Kako to da si takav ekspert|kad je Trevijan u pitanju?
+{47794}{47866}On je otac mog djeteta.
+{47870}{47952}I imamo još 150 sluèajeva da riješimo|do kraja sljedeæeg tjedna.
+{47960}{48022}Ako ima problema, odmah me kontaktirajte.|- Imaš li minut?
+{48030}{48116}Imam sastanak, možeš li saèekati?|- Ne. - Moramo odmah razgovarati.
+{48119}{48174}Nasamo.
+{48263}{48351}OK, imaš moju pozornost, koji je problem?|- Vinsent Džonson je korumpiran.
+{48354}{48405}Kako to?|- Pljaèka vas.
+{48409}{48489}Vidio sam ga da izlazi iz sigurne sobe|s vreæom punom novca.
+{48493}{48592}On to radi s vremena na vrijeme, pa?|- Rekao sam ti da paziš na depozite!
+{48596}{48668}Da ne spominjemo sinoæ,|bili smo u potjeri...
+{48671}{48762}a momak kog smo uhvatili kaže|da je platio Vinsentu da ga ne traže.
+{48766}{48838}Imam posla, Nil, izvini.|Neæe se ponoviti.
+{49007}{49139}Što je ovo? - Trivijan Vuds.|Garancija na milijun dolara.
+{49142}{49223}Još aktivna, istièe za tri tjedna.|- Tvoji dosjei smrde, Orine.
+{49230}{49319}Ne brinite, veæ radimo na njemu.|Ali æe mi trebati 4000 dolara.
+{49343}{49391}Informacije su skupe.|- Dogovoreno.
+{49399}{49487}Nil, nemamo taj novac.|- Vrijedi.
+{49559}{49675}Hvala, momci. - Da, hvala.|Dobro je da netko vodi raèuna o poslu.
+{49847}{49943}To je najobiènija greška, Nil.|- Ne mogu to više tolerirati, Orin.
+{49951}{50051}Mnogo toga ovdje nije u redu,|i sve ukazuje na tebe.
+{50056}{50128}Prokletstvo Nile, zar me optužuješ...|- Ni za što te ne optužujem!
+{50153}{50265}Izgleda da svaki put kad okrenem leða,|radiš nešto što se nismo dogovorili.
+{50335}{50393}Prokletstvo, još uvijek sam|partner u ovom poslu!
+{50494}{50539}Jesi li sa mnom?
+{50558}{50609}Od kolijevke pa do groba.
+{50940}{51036}Frenki, drago mi je da si mi se|pridružio veèeras.
+{51041}{51105}Nema problema.
+{51123}{51176}Kakvi su rezanci?
+{51210}{51300}Bez uvrede, ali nisam neki|obožavatelj tjestenina.
+{51326}{51391}Ali vino je dobro.
+{51396}{51513}Tjestenina je stil života, Frenki.|Svi vole tjesteninu.
+{51518}{51588}Ja ne... dobijem gasove.
+{51694}{51740}Vinsent!
+{51774}{51843}Baš š teta.
+{51846}{51928}Frenki, razlog zbog kog sam te pozvao|da mi se pridružiš za stolom veèeras...
+{51932}{52012}je zbog neèega što me muèi|veæ tjedan dana.
+{52042}{52100}Recite...
+{52108}{52237}Privuklo mi je pažnju da me jedan|od mojih Ijudi pljaèka.
+{52241}{52306}Znate li tko je?|- Da.
+{52309}{52407}A Ijepota u svemu tome je...|On ne zna da ja znam.
+{52410}{52501}Što želite da uradim?|- Treba mi tvoj savjet.
+{52542}{52621}Moj savjet?|- Tvoje rijeèi mudrosti.
+{52662}{52743}Što bih ja uradio?|- Što bi Frenki uradio.
+{52849}{52920}Uèinio bi da bude primjer za ostale.|- Nastavi.
+{52948}{53093}Nabavite mnogo plastiènih prekrivaèa|za pod, za lako èišæenje...
+{53096}{53233}Kako bilo, moj savjet je da uhvatite to|smrdljivo kopile, isijeèete ga u komadiæe
+{53236}{53316}To bi napravilo nered.|- Za to je sva ta plastika, razumijete.
+{53459}{53526}Genijalno.|Ima li još nešto?
+{53586}{53694}Nemojte mu odmah otkidati glavu.|Poènite sa prstima, pa ušima...
+{53698}{53797}stopala. Držite ga u životu|što je moguæe duže.
+{53890}{53963}Hvala na savjetu, Frenki.
+{54062}{54175}Cijenim što si podijelio svoj posljednji|obrok sa mnom, mnogo mi znaèi.
+{54206}{54294}Èuli ste èovjeka.|Isijecite ga u šnicle.
+{54761}{54873}Sve to zvuèi tako opasno.|- Ima i dosta papirologije.
+{54877}{54993}Ali dosta o meni.|Kako si ti?
+{54996}{55068}Dobro.|- A Markus?
+{55071}{55166}Uobièajeno.|Hajde dušo, vrijeme je za jelo!
+{55260}{55354}Èovjeèe, veæ je porastao.|Dosta sam propustio, zar ne?
+{55358}{55445}Drago mi je da si našao vremena|za ovaj izlet.
+{55498}{55560}Hvala ti što si mi pružila šansu|da to uradim.
+{55599}{55665}Stvari se tako brzo odigravaju|u mom životu...
+{55669}{55773}pa izgleda da zaboravljam važne stvari|kao što ste ti i Markus.
+{55776}{55838}Hajde dušo, broj do deset.|Pokaži svom tati.
+{56103}{56161}Odlièno uraðeno.|- Idi da se igraš.
+{56341}{56422}Samo ne želim nikakve|komplikacije, Quick.
+{56426}{56530}Volim te i želim da je sve ostalo|tako jednostavno, ali nije.
+{56557}{56614}Samo treba vremena.
+{56930}{57006}Vrijeme je za spavanje.|Laku noæ, šeæeru.
+{58259}{58333}Quick, Trevijan je upravo bio ovdje.|- Tracy?
+{58340}{58449}Misli da sam progovorila, ne znam|š ta da radim? -Smiri se, smiri se.
+{58484}{58544}Vidi, ima li neko mjesto gdje se|možemo naæi.
+{58782}{58871}Bilo je krajnje vrijeme.|- Vidi, moje dupe je u opasnosti.
+{58905}{58991}Treba biti isplaæen od King Snejka,|i da izgleda da je pobjegao.
+{59015}{59113}Ko to sebe naziva King Snejk?|- To nije tko, to je restoran.
+{59116}{59214}Na sjeveru, Lennox i Grand.|Tamo obavlja puno poslova.
+{59218}{59317}Kako se držiš?|- Želim da se ovo sranje završi.
+{59325}{59420}Prijeti mom djetetu.|Kakav to èovjek prijeti djetetu?
+{59424}{59505}Zbog èega treba da æutiš|u vezi Trevijana?
+{59507}{59626}Ima neki posao s Ijudima za kaucije.|Upao je u neke nevolje.
+{59682}{59766}Pazi na sebe, Tracy.|- Kuèkin sin.
+{59853}{59934}Trebala je reæi restoran ako je mislila|na restoran, zar ne?
+{59938}{59987}Pusti sad to.
+{60396}{60480}Ne s viða mi se ovo sranje, Quick.|Nije neki problem.
+{60530}{60605}Ponovo imam taj èudni osjeæaj, èovjeèe.
+{60608}{60706}Znaš, osjeæaj kakav imaš kada|te šutnu u muda.
+{60732}{60789}Moram li to znati?
+{61114}{61181}Vidim Trevijana, Quick je napolju.
+{61399}{61470}Jeli sve tu?|- Sve je tu.
+{61474}{61517}Odlièno.
+{61666}{61725}Pazi na stvari dok me nema.
+{62355}{62401}Mora da je sat sreæe.
+{62548}{62663}Imaš li dnevni specijalitet ili nešto?|Meni ili tako nešto?
+{62667}{62715}Nema menija.
+{62766}{62835}Onda æu popiti piæe.|- Nema piæa.
+{62838}{62948}U restoranu sam s kuharom|i nema ništa za jelo i piæe?
+{62970}{63051}Quick, molim te. oèito|nas ne žele ovdje.
+{63054}{63152}Možda i nije ovdje...|- Dobro, èovjeèe, što želiš jesti?!
+{63159}{63219}Takvog te volim.
+{63262}{63317}Sranje.|Policija, policija!
+{63321}{63404}Ostani tu!|- Nismo policajci, nismo policajci!
+{63461}{63558}Zašto si to uradio?|Moja greška, Keno, vidio je znaèku.
+{63566}{63628}Vidi, nismo policajci.|- Ne znam ništa, èovjeèe.
+{63631}{63695}Hajdemo odavde, èovjeèe.|Ne sviða mi se ovo.
+{63698}{63801}Zaboli me dupe što vi radite ovdje.|Mi nismo policajci.
+{63808}{63856}Mi jesmo.
+{64734}{64829}Tri mjeseca.|Tri mjeseca promatranja i praæenja.
+{64874}{64961}Jako skupog praæenja.
+{64974}{65042}Promatranja koje je odnijelo|podosta vremena.
+{65069}{65152}I znate što je smiješno...|Vas dvojica, vi doðete...
+{65155}{65276}i za pet minuta zaserete sve|i sperete niz WC školjku.
+{65280}{65369}Samo sam htio nešto pojesti.|- Stvarno? Ugrizi mene, u redu.
+{65443}{65493}Mislim da trebate vidjeti nešto.
+{65497}{65592}Izvini me, razgovaram ovdje|sa Betmenom i Èudesnim deèkom.
+{65595}{65666}Stvarno mislim da trebate|ovo vidjeti, gospodine.
+{65669}{65743}Daj mi minut.|- Siguran si daje to dovoljno vremena?
+{65822}{65941}To je duhovito, jako duhovito...|Kada budem uzeo vaše fajlove...
+{65974}{66117}mislim da æu naæi dosta kriminalnih|aktivnosti koje ste poèinili vas dvojica.
+{66121}{66204}Što ti misliš?|- Mi hoæemo Trevijana, to je sve.
+{66313}{66435}Idi kuæi. Igraj se privatnog detektiva|u sigurnosti svog doma.
+{66563}{66613}Poèetnik.
+{66964}{67028}Drago mi je da ne jedem ovdje.
+{67262}{67340}Samo da uzmem svoje stvari|i odoh, èovjeèe. Premoren sam.
+{67343}{67416}Ostat æu još malo. Ima još nekih stvari|oko kojih se treba pobrinuti.
+{67514}{67617}Znaš, nije lako biti ti prijatelj...
+{67622}{67703}ali ja sam ti prijatelj.
+{67754}{67811}Vidimo se sutra.
+{68106}{68181}Ovo je zadnje upozorenje.
+{68952}{69025}Mislio sam da sam ti rekao|da kucaš prije nego što uðeš...
+{69137}{69237}Ja æu ovo rašèistiti.|Smatraj se sretnim, nisam raspoložen.
+{69259}{69333}Jednog dana Quick.|Jednog dana.
+{69384}{69480}Pa, imaš neka pitanja za mene?|- Ko je Trevijan Vuds?
+{69542}{69621}Bio je ti, prije pet godina.
+{69625}{69717}Pametan, agresivan,|dobri instinkti.
+{69721}{69801}Pravi lovac.
+{69804}{69888}Ali je napravio grešku...|Postao je pohlepan.
+{69958}{70027}Morao sam da ga privedem.|- Griža savjesti?
+{70098}{70250}Ja sam odan, Quick. Nema mnogo Ijudi|koji razumiju što znaèi biti odan.
+{70258}{70335}Nil zna, Trevijen je znao.
+{70339}{70433}Znaš li što znaèi biti odan?|- Znam što znaèi zaštititi obitelj.
+{70494}{70605}Ti si sretan èovjek, G-dine Quick.|Kako si se spojio sa tipom kao Trevijan
+{70638}{70720}Svi mi imamo kosture, Quick.
+{70724}{70808}Trevijan je tip èovjeka koji ih zna|poèistiti.
+{70811}{70869}Federalci ga takoðer traže, zašto?
+{70873}{70977}Vrlo oštro, Quick.|Možeš daleko dogurati u ovom poslu.
+{70981}{71061}Možda bi mogli napredovati zajedno.
+{71065}{71207}Ali prvo, poslušaj mali savjet|i zaštiti svoju obitelj.
+{71214}{71315}I ne postavljaj pitanja o stvarima|koje te se ne tièu.
+{71627}{71680}Hej Kvinsi.
+{71684}{71765}Ili da te zovem G-din Knigh t?|- Zovem se Quick.
+{71768}{71867}Napravio si mnogo posla Ijudima|s onom predstavom u restoranu
+{71871}{71969}I znam da o tome ne želiš|razgovarati i ostalo...
+{71999}{72089}Ostavi Travian Woods na miru.
+{72092}{72159}On je veoma opasan èovjek,|ubija Ijude.
+{72186}{72320}I ne trebaju nam provokatori koji æe ga|natjerati da ubije još koga, da se smiri.
+{72322}{72402}Ti radi svoj posao,|a ja æu svoj.
+{72406}{72481}Što ti daje pravo?|- Njegovo je pravo na kauciju...
+{72488}{72548}a mi to pravo èinimo moguæim.|Imamo jedno pravilo:
+{72553}{72640}Idi na suðenje. Ako ga prekršiš,|gubiš svoja prava.
+{72644}{72715}Tako se ponašaju i u tvom odjeljenju.|- Ne, ne, ne govori mi o èasti.
+{72716}{72760}Ne znaš što ta rijeè znaèi.
+{72774}{72906}Poštovati zakon znaèi zaštititi zakon,|znaèi služiti zakonu.
+{72910}{73062}A jedini Ijudi kojima vi služite ste|vi sami i vaš pohlepni mentalitet.
+{73066}{73157}Ako želiš da ne obavljamo ovaj posao,|ti oèisti ove ulice od šIjama.
+{73162}{73302}Imate moæ da pratite svaku osobu|dok ne povrijedite osmi amandman.
+{73306}{73384}A dotle, ja æu raditi|ono što moram.
+{73408}{73459}G- dine Knight!
+{73499}{73578}Prije ili kasnije, u tom tvom|kuænom poslu...
+{73583}{73667}shvatit æeš da Trevijen Vuds nije èovjek|do koga možeš došetati...
+{73672}{73761}udariti ga znaèkom u lice|i pustiti ga da se valja po podu.
+{73792}{73881}Trebat æeš pomoæ.|I vjerovao ili ne...
+{73907}{73974}morat æeš ovo iskoristiti.
+{74025}{74072}Vjeruj mi.
+{74147}{74243}Koliko mu je godina? -Èetiri.|- Kako se zove? - Markus.
+{74246}{74332}Jeli pošao u predškolsko?|- Da, prije nekoliko tjedana.
+{74335}{74461}Veæ je toliko porastao.|- Da, previše brzo odrastaju.
+{74830}{74889}Jesi li dobro dušo?
+{74894}{74961}Što, doðavola to radiš?
+{74990}{75077}Samo je došetao do njega i dao mu to.|Mogao ga je oteti!
+{75080}{75161}Jesi li ga pazila? -Okrenula sam glavu|na trenutak. Poanta je...
+{75164}{75233}da ne znam šta radiš i koga|maltretiraš ovaj put.
+{75236}{75326}Ali jedno znam... Moj sin neæe biti|odveden od mene.
+{75331}{75403}I da si pravi muškarac, ne bi dozvolio|da se to desi.
+{75406}{75514}Da ti nešto kažem... Ja volim svog sina.|Nemoj to dovoditi u pitanje.
+{75545}{75610}I stavit æu toèku na ta sranja.
+{75614}{75710}Kako æeš to uraditi Quick?|Quick, znam te.
+{75714}{75785}Ne želim da završiš mrtav.
+{75790}{75901}Ali ako se išta desi Markusu...|Ne znam što bih uradila.
+{75994}{76088}Javi se. Curi broj jedan|u tvom svijetu, zar ne?
+{76142}{76238}Jesi li dobio moju poruku?|- Pipneš li mi obitelj, ubit æu te!
+{76283}{76352}Jesi li to ti Trevijane?|Odg... odgovori mi!
+{76599}{76652}Moramo porazgovarati o Orinu.
+{76694}{76781}Zar nemaš važnija posla sad?|- Zar ne vidiš što se ovdje dešava?
+{76784}{76909}Depoziti, nestali dosjei, brze|naplate. Pljaèka te naslijepo, Nil.
+{76914}{76961}Ja sam u poslu s Orinom|veæ dugo vremena, Quick.
+{76969}{77050}Znaš li zašto me pokušava držati|dalje od Travian Woods?
+{77054}{77139}Ako ti propadne to jamstvo, gotov si.|Znaš to isto kao i ja.
+{77142}{77245}DEA æe zatvoriti ovo mjesto,|ti možeš samo treptati i to je to.
+{77346}{77475}Prije no što je umro tvoj otac, ovo je bio|poštovan posao. Radili smo pravilno.
+{77540}{77621}Od kada je Orin na njegovom mjestu...
+{77625}{77695}imam osjeæaj da više nemam|nikakvu kontrolu.
+{77699}{77802}Kad sam ga unajmio, nije bio iskrena|osoba. Ali je znao zaraditi novac.
+{77810}{77857}Novac?
+{77873}{77988}Oèajni Ijudi èine oèajnièke stvari.|- Prokletstvo Nil, gdje ti je kièma?
+{78026}{78096}Naš doušnik o Trevijanu Vudsu|je njegova bivša djevojka.
+{78100}{78181}Rekla nam je da je plaæena|da ne govori ništa o njemu.
+{78185}{78297}Taj èovjek prijeti mom sinu!|Mnogo toga se dešava, ne znaš mnogo.
+{78323}{78417}Jesi li èuo što sam upravo rekao?|Taj èovjek prijeti mom sinu.
+{78422}{78479}Ne mogu pomoæi!
+{78563}{78702}Vidiš, u ovom poslu, biti agent|za privoðenje je najopasniji posao.
+{78777}{78839}Cijena uspjeha, zar ne?
+{78892}{78997}Stvarno mi je žao što si umiješan|ti i tvoja porodica.
+{79001}{79065}I meni je žao.
+{79609}{79685}U redu, poènimo. Imamo|razjasniti dvije važne stvari.
+{79687}{79774}Tajna operacija u sjevernoj zoni|i Odjeljenje osiguranja.
+{79778}{79903}Nešto se stvarno ozbiljno tamo dešava.|želim da Vuds i Gardinija preuzmu ovo,
+{80093}{80140}Bolje da je nešto dobro.
+{80143}{80245}Od kada to tvoje odjeljenje ima pravo|da hapsi osuðene kriminalce?
+{80249}{80320}Koliko ja znam, to se ne bi|trebalo dešavati.
+{80349}{80409}Orin OKonor, poznat kao|Orin Vels.
+{80434}{80525}Na uvjetnoj slobodi od prije pet godina|zbog iznuðivanja u Nju Džersiju.
+{80528}{80624}Isplivao kao partner i upravitelj|Svift agencije za jamstva
+{80649}{80722}i preko nje je unajmio|našeg Travian Woods.
+{80773}{80914}Iz toga proizilazi da je ista agencija|koja ga je zaposlila platila i jamstvo.
+{80936}{81032}Iznenada je nestao i ne možemo|ga naæi. Sad je naša meta...
+{81037}{81125}dok nismo pobliže pogledali G-dina|OKonora ovdje.
+{81128}{81202}I kakav je kraj?|- O, postaje sve bolje i bolje.
+{81205}{81293}Neil Swift, drugi partner u toj|agenciji za kaucije...
+{81297}{81411}suspendiran od Odjeljenja osiguranja|na dva mjeseca, zbog prijevare.
+{81414}{81555}Ispada da imaju u depozitu jamstava|na 10 milijuna dolara...
+{81558}{81658}a samo dva milijuna|za brzu naplatu.
+{81662}{81764}Netko æe ostati kratak.|- U tom istom tromjeseèju...
+{81766}{81877}Orin OKonor prebacuje dosta keša|iz depozita na svoj osobni raèun.
+{81899}{82017}Znaèi da Orin pljaèka svog šefa.|- Mislim da je mnogo više od toga.
+{82019}{82101}Mislim da Trevijan ima|nešto o njemu.
+{82104}{82201}Na neki naèin mu je prijetnja.|Zašto bi ga inaèe štitio od lovaca?
+{82225}{82276}Nešto zna.
+{82279}{82374}Pogaða me to što se ovakvi incidenti|dešavaju veæ godinama...
+{82378}{82465}i javnost nije upoznata s njima|baš kao ni s radom sudstva.
+{82469}{82540}Ustav, nitko neæe sporiti s tim.
+{82542}{82615}Ti momci provode svoju pravdu,|i tko ih omete bio bi razapet.
+{82619}{82682}Ali nedodirljivi su.|- Pogodak.
+{83370}{83435}U redu, vrijeme je za krevet.
+{83455}{83577}Sada idi u kupatilo i sredi se,|veliki si momak. Zatvorit æu vrata.
+{84017}{84074}Hvataj je!
+{84368}{84432}Sjedi dolje.|- Jebi se!
+{84478}{84549}Zvat æu policiju!|Markuse!
+{84564}{84629}Skloni se od mene!
+{84656}{84737}Ubit æu vas!|Markuse!
+{84797}{84876}Proklet bio Quick!|Rekla sam ti...
+{84882}{84966}Rekla sam ti da nas ne miješaš|u svoja sranja. Markus je otet!
+{85024}{85119}Vratit æu ga, u redu? Ne brini.|Jesi li vidjela tko ga je odveo?
+{85124}{85201}Markus je otet!|Kako misliš jesam li vidjela...
+{85204}{85287}Kako si mogao dozvoliti|da se ovo desi? - Žao mi je.
+{85290}{85361}Znala sam da trebamo otiæi daleko odavde|znala sam! - Žao mi je, dušo, žao.
+{85400}{85465}On je samo mala beba!
+{85470}{85529}Trebaju mu lijekovi.
+{85546}{85656}Lijekovi...?|- Nisam stigla da mu dam lijekove.
+{85686}{85760}Ako ih ne uzme, može umrijeti!|Bože!
+{86416}{86473}Jesi li spreman progovoriti?
+{86586}{86650}Moj sin je u opasnosti,|Trevijan ga je oteo.
+{86854}{86950}Neæu reæi da te nisam upozorio.|- Boli me dupe što mi imaš reæi!
+{86953}{87021}Što možeš uraditi za mene?
+{87063}{87135}U redu Kvinis... Quick...
+{87159}{87248}Treba mi nešto konkretno da mogu|reagirati. Dokazi.
+{87272}{87368}Želim Orina OKonora.|- Zar ne želiš Trevijana?
+{87375}{87488}Trevijan Vuds je ubio dvije žene|u autobusu za istoèni dio.
+{87495}{87581}Nije èudo što je to uradio kad je|ušmrkao pola kile kokaina.
+{87758}{87837}Orin OKonor i Tracy Vilis|su platili jamstvo za njega.
+{87839}{87907}Na što ciljaš?
+{87911}{87978}Orin i Trevijan se poznaju|dugo vremena.
+{87981}{88060}O da. Imaju dugu zajednièku|nasilnièku povijest...
+{88063}{88151}iznuðivanja, reketarenja|i ostalog.
+{88180}{88281}Trevijan je samo maska,|Orin je glavni èovjek.
+{88288}{88345}Ne, ne, griješiš.
+{88348}{88480}Objasni mi kako pošten radnik kao što je|Orin, koji radi u agenciji za jamèevine...
+{88485}{88627}na raèunu u banci koji se uveæao tri puta|u ove tri godine, na preko 2 mil. dolara?
+{88681}{88773}Izraèunaj i onda mi objasni|zašto pravim grešku.
+{88838}{88953}Mogu natjerati Tracy da progovori.|Ali nas moraš zaštititi.
+{89025}{89117}Ako to Tracy stvarno zna,|Uradit æu sve što je u mojoj moæi.
+{89145}{89201}Imaš moju rijeè.
+{89228}{89292}Treba mi tvoja pomoæ.
+{89295}{89426}Pomoæ? Zbog tebe sam uhiæena.|Rekao si da ti mogu vjerovati.
+{89429}{89511}Gdje je sada Trevijan?|- Ne znam!
+{89537}{89668}Ali mogu saznati, samo me vadi odavde.|Vidi, trebamo Trevijana na otvorenom.
+{89700}{89798}Mogu te izvuæi odavde, ali moraš|uèiniti nešto za mene.
+{89835}{89945}Bilo što. Samo želim izaæi|iz svega ovoga.
+{90019}{90099}Što se dešava?|Rekao sam ti da ne odlaziš od vrata.
+{90122}{90187}Èuo sam alarm.|- Što?
+{90206}{90259}Alarm.
+{90429}{90485}Kako se držiš èovjeèe?
+{90564}{90637}Biæe mi mnogo bolje|kad vratim Markusa.
+{90661}{90720}Znaš, onaj ružni osjeæaj...
+{90766}{90829}Nestao je.
+{90834}{90934}Drago mi je da to èujem, Keno.|- Možda se navikavam na ovo.
+{91261}{91301}Delta...|- Ovdje Delta.
+{91309}{91356}Orao...|- Ovdje Orao.
+{91359}{91407}Lisica...|- Ovdje lisica.
+{91438}{91524}Momci, naša meta je izuzetno nasilna.|Svi morate obratiti punu pozornost.
+{91580}{91693}Meta primijeæena.|Istoèni dio.
+{91696}{91746}Razumio.
+{91803}{91861}Eno naše djevojke.
+{91933}{91995}Gdje je on?|- Ne znam.
+{92200}{92317}Misliš li da ju je provalio?|Možda zna da smo ovdje...
+{92321}{92399}Znaš, mislim da bismo trebali|slijediti tvoje savjete.
+{92401}{92481}A koji su to?|- Uspori.
+{92505}{92591}Vozilo u dometu.|- Razumio.
+{92906}{93013}Markus, jesi li tamo?|Sine, tata æe te osloboditi.
+{93026}{93088}Tim Orao, trebamo identifikaciju.
+{93168}{93263}Jeste li dobili identifikaciju?|Ima li djeteta u vozilu?
+{93282}{93377}Negativno.|Ne kreæite bez pozitivne identifikacije.
+{93400}{93481}Dvoje odraslih. - Jeli Trevijan?|Neka mi neko potvrdi.
+{93501}{93595}Negativno, nema identifikacije.|- Hajde, teèe nam vrijeme.
+{93711}{93825}Kreæemo.|Polako, neæemo potjeru.
+{94045}{94152}Pusti me odavde!|- Posadi svoje dupe pozadi!
+{94291}{94363}Zašto ih ne preteknemo?|- Bez identifikacije nema hapšenja.
+{94366}{94433}Ako nije on, gubimo sve.|Teško æemo ih poslije pronaæi.
+{94497}{94553}Skreæu na magistralni put.
+{94555}{94621}Izgubili smo ih, izgubili smo ih!|- Sranje, diži helikopter u zrak.
+{94625}{94689}Negativno. Nemamo odobrenje|za zraènu podršku.
+{94692}{94838}Sin mi može umrijeti, razumiješ?|- Da, i uhvatit æemo ih, ali po propisima.
+{94842}{94894}Toga sam se i bojao.
+{94898}{94985}Svi timovi, povucite se!|Ponavljam, povucite se!
+{94989}{95087}Sranje, što radiš! Rekao je povlaèenje.|Neæu imati drugu šansu.
+{95189}{95288}Odmah prekini potjeru.|- Da, hoæu, èim ga uhvatim.
+{95291}{95381}Dovodiš nevine živote u opasnost,|ukljuèujuæi i svog sina.
+{95384}{95468}Ako ne prekineš potjeru, morat æu|te uhititi. Posljednje upozorenje.
+{95473}{95536}Uradi ono što moraš.
+{95540}{95597}Keno, ugasi to sranje.
+{96142}{96221}Dosta je bilo ovog sranja.|Pobrini se za to.
+{96617}{96681}Keno! Jesi li dobro?|- U redu sam, u redu!
+{97291}{97348}Mislim da æe mi pozliti.
+{97764}{97850}Moj tata je uvijek govorio:|Ne igraj se na dvije strane.
+{98571}{98628}Keno, preuzmi desnu stranu!
+{99086}{99177}Bit æeš dobro, u redu?|Ostani sa mnom, pomoæ dolazi.
+{99180}{99236}Upucao me je, Quick!
+{99243}{99315}Neka netko pozove jebenu|hitnu pomoæ!
+{99317}{99413}Ostani budan, budi sa mnom.|Još si moj momak, zar ne?
+{99416}{99481}Neka netko pozove jebenu|hitnu pomoæ!
+{100273}{100395}Neæe još dugo izdržati. Može umrijeti.|- Bit æe on dobro.
+{100398}{100465}Ne znam što da radim?|Jesi li ti dobro?
+{100468}{100537}Da, radim na tome.|- Gdje si?
+{100554}{100649}Trebamo njegovo priznanje Ed,|jedino to garantira Orinovu osudu.
+{100657}{100719}Bez toga æe se izvuæi,|èak i s ubojstvom.
+{100721}{100788}Kerol, potpuno te razumijem,|u redu?
+{100789}{100832}Ali ovaj momak je upravo izgubio|svog najboljeg prijatelja.
+{100851}{100955}Neæe biti baš kooperativan da nam|pruži ono što tražimo.
+{100959}{101036}Moram dobro promisliti|što mu pružiti zauzvrat.
+{101043}{101128}Neæu vršiti pritisak, ali ako ovo|ne dobijem, nemam sluèaj.
+{101149}{101232}Vjeruj mi.|Zato zaraðujem ovoliko.
+{101396}{101451}Kad mogu iæi?
+{101730}{101797}To je bilo prilièno glupo Quick.
+{101826}{101938}Znaš, mi imamo nešto što se zove|propisana procedura.
+{101941}{102056}Nije izmišIjena od nekih momaka koji|sjede za stolom i zezaju se.
+{102059}{102123}Dva èovjeka su sada mrtva.|Zašto?
+{102126}{102222}Sin mi je na rubu smrti i ti mi sad|prosipaš neko sranje koje veæ znam.
+{102299}{102419}redu, zatvorit æemo Agenciju za jamèevine|Tvoji prijatelji Nil i Orin su gotovi.
+{102422}{102484}Nisu mi prijatelji.
+{102486}{102592}Fer od tebe. Imamo dovoljno dokaza|da ih sklonimo na duže vrijeme...
+{102594}{102686}ali trebamo nekoga da svjedoèi|protiv njih.
+{102690}{102744}To bi bio ti.
+{102798}{102887}Sve o èemu brinem je moj sin,|a ti mi nisi ništa rekao o tome.
+{103001}{103065}Onda moramo napraviti dogovor.
+{103130}{103200}Pratimo Trevijana veæ|nekoliko mjeseci.
+{103204}{103276}Izgleda da provodi dosta vremena|na željeznièkoj deponiji.
+{103278}{103391}Ili je iznenada otkrio Ijubav prema|vlakovima, ili tamo drži tvog sina.
+{103425}{103528}Ne mogu reæi da je bilo lijepo poslovati|s tobom, ali je bilo profitabilno.
+{103535}{103608}Moraš razumjeti neke stvari.
+{103611}{103693}Zaštitio sam te od zakona,|i ovako mi se zahvaljuješ?
+{103697}{103807}Imam bijelu pješèanu plažu koja me èeka,|a nemam baš puno vremena.
+{103810}{103894}Nakon svega što sam uèinio za tebe,|ne pokazuješ nikakvu zahvalnost!
+{103898}{103945}Zbogom.
+{103975}{104042}Osjeæam se kao da sam izvisio.|Prokletstvo!
+{104799}{104880}Stajat æeš ovdje cijeli dan?|Idi i provjeri pozadi, napravi krug.
+{104913}{105017}Ovaj dio novca je moj, a ti traži svoj.|To ti mogu reæi. - Mamojebac.
+{105129}{105196}Još mi je ostao kratak|500 dolara.
+{105430}{105483}Gdje mi je klinac?
+{106273}{106366}Tata je ovdje, Markuse.|Sve æe biti u redu.
+{106566}{106640}Orin mi je rekao sve o tebi Quick.
+{106644}{106734}Ti si trn u dupetu koji gura svoj nos|u poslove drugih Ijudi.
+{106737}{106818}Pusti mog sina i možeš|uzeti mene.
+{106821}{106943}Ti i ja nismo tako razlièiti.|Novac, pohlepa...
+{106946}{107022}Uostalom, svi padamo na zavodljivost|koju donosi moæ.
+{107025}{107099}Mogao sam ja biti tebi na nišanu.|- Možemo to srediti.
+{107101}{107178}Ali na nesreæu|ti si meni na nišanu.
+{107217}{107274}Quick...
+{107279}{107364}Koliko si brz?|Brži od ispaljenog metka?
+{107389}{107443}Ne mislim da je tako.
+{107478}{107555}Kakav je osjeæaj kad znaš|da æeš umrijeti?
+{107577}{107649}Jedan mali prst koji povlaèi okidaè,|i sve je gotovo.
+{107701}{107749}Reci zbogom tati, Markus.
+{109269}{109336}Pogledaj se sad.
+{109415}{109472}Pogledaj sad svog taticu.
+{109881}{109935}Još nismo završili.
+{111293}{111350}To je bilo za Kina.
+{111405}{111469}A ovo je za mog sina.
+{111626}{111697}Prvo:|Orin je zaposlio Travian Woods.
+{111700}{111837}Poznatog robijaša, i znajuæi to, daje mu|dozvolu da hapsi druge.
+{111863}{111977}Moæ da hapsi u ruke èovjeku koji je|okrivljen za iznuðivanje,
+{111981}{112084}ucjene, i na kraju, ubojstvo|zbog droge.
+{112086}{112219}Samo da bi saznao da ne možete|sklopiti nikakav posao sa kriminalcem.
+{112221}{112301}Ja sam poslovan èovjek,|kao i svaki drugi.
+{112308}{112455}I u svom poslu imao sam moguænost|prodati najveæu vrijednost na svijetu...
+{112459}{112517}Slobodu.
+{112524}{112613}I sve dok sam bio u poslu, hodao sam|tankom žicom...
+{112620}{112721}izmeðu vašeg poimanja onoga što|sam ja... Kriminala...
+{112723}{112821}i istine.|A istina je:
+{112824}{112913}Vi ste stvorili mene|i moj posao.
+{112916}{113038}U svrhu reguliranja Ustavnih prava|za sve Ijude ove nacije.
+{113042}{113133}Nevinost dok se ne dokaže suprotno.
+{113136}{113275}Oèito je da sam napravio neke greške|u poslu, ali sam uradio i dobrih stvari.
+{113278}{113419}Zakon je stvoren da strpa Ijude u zatvor,|Ustav im daje slobodu.
+{113422}{113513}Sloboda je jedina istinska pravda.
+{113516}{113585}Tejlor protiv Tentarija.|Kada je dana kaucija,
+{113589}{113684}osuðenik pada pod nadležnost|onoga tko je platio jamèevinu.
+{113689}{113796}Kada odluèe uraditi tako, imaju ga pravo|tražiti i isporuèiti.
+{113800}{113909}Mogu ga progoniti u drugoj državi,|uhititi na Blagdan,
+{113917}{114015}i ako je neophodno, mogu nasilno|provaliti u njegovu kuæu.
+{114018}{114116}To je važeæe kao hapšenje odbjeglog|osuðenika od strane pravog šerifa.
+{114160}{114299}Naredio sam da se sve licence u okviru|ove države za agencije povuku,
+{114303}{114445}naredio sam vam da pratite i asistirate|u svim aktivnostima oko jamèevina.
+{114779}{114900}Imam dobre vijesti. Samo vam je otišao|termostat. To je 80 dolara.
+{114904}{114985}Hvala ti puno.|- Nema problema. Evo ti kopija.
+{115030}{115097}Kako ono reèe da se zoveš?
+{115100}{115155}Quick.|- Hvala ti.
+{115573}{115671}Za nekog tko se zove Quick,|bogami traješ dugo.
+{115717}{115780}Hajde, jesi li spreman|poæi?
+{115961}{116015}Sad sam spreman.
+{116108}{116173}U redu, spremna sam.
+{116724}{116829}U rujnu 1999., država Kalifornija|je donijela zakon o lovcima na ucjene,
+{116832}{116918}svoj statut. U zakon je dodat èlan 1299|o kaznenim odredbama.
+{116941}{117112}Do tada, jedini zakon koji se ticao|lovaca na ucjene je bio onaj iz 1873. g.

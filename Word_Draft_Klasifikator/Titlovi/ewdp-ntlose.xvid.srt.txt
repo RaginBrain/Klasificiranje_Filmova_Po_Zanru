@@ -1,0 +1,907 @@
+{418}{456}Gdje da poènem?
+{608}{642}Ne radi se o tebi.
+{692}{735}Zapravo, radi se.
+{795}{845}Jednostavno me više...
+{865}{914}Ne privlaèiš me više.
+{966}{1021}Trebam životnoga prostora.
+{1079}{1124}Ti nekako...
+{1172}{1224}Nekako mi se gadiš.
+{1313}{1363}Na poèetku je bilo drukèije.
+{1398}{1499}Bila si bolja. No onda sam te|zbilja dobro upoznao.
+{1539}{1597}Shvatio sam...
+{1692}{1741}Da si debela glupaèa.
+{1813}{1852}Jesam te!
+{1863}{1945}Dobro, sada ja.
+{1955}{1985}Moraš biti ozbiljna.
+{1991}{2037}Dobro.
+{2090}{2132}Želim razvod.
+{2161}{2197}Zašto?
+{2204}{2258}Razlog je fizièki.
+{2286}{2375}Fizièki? -Èinila sam pokuse|s drugim muškarcima.
+{2399}{2478}S puno drugih|muškaraca. l žena.
+{2520}{2551}Ne znam...
+{2562}{2650}Antonio jezikom|radi sjajne stvari.
+{2667}{2739}Williamova je izdržljivost|nevjerojatna.
+{2759}{2834}Što se tièe rada ruku,|tvoj otac...
+{2938}{3011}Bolja sam od tebe.|Nema mi ravnoga!
+{3284}{3379}U glavnim ulogama:
+{3709}{3804}NlŠTA ZA lZGUBlTl
+{3832}{3898}U ostalim ulogama:
+{5262}{5370}Scenarist i redatelj:
+{5910}{5981}Brodovi Brickman´s!
+{6007}{6099}Brickman prodaje brodove.|Maskota naše tvrtke bit æe...
+{6103}{6135}Brod!
+{6139}{6173}Što misliš?
+{6199}{6233}Sviða mi se.
+{6239}{6290}Dobar posao.|Zachary, ti si na redu.
+{6323}{6364}Dame i gospodo, Zachary!
+{6406}{6449}Nisam to još|predstavio uskoj grupi.
+{6455}{6530}Ovo su samo|preliminarne skice.
+{6583}{6681}Dame i gospodo, nova maskota|tvornice keksa Hidy Ho.
+{6730}{6773}Zippy!
+{6974}{7031}Što je to? -Zippy.
+{7043}{7114}Što je Zippy?|-Maskota za kekse.
+{7137}{7184}Što je to na zemlji iza njega?
+{7190}{7284}Trag komadiæa èokolade. Kamo|god išao, ostavlja trag...
+{7305}{7420}lzgleda kao kaka.|Kao hrpe dreka.
+{7426}{7510}Kao da Zippy hoda|i posvuda sere.
+{7517}{7624}Ne, to je èokolada. -Em, kako|ti to izgleda? -Kao izmet.
+{7635}{7723}Recimo da želiš zagristi|u keks s komadiæima èokolade.
+{7728}{7792}Što zadnje želiš|imati pred oèima?
+{7805}{7862}lzmet? -Tako je.
+{7867}{7938}lzreæi æu nešto rizièno.
+{7944}{8028}Reæi æu da u ovomu projektu|moramo izbjeæi crijeva.
+{8034}{8109}Nešto æu drugo smisliti.|-Ured Nicka Beama.
+{8123}{8166}Zdravo, Ann.
+{8177}{8244}Žena. -Svi van.|Velik poslovni dogovor.
+{8315}{8388}Još vrijedi za veèeras?|Veæ si me dvaput iznevjerio.
+{8394}{8496}Njujorška filharmonija. ldem s|najprivlaènijom ženom svijeta.
+{8502}{8562}Što je sa mnom?|-Povest æemo i tebe.
+{8575}{8663}Moja sestra je ostavila|poruku na automatskoj tajnici.
+{8667}{8731}Dolazi sa zaruènikom|iduæi petak.
+{8750}{8855}Napokon æu upoznati kraljicu|Mirovnih snaga. -ldeš po njih?
+{8861}{8918}Može. Kada?
+{8951}{9005}Za toèno tjedan dana.
+{9010}{9092}Oko 10:30 h. Nisam sigurna.
+{9098}{9150}P. B. te želi smjesta vidjeti.
+{9156}{9234}Moram iæi. Opasni mi|inicijali prijete.
+{9240}{9286}Pozdravi ga.
+{9313}{9377}Mrzim te.|-l ja tebe. Zdravo.
+{9531}{9595}U nedjelju idemo|na bandži skokove.
+{9656}{9717}Ne, hvala, Phillipe.|-Zovi me P. B.
+{9724}{9772}Ne, hvala, P. B.
+{9858}{9908}Dobro, zaboravi.
+{9918}{9960}Ovo je novo.
+{9966}{10007}Kako ti se èini?
+{10051}{10099}Mislim da mu se sviðam.
+{10110}{10170}Niroog, bog plodnosti.
+{10179}{10238}Ugodno mi je gledati ga.
+{10245}{10367}lz paleolitika je. Morao sam|dati rimske novèiæe za njega.
+{10373}{10447}Šteta. Ali vrijedilo je.
+{10473}{10540}Koji od vas dvojice me treba?
+{10548}{10638}C. McGinty dolazi u 17 h.|-lz tvrtke ´Krekeri McGinty´?
+{10645}{10692}Baš taj. -Divno.
+{10698}{10779}Trebao sam veèerati s njim.|Možeš me zamijeniti?
+{10785}{10841}Ne, obeæao sam Ann...
+{10848}{10912}Moraš mi pomoæi.
+{10926}{11009}Nemam takvu sreæu svaki dan.|-Ako se radi o ženi...
+{11015}{11066}Baš si prijatelj. Moram iæi.
+{11150}{11218}Pogodi tko je upravo zvao.
+{11229}{11316}Annini odvjetnici za razvod?|-McGinty je otkazao za danas.
+{11324}{11374}To!
+{11382}{11465}Da nazovem Ann?|-Ne, idem je kuæi iznenaditi.
+{11504}{11550}Super, ha?
+{11952}{12064}Opet za ženu? -Ne, upravo sam|sreo divnu brinetu u dizalu.
+{12079}{12164}Ljubomorna sam. Kako bih ja|mogla stalno dobivati cvijeæe?
+{12169}{12227}Ne dobivaš cvijeæe? -Ne.
+{12246}{12286}Pravi zloèin.
+{15842}{15900}Volim te. Nick.
+{16332}{16396}Glupane, mièi se s ceste!
+{17615}{17670}Dobro došao u pakao, gade!
+{17697}{17747}Auto, kljuèeve, lisnicu!
+{17828}{17867}Jesi me èuo?!
+{17899}{17948}Slušaj me sada dobro.
+{17976}{18041}Ovo je pištolj. Ne zajebavaj|se s njim, bijelèe.
+{18047}{18169}Hej, gluhi slijepèe, tebi|govorim. Znam da me èuješ.
+{18222}{18298}Baš si odabrao pogrešnoga|èovjeka u pogrešni trenutak.
+{18408}{18450}Sranje.
+{18466}{18531}Pokušavaš me zakljuèati...|Otkljuèaj vrata.
+{18597}{18644}Zaustavi auto!
+{18837}{18917}Voziš po nogostupu.|Ljudi hodaju ovuda!
+{18955}{18999}Stani.
+{19015}{19063}Stani, rekoh!
+{19279}{19318}Kamion.
+{19330}{19370}Kamion, rekoh.
+{19400}{19461}ldemo na kamion. Stani!
+{19762}{19826}A lisnica?|Htio si me opljaèkati.
+{19832}{19896}Jasno se sjeæam|da si me htio opljaèkati.
+{19900}{19949}Evo moje lisnice. Želiš je?
+{19953}{19999}Evo ti je.
+{20037}{20113}Što to radiš?|-lmam još nešto za tebe.
+{20174}{20251}Slijep sam! Niš´ ne vidim!
+{20287}{20348}Komadi su padali na moje oèi!
+{20354}{20399}Obožavale su moje oèi!
+{20840}{20943}DOBRO DOŠLl U ARlZONU
+{21333}{21409}Pobijedio si. To si htio èuti?
+{21594}{21696}Što, jebote? Nisi valjda|jedan od ubojica u pustinji?
+{21703}{21813}Nareckaš nekoga|i ostaviš komadiæe u pustinji.
+{21837}{21924}Sranje. l jesmo|u jebenoj pustinji.
+{21932}{22018}U autu sam s psiho-Jason-|sjekiro-ubojitim gadom.
+{22058}{22126}Molim te, nemoj me ubiti,|jezivi Jasonu.
+{22141}{22205}Molim te, nemoj me ubiti.
+{22301}{22386}Zajebavao sam se i|povezao s pogrešnim bijelcem.
+{22890}{22965}lzlazi. -Sa zadovoljstvom.
+{22971}{23036}Sajonara, jebote.
+{23148}{23243}Ne osjeæam guzicu.|Utrnula mi je guzica!
+{23255}{23369}Nisam ni znao da guzica može|utrnuti. lmam trnce u guzici.
+{23379}{23446}Ne možeš me ovdje ostaviti!
+{23454}{23535}Hej, ne možeš me ostaviti!
+{24228}{24343}Dogovorit æemo se. Odvezi me|kuæi i zaboravit æu otmicu.
+{24350}{24393}Daj, molim te.
+{24428}{24502}Halo, ima koga doma?|Pokušao si me opljaèkati.
+{24530}{24584}Prijetio si mi pištoljem!
+{24622}{24713}Rekao sam ti da nije pun.|-Sam si se uvalio u ovo.
+{24736}{24828}Znaš što si ti?|Loša osoba. Oružani pljaèkaš.
+{24833}{24934}Nije mi te žao.|-lmate problema?
+{24947}{25008}Da. -Gnjavi vas?
+{25013}{25087}Da. -Samo tako|optužuješ brata?
+{25093}{25144}Možda on gnjavi mene.
+{25149}{25243}Koliko ti znaš, mogao bih biti|i Denzel Washington. Pogledaj.
+{25273}{25341}Možda gnjavi filmske zvijezde.
+{25347}{25433}Morate platiti kavu. Ovakve|stvari se uvijek razviju.
+{25440}{25481}Nema problema.
+{25538}{25574}Moja lisnica.
+{25682}{25750}Èini se da gnjavitelj|zvijezda nema lisnicu.
+{25787}{25860}Hvala, idem po ostatak.
+{25973}{26035}Što? Hoæeš da ti zahvalim?
+{26073}{26115}Dugujem ti dolar.
+{26121}{26202}Kako si htio kupiti benzin?|Bez novca, kreditnih kartica.
+{26224}{26266}Bez isprava.
+{26293}{26339}Sranje, èovjeèe.
+{26353}{26410}Dobro, u redu.
+{26422}{26468}Daj mi novce za benzin.
+{26518}{26608}Odvest æu te kuæi.|-Ne, dobro mi je i ovako.
+{26616}{26688}Zapravo, sviða mi se|ovdje u pustinji.
+{26694}{26803}Èovjek se oznoji i sve to.|Znoj ti se cijedi s guzice.
+{26827}{26867}Što je?
+{26874}{26914}Upravo sam se sjetio.
+{26926}{26997}lmam prièuvnu karticu|u pretincu u vratima.
+{27454}{27479}Što je, bijelèe?
+{27515}{27556}Hajde.
+{27592}{27652}Što ti možeš? Pogledaj se.|Sjebao si stvar i ispao.
+{27873}{27914}Ma daj!
+{27943}{27996}Udaraš kao curica.
+{28003}{28051}Bježi za svojim poslom.
+{28319}{28390}Što je to? Udarac ´vrtuljak|iz zabavnoga parka?´
+{29514}{29563}Sranje.
+{29580}{29670}Nisam znao da više ne vrijedi.|Nikada je ne koristim.
+{29754}{29854}Zašto si ovdje? -Zašto te|to zanima? -Znatiželjan sam.
+{29870}{29953}Prouèavam ljudsku prirodu.|-Zagaðuješ ljudsku prirodu.
+{29962}{30023}U redu je. Opraštam ti.
+{30036}{30096}Oèito imaš problema sa ženama.
+{30111}{30156}Nisi ni blizu.
+{30164}{30229}Ne? -Nimalo.
+{30235}{30281}Varala te?
+{30287}{30372}Da i želim o tomu govoriti,|a ne želim, ne bih tebi rekao.
+{30377}{30417}Kaznio si je?
+{30422}{30480}Znam da jesi. -Zaboravi.
+{30485}{30550}A on? Sredio si ga?
+{30558}{30619}Premlatio si ga?
+{30626}{30749}Sigurno si ga udario palicom.|Dobro si ga sredio.
+{30760}{30792}Ne, èekaj.
+{30798}{30837}Upucao si ga!
+{30843}{30907}Upucao si gada!|Zato si u pustinji.
+{30912}{31019}Ne, nisam ništa rekao ženi.|Samo sam otišao. -Otišao?
+{31023}{31087}Samo sam otišao.|Zatekao sam ih...
+{31104}{31154}Znaš. l onda...
+{31174}{31228}Samo sam otišao.
+{31253}{31303}Kakav mlakonja!
+{31317}{31404}Nije èudo da ti svašta|radi iza leða.
+{31420}{31569}Ne poštuješ svoju ženu.|Ja svoju jako poštujem.
+{31583}{31679}Doðem kuæi, veèera spremna.|´Ne zajebavaj me, ženo!´
+{31685}{31780}Ako hoæu ljubavi, i to|dobijem. -Što bi ti uèinio?
+{31787}{31893}Vratio bih se i ko Terminator|razvalio vrata. Bum!
+{31899}{31960}´S kim se ti zajebavaš, ženo?´
+{31966}{32042}´Misliš da sam neki|mekušac? Bogami nisam!´
+{32053}{32154}´Ja sam Nick Beam.´|To bih joj ja rekao.
+{32166}{32261}´A Nick Beam neæe|trpjeti takva sranja.´
+{32268}{32360}Plakala bi.|´Oh, Nick, primi me natrag.´
+{32366}{32457}´Neæu više nikada.´|-´Dat æu ti ja nikada!´
+{32462}{32542}´Nick Beam je gospodar svoje|sudbine, vladar svoga života.´
+{32549}{32645}´Ako želiš na nekomu plakati,|plaèi na Superkurcu!´
+{32649}{32770}´Nick Beam, ponosno stoji,|nikakva sranja ne trpi.´
+{32776}{32879}´Zato se gubi.´
+{32929}{32990}To bih ja rekao kuji.
+{33006}{33057}To bih joj ja rekao.
+{33334}{33406}Da platim gotovinom,|ili æeš ti karticom?
+{33894}{33951}Volim te.
+{34064}{34105}Sranje.
+{34142}{34206}Lovu u torbu! Hajde, jebote!
+{34222}{34259}Sranje.
+{34266}{34308}Stavi novce u torbu.
+{34408}{34500}Sranje! -Ne bi valjda|otišao bez mene?
+{34515}{34554}Što to radiš?
+{34559}{34656}Uz svako punjenje|besplatno dobiješ hrpu novca.
+{34662}{34724}Baš smo sreækoviæi.|-Koliko si ti glup?
+{34745}{34770}Moramo iæi.
+{34773}{34803}Vrati novce.
+{34813}{34907}Zbilja moramo iæi.|-Ne dok ne vratiš novce.
+{34912}{34947}ldemo!
+{34953}{34989}Ne dok ne vratiš...
+{35027}{35070}Evo.
+{35234}{35279}Zašto!?
+{35295}{35364}Nisam više imao novca. -Jesi.
+{35372}{35436}lmao sam samo 5 $|koje sam dao konobarici.
+{35486}{35559}Divno. Dudek nas želi ubiti.
+{35675}{35727}Uporna seljaèina.
+{35733}{35808}lma i pravo. Opljaèkao si ga!
+{35814}{35857}Glupane!
+{35869}{35942}Ti si bacio jebenu|lisnicu kroz prozor.
+{35952}{35995}Jako pametno.
+{36023}{36058}Divno!
+{36145}{36181}Sranje.
+{36283}{36323}Što radiš?
+{36330}{36371}Doði, gade.
+{36414}{36511}Pogledaj te luðake.
+{36517}{36581}Sranje! Umrijet æemo!|Skreni s ceste!
+{36586}{36634}Skreni s jebene ceste!
+{36658}{36704}Sranje!
+{36713}{36739}Sranje!
+{36745}{36784}Sranje!
+{37316}{37355}Hej.
+{37692}{37735}Živ sam!
+{37751}{37793}Ti si živ!
+{37798}{37900}Kako si znao da æe prvi|skrenuti? Znao si, zar ne?
+{37987}{38060}Nije ni važno. Živ sam!
+{38067}{38108}Ti si živ, èovjeèe.
+{38398}{38454}Van!
+{38599}{38649}Nije napunjen.
+{38701}{38789}Što misliš postiæi time?|Nikada te neæe uhvatiti?
+{38795}{38827}Nisu nas uhvatili.
+{38833}{38929}Ne radi se o tomu. Munjeno|je to! Jednom æe te uhvatiti.
+{38935}{38999}Što znaèi ´munjeno´?
+{39005}{39059}To je sinonim za ´glupo´.
+{39067}{39165}Evo ti sinonim|za ´razmnožavanje.´ Jebi se!
+{39171}{39262}Lako je tebi optuživati, kada|si bogataš s velikom kuæom.
+{39269}{39363}Nisam bogat. -Ne?|Kako velik TV imaš?
+{39375}{39435}Reci. -125 cm.
+{39442}{39522}Uði u auto. -To nije|socijalni problem.
+{39528}{39637}Ako želiš pljaèku, obavi je|pametnije. -Prosvijetli me.
+{39649}{39758}Nosi masku. Policija te može|pozvati na prepoznavanje.
+{39763}{39845}Ako te netko prepozna,|ideš u zatvor.
+{39851}{39924}Nova ideja. Prvo ispitaj|mjesto pljaèke.
+{39931}{40007}Saznaj postoji li kamera|ili skriven alarmni ureðaj.
+{40016}{40135}Zašto pljaèkaš trgovine?|Koliko možeš dobiti? 300 $?
+{40145}{40225}Dovoljno za dva dana.|-Što ti znaš, mršavi?
+{40231}{40317}Znam da trebaš iæi na veæi|ulov. Pljaèka za cijeli život.
+{40322}{40375}Slušaj ovo, visoki.
+{40384}{40479}Ljudi s puno love|štite svoju lovu. -lstražuj.
+{40485}{40581}Npr., moj šef ima|pravo bogatstvo u sefu.
+{40587}{40662}Po noæi su ondje samo dva|stražara i sigurnosni sustav.
+{40667}{40770}Znam i šifru.|A da je i ne znam...
+{41024}{41067}lmam šmrkalj u nosu?
+{41170}{41215}´Raznolikost.´
+{41224}{41275}´Ne vjeruj bankama.´
+{41282}{41366}´Cijeli se sustav može|svakoga trenutka srušiti.´
+{41401}{41476}Tako je optereæen da bi ga|pljaèka gotovine uništila.
+{41489}{41568}Èekaj malo. Dobro sam shvatio?
+{41578}{41663}G. Pretenciozni|opljaèkat æe svoga šefa?
+{41725}{41789}Èujete li vi to, gušteri?
+{41804}{41880}Stari æe Nick Beam|opljaèkati šefa.
+{41886}{41948}Èujete li, gušteri?
+{41975}{42071}Znaš što? Žena te|dobro sredila.
+{42163}{42206}Ozbiljno misliš.
+{42269}{42312}Koliko ima?
+{42317}{42443}Samo osoban imetak.|600 ili 700 000 $.
+{42475}{42597}Trebat æe ti pomoæ.|-To nije tvoj problem.
+{42614}{42690}Prisustvovao sam trenutku|kreativnoga nadahnuæa,
+{42694}{42804}èime zavrijeðujem barem|malo uèešæe u ovom poduhvatu.
+{42835}{42941}Ma daj. -lli æu nazvati|tvoga šefa kada se vratimo.
+{43011}{43065}Hoæu polovicu novca.
+{43116}{43168}Uništit æemo toga gada.
+{43178}{43221}lmaš pravo.
+{44462}{44516}TRAŽE SE ZBOG UMORSTVA|l ORUŽANE PLJAÈKE
+{44536}{44614}Pljaèkaši na cesti?|-Bijelac i crnac. Što misliš?
+{44618}{44666}lmao si ih i pobjegli su ti?
+{44670}{44755}Vozili su Yukon iz 1996. g.
+{44819}{44853}Ploèice...
+{44857}{44924}Da imam broj ploèica,|ne bih sada ovdje stajao
+{44929}{44985}i slušao ovakva sranja. Ne?
+{44991}{45094}Pratite pozive u SAD-u i|Meksiku. Svima ovo faksirajte.
+{45102}{45211}Ako netko i kihne,|želim osjetiti kišu kapljica.
+{45577}{45634}Daj mi novce i sok.|-Novci su pod kljuèem.
+{45736}{45781}79 centi, molim.
+{46232}{46331}Nešto smrdi.|Ne curi ti benzin?
+{46370}{46411}Moje cipele.
+{46418}{46458}Tvoje cipele?
+{46516}{46576}Nisi èuo za|Dr. Scholl cipele?
+{46583}{46685}Prolio sam benzin po cipelama.|Na postaji koju si opljaèkao.
+{46775}{46842}lmaš kamkorder. -Što radiš?
+{46848}{46949}lskušavam ga. -Spusti to.|-Neæu ga uništiti.
+{46956}{47006}Daj da ga vidim.
+{47072}{47120}Tvoja žena?
+{47174}{47225}Shvaæam zašto si izbezumljen.
+{47241}{47298}Nije loša.
+{47329}{47385}Za kuju koja vara.
+{47391}{47495}Ne zovi je tako.|Ne poznaješ je.
+{47504}{47572}Nisam htio vrijeðati.
+{47611}{47728}Kako da je zovem?|Monogamno hendikepirana?
+{47787}{47894}Zafrkavam te. Nije loše,|za 8-milimetarski kamkorder.
+{47900}{47972}Najbolje što postoji.|-Objasnit æu ti nešto.
+{47981}{48068}Nemaš li digitalnu opremu,|nemaš ništa.
+{48073}{48191}Ovo ima samo jedan CCD èip.|Prijenos ih zahtijeva tri.
+{48204}{48292}Ne gledaj me tako.|Èudi te što išta znam?
+{48299}{48378}Tip koji mi je to prodao|složio nam je raèunalo.
+{48382}{48430}Windows NT?
+{48437}{48520}Ne. Samo Windows.|-Daj, molim te.
+{48526}{48648}Evo lude ideje. Ako toliko|znaš o tomu, pronaði posao.
+{48654}{48762}Pogledaj me. Nisam baš stvoren|za posao u velikoj tvrtki.
+{48768}{48829}Daj. Ako želiš posao,|možeš ga dobiti.
+{48835}{48890}lmaš pauka na glavi.
+{48897}{48961}lmaš pauka na glavi.
+{48968}{49061}Oprosti. Ne pratim baš|današnju šatru.
+{49066}{49137}Što znaèi;|´lmaš pauka na glavi?´
+{49144}{49240}Da imaš pauka|na jebenoj glavi.
+{49251}{49307}Makni ga!
+{49313}{49358}Neæu ja to dirati!
+{49364}{49418}Mièi ga s mene!
+{49463}{49524}Kakav ogroman pauk.
+{49563}{49610}Sranje!
+{49692}{49770}Obièan pauk!
+{50081}{50135}Èekaj, da izoštrim.
+{50331}{50373}Noge!
+{50516}{50570}´Vruæe´ noge!
+{50602}{50661}Hej, uhvati ritam.
+{50755}{50798}Snimio sam!
+{51981}{52060}Moram telefonirati. Ti|natoèi benzin. -Daj pištolj.
+{52086}{52125}Daj mi pištolj.
+{52208}{52296}Nisam htio pljaèkati.|-Onda ti ovo neæe trebati.
+{52614}{52670}Brzo ste trèali.
+{52725}{52818}20 $ na pumpi br. 15|i voænu èokoladicu.
+{52925}{52984}Policajac ste? -Ne.
+{53029}{53079}Preèesto ste ovo pokušali!
+{53085}{53127}Èekajte... -Ušuti!
+{53132}{53192}Nisam htio... -Ušuti.
+{53356}{53398}Šerifov ured.
+{53490}{53612}lzvolite. -Znate onu seriju|Policajci? Obožavam je.
+{53661}{53725}Jeste ikada imali|zbilja loš dan?
+{53761}{53871}Upravo ga imam. -Rekao sam ti|da æu zakasniti kuæi.
+{53877}{53965}Rekao je da ima|dobro plaæen posao za mene.
+{53975}{54103}Nemojmo se svaðati.|Vidimo se poslije. U redu.
+{54380}{54467}Želim samo benzina za 20 $|i voænu èokoladicu.
+{54472}{54509}Je li to prevelik zahtjev?
+{54515}{54625}Ne, gospodine. -Mogu|uzeti vašu pušku? -Slobodno.
+{54639}{54685}lšèupajte telefonsku žicu.
+{54725}{54785}lšèupajte žicu, molim vas.
+{54851}{54944}Za telefon, pušku|i voænu èokoladicu.
+{54951}{55010}l 20 $ na pumpi br. 15.
+{55043}{55083}Hajde.
+{55096}{55137}Hvala na strpljenju.
+{55234}{55348}Želim shvatiti. Ti možeš|pljaèkati, a ja ne mogu.
+{55355}{55471}Nisam ga opljaèkao. -Na èudan|ga naèin nisi opljaèkao.
+{55477}{55541}ldemo prije nego|pozove policiju.
+{55547}{55636}Neæe. -Kako znaš?|-lšèupao je žicu iz zida.
+{55665}{55729}Super. Jako dobro.
+{55744}{55784}lmaš njegovu pušku?
+{55791}{55867}Nije loše.
+{56775}{56832}Deprimira me ova glazba.
+{56838}{56877}Rastužuje me.
+{56885}{56980}Najbolja glazba.|l treba te rastuživati.
+{56985}{57014}Turobna je.
+{57019}{57075}Najbolja glazba.
+{57081}{57198}Paklena ljubavna glazba.|-Nisam baš raspoložen.
+{57204}{57314}Možda mogu pronaæi|neku drugu postaju.
+{57320}{57378}Malo Donnyja Osmonda.
+{57424}{57476}Što je ovo? Uspori.
+{57482}{57520}Nemoguæe.
+{57526}{57568}Stani.
+{57854}{57954}Mogao si i meni kupiti bombon.|-To je èokoladica.
+{57959}{58063}Svejedno. Mogao si i meni|kupiti. -Nisam se sjetio.
+{58070}{58139}Nisi se sjetio. Sebièan si.
+{58145}{58219}Takav je svijet. Sebièan.
+{58255}{58297}Hvala.
+{58687}{58731}K vragu.
+{58740}{58824}Bijelci imaju razlièit|smisao za ukusno.
+{58847}{58902}Rasistièka primjedba.
+{58909}{58974}Da? Baš dobro.
+{59207}{59312}Nabijaju se u nas. -Hvala|što si mi rekao. Brže malo.
+{59364}{59397}Mrzim nove aute.
+{59566}{59606}Pogledaj mu izraz lica.
+{59797}{59836}Bravo.
+{60530}{60585}Ne izgledaju kao policajci.
+{60592}{60684}Nisu policajci.|-lzaðite iz auta.
+{60784}{60878}Tako. -U redu, gadovi!|Odjebite, natrag!
+{61010}{61085}Sranje. U redu je.
+{61136}{61198}Sve je u redu.
+{61214}{61292}Samo sam se zafrkavao.|Što ima? Živite u blizini?
+{61298}{61369}Dovuci guzicu do ispred auta.
+{61387}{61454}Hajde, dušo. Tako.
+{61479}{61534}Tako.
+{61553}{61598}Sranje. -Pazi kako hodaš.
+{61605}{61640}ldemo, gumenonogi!
+{61645}{61727}Pazi kuda hodaš. Tako.
+{61739}{61813}Možda niste èuli da moj|partner i ja držimo pravo
+{61820}{61885}na sve zloèine na ovoj cesti.
+{61891}{61977}Ne dopuštamo nedozvoljenu|zloèinaèku aktivnost.
+{61986}{62021}Ne razumijete.
+{62104}{62172}Moj auto. -Pozornost, molim.
+{62190}{62292}Sigurno si bio najbolja|izviðaèica u grupi.
+{62296}{62397}Kako si se onda zvao?|Yolanda? Cynthia?
+{62403}{62455}Susan? Ne mogu se sjetiti.
+{62460}{62507}Bit æu nježan. Ne brini se.
+{62701}{62746}lmam ovo.
+{62758}{62839}To nije dovoljno.|Gdje vam je plijen?
+{63049}{63166}Uspjelo mi je. Pronašao sam|nekoga tko je gori od tebe.
+{63174}{63229}Lijepo.
+{63262}{63332}Kada ovakva slatka curica|ima nešto ovako lijepo,
+{63337}{63408}èovjek se pita|gdje ti je lisnica.
+{63424}{63537}Sada smo gotovi.|-Želim tvoju lisnicu, Alice.
+{63552}{63611}Gdje je ta velika,|debela lisnica?
+{63617}{63704}Daj jebenu lisnicu,|gaduro mala.
+{63775}{63890}Znaš što? -Što radiš?|-Siguran sam da si strašan.
+{63896}{63987}Da se ljudi tresu|samo od zvuka tvoga glasa.
+{63993}{64057}Ali to sada ne vidim.
+{64075}{64175}Vidim samo malog,|oèajnog slabiæa
+{64180}{64285}koji je u djetinjstvu|vjerojatno muèio životinje.
+{64290}{64343}Malo zbunjen jadnièak,
+{64348}{64423}´nisam u nogometnoj ekipi,|pa æu gnjaviti mlaðe u školi´,
+{64427}{64487}sitna propalica,|lijeni nasilnik,
+{64493}{64585}koji jednoga dana spoznaje da|je jadan, bijedan, nepismen,
+{64589}{64660}komad smeæa,|plod incestuozne veze.
+{64666}{64755}Znaj da se uopæe|ne slažem s njim.
+{64948}{65039}Vrijeme za umiranje.|-To mi baš odgovara.
+{65093}{65144}Baci jebeni pištolj!
+{65158}{65211}Baci!
+{65246}{65355}Daj mi to! Natrag, prije nego|te mlatnem u gadnu bradurinu.
+{65361}{65476}Natrag, jebote!|Što sam rekao? Ne èujete?!
+{65480}{65524}Haj´mo, svi natrag.
+{65625}{65677}Sranje.
+{65722}{65767}Ustrijelio si me.
+{65772}{65826}Oprosti. -Spusti|pištolj. -Ušuti.
+{65854}{65947}Ustrijelio si me. -lsprièao|sam se. Nisam namjerno.
+{65953}{66003}Pištolj je sam opalio.
+{66008}{66080}lmam takav problem|i u krevetu. Katkad.
+{66087}{66175}Jako rijetko.|-Spusti pištolj, idiote.
+{66181}{66278}Ušuti! Ja sam ranjen!|-Ti ušuti! Što misliš, tko si?
+{66284}{66341}Ušuti, jebote!
+{66346}{66389}Ti ušuti!
+{66403}{66504}Hej! -Spusti pištolj|prije nego ga ubiješ. -Ušuti!
+{66673}{66745}Ušutite, svi! Jebote!
+{66751}{66841}Svi da ste ušutjeli.|Posebno ti. Šuti!
+{66847}{66912}Evo ti, ljubitelju izviðaèica.
+{66959}{66984}Sada me poslušajte, glupani...
+{67058}{67095}Natrag!
+{67212}{67252}Ulazi u auto.
+{67259}{67298}Pogledajte se.
+{67353}{67391}Baš dobro.
+{67396}{67442}Pa-pa, kauboji!
+{67849}{67932}Zašto si zapoèeo svaðu?|-Pucao si u mene.
+{67938}{68012}Žao mi je. -Pucao si u mene.
+{68040}{68158}Oprosti. -Kada nekog|ustrijeliš, ne kažeš oprosti.
+{68182}{68300}To kažeš kada nekomu staneš|na prst, slomiš mu naoèale
+{68307}{68417}ili prdneš dok jede.|A ne kada ga ustrijeliš!
+{68486}{68576}Zaboga. Trne mi ruka.
+{68648}{68696}Sranje.
+{68885}{68933}Zaboga.
+{68945}{69019}Nisam nikada vidio|ozbiljniju ranu!
+{69025}{69101}Možda trebaš staviti|ruku na led.
+{69105}{69164}Da je mogu poslije|prišiti natrag.
+{69251}{69344}Smiješno. Djeèja ogrebotina.
+{69349}{69426}Ušuti. -Djeèja ogrebotinica.
+{69433}{69523}Moglo je biti i gore.|-Ali nije bilo.
+{69530}{69646}Kako si mogao pucati? -Smiri|se. Prokrvarit æe ti rana.
+{70201}{70291}Trebate prijevoz?|-Odakle ste? -lz Londona.
+{70296}{70410}l ja. -Zbilja?|Baš zgodno. Upadajte.
+{70415}{70470}Hajde, idemo.
+{70503}{70585}Baš zgodno. -Možete se|malo pomaknuti?
+{70657}{70714}Oprostite. Do viðenja!
+{70833}{70891}Nick Beam. -Kamo idemo?
+{70907}{70945}U L.A.
+{71010}{71049}Grad anðela.
+{71282}{71332}Gdje æeš prespavati?
+{71342}{71406}U autu. -Baš.
+{71418}{71464}Možeš kod mene.
+{71483}{71619}Hvala. Samo za noæas.|-Nisam nudio da se useliš.
+{71629}{71726}Samo sam rekao... -Molim vas,|g. Beam. Ne ostavljajte me.
+{71743}{71780}Ušuti.
+{71786}{71835}G. Beam.
+{71841}{71894}Ušuti.
+{71905}{71949}Hoæeš li ušutjeti?
+{71964}{72038}Znaš li što ta rijeè znaèi?|Šutiš li ikada?
+{72046}{72115}Ostanite zauvijek|sa mnom, g. Beam.
+{72636}{72726}Slušaj, moja žena|ništa ne zna
+{72732}{72811}o mojem dodatnom poslu.|-Ne zna da si lopov?
+{72819}{72926}Nisam. Samo baratam|posuðenom robom.
+{72941}{73023}Što misli da radiš|po cijele dane? -Tražim posao.
+{73105}{73181}Da tražiš posao,|možda ne bi krao.
+{73210}{73260}Ne osuðuj me.
+{73511}{73569}Obièno se ne vraæam|ovako kasno.
+{73618}{73690}Dušo, tako te je|lijepo vidjeti.
+{73701}{73790}Ne, objasni mi ovo. Smjesta.
+{73798}{73844}Opljaèkali su me.
+{73873}{73929}Dobro, nisu me opljaèkali.
+{73935}{74035}Mene su opljaèkali.|Njega su pretukli.
+{74051}{74123}Sjeæaš se da sam rekao|da idem na intervju za posao?
+{74130}{74194}S njim. On je taj èovjek.
+{74256}{74379}Zovem se Nick Beam.|Drago mi je.
+{74387}{74455}Kada æeš prestati|s tim, Terrance?
+{74461}{74594}Terrance? -Prijatelji|me zovu T. Baš me briga.
+{74601}{74644}Da, Terrance.
+{74650}{74714}Mama, vrati se u krevet.
+{74756}{74868}Kakav èovjek izbiva cijelu noæ|i dolazi izgledajuæi ko govno?
+{74875}{74968}Ne odgovaraj!|-Ne odgovaraj majci.
+{75062}{75101}Što sam skrivio?
+{75108}{75188}S njim ste! Dio ste|toga neèega u što se uvalio.
+{75193}{75236}Mama, dosta je.
+{75241}{75324}lmat æeš što objašnjavati|u jutro. Razmisli o tomu.
+{75475}{75535}Zašto me stalno tuèeš?
+{75745}{75787}Samo dajte.
+{75816}{75860}Gotovo.
+{75911}{76022}Doði ovamo. -Mama me|nije trebala triput udariti.
+{76141}{76207}Moramo se odseliti. -Znam.
+{76292}{76336}Èuo sam pucnjeve.
+{76349}{76450}Zdravo. Zašto si|budan ovako kasno?
+{76457}{76513}Zašto si budan ovako kasno?
+{76521}{76586}Oh, probudili smo te.
+{76603}{76659}Ne brini se. Poljubi tatu.
+{76672}{76750}Ne brinite se. Neæu dopustiti|da vam se išta dogodi.
+{76760}{76808}Što ti je s licem?
+{76819}{76874}Sve je u redu.
+{76888}{76981}Napisao si zadaæu?|-Da. -Sigurno jesi?
+{76987}{77091}Da. -A ti, gospoðice?
+{77100}{77152}Nemam zadaæu.
+{77159}{77243}Nemaš. Dobro,|natrag u krevet. ldemo.
+{77249}{77360}1, 2, 3, 4. Na vratima skreni.
+{77367}{77446}Pazite na sebe,|da postanete uspješni ljudi...
+{77480}{77532}Nadam se da ne smetam.
+{77536}{77611}Ni najmanje. Simpatièni ste.
+{77617}{77702}Terranceu trebaju takvi|ljudi u životu. Laku noæ.
+{78431}{78501}DlPLOMA|DOPlSNE ŠKOLE STROJARSTVA
+{79029}{79071}...sada ne zapošljavamo...
+{79079}{79129}...ogranièeno iskustvo...
+{79136}{79189}...dimploma fakulteta...
+{79197}{79237}...nema slobodnih mjesta...
+{80926}{81022}Nisam do sada primijetio. lmaš|zbilja lijepe oèi. -Ušuti.
+{81029}{81091}Zbilja. -Obavimo to.
+{81112}{81206}Ne mogu vjerovati da pljaèkam|zbog dvije svjetiljke. -ldemo.
+{81657}{81709}Ni makac, gade!
+{81714}{81794}Pomakneš li ruke,|raznijet æu ih!
+{81800}{81853}Èuješ li me?
+{81859}{81908}Èuješ li me? Što je?
+{81914}{81957}Ne moraš biti tako gadan.
+{81962}{82061}Nije sada vrijeme.|Ovakvo ih vikanje zastraši.
+{82068}{82170}Ali imaš pištolj. Ponašaš se|tipièno za pljaèku.
+{82176}{82284}Strašnije je ako je pljaèkaš|s pištoljem smiren i pribran.
+{82299}{82340}Gluposti.
+{82371}{82409}Oprostite.
+{82439}{82467}Doðite ovamo.
+{82474}{82512}Doðite ovamo.
+{82531}{82567}Doðite ovamo.
+{82638}{82695}Slušajte, Henry.
+{82716}{82784}Moramo uzeti neke stvari.
+{82804}{82877}Vi samo mirno stojite.
+{82934}{82985}lmate što protiv?
+{83092}{83134}Dobro.
+{83180}{83296}Sada, iskreno recite. Koji|od nas vas je više zaplašio?
+{83339}{83381}lskreno?
+{83449}{83497}On.
+{83516}{83608}Zbilja? Niste to|smatrali pretjeranim?
+{83619}{83679}Ne, uplašio sam se.
+{83695}{83740}Što vas je toèno uplašilo?
+{83766}{83841}´Ni makac, gade.´
+{83860}{83928}Povjerovao sam|da æu pomaknem li guzicu
+{83935}{83991}biti raznesen u komadiæe.
+{84073}{84124}l vi ste me prestrašili.
+{84130}{84177}Laskate mi.
+{84182}{84273}Ne, jako ste me|prestrašili. -Zbilja?
+{84298}{84367}Hvala, Henry. -Hej, vidi ovo.
+{84387}{84459}Svjetiljke s ugraðenim|radio aparatima.
+{84491}{84561}Možeš slušati glazbu|dok je svjetiljka ukljuèena.
+{84798}{84856}Ni makac, sroljo!
+{84906}{84955}Puno bolje.
+{84963}{85076}Hvala. Vidimo se.|-Što je ´sroljo´?
+{85123}{85190}Dobro došli|na Milligan´s lsland
+{85719}{85786}Kvalitetan dizajn|Nick Beam
+{85922}{85943}Hej!
+{85981}{86029}Hej, Rig!
+{86044}{86108}Upoznaj Ginger i Mary Ann.
+{86243}{86287}Moramo iæi.
+{87865}{87915}Koji kat? -15.
+{87922}{88014}15.? -Doði.|-Ne možemo dizalom?
+{88026}{88107}Straža patrolira zgradom.|-Obièno sranje.
+{88125}{88187}Subota je. Neæe biti ovdje.
+{88193}{88277}Znam. Vratit æemo se u|ponedjeljak. Samo razgledavam.
+{88313}{88385}Zbilja si mi|upropastio zabavu.
+{88395}{88485}Sviðao si se djevojkama.|Zgodan si ti.
+{88490}{88551}Vratit æemo se.|-Držim te za rijeè.
+{88576}{88627}Što je?
+{88667}{88724}Pametan si.
+{88924}{89033}Brži sam. -Ja nosim prokletu|torbu. -lpak sam pobijedio.
+{89038}{89103}U èemu? U penjanju po stubama?
+{89121}{89202}Dobro, zvat æemo te|Kralj Stuba.
+{89344}{89395}Sranje.
+{89444}{89492}Nema problema. Znam šifru.
+{89590}{89633}Unesite valjanu šifru.
+{89686}{89716}Brže.
+{89751}{89845}Sranje. Valjda je|promijenio šifru.
+{89852}{89898}Makni se, daj da pogledam.
+{90047}{90078}Što æeš uèiniti?
+{90084}{90157}lmaš 12 moguæih zona.|Koristiš samo 7.
+{90163}{90243}Aktivirat æu ostalih 5,|pokrenut æu ispitivanje
+{90249}{90313}i prinuditi sustav|da se zabavi njime.
+{90319}{90362}Što to znaèi?
+{90435}{90479}lmamo 5 minuta.
+{90697}{90741}Stavi masku.
+{90767}{90851}Je li ta znojna?|Nju sam skrio iza jaja.
+{91514}{91573}Bravo.
+{91606}{91664}ldemo. lmamo tri minute.
+{91723}{91796}Stavi novce unutra.|ldemo, brže.
+{91864}{91925}Tako. Novci...
+{92108}{92166}ldemo, mali!
+{92559}{92608}Što radiš, k vragu?
+{92750}{92812}Jako pametno. ldemo.
+{92902}{92941}ldemo!
+{93153}{93195}Jako lijepo.
+{93259}{93327}Nisam nikada vidio|ljepše sranje.
+{93374}{93422}Jako lijepo.
+{93617}{93703}Divno. Kipu si odrezao pimpek.
+{93790}{93849}Kakav je to osjeæaj, Phillipe?
+{93854}{93957}Nije bilo dovoljno što imaš|sve. Morao si dirati u mene.
+{93992}{94053}Nitko se ne zajebava|s Nickom Beamom.
+{95276}{95340}Pokazao si lice. -Nije važno.
+{95346}{95456}Važno je. Uhvate li tebe,|i mene æe. ltekako je važno.
+{95551}{95635}Pogledaj me. Ne želim|zaglaviti zbog ovoga.
+{97503}{97552}Alarm se valjda ukljuèio.
+{99850}{99892}Bijelci.
+{100059}{100095}Naše djevojke.
+{100659}{100695}Pogledaj ovo.
+{100701}{100800}Bravo, izvrsno, sjajno!|Kako je ovo dobro!
+{100807}{100912}Smiri se. Moj æe sin|iæi u najbolje škole.
+{100917}{100992}Moja kæi neæe znati|što su bonovi za hranu.
+{100998}{101150}Moja žena i ja stalno æemo|izlaziti! Svaki dan!
+{101226}{101261}Što je?
+{101286}{101314}Ništa.
+{101319}{101422}Brine te ono. Uèinio si|tomu tipu sve što si morao.
+{101426}{101511}Ne brini se. Zaboravi.|Kamo ideš?
+{101528}{101585}Kamo ideš?
+{101619}{101720}ldem prošetati.|-Požuri se natrag.
+{101727}{101809}lmam samokontrolu, ali|ne znam imam li je dovoljno.
+{101814}{101850}Razumiješ?
+{102596}{102675}Jesi li ikada uèinio nešto u|èemu si mislio da æeš uživati,
+{102680}{102732}ali osjeæao si se još gore?
+{102738}{102813}Osveta, ha? Neke stvari bole|bez obzira na bilo što.
+{102817}{102870}To je valjda životna istina.
+{102918}{102954}Zdravo!
+{103026}{103097}Ne mogu vjerovati.|Što radiš ovdje?
+{103164}{103186}Ne znam.
+{103199}{103278}Ne znam što radim ovdje.|Zašto si ti ovdje?
+{103284}{103361}Sheila, moja najbolja|prijateljica... Bila je.
+{103367}{103422}Zapravo, Marcy je moja|najbolja prijateljica.
+{103429}{103479}Obje misle da su.
+{103486}{103591}lmala sam noænu moru s njih|dvije jednom pokraj druge.
+{103597}{103649}Jedan je Eskim rekao: ´Biraj.´
+{103657}{103744}Užas. Kakve veze ima|Eskim s time?
+{103751}{103819}Sheila je u posjeti.|lšle smo na zabavu
+{103825}{103926}i upoznala je nekoga tipa.|Otišla je s njim kuæi.
+{103985}{104032}Zbilja dobro izgledaš.
+{104067}{104125}l ti.
+{104158}{104212}Hoæeš nešto popiti?
+{104218}{104257}Može.
+{104309}{104355}Tako sam nespretna.
+{104361}{104425}Neki dan sam prolila pivo|po cijeloj haljini.
+{104432}{104533}Mislim da je ostala|mrlja. Vidiš li je?
+{104763}{104855}lmam kljuè od Sheiline|sobe. ldemo gore?
+{105556}{105612}Otvori kljuèem.
+{105686}{105735}Dobro. K vragu.
+{105777}{105873}Zašto nisi otkljuèao?|-Treba pospremiti?
+{106227}{106272}Ostani tako.
+{106915}{107012}Dugo sam razmišljala|o ovomu. Jako te želim.
+{107018}{107075}Samo sam je htio usreæiti.
+{107080}{107130}Ovu noæ neæeš zaboraviti.
+{107136}{107182}Pokušavam zaboraviti,|ali ne mogu.
+{107187}{107227}Podaj mi se.
+{107235}{107307}To sam samo i èinio. Davao.
+{107552}{107608}Zbilja ne pomažeš.
+{107622}{107657}Oprosti.
+{107674}{107742}Ne mogu.
+{107983}{108035}Jesi znao da smo Charlie i ja
+{108041}{108160}htjeli doæi ovamo i srediti|tebe i tvoju prijateljicu?
+{108167}{108268}Ali tako ste sjajno izveli|tu financijsku operaciju.
+{108275}{108336}Tko sada može|razmišljati o ubijanju?
+{108340}{108436}Hvala. Puno mi znaèi|vaša pohvala.
+{108442}{108522}Rekao sam da smiješ govoriti?|-Charlie, nemoj.
+{108534}{108584}Bit æe preglasno.
+{108611}{108651}Preglasno.
+{109467}{109571}Zdravo. -Bože! Nick, ti si?|Jesi li dobro?
+{109608}{109643}Dobro sam.
+{109649}{109687}Hvala Bogu.
+{109691}{109735}Nisam znala jesi li...
+{109749}{109850}Mislila sam da...|Ništa ti nije? -Ne.
+{109874}{109945}Hvala Bogu. Gdje si?
+{109963}{110046}Ne otežavaj mi ovo još više.
+{110060}{110103}Vidio sam vas.
+{110117}{110162}Vidio sam vas.
+{110168}{110254}Sve znam. -O èemu|ti to govoriš?
+{110260}{110353}Moramo ovako? Ti i Phillip.|-Što s njim?
+{110360}{110413}Porièeš. Ne mogu vjerovati.
+{110438}{110502}Petak popodne, sjeæaš se?
+{110519}{110623}Ranije sam došao kuæi.|Vidio sam vas.
+{110662}{110706}Bio sam ondje.
+{110732}{110774}O, ne.
+{110782}{110836}Da. ´O, ne.´
+{110901}{110962}Bila sam na poslu|u petak popodne.
+{110967}{111008}Na poslu?
+{111014}{111097}Onda se tvoj klon|kod kuæe ševio s mojim šefom.
+{111109}{111219}To je bila moja sestra. Rekla|sam ti da dolazi iduæi petak
+{111225}{111347}sa zaruènikom? Došli su ovaj|petak. Zvali su iz z. luke.
+{111352}{111436}Rekla sam im gdje je kljuè.|Nije te više bilo na poslu
+{111442}{111502}pa sam ti kod kuæe|ostavila poruku.
+{111508}{111605}Što je s Phillipovim|manšetama na sudoperu?
+{111613}{111730}lmamo ih od Božiæa.|lzvadila sam ih da se sjetiš
+{111735}{111810}da ih moraš vratiti.|-Dakle, ne varaš me?
+{111829}{111885}Ne, glupane.
+{111904}{111987}Još uvijek me voliš?|-Najviše na svijetu.
+{112019}{112084}Neæeš vjerovati|što sam sve prošao.
+{112098}{112150}Smijat æeš se, ali...
+{112194}{112250}Sranje. -Što je?
+{112256}{112303}Sranje! -Što je?
+{112317}{112355}Sranje!
+{112370}{112403}Sranje!
+{112425}{112482}Sranje, sranje!
+{112665}{112709}Spuštamo se.
+{112939}{112997}Ne diraj to. -Èovjeèe.
+{113014}{113059}Èovjeèe.
+{113217}{113305}Mislim da mogu otvoriti|vrata i uhvatiti plahtu.
+{113311}{113353}Ne diraj je!
+{113359}{113409}Ne. Ne mièi se.
+{113415}{113468}K vragu. Pomaknuo sam ruku.
+{113477}{113548}Ne mièi se.|Mislim da se mièeš.
+{113554}{113623}Zovi hitnu. Slušaj me.
+{113630}{113753}Neka doðu što prije mogu.|Neka ponesu nosila!
+{113759}{113794}lzvježbat æu pokret.
+{113800}{113883}Vježbati? Visim|na jebenom rubu!
+{113915}{114034}Ne želim ovako umrijeti.|Nisam te htio opljaèkati.
+{114040}{114127}Reæi æu 1, 2, 3,|onda æu to uèiniti.
+{114134}{114173}Ne èujem te!
+{114179}{114250}Poèet æu s 1 i brojati do 3.
+{114260}{114293}Spreman?
+{114300}{114428}Jedan, dva...|-Ne èujem te! Glasnije!
+{114433}{114549}Rekao sam ´dva´! -Veæ si|na dva? Poèni od jedan!
+{114607}{114649}Jedan... -Dobro.
+{114655}{114706}Dva. -Èujem te. -Tri!
+{114761}{114803}Ulovio sam je!
+{114916}{114980}Bravo! Moj si...
+{115331}{115371}Dizalo! Novci!
+{115455}{115512}Podsjeti me|da te poslije razbijem.
+{115927}{115993}Baš smo sreækoviæi.
+{115999}{116092}Pomiriši to. -l vi|možete postati milijuner.
+{116103}{116136}Kurve!
+{116142}{116190}Pomiriši ovo.
+{116203}{116283}400 ovakvih! Bogati smo!
+{116289}{116382}Naišli smo na zlatnu žicu!|-Tko je to?
+{116389}{116485}Što sada? -Ne znam.|-Rekao si da imaš plan.
+{116491}{116552}To je bio moj plan.|Zaletjeti se u njih.
+{116559}{116600}Zaletjeti se u njih.
+{116689}{116731}Pucaj u gada!
+{116866}{116917}Dosta mi je ovoga.
+{116922}{116963}ldemo!
+{117078}{117112}Pazi!
+{117290}{117369}Grabim pušku|i ganjam zloèince.
+{117396}{117439}Pravi si.
+{117801}{117906}Vidiš ih? -Ne.|Reæi æu ti kad ih vidim.
+{117918}{117964}Molim te.
+{118141}{118177}Što?
+{118245}{118292}Vidiš li ovu glupost?
+{118352}{118398}Sviðaš mi se kada si ovakav.
+{118404}{118464}Ti i tvoj deèko maturant|imate oružje.
+{118470}{118530}Tako ne moram pucati|u nenaoružan par.
+{118570}{118616}Spusti torbu.
+{118646}{118736}Drvosjeèo, uzmi torbu.|-Ja æu...
+{118742}{118802}Ti si idiot! Ušuti.|-Ti si idiot.
+{118813}{118893}Što si sada? Kralj zloèina?|Postoje dvije vrste ljudi.
+{118901}{118962}Ubojice i svi ostali.
+{118968}{119075}Ja sam ubojica. Što si ti?
+{119191}{119237}Oženjen sam.
+{119418}{119461}Sranje.
+{119464}{119542}Jesi poludio?!
+{119733}{119791}Tko je sada glavni?
+{119803}{119849}Ovamo torbu,
+{119855}{119948}ili æe ti moj prijatelj|Nick Beam prosvirati guzicu.
+{119956}{120004}Nije li tako?
+{120110}{120158}Okrenut æu se.
+{120163}{120195}Vidim ga.
+{120225}{120293}ldem iza tebe,|odvezat æu ti leða.
+{120420}{120544}Policija. -Hvala Bogu da ste|došli. -Noæna mora je gotova.
+{120576}{120694}Što radite? Maknite|pištolje, glupi drotovi.
+{120836}{120897}Oni su.
+{120937}{121023}U Arizoni æe biti|sretni što vas vide.
+{121036}{121121}Èekajte malo.|Postoje još dvojica.
+{121209}{121279}´Oženjen sam.´ Bum!
+{121308}{121388}Previše. -Svi novci su|ovdje? -Èini se.
+{121395}{121453}lmamo dovoljno vremena|da sve vratimo.
+{121496}{121529}Molim?
+{121550}{121604}Moramo vratiti novce.
+{121668}{121766}Možda ti baš nije jasno|što je cilj pljaèke.
+{121772}{121837}Nisam ti rekao.|Nazvao sam ženu.
+{121844}{121912}Sve je u redu.|To nije bila ona.
+{121916}{121976}Nije ni bila ondje.|Nije li to sjajno?
+{122035}{122097}Bili su to|njezina sestra i zaruènik.
+{122103}{122179}Baš me briga,|da su i Šiljo i Nosferatu.
+{122186}{122252}Ne ideš nikamo s tom lovom.
+{122276}{122321}Ne želim to èuti.
+{122438}{122484}Pusti. -Ti pusti.
+{122492}{122547}Ti pusti. -Pusti.|-Novci nisu tvoji.
+{122552}{122602}Ni tvoji. -Nisu tvoji!|-Polovica je moja.
+{122609}{122691}Pusti! -Ti pusti!
+{123440}{123467}Dobro si?
+{123473}{123519}Da. A ti?
+{123534}{123579}Preživjet æu.
+{123634}{123698}Ne mogu ti dopustiti|da odneseš novce.
+{123732}{123787}Moj je život u toj torbi.
+{123818}{123910}Da i želiš vratiti novce,|ne možeš to uèiniti.
+{123917}{123966}Pokazao si lice kameri.
+{123972}{124036}Provjerit æe samo|u sluèaju pljaèke.
+{124039}{124106}Otiæi æu rano i vratiti novce.|Nitko neæe znati.
+{124351}{124403}Mogu povratiti svoj život.
+{124770}{124823}Jedno zaboravljaš.
+{124830}{124887}l ja æu povratiti svoj život.
+{128101}{128154}Bože.
+{128256}{128346}Što ti se dogodilo?|-Duga prièa.
+{128383}{128492}Ustrijeljen sam. Mislim da me|policija traži u Arizoni.
+{128536}{128593}Osim toga, cipele|su mi se zapalile.
+{128730}{128814}Prodali ste mi ovo kao|zadnju stvar. Nije digitalna!
+{128820}{128879}Prodali ste mi je|kao digitalnu? Ne.
+{128885}{128933}Vraæam je i oèekujem|pun povrat novca
+{128943}{129046}ili ja i moja tvrtka|više neæemo poslovati s vama.
+{129125}{129158}Dakle...
+{129164}{129206}Èuo si?
+{129221}{129298}Vandali su provalili|preko vikenda.
+{129312}{129347}Ništa nisu ukrali.
+{129353}{129394}Odrezali su...
+{129432}{129524}...onu stvar|s P. B.-jevog kipa.
+{129638}{129694}Pregledavaju snimljenu traku.
+{129867}{129910}Zdravo. Kako ide?
+{129915}{129950}Ne sada.
+{129996}{130062}Jeste gledali utakmicu sinoæ?|-Kakvu utakmicu?
+{130067}{130115}Onu s prekovremenim.
+{130119}{130159}Možeš ušutiti, molim te?
+{130213}{130270}Ne diraj to. Svinjo.
+{130456}{130553}To je to. lmam ideju|za maskotu McGinty krekera.
+{130559}{130616}Pomakni se. Hvala.
+{130625}{130669}Ušuti!
+{130809}{130854}Što se dogodilo?
+{130921}{130979}Što je ovo, k vragu?!
+{131008}{131102}Ne znam. -Koprcaš se|brzo kao pauk.
+{131108}{131205}Netko je snimio preko trake.|-Tko je imao pristup?
+{131231}{131339}Elektrièar je došao jutros.|-Nisam naruèio elektrièara.
+{131346}{131441}Ja sam. Florescentna|svjetla trepere.
+{131453}{131518}Žao mi je. -To je grozno.
+{131524}{131577}Volio bih biti sam.
+{131586}{131666}Na trenutak bih volio|biti jako sam.
+{131672}{131732}l ja æu otiæi. -Hvala ti.
+{131889}{131945}Prestanite. Hoæete li jesti?
+{131990}{132061}Nemoj spaliti meso.|-Nikada to ne radim.
+{132065}{132150}Što se dogodilo prošloga puta?|-Tata neæe spaliti meso.
+{132163}{132220}Joey, Tonya!
+{132227}{132275}Poslušajte mamu.
+{132297}{132403}Moj poseban senf.|Ne smije ga nitko dirati.
+{132500}{132556}Kako posao elektrièara?
+{132620}{132706}Nije loše. Predugo je|radno vrijeme.
+{132723}{132768}Želim ti zahvaliti.
+{132781}{132893}Ne znam zašto. Samo želim reæi|da sam ti zahvalan na tomu.
+{132932}{133013}Nema na èemu.|Kako si znao gdje sam?
+{133057}{133118}Prijateljica mi je pomogla.
+{133161}{133211}Prijateljica, ha?
+{133219}{133318}Gladan si? -Voljeli bismo|da nam se pridružite. Zar ne?
+{133437}{133491}Danas sam razgovarao sa šefom.
+{133497}{133568}Uvjerio sam ga da nam treba|novi sigurnosni sustav.
+{133574}{133680}lmaš kakvih ideja? -Jasno.|Mogu vam pomoæi odabrati ga.
+{133694}{133741}Želiš rukovoditi njime?
+{133749}{133837}Trebaju nekoga pouzdanoga.|Rekao sam da poznajem takvoga.
+{133843}{133889}Morat æu razmisliti.
+{133897}{133968}Baš razmatram nekoliko|unosnih ponuda.
+{133974}{134038}Mnogo me ljudi želi uposliti.
+{134058}{134130}Baš ovako volim.
+{134136}{134216}Sada trebam samo malo|maminoga posebnog senfa.
+{134224}{134259}Prestani.
+{134431}{134473}Što sam skrivio?

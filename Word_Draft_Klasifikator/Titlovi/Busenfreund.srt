@@ -1,0 +1,2017 @@
+1
+00:00:07,038 --> 00:00:13,506
+Ne razumijem zašto Sentu Berger nisu toliko
+isticali kao, na primjer, Romy Schneider.
+
+2
+00:00:13,510 --> 00:00:17,271
+Kad god bi se pojavio neki film s Romy
+Schneider, mediji bi... svi bi poludjeli.
+
+3
+00:00:17,272 --> 00:00:21,880
+Mislim, sve bi detaljno analizirali,
+kako je ona velika žena i tako to...
+
+4
+00:00:21,884 --> 00:00:26,341
+ali Sentu Berger su
+mediji gotovo ignorirali!
+
+5
+00:00:26,538 --> 00:00:31,448
+Spominjali je jesu, ali nekako...
+na treæem ili èetvrtom mjestu.
+
+6
+00:00:31,449 --> 00:00:34,593
+I uvijek me ljutilo šta to
+vide u toj smiješnoj Schneiderici,
+
+7
+00:00:34,594 --> 00:00:38,067
+dok je Senta Berger bila
+velika, znaèajna svjetska žena,
+
+8
+00:00:38,068 --> 00:00:41,168
+odnosno, po mom mišljenju,
+najznaèajnija žena na svijetu,
+
+9
+00:00:41,169 --> 00:00:44,251
+a ljudi je ignoriraju!
+Ne razumijem to...
+
+10
+00:00:44,252 --> 00:00:48,785
+Ona se morala u nekakvim malim filmovima
+zadovoljiti sa sporednim ulogama.
+
+11
+00:00:55,802 --> 00:01:02,504
+<b>"LJUBITELJ GRUDI"
+(Prisni prijatelj)
+
+12
+00:02:31,407 --> 00:02:36,343
+I ako se sad taj radijus vektor oko ove
+jediniène kružnice dalje vrti u ovom smjeru,
+
+13
+00:02:36,344 --> 00:02:39,705
+onda se vidi da ovaj žuti
+segment polako biva sve veæi
+
+14
+00:02:39,706 --> 00:02:45,282
+dok ne postigne najvišu vrijednost. Znaèi,
+taj segment, ovo podruèje ovdje se poveæava
+
+15
+00:02:45,283 --> 00:02:50,137
+i ovdje postiže najvišu vrijednost, a ako
+se i dalje vrti, žuti segment biva sve manji.
+
+16
+00:02:50,138 --> 00:02:54,735
+Dakle, ovdje se
+krivulja funkcije opet spušta
+
+17
+00:02:54,736 --> 00:02:57,379
+i ovdje se vraæa
+na vrijednost "nula".
+
+18
+00:02:57,380 --> 00:03:01,632
+I kad pogledamo kako se pruža
+ova krivulja, na šta to podsjeæa?
+
+19
+00:03:01,633 --> 00:03:04,923
+To izgleda kao
+lijepa dojka, zar ne?
+
+20
+00:03:05,139 --> 00:03:09,962
+A dojka je na latinskom "sinus",
+to smo nauèilil na nastavi latinskog.
+
+21
+00:03:09,963 --> 00:03:15,933
+Dakle, ova se funkcija, naravno,
+naziva "sinus". Dojka... sinus.
+
+22
+00:03:16,371 --> 00:03:18,264
+Dakle, sinus kuta alfa.
+
+23
+00:03:18,265 --> 00:03:24,506
+A žene veæinom pored jedne dojke
+imaju i drugu, dojku kompanjona,
+
+24
+00:03:24,507 --> 00:03:29,436
+a latinski "co" - kompanjon,
+dojka co-sinus,
+
+25
+00:03:29,437 --> 00:03:33,050
+znaèi, druga funkcija
+se zove cosinus.
+
+26
+00:03:33,227 --> 00:03:39,717
+Znaèi, imamo ovdje grudi, dojku
+i dojku kompanjona, sinus i cosinus.
+
+27
+00:03:39,719 --> 00:03:41,398
+To je lako upamtiti.
+
+28
+00:03:41,399 --> 00:03:46,716
+I slièno kako
+grudnjak drži dvije dojke,
+
+29
+00:03:46,717 --> 00:03:51,368
+takorekuæ, u nekakvom su
+odnosu, imaju nešto zajednièko,
+
+30
+00:03:51,369 --> 00:03:57,283
+tako su i ove funkcije, sinus i cosinus,
+povezane, takorekuæ, jednom formulom,
+
+31
+00:03:57,284 --> 00:04:02,281
+što æe reæi da ta formula ima
+funkciju grudnjaka, može se reæi,
+
+32
+00:04:02,282 --> 00:04:06,733
+a ta formula se da
+izvesti iz Pitagorinog pouèka.
+
+33
+00:04:06,735 --> 00:04:11,104
+Kvadrat jedne katete
+plus kvadrat druge katete,
+
+34
+00:04:11,105 --> 00:04:17,185
+dakle, sinus kvadrat plus cosinus kvadrat
+jednako kvadrat vektora jediniène kružnice,
+
+35
+00:04:17,185 --> 00:04:22,192
+a on ima vrijednost "jedan", dakle,
+sinus kvadrat alfa plus cosinus kvadrat alfa
+
+36
+00:04:22,193 --> 00:04:27,875
+to je jedna dojka na kvadrat plus
+druga dojka na kvadrat jednako "jedan".
+
+37
+00:05:45,907 --> 00:05:48,371
+Ima li koga?
+
+38
+00:06:08,896 --> 00:06:13,633
+Otvori prozor
+nakon što izvršiš nuždu!
+
+39
+00:06:54,953 --> 00:06:59,033
+Dakle, za mene su grudi
+centralni tjelesni dio žene,
+
+40
+00:06:59,038 --> 00:07:02,372
+najdraži, i u njega, praktièki,
+uvijek najprije pogledam,
+
+41
+00:07:02,373 --> 00:07:07,421
+ali postoje, naravno, i sekundarne grudi,
+znaèi, grudi drugog reda, takorekuæ,
+
+42
+00:07:07,422 --> 00:07:11,687
+a to je guza, stražnjica, jer
+se i ona sastoji od dvije kugle,
+
+43
+00:07:11,688 --> 00:07:15,169
+koje stoje usko jedna uz
+drugu, samo nemaju bradavice.
+
+44
+00:07:15,170 --> 00:07:20,034
+I ovaj... grudi ljubimo
+rado, jer su meke i mirišu,
+
+45
+00:07:20,035 --> 00:07:26,621
+a guza miriše manje, ali postoje
+sladokusci i znalci koji je rado ljube
+
+46
+00:07:26,622 --> 00:07:30,721
+i otud vjerojatno dolazi i
+izraz "možeš mi dupe polizati".
+
+47
+00:07:30,722 --> 00:07:35,121
+Znaèi, "polizati dupe" kaže neka žena,
+na primjer, kad je ljuta na muškarca
+
+48
+00:07:35,122 --> 00:07:41,148
+i želi mu...
+dobaciti nešto grublje.
+
+49
+00:07:42,651 --> 00:07:48,096
+No, dobro... na guzu se
+prema dolje nastavljaju butine
+
+50
+00:07:48,097 --> 00:07:53,157
+i slièno kako je guza okrugla
+i nešto šira, tako su i butine žene
+
+51
+00:07:53,162 --> 00:07:56,592
+sasvim mesnate i mekane.
+
+52
+00:07:56,677 --> 00:08:01,501
+A to je zato da se èovjek
+unutra može zavuæi, jer je mekano,
+
+53
+00:08:01,502 --> 00:08:07,058
+kad se unutra
+glavom... takorekuæ, mazi.
+
+54
+00:08:08,362 --> 00:08:17,062
+Dakle, ta tri glavna dijela, grudi, guza i
+butine, centralni su, glavni dijelovi žene,
+
+55
+00:08:17,677 --> 00:08:22,856
+ako ne raèunamo usne, koje
+su, praktièki, najljepše na glavi.
+
+56
+00:08:22,857 --> 00:08:27,119
+Glava je više... košèata stvar.
+
+57
+00:08:27,120 --> 00:08:34,057
+Inaèe je glava intelektualni dio
+koji nije jako prijatan i ugodan.
+
+58
+00:08:34,140 --> 00:08:38,389
+Samo taj otvor, usne,
+koje su lijepe i mekane,
+
+59
+00:08:38,390 --> 00:08:41,559
+jedino je što je
+zanimljivo na glavi.
+
+60
+00:08:41,666 --> 00:08:49,016
+Pa sam mislio... moralo bi biti
+moguæe sastaviti ženskog Frankensteina,
+
+61
+00:08:49,017 --> 00:08:52,613
+idealno lijepog
+Frankensteina, znaèi...
+
+62
+00:08:53,021 --> 00:08:55,699
+Frankensteina
+kao lijepu ženu.
+
+63
+00:08:55,922 --> 00:09:02,993
+Onda bi se moglo od raznih poznatih
+žena, takorekuæ, uzeti dijelove
+
+64
+00:09:02,994 --> 00:09:06,472
+i onda od njih
+sastaviti idealnu ženu.
+
+65
+00:09:06,619 --> 00:09:09,843
+Senti Berger, zapravo,
+ne bi trebalo nikakvih drugih...
+
+66
+00:09:09,844 --> 00:09:13,616
+jer je prilièno slièna
+idealnom Frankensteinu.
+
+67
+00:09:13,705 --> 00:09:19,758
+Znaèi, ona mu je najsliènija. Možda ona
+i jeste idealni lijepi ženski Frankenstein.
+
+68
+00:09:19,759 --> 00:09:25,921
+Ali veæina drugih žena, primjerice Ursula
+Andress, koja mi je tada jako upala u oèi...
+
+69
+00:09:26,034 --> 00:09:32,983
+Ona je imala dobar gornji dio tijela,
+samo joj je glava bila ponešto... gruba,
+
+70
+00:09:32,984 --> 00:09:36,577
+gotovo me podsjeæala
+na mrtvaèku lubanju nekako...
+
+71
+00:09:36,578 --> 00:09:39,851
+Izgledala je brutalno i...
+
+72
+00:09:39,852 --> 00:09:46,799
+lubanja joj se, takorekuæ, nazirala kroz
+kožu, da sam se pomalo bojao njene glave.
+
+73
+00:09:46,800 --> 00:09:49,708
+Ali tijelo joj je vrhunsko.
+
+74
+00:09:49,709 --> 00:09:55,418
+Tu bi se moralo glavu Uschi Glas
+postaviti na tijelo Ursule Andress.
+
+75
+00:09:55,450 --> 00:10:01,509
+To bi bilo lijepo. To bi bio dobar
+Frankenstein, gotovo slièan Senti Berger.
+
+76
+00:10:01,510 --> 00:10:03,861
+Ženski Frankenstein.
+
+77
+00:10:04,266 --> 00:10:07,536
+Ovo je Senta Berger
+na vrhuncu svog života.
+
+78
+00:10:07,537 --> 00:10:13,799
+Dakle, otprilike u onim godinama kad je
+bila najljepša, izmeðu 25. i 30. godine.
+
+79
+00:10:14,591 --> 00:10:18,442
+I tu se vidi na ovim
+poluotvorenim usnama
+
+80
+00:10:18,443 --> 00:10:26,353
+izvjesna... nježnost i...
+jedna otvorena senzibilnost.
+
+81
+00:10:26,354 --> 00:10:32,281
+Ne znam. I ovaj... kroj usana...
+ne postoji kod nijedne druge žene,
+
+82
+00:10:32,282 --> 00:10:35,741
+kod nijedne druge
+poznate glumice i slièno.
+
+83
+00:10:35,998 --> 00:10:39,036
+Ovo je jedna
+njena posebna osobina.
+
+84
+00:10:39,120 --> 00:10:44,050
+Èak ni Ornella Muti
+nema takav oblik usana.
+
+85
+00:10:44,051 --> 00:10:49,025
+Kad je neki cvijet
+neposredno pred uvenuæem
+
+86
+00:10:49,914 --> 00:10:53,280
+i kad njegov miris
+postane težak i slatkast,
+
+87
+00:10:53,281 --> 00:10:57,615
+on još èarobno
+zraèi, može se reæi.
+
+88
+00:10:57,616 --> 00:11:00,992
+I toèno u tim
+godinama je ona sad.
+
+89
+00:11:59,182 --> 00:12:01,630
+<i>Ima li koga?
+
+90
+00:12:03,624 --> 00:12:07,541
+Opet nisi prozraèila!
+
+91
+00:14:11,954 --> 00:14:18,038
+Dakle... Moja majka, ona je bila košèata
+žena, u gornjem dijelu prilièno suha,
+
+92
+00:14:18,039 --> 00:14:21,219
+a moja tetka je
+bila žena bujnih grudi,
+
+93
+00:14:21,220 --> 00:14:27,126
+ali zato dolje nije bila toliko...
+lijepa, da tako kažem, ali ovdje... puna.
+
+94
+00:14:27,127 --> 00:14:30,223
+Imala je meke grudi
+za zavuæi se unutra i...
+
+95
+00:14:30,235 --> 00:14:33,333
+Imala je majèinski
+odnos prema meni...
+
+96
+00:14:33,334 --> 00:14:37,859
+I tako sam se ja uvlaèio u nju
+
+97
+00:14:37,860 --> 00:14:42,177
+kad bi došla u posjetu,
+a to je uvijek bilo vikendima.
+
+98
+00:14:42,558 --> 00:14:47,557
+U vruæe ljetno vrijeme
+ona bi prvo skinula te...
+
+99
+00:14:48,225 --> 00:14:51,859
+gradske haljine,
+znaèi, odmah van iz odjeæe,
+
+100
+00:14:51,860 --> 00:14:56,446
+jer bi se oznojila ili šta veæ... I
+tako bi se osjeæala puno slobodnije.
+
+101
+00:14:56,447 --> 00:14:59,544
+U gaæicama ili bez njih.
+
+102
+00:14:59,545 --> 00:15:02,198
+Dakle, ona u  kombineu...
+
+103
+00:15:02,199 --> 00:15:05,282
+u prozirnom kombineu...
+
+104
+00:15:05,898 --> 00:15:09,604
+Ta haljina,
+taj kombine, jako me...
+
+105
+00:15:09,605 --> 00:15:14,696
+Za mene je to prava
+ženska haljina, može se reæi.
+
+106
+00:15:14,697 --> 00:15:22,230
+Ta mekana, svilena, ružièasta...
+veæinom su bile ružièaste boje...
+
+107
+00:15:23,293 --> 00:15:25,146
+i prozirne.
+
+108
+00:15:25,147 --> 00:15:28,679
+Kad bi ih se dotaklo,
+bile su svilenkasto glatke.
+
+109
+00:15:28,834 --> 00:15:34,933
+I u taj kombine bih se ja
+uvijek ugnijezdio i onda bih...
+
+110
+00:15:34,934 --> 00:15:40,381
+i onda bih milovao taj
+materijal na njenom tijelu.
+
+111
+00:15:40,382 --> 00:15:42,534
+To joj se, naravno, dopadalo,
+
+112
+00:15:42,535 --> 00:15:45,855
+jer bih je
+odmah poèeo milovati.
+
+113
+00:15:45,856 --> 00:15:50,821
+Žene to vole. One su maèkasta
+biæa i rado drže maèke.
+
+114
+00:15:50,982 --> 00:15:55,452
+I kod nas je bilo puno maèaka,
+a i drugi su imali maèke...
+
+115
+00:15:55,871 --> 00:16:02,822
+Kad vidite da neka žena voli maèke,
+otprilike veæ znate kakav je tip žene.
+
+116
+00:16:03,025 --> 00:16:09,006
+Znaèi, tu... nježnost i
+milovanje, to one vole.
+
+117
+00:16:09,007 --> 00:16:14,461
+I to sam ja kod nje
+osobito snažno prakticirao,
+
+118
+00:16:15,356 --> 00:16:21,100
+tako da je ona postala nešto kao moja
+majka, puno više nego moja prava majka.
+
+119
+00:16:21,115 --> 00:16:23,919
+Dakle, zimi sam
+bio izrazito nesretan,
+
+120
+00:16:23,920 --> 00:16:28,647
+jer sam tad na sebi imao tu prokletu
+odjeæu, koja me posvud svrbjela
+
+121
+00:16:28,648 --> 00:16:33,449
+i uvijek sam bio veseo kad bi došlo
+ljeto, kad sam mogao sve to odbaciti
+
+122
+00:16:33,450 --> 00:16:40,003
+i nosio sam uvijek samo
+jedne male kupaæe gaæice.
+
+123
+00:16:40,331 --> 00:16:46,305
+I uvijek sam rado
+upuzavao u te žene,
+
+124
+00:16:46,474 --> 00:16:53,381
+jer je to za mene bio bijeg iz
+kemijskog, agresivnog okruženja.
+
+125
+00:16:53,382 --> 00:16:59,346
+Naravno, i hladan vjetar i prašina su
+jako neugodni i cijelo tijelo svrbi od toga.
+
+126
+00:16:59,347 --> 00:17:06,922
+I... mene je uvijek nešto vuklo
+meðu te tople... meðu noge.
+
+127
+00:17:07,287 --> 00:17:14,438
+Želio sam se uvuæi unutra
+u ženinu utrobu, kvazi,
+
+128
+00:17:14,588 --> 00:17:18,804
+zato što... ta vlažnost,
+koju sam dodirivao,
+
+129
+00:17:18,805 --> 00:17:25,694
+ta mošusolika vlažnost me na neki naèin
+uzbuðivala, hladila i smirivala mi živce.
+
+130
+00:17:25,695 --> 00:17:29,797
+Tako da mi je to,
+praktièki, bilo uvijek u mašti...
+
+131
+00:17:29,798 --> 00:17:32,835
+Kad bih
+naveèer legao u krevet
+
+132
+00:17:32,848 --> 00:17:37,298
+ispod plahte ili, zimi,
+ispod pernatog jorgana,
+
+133
+00:17:37,347 --> 00:17:42,142
+uvijek sam zamišljao kako se
+zavlaèim u toplu, meku žensku utrobu,
+
+134
+00:17:42,143 --> 00:17:48,963
+koja je pomalo... vlažna,
+pljesniva, poput mošusa.
+
+135
+00:20:20,684 --> 00:20:26,798
+Rubensove slike su mi nekako,
+takorekuæ, u principu simpatiène
+
+136
+00:20:26,799 --> 00:20:33,893
+jer je Rubens praktièki prvi veliki slavni
+slikar žena, koji je žene slikao u cijelosti.
+
+137
+00:20:33,894 --> 00:20:38,948
+Ali nažalost je u to vrijeme oèito
+bila moda da se žene prežderavaju.
+
+138
+00:20:38,949 --> 00:20:45,804
+Bile su predebele, prepihtijaste, a to
+je uništavalo estetiku ženskog tijela.
+
+139
+00:20:45,805 --> 00:20:50,154
+Znaèi, taj... celulitis,
+ili kako se veæ zove,
+
+140
+00:20:50,155 --> 00:20:55,899
+na stražnjici ili negdje drugdje...
+to, na neki naèin, ubija ljubavnu želju.
+
+141
+00:20:55,917 --> 00:21:03,214
+A kad i na nadlakticama taj
+masni sloj postane prevelik,
+
+142
+00:21:03,215 --> 00:21:06,711
+to je... èovjeka proðe volja.
+
+143
+00:21:06,712 --> 00:21:14,217
+I onda grudi, koje bi jedine morale
+biti ono okruglo i želatinozno na ženi,
+
+144
+00:21:14,271 --> 00:21:19,125
+bivaju prekrivene tim drugim želatinoznim
+oblicima i potisnute u drugi plan
+
+145
+00:21:19,126 --> 00:21:23,343
+i više ne djeluju erotièno i
+seksualno. Nažalost, nažalost...
+
+146
+00:21:23,344 --> 00:21:27,797
+A onda one male debeljuce,
+kojih ima jako puno kod Rubensa,
+
+147
+00:21:27,798 --> 00:21:31,776
+takoðer kvare sliku, moram reæi,
+sa seksualno estetskog gledišta,
+
+148
+00:21:31,784 --> 00:21:36,362
+jer ta mala djeca tamo podsjeæaju
+me na bebe i tako... a to nije estetski.
+
+149
+00:21:36,363 --> 00:21:40,232
+Ta mala djeca nisu
+spolno razvijena biæa,
+
+150
+00:21:40,233 --> 00:21:43,584
+nego su još
+nerazvijeni... poluembriji.
+
+151
+00:21:43,585 --> 00:21:46,891
+A embrije, moram reæi,
+uopæe ne mogu podnijeti.
+
+152
+00:21:46,892 --> 00:21:55,063
+To nešto nedovoljno razvijeno,
+nerazvijeno, to nepostojanje grudi i tako...
+
+153
+00:21:55,154 --> 00:22:00,992
+na djevojèicama, na primjer,
+to me ubija, užasno me nervira.
+
+154
+00:22:01,904 --> 00:22:07,813
+Današnji lijepi grudnjaci praktièki
+imaju samo polukupole odozdo.
+
+155
+00:22:08,218 --> 00:22:13,427
+Kao šalice za èaj, koje ti grudi, koje
+se unutra nalaze, praktièki serviraju.
+
+156
+00:22:13,428 --> 00:22:17,004
+To su zaista male šalice koje
+èovjeku serviraju svoj sadržaj.
+
+157
+00:22:17,173 --> 00:22:22,769
+To je, praktièki, kao puding, kao
+pudingov brijeg koji se unutra nalazi
+
+158
+00:22:22,770 --> 00:22:27,305
+i treba ga samo
+zagristi ili polizati.
+
+159
+00:22:27,501 --> 00:22:30,273
+Dakle, tako mora
+biti konstruiran grudnjak.
+
+160
+00:22:30,282 --> 00:22:38,047
+Ali... dobro... stare seljanke i tako
+to... nosile su se skroz šlampavo...
+
+161
+00:22:38,048 --> 00:22:40,521
+Èovjeku se
+smuèi kad to vidi!
+
+162
+00:22:40,522 --> 00:22:44,251
+Dakle, ili pravi
+grudnjak ili nikakav!
+
+163
+00:22:44,252 --> 00:22:47,642
+Jer grudi su
+najvažniji ukras žene.
+
+164
+00:22:47,643 --> 00:22:49,923
+Zapravo, može se reæi...
+
+165
+00:22:49,924 --> 00:22:53,216
+Mislim, ovo nije vic...
+ljudi se smiju, ali...
+
+166
+00:22:53,217 --> 00:22:58,111
+Moram reæi da su grudi
+pitanje "biti il' ne biti"...
+
+167
+00:22:58,114 --> 00:23:00,601
+kao što
+Shakespeare kaže.
+
+168
+00:23:00,602 --> 00:23:05,024
+Žena s odgovarajuæim grudima
+može napraviti karijeru i...
+
+169
+00:23:05,025 --> 00:23:08,935
+kao tajnica, kao
+supruga, kao ljubavnica...
+
+170
+00:23:08,936 --> 00:23:13,010
+Ali kad žena ima slabašne
+grudi... upoznao sam i takve žene,
+
+171
+00:23:13,011 --> 00:23:19,123
+one su po prirodi bile pomale deprimirane
+i uvijek su naglašavale da su im grudi male.
+
+172
+00:23:19,124 --> 00:23:22,103
+Mislim, žene
+su toga svjesne.
+
+173
+00:23:22,104 --> 00:23:26,583
+I uvijek su poslije ukazivale na to,
+mislim, kad su imale slabe grudi:
+
+174
+00:23:26,590 --> 00:23:29,864
+"Nažalost, gore
+sam malo potanka."
+
+175
+00:23:29,923 --> 00:23:34,638
+I onda sam ih ja morao tješiti: "Dobro,
+bit æe sve u redu, nije to tako tragièno."
+
+176
+00:23:34,639 --> 00:23:39,087
+Naravno, i ja sam znao da je
+ta stvar potpuno beznadežna.
+
+177
+00:23:39,850 --> 00:23:43,166
+Kad bih ja bio neki diktator
+ili barem gradonaèelnik,
+
+178
+00:23:43,167 --> 00:23:47,222
+prva stvar koju bih naredio je
+èišæenje tih prokletih pseæih govana!
+
+179
+00:23:47,223 --> 00:23:49,848
+Ta pseæa govna se
+moraju ukloniti s ulica!
+
+180
+00:23:49,849 --> 00:23:54,436
+Kad hodam ulicama neprestano moram
+voziti slalom! I paziti kud gazim...
+
+181
+00:23:54,437 --> 00:23:57,573
+Kao da sam slalomaš!
+
+182
+00:23:57,747 --> 00:24:02,609
+Znaèi, prva prvcata stvar bi bila
+apsolutna zabrana držanja pasa!
+
+183
+00:24:02,614 --> 00:24:07,447
+Apsolutna! Može ih si priuštiti, odnosno
+držati, samo onaj tko ima vlastito zemljište!
+
+184
+00:24:07,448 --> 00:24:13,356
+Mora imati barem seosko dvorište, gdje
+pas može trèati, srati i pišati koliko želi.
+
+185
+00:24:13,357 --> 00:24:18,928
+Ali na jednu javnu cestu
+ne smije stupiti pseæa šapa!
+
+186
+00:24:19,075 --> 00:24:24,643
+Psi tu nemaju šta tražiti!
+A ako psa treba nekamo odvesti,
+
+187
+00:24:24,644 --> 00:24:28,218
+mora ga se transportirati u
+nekom sanduku po javnoj cesti,
+
+188
+00:24:28,219 --> 00:24:32,462
+i tamo ga odvesti autom,
+taksijem ili tome slièno!
+
+189
+00:24:32,473 --> 00:24:37,480
+Pseæa šapa ne bi smjela
+stupiti na javni asfalt!
+
+190
+00:24:37,481 --> 00:24:44,017
+Èim neka šapa dodirne
+asfalt, slijedi odmah i govno!
+
+191
+00:24:44,165 --> 00:24:47,010
+Pse ne možeš
+odviæi od sranja i pišanja!
+
+192
+00:24:47,011 --> 00:24:52,034
+Veæ sam se èesto svaðao s curama i
+ženama koje s psima ulaze u tramvaj!
+
+193
+00:24:52,035 --> 00:24:54,640
+I zbilja sam se
+svaðao s njima, ali...
+
+194
+00:24:54,641 --> 00:24:58,565
+Znaèi, pseæa šapa... èim pas
+negdje doðe, odmah sere i piša!
+
+195
+00:24:58,566 --> 00:25:06,329
+Kod njega se to valjda razvilo u tijeku
+evolucije i to su njegove osnovne aktivnosti!
+
+196
+00:27:25,926 --> 00:27:30,605
+Rijeè "Weib" za ženu
+je bolja od rijeèi "Frau".
+
+197
+00:27:30,606 --> 00:27:35,150
+Jer "Frau" zvuèi... Ono fr fr...
+kao prdež [furzen]... nije dobro.
+
+198
+00:27:35,157 --> 00:27:39,992
+Mislim, to "f" i "r" i "au"...
+To je loše! To ne valja.
+
+199
+00:27:39,993 --> 00:27:45,121
+Ali "Weib", a osobito "Weiber" [žene]...
+Ja uvijek kažem "Weiber" i nikad "Frauen".
+
+200
+00:27:45,122 --> 00:27:48,664
+Jer rijeè "Weib" je
+mekana i seksi, može se reæi.
+
+201
+00:27:48,670 --> 00:27:53,577
+"W" - to su jaka bedra.
+
+202
+00:27:53,725 --> 00:28:00,637
+Na kraju rijeèi stoji "b" = "Busen"
+[grudi], a "b" i slièi na dojku...
+
+203
+00:28:00,638 --> 00:28:03,681
+Znaèi, "b" = Busen,
+a i lièi na grudi.
+
+204
+00:28:03,682 --> 00:28:09,238
+"W" lièi na bedra,
+a "ei" [jaje] u sredini,
+
+205
+00:28:09,239 --> 00:28:14,227
+znaèi, jajovod...
+u vagini, ako tako hoæete...
+
+206
+00:28:14,228 --> 00:28:16,814
+znaèi,
+unutra, u maternici...
+
+207
+00:28:16,815 --> 00:28:21,595
+A "geil" [napaljen; seksi]
+s "ei" u sredini... sve je to srodno.
+
+208
+00:28:21,621 --> 00:28:26,182
+Znaèi, rijeè "Weib" je prvoklasna
+onomatopeja i "Weiber"...
+
+209
+00:28:26,183 --> 00:28:28,560
+Stoga ja
+uvijek kažem "Weiber".
+
+210
+00:28:28,561 --> 00:28:32,968
+"Ficken" [jebanje] je
+jako dobra onomatopeja.
+
+211
+00:28:33,139 --> 00:28:37,568
+"Fick" je prilièno jako,
+
+212
+00:28:37,569 --> 00:28:41,417
+nekako podsjeæa na
+oružje koje ispaljuje hitac.
+
+213
+00:28:41,418 --> 00:28:46,276
+Kao... "f" lièi na pištolj,
+
+214
+00:28:46,277 --> 00:28:51,746
+a "ic" je oštar, visoki zvuk,
+koji se èuje pri ispaljivanju,
+
+215
+00:28:51,747 --> 00:28:58,300
+a "k" pogaða, zrno udara cilj.
+
+216
+00:28:58,301 --> 00:29:04,533
+Znaèi, rijeè "ficken" je, takorekuæ,
+prvoklasna onomatopeja za ejakulaciju,
+
+217
+00:29:04,534 --> 00:29:08,889
+takorekuæ, za
+pucanje, ispucavanje...
+
+218
+00:29:09,111 --> 00:29:12,704
+"Nitovanje"
+je zbilja užasno...
+
+219
+00:29:12,705 --> 00:29:15,338
+Rijeè "nitovanje" je loša.
+
+220
+00:29:15,339 --> 00:29:19,255
+Mislim... nije baš da ne
+odgovara, ali ta rijeè "nitna"...
+
+221
+00:29:19,256 --> 00:29:26,047
+Kad pomislite na ukucavanje
+nitnu u tu nježnu, mekanu stvar...
+
+222
+00:29:26,193 --> 00:29:31,078
+ta oštra
+nitna, prilièno tanka...
+
+223
+00:29:31,079 --> 00:29:34,991
+s oštrim vrhom, to
+je gadno, to nije fino.
+
+224
+00:29:35,872 --> 00:29:38,839
+To ozljeðuje...
+
+225
+00:29:38,840 --> 00:29:43,397
+Pritom moraš pomisliti na krv ili
+tako nešto... To je užasno! Užasno.
+
+226
+00:29:44,435 --> 00:29:49,079
+Pomisliš èak i na èavle koje su
+zakucali kroz Kristove ruke i noge...
+
+227
+00:29:49,080 --> 00:29:53,909
+dakle, tu istjeèe krv... Još od mladih
+dana mi je to praktièki uvijek u mislima,
+
+228
+00:29:54,342 --> 00:30:03,143
+Kad èavao uðe u tijelo, mislim na
+tijelo Kristovo, i onda dolje teèe krv...
+
+229
+00:30:03,316 --> 00:30:09,831
+Dakle, apsolutno ne podnosim da iz pice
+teèe krv. To je jedna od najstrašnijih slika.
+
+230
+00:30:09,964 --> 00:30:13,887
+Onda odmah moram odvratiti
+pogled. Na to ne smijem ni misliti.
+
+231
+00:30:13,888 --> 00:30:17,137
+Krv otud nikad
+ne smije istjecati.
+
+232
+00:30:17,138 --> 00:30:21,018
+I inaèe...
+mjeseèno krvarenje žena...
+
+233
+00:30:21,137 --> 00:30:23,500
+To je zbilja odvratno!
+
+234
+00:30:23,501 --> 00:30:26,819
+Tu moram... onda odmah
+odem, živci mi ne podnose...
+
+235
+00:30:26,955 --> 00:30:31,460
+da krv istjeèe...
+I to uopæe neæu gledati!
+
+236
+00:30:33,424 --> 00:30:38,983
+Onda mi se smuèi, a i miris
+žene u te dane mi je neugodan.
+
+237
+00:30:39,026 --> 00:30:41,395
+Zato odem.
+
+238
+00:31:47,351 --> 00:31:50,090
+Halo, ovdje René.
+
+239
+00:31:50,258 --> 00:31:53,069
+Halo? Èuješ li me?
+Da, René je.
+
+240
+00:31:53,211 --> 00:31:59,735
+Èuj... Poslijepodnevna nastava je
+otkazana i zato sad idem kuæi. Znaš?
+
+241
+00:31:59,920 --> 00:32:02,657
+Za nešto manje
+od sat vremena sam tu.
+
+242
+00:32:02,658 --> 00:32:06,230
+Jesi li završila u kuhinji?
+
+243
+00:32:07,243 --> 00:32:11,985
+Pa dobro, gledaj da završiš, jer za manje
+od sat vremena sve mora biti izraèeno.
+
+244
+00:32:11,986 --> 00:32:14,802
+Dakle, širom otvori prozore.
+
+245
+00:32:16,391 --> 00:32:19,012
+Jesi li veæ bila u zahodu?
+
+246
+00:32:19,141 --> 00:32:24,555
+Moraš opet izraèiti! Još jednom! Prije nego
+što doðem kuæi, moraš opet otvoriti prozore.
+
+247
+00:32:24,592 --> 00:32:26,779
+Jesi li veæ bila u zahodu?
+
+248
+00:32:26,795 --> 00:32:30,560
+Dobro, u redu. I u
+kupaonici si veæ završila?
+
+249
+00:32:31,667 --> 00:32:36,382
+Poslije toga ostavi na pola sata
+otvorene sve prozore da se dobro izraèi.
+
+250
+00:32:38,321 --> 00:32:41,382
+Lezi onda u
+krevet ako ti je hladno!
+
+251
+00:32:42,018 --> 00:32:44,882
+Lezi u krevet, a prije
+toga otvori sve prozore.
+
+252
+00:32:44,895 --> 00:32:49,413
+Sad moram prekinuti.
+Dolazim za manje od sat vremena.
+
+253
+00:32:52,064 --> 00:32:58,094
+Da. Znaèi, lezi nakon toga u krevet, ako ti
+bude prehladno. Sad moram prekinuti. Zdravo.
+
+254
+00:37:20,023 --> 00:37:25,210
+<i>...dva sata, trinaest
+minuta i èetrdeset sekundi...
+
+255
+00:39:27,228 --> 00:39:32,038
+Zbog tebe ne mogu spavati.
+
+256
+00:39:32,355 --> 00:39:35,696
+Zato što mi te je žao.
+
+257
+00:39:35,697 --> 00:39:38,020
+Jako mi te žao.
+
+258
+00:39:38,151 --> 00:39:42,795
+Ti ne vidiš kako
+je ovaj život težak.
+
+259
+00:39:48,758 --> 00:39:52,053
+Neæeš mi odgovoriti?
+
+260
+00:40:01,977 --> 00:40:04,796
+Jesi li me èuo?
+
+261
+00:40:05,346 --> 00:40:12,371
+Hoæeš li mi odgovoriti
+šta si... kako si to zamislio?
+
+262
+00:40:30,826 --> 00:40:33,587
+Šutiš?
+
+263
+00:40:47,164 --> 00:40:51,382
+Ja ti više neæu moæi pomoæi.
+
+264
+00:40:53,358 --> 00:40:57,899
+A tako sâm,
+skroz si izgubljen.
+
+265
+00:41:00,265 --> 00:41:03,563
+Bez oslonca.
+
+266
+00:43:06,902 --> 00:43:14,902
+Naravno da sam žalio što nikad nisam
+stupio u osobni kontakt sa Sentom Berger...
+
+267
+00:43:15,877 --> 00:43:18,654
+deset godina ili tako...
+
+268
+00:43:18,655 --> 00:43:23,978
+Sve dok nije došlo vrijeme
+da "Burgtheater" u Beèu
+
+269
+00:43:23,979 --> 00:43:28,830
+angažira, po mom
+mišljenju, najznaèajniju ženu.
+
+270
+00:43:28,831 --> 00:43:31,202
+Pravo èudo da se
+to tek sad dogodilo.
+
+271
+00:43:31,203 --> 00:43:35,668
+To je bilo u vrijeme kad je ona
+veæ imala blizu èetrdeset godina.
+
+272
+00:43:35,669 --> 00:43:40,557
+Imala je veæ desetogodišnjeg sina
+i upravo bila rodila još jedno dijete...
+
+273
+00:43:40,558 --> 00:43:43,673
+posljednje,
+je li, imala je 40...
+
+274
+00:43:43,962 --> 00:43:47,594
+Rekla je u jednom intervjuu:
+"Sad sam postala smirenija..."
+
+275
+00:43:47,595 --> 00:43:53,644
+Sve sam to pažljivo slušao,
+to mi se usjeklo u pamæenje.
+
+276
+00:43:54,145 --> 00:43:58,018
+Naravno, išao sam tamo.
+Nabavio sam novi dvogled,
+
+277
+00:43:58,019 --> 00:44:01,754
+da bih u "Burgtheatru" dobro...
+Uvijek sam odlazio na mjesta za stajanje,
+
+278
+00:44:01,755 --> 00:44:08,130
+na svaku predstavu, a bilo je oko 50
+predstava "Tartuffea" u "Burgtheatru".
+
+279
+00:44:08,480 --> 00:44:12,577
+I onda sam
+odluèio zaista je pobliže...
+
+280
+00:44:13,111 --> 00:44:19,591
+izvjestan tjelesni kontakt... Naravno,
+prekasno, ali možda ipak još nekako...
+
+281
+00:44:20,050 --> 00:44:25,507
+Nakon predstave sam odmah
+otišao k njoj do ulaza na binu.
+
+282
+00:44:25,848 --> 00:44:30,124
+Isprva nisam mogao ništa uèiniti jer je
+tamo bila gomila svijeta, nakon premijere,
+
+283
+00:44:30,125 --> 00:44:32,046
+bilo je previše ljudi i tako...
+
+284
+00:44:32,047 --> 00:44:36,424
+Ali u oèi mi je upao jedan èovjek koji je
+iznenada prišao Senti Berger i poljubio je.
+
+285
+00:44:36,425 --> 00:44:38,173
+Netko iz svjetine...
+
+286
+00:44:38,174 --> 00:44:41,626
+Pomislio sam:
+"Dovraga, vidi onoga!
+
+287
+00:44:41,627 --> 00:44:45,785
+Ja se suzdržavam, a on
+joj priðe i odmah je poljubi!"
+
+288
+00:44:45,835 --> 00:44:48,960
+Ona je bila nekako
+dirnuta tim poljupcem.
+
+289
+00:44:49,221 --> 00:44:52,785
+Pa sam pomislio: "Dovraga!
+Vidi ti to! Onda æu i ja to uèiniti!"
+
+290
+00:44:52,786 --> 00:44:57,857
+Na sljedeæe dvije predstave
+sam se dobro probio.
+
+291
+00:44:58,016 --> 00:45:02,093
+Pomislio sam: "Ako je on smije
+poljubiti, idem i ja pokušati."
+
+292
+00:45:02,291 --> 00:45:06,454
+Ja veæ deset godina o njoj
+razmišljam kao o velikoj ženi
+
+293
+00:45:06,455 --> 00:45:10,698
+i ne prilazim joj, a on doðe i
+poljubi je... A to je intimno, zar ne?
+
+294
+00:45:10,699 --> 00:45:14,607
+Sljedeæi put sam odmah pošao k njoj
+
+295
+00:45:14,608 --> 00:45:20,751
+Odmah sam joj rekao da je za me najbolja
+žena na svijetu i koliko jako je želim i...
+
+296
+00:45:20,752 --> 00:45:26,177
+Ona je bila nekako sasvim...
+zbunjena! Mora se reæi...
+
+297
+00:45:26,356 --> 00:45:32,057
+Ponijela se majèinski prema meni: "Èekajte
+malo, moram Vam dati jednu svoju sliku..."
+
+298
+00:45:32,081 --> 00:45:35,658
+Prevrtala je po svojoj torbici i
+dala mi jednu svoju lijepu fotografiju.
+
+299
+00:45:35,659 --> 00:45:39,435
+Rekla je: "Tu sam bila
+mlaða i malo predebela."
+
+300
+00:45:39,436 --> 00:45:43,882
+Na to sam ja rekao: "Ne, ne, tu ste
+bili najbolji! Prvoklasna fotografija!
+
+301
+00:45:43,883 --> 00:45:50,269
+Bože moj! Imate li još par ovakvih? Kako
+Vas želim! Predivni ste na ovoj fotografiji!"
+
+302
+00:45:50,319 --> 00:45:54,043
+Naravno, tad je bila veæ nešto
+starija, oko 40, i nešto mršavija.
+
+303
+00:45:54,044 --> 00:45:56,397
+Ali na fotografiji je bila punija.
+
+304
+00:45:56,473 --> 00:45:59,305
+Prilièno se ustruèavala zbog
+te fotografije, ali sam joj rekao:
+
+305
+00:45:59,306 --> 00:46:03,601
+"Ne, ne! Na toj fotografiji ste
+prvoklasni! To je vrhunac Vašeg života!
+
+306
+00:46:03,608 --> 00:46:10,073
+Bože, kako žalim što Vas nisam
+ranije sreo. Šta smo sve mogli uraditi..!"
+
+307
+00:46:10,676 --> 00:46:15,388
+A nju je vani u autu
+èekao sin i beba kod kuæe.
+
+308
+00:46:16,155 --> 00:46:22,230
+I naravno, bila je udana. Ja to nisam
+spomenuo, a ni ona to nije spomenula.
+
+309
+00:46:22,393 --> 00:46:29,161
+Mogla mi je reæi: "Èujte, deèko... šta
+hoæete Vi od udane žene s dvoje djece?"
+
+310
+00:46:29,371 --> 00:46:33,944
+Mogla je to direktno reæi.
+Ali ne! Èudno, ali nije to uèinila.
+
+311
+00:46:34,126 --> 00:46:40,337
+Ja sam se uvijek na kraju svakog
+komada pojavljivao na ulazu na binu
+
+312
+00:46:40,338 --> 00:46:42,321
+i salijetao sam je...
+
+313
+00:46:42,469 --> 00:46:45,354
+A ona je govorila:
+"Šta? Vi ste opet tu?"
+
+314
+00:46:45,357 --> 00:46:48,366
+"Da, da! Zato
+što Vas toliko želim!"
+
+315
+00:46:48,583 --> 00:46:54,938
+I cijeli moj asketski naèin života se
+zgusnuo i pomislio sam: "Sad ili nikad!"
+
+316
+00:46:55,638 --> 00:46:58,883
+I htio sam potisnuti
+i prijeæi preko toga da...
+
+317
+00:46:58,884 --> 00:47:02,884
+Nisam želio priznati da je
+vani u autu èeka njen sin.
+
+318
+00:47:02,885 --> 00:47:05,556
+I da kod kuæe ima bebu...
+
+319
+00:47:05,575 --> 00:47:08,111
+Nisam htio misliti na to.
+
+320
+00:47:08,228 --> 00:47:11,997
+I dok sam tamo stajao pred
+njom s dvogledom, rekla je:
+
+321
+00:47:12,055 --> 00:47:16,021
+"Oèito ste me opet
+promatrali kroz taj dvogled."
+
+322
+00:47:16,022 --> 00:47:19,421
+"Da, da! Naravno, naravno.
+Zato što Vas divlje želim."
+
+323
+00:47:19,942 --> 00:47:24,836
+A ta scena... takva
+scena ima i u "Tartuffeu".
+
+324
+00:47:25,219 --> 00:47:31,695
+Inaèe, u toj sceni glumi
+Brandauer.... po njoj je bio poznat.
+
+325
+00:47:32,036 --> 00:47:37,471
+I ima tu još jedna scena gdje ona
+praktièki raširenih nogu prema publici...
+
+326
+00:47:37,472 --> 00:47:41,290
+Djelomièno se vidi, ali ja sam,
+naravno, izoštrio dvogledom...
+
+327
+00:47:41,459 --> 00:47:47,145
+I... naravno, pri tom sam
+iskazao svoju èežnju i želju.
+
+328
+00:47:47,146 --> 00:47:50,650
+I možda je došlo do prijenosa
+misli. To je moguæe, da...
+
+329
+00:47:50,651 --> 00:47:53,839
+Tko zna šta se odigrava
+na tom duhovnom podruèju.
+
+330
+00:47:53,840 --> 00:47:58,027
+Te nadnaravne sile i to...
+Odmah sam ih aktivirao
+
+331
+00:47:58,028 --> 00:47:59,965
+i možda ih je
+osjetila, jer je rekla:
+
+332
+00:47:59,966 --> 00:48:05,418
+"Ma, odmah sam ja osjetila
+da straga netko bulji u mene.
+
+333
+00:48:05,419 --> 00:48:07,683
+Osjetila sam
+to," rekla mi je.
+
+334
+00:48:07,684 --> 00:48:10,405
+Rekao sam: "Da, da, 
+to sam bio ja! To sam bio ja!"
+
+335
+00:48:10,406 --> 00:48:15,238
+Poslije sam bio jako
+zadovoljan zato što je sama rekla:
+
+336
+00:48:15,289 --> 00:48:18,765
+"Danas sam osjetila
+da me netko gleda."
+
+337
+00:48:18,973 --> 00:48:21,104
+I onda je rekla: "Èujte.."
+
+338
+00:48:21,105 --> 00:48:24,720
+Uvijek je to ponavljala.
+Ja sam bio na svakoj predstavi.
+
+339
+00:48:24,721 --> 00:48:29,124
+Promatrao sam je kroz
+dvogled u osobitim scenama.
+
+340
+00:48:29,467 --> 00:48:34,683
+A poslije predstave sam odmah bio
+straga kod nje da bih održao kontakt.
+
+341
+00:48:34,684 --> 00:48:38,220
+Uvijek sam tražio autogram,
+mada sam ih imao veæ dvadeset.
+
+342
+00:48:38,221 --> 00:48:42,444
+Ali to je bilo nužno da bih joj
+mogao priæi i zapoèeti razgovor.
+
+343
+00:48:42,445 --> 00:48:47,546
+I rekla je, nakon 20-i put:
+"Èujte, Vi ste uvijek tu, uvijek tu...
+
+344
+00:48:47,547 --> 00:48:53,721
+Zamislite, ponekad mi je to jako neugodno
+pa bi se moglo desiti da zaboravim tekst
+
+345
+00:48:53,722 --> 00:48:59,141
+i ne bih znala šta dalje govoriti. Èujte,
+Vi me èinite nervoznom, iskreno reèeno.
+
+346
+00:48:59,171 --> 00:49:03,239
+Znate šta? Poklonit æu
+Vam kartu za prvi red.
+
+347
+00:49:03,240 --> 00:49:08,383
+Možete je dobiti, ali mi zauzvrat
+morate obeæati da neæete više dolaziti."
+
+348
+00:49:08,761 --> 00:49:15,333
+Rekao sam:"Ne, ne! Radije æu je se odreæi i
+gledati Vas još 30 puta izdaleka dvogledom."
+
+349
+00:49:15,764 --> 00:49:22,147
+Dobro, i onda... Ali ona u to vrijeme
+nikad nije spomenula da je vani èeka sin...
+
+350
+00:49:22,225 --> 00:49:24,996
+Možda ga je èak i skrivala.
+
+351
+00:49:25,162 --> 00:49:31,254
+Jer kod prvih predstava uvijek ju je sin
+èekao ispred kazališta, sjedeæi u autu,
+
+352
+00:49:31,255 --> 00:49:37,130
+a kasnije ga tu više nije bilo. Kasnije
+je uvijek dolazila i odlazila sama autom.
+
+353
+00:49:37,131 --> 00:49:43,162
+Ja sam joj uvijek prilazio u autu i
+pitao mogu li joj ponijeti torbu do auta.
+
+354
+00:49:43,163 --> 00:49:46,690
+Uvijek je imala torbu, i...
+
+355
+00:49:46,695 --> 00:49:49,910
+njen sin otad više nikad nije
+bio tu! Ona je uvijek bila sama
+
+356
+00:49:49,911 --> 00:49:53,191
+i nikad nije spomenula
+da ima muža i to...
+
+357
+00:49:53,202 --> 00:49:55,960
+Naravno, ni ja to nisam
+spominjao. I mislio sam:
+
+358
+00:49:55,961 --> 00:50:02,110
+"Možda ipak želi sa mnom
+malu ljubavnu avanturicu...
+
+359
+00:50:02,425 --> 00:50:07,932
+mada veæ ima dvoje
+djece. To se... može dogoditi."
+
+360
+00:50:09,658 --> 00:50:17,544
+I postajao sam sve nasrtljiviji, stalno
+je pratio do auta i nosio njenu torbu...
+
+361
+00:50:17,730 --> 00:50:22,442
+Pri ulasku u auto
+uvijek bi malo raširila noge,
+
+362
+00:50:22,443 --> 00:50:26,072
+tako da sam skoro mislio
+da bih mogao sjesti kraj nje...
+
+363
+00:50:26,073 --> 00:50:29,945
+Ali ona bi onda
+zatvorila vrata i odvezla se.
+
+364
+00:50:29,946 --> 00:50:36,903
+Znaèi, moram reæi da me... seksualno pomalo
+izazivala i onda u zadnjem trenutku odbijala.
+
+365
+00:52:02,978 --> 00:52:06,584
+Sad opet ništa ne govoriš.
+
+366
+00:52:07,085 --> 00:52:09,239
+Uvijek je tako.
+
+367
+00:52:09,273 --> 00:52:11,997
+Ja nešto kažem...
+
+368
+00:52:12,578 --> 00:52:14,956
+a ti ne regiraš.
+
+369
+00:52:15,284 --> 00:52:19,589
+<i>Puno sam ti,
+puno toga govorila.
+
+370
+00:52:19,996 --> 00:52:24,881
+<i>Ali ti nisi obraæao pažnju.
+
+371
+00:52:33,514 --> 00:52:39,098
+<i>Jednog dana æeš biti sam.
+
+372
+00:52:40,234 --> 00:52:46,166
+<i>Sasvim sam. Neæeš
+imati nikog na svijetu.
+
+373
+00:52:50,719 --> 00:52:53,015
+Šta se tu može...
+
+374
+00:52:53,506 --> 00:52:57,880
+Hoæeš reæi da æu
+umrijeti sam, usamljen?
+
+375
+00:52:58,374 --> 00:53:04,828
+<i>Biti tako napušten
+i sam, to nije u redu.
+
+376
+00:53:05,423 --> 00:53:10,111
+<i>To nije uredan život.
+
+377
+00:53:10,824 --> 00:53:16,687
+<i>Zar nikad nisi imao
+neku za koju bi rekao:
+
+378
+00:53:16,688 --> 00:53:19,881
+<i>"Nju želim...
+
+379
+00:53:21,591 --> 00:53:28,698
+<i>da se ne bih
+sâm... potucao i...
+
+380
+00:53:29,134 --> 00:53:33,580
+<i>i nemao radosti u životu."
+
+381
+00:53:35,888 --> 00:53:39,942
+<i>Zbilja, zar
+nikad nisi imao neku
+
+382
+00:53:39,990 --> 00:53:44,186
+<i>za koju bi se zauvijek vezao?
+
+383
+00:53:45,205 --> 00:53:50,004
+<i>Zar nikad
+nisi imao osjeæaj
+
+384
+00:53:50,005 --> 00:53:53,710
+<i>za neko biæe,
+
+385
+00:53:53,877 --> 00:53:57,493
+<i>za neko žensko biæe?
+
+386
+00:54:10,247 --> 00:54:13,799
+Postoji i platonska ljubav.
+
+387
+00:54:15,808 --> 00:54:18,800
+Ja i jesam filozofski tip,
+
+388
+00:54:18,801 --> 00:54:22,735
+pa sam stoga razvio
+dublju platonsku ljubav...
+
+389
+00:54:22,736 --> 00:54:26,036
+<i>Da, šta...</i>
+- ...kao trajnu ljubav, znaš.
+
+390
+00:54:26,469 --> 00:54:30,647
+<i>Nemaš ništa od
+te platonske ljubavi.
+
+391
+00:54:31,382 --> 00:54:37,292
+<i>Ništa.</i> - Pa sad, tu su djeca
+drugih ljudi za koju moram raditi.
+
+392
+00:54:39,324 --> 00:54:46,806
+<i>To je... Rad za ljude
+koje voliš je jako lijep.
+
+393
+00:54:49,035 --> 00:54:51,615
+Pa sad...
+
+394
+00:54:51,616 --> 00:54:56,705
+Postoje ljudi kojima se to
+sviða.  - <i>To je smisao života..!
+
+395
+00:54:56,706 --> 00:55:00,577
+Da, sigurno, ali smisao
+mog života je drukèiji.
+
+396
+00:55:01,159 --> 00:55:05,914
+Ne misli stalno
+na smrt i te gluposti.
+
+397
+00:55:06,158 --> 00:55:09,268
+Prestani
+stalno misliti na to.
+
+398
+00:55:11,944 --> 00:55:16,164
+Ako èovjek ne misli stalno
+na to, neæe ga ni snaæi.
+
+399
+00:55:16,327 --> 00:55:23,159
+<i>Da, ali moraš
+znati da je to realnost.
+
+400
+00:55:23,520 --> 00:55:28,064
+Meni se takve
+misli uopæe ne javljaju.
+
+401
+00:55:28,903 --> 00:55:32,293
+A u sluèaju da...
+
+402
+00:55:33,695 --> 00:55:37,509
+da mi se nešto desi,
+neæu to poslije ni osjetiti.
+
+403
+00:55:37,511 --> 00:55:42,106
+Jer je ovaj svijet onda
+za mene prošlost, znaèi...
+
+404
+00:55:42,671 --> 00:55:46,487
+onda on za mene,
+praktièki, ne postoji i...
+
+405
+00:55:46,690 --> 00:55:51,947
+Što manje na to mislim, ili...
+
+406
+00:55:51,948 --> 00:55:56,502
+što više se èovjek, recimo to
+tako, posveti drugim stvarima
+
+407
+00:55:56,503 --> 00:56:01,792
+i što više ignorira
+te neugodne stvari...
+
+408
+00:56:03,582 --> 00:56:05,685
+to više ima od života.
+
+409
+00:56:05,686 --> 00:56:11,140
+A na te stvari i
+tako ne možeš utjecati.
+
+410
+00:56:41,757 --> 00:56:44,782
+René!
+
+411
+00:56:47,063 --> 00:56:50,136
+René!
+
+412
+00:58:49,136 --> 00:58:52,163
+Ostavi prozor otvoren!
+
+413
+00:58:52,173 --> 00:58:54,596
+Stalno prozraèuj!
+
+414
+00:58:54,597 --> 00:58:58,539
+Uvijek puštaj
+svježi zrak unutra!
+
+415
+00:58:58,771 --> 00:59:01,985
+Ostavi prozor otvoren!
+
+416
+00:59:01,986 --> 00:59:04,396
+Stalno prozraèuj!
+
+417
+00:59:04,604 --> 00:59:08,509
+Uvijek puštaj
+svježi zrak unutra!
+
+418
+00:59:08,510 --> 00:59:15,489
+prijevod: a.žižak
+
+419
+00:59:18,489 --> 00:59:22,489
+Preuzeto sa www.titlovi.com
+

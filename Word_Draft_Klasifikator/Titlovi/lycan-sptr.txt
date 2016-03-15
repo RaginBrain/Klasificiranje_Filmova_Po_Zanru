@@ -1,0 +1,1160 @@
+{305}{405}TRITON  | NAJVEÆI MJESEC NEPTUNA 
+{1457}{1512}Gibaj, hoæu oružje vidjeti ovdje...
+{1513}{1537}i oružje ovdje.
+{1538}{1598}Poruènièe, rasporedi brigadu!
+{1615}{1678}Podesi oružje na kratki doseg!
+{1713}{1769}Blokada laserskim zrakama, ukopèana.
+{1803}{1837}Spremni ste zalokotati prostoriju?
+{1838}{1908}Naoružanje ustrojeno, gospodine, | spremni za vašu zapovijed.
+{1909}{1974}Pripremite zabrtviti prostoriju | na moje odbrojavanje.
+{2006}{2194}5, 4, 3, 2, 1.
+{2350}{2412}Pozor! Svom osoblju!
+{2413}{2458}Prostorija je zatvorena.
+{2459}{2554}Ponavljam: Prostorija je zatvorena!
+{2561}{2620}Kontrola dva zapovjedniku objekta!
+{2621}{2710}Uoèio sam u upad  | preko parametra tri.
+{2711}{2749}Premještam se provjeriti.
+{2750}{2822}Podruèje parametra tri, pretražujem.
+{2833}{2878}Podruèje... Vidim ga!
+{2892}{2923}Otvorite vatru, odmah!
+{2924}{3048}Nabel, ta je stvar veæ | zamrljala središte metu.
+{3049}{3111}Iskreno, oèekivao sam više.
+{3112}{3175}Tvrtka oèekuje još više.
+{3176}{3246}G. Saggs, budite strpljivi.
+{3257}{3300}Bit æe da sam promašio.
+{3308}{3360}Sveta Janice Kosteliæ, pogaða me,
+{3361}{3441}Vadite me...
+{3486}{3540}AAV13, primili ste?
+{3541}{3600}Izgubili smo vezu | s komandnim mostom tri
+{3601}{3631}izvan drugog parametra.
+{3632}{3664}Ovdje zapovjednik,
+{3665}{3712}izgubili smo vezu | s  mostom tri.
+{3713}{3773}Možete im dobaciti privremena | sredstva veze?
+{3774}{3806}Zajebi tu naredbu!
+{3807}{3897}Niste izgubili vezu, | izgubili ste njih! Prijem!
+{3898}{3964}Bacite rakete u podruèje, èujete?! | Prijem!
+{3965}{4004}Provjerite jebene ekrane!
+{4005}{4054}Gdje je on? Nabel?
+{4055}{4131}Na putu, g. Saggs, | na putu.
+{4132}{4196}Mièite naoružano osoblje i mašineriju...
+{4197}{4274}Sa istoènog sektora na zapadni, | mièite ih.
+{4333}{4379}Izgubili smo dva pokazivaèa.
+{4432}{4492}Kakvi je to ðava?
+{4493}{4556}Air 4, kakvi se to | vrag tamo dogaða?
+{4557}{4595}Kakve su to eksplozije?
+{4596}{4637}Koliko ih je tu vani?
+{4638}{4662}Moramo napasti!
+{4663}{4729}Jedan. Ponavljam: Jedan!
+{4772}{4805}Gaðamo ga...
+{4806}{4858}Prošao je!
+{4859}{4922}Mi smo hrana...
+{5017}{5061}Isuse!
+{5071}{5116}U redu, ostanimo mirni!
+{5117}{5176}Sveto govno, tu je vani!
+{5177}{5260}Ostanimo smireni...
+{5573}{5633}Hajde! Svi, pali!
+{6141}{6201}Držite svoja mjesta...
+{6202}{6240}Dovraga...
+{7120}{7183}Zakljuèujem vježbu!
+{7184}{7249}Osiguranje, ustanite!
+{7350}{7412}Koliko ljudi za ovo zna?
+{7413}{7495}Ja sam jedini s potpunim | pregledom, g. Sags.
+{7496}{7575}Razvoj sam podijelio po odjelima, | i planetima.
+{7576}{7613}Zato je bilo toliko skupo.
+{7614}{7665}Da, je bilo skupo.
+{7666}{7715}Znaš, Nabel, s dovoljno ovakvih
+{7716}{7767}mogli bi osvojiti svijet.
+{7768}{7804}Koji svijet?
+{7805}{7851}Zemlju, Nabel.
+{7852}{7934}Vlada visi na koncu | veæ godinama.
+{7935}{7996}Sa stotinu ovakvih...
+{8051}{8107}Koliko ih imamo?
+{8136}{8189}5.000.
+{8233}{8292}Prenerazio si me!
+{8437}{8490}Èestièno oružje.
+{8491}{8603}Nitko unutar pet godina | neæe imati ni izbliza što takvo.
+{8629}{8731}Ovo ga pali i gasi.
+{8732}{8796}Hoæete li ga pokrenuti, | stisnite ovdje...
+{8797}{8846}I recite mu ciljeve.
+{8847}{8884}Evo.
+{8961}{9051}Vaš sam glas doznaèio | primarnom zapovjednom ovlaštenošæu.
+{9065}{9130}Nabel, ti si genij!
+{9131}{9162}Ponosim se tobom.
+{9163}{9265}Tvrtka æe se tobom | jako ponositi.
+{9267}{9304}Dopuste li prilike,
+{9305}{9390}dat æu zeleno svjetlo za veliku | bajoslovnu nagradu za tebe.
+{9391}{9465}I unapreðenje èim | se upali.
+{9466}{9510}Ali ciljevi naših sa Zemlje,
+{9511}{9580}kako vidiš, onemoguæavaju nas.
+{9581}{9618}Shvaæam.
+{9619}{9652}Znao sam da æeš shvatiti.
+{9653}{9731}Nabel, napokon, ti si genij.
+{9775}{9891}Naravno, ovo sve treba | biti opovrgnuto.
+{9902}{10004}Iz èega æeš na nesreæu | zakljuèiti da i ti
+{10005}{10066}trebaš biti opovrgnut.
+{10203}{10287}Uništi dr. Nabela!
+{10288}{10333}Ne!
+{10425}{10470}Ne!
+{11095}{11225}{C:$0000FF}{y:ib} SVEMIRSKI |{C:$FF0000}{y:b} KAMIONDŽIJE 
+{11904}{12016}Pristupa teški teret | PKF 946.
+{12017}{12085}Zahtijevam slijetanje | u pristaništu Inter Porka.
+{12086}{12196}PKF, smanji brzinu na 1-5-0-0
+{12197}{12291}i kontaktiraj kontrolora | na doznaèenoj frekvenciji.
+{12537}{12591}Ovdje John Canyon.
+{12592}{12654}Dolazim iz Mars Cityja.
+{12655}{12704}Zovem Inter Pork.
+{12705}{12777}Imam 147 prikolica
+{12778}{12894}marsovskih genetièki | kockasto uoblièenih prasaca,
+{12895}{12964}koje, naravno želim otkvaèiti | èim prije moguæe.
+{12979}{13013}Pristanište je otvoreno?
+{13014}{13097}Canyon, ovdje Keller, od Inter Pork | paketne dostave.
+{13098}{13179}Dva dana si prekoraèio rok.
+{13187}{13232}Primi moje isprike, pajdo.
+{13233}{13279}Želiš li prasce ili ne, | G. Keller?
+{13280}{13324}Daj ih na vez C, Canyon.
+{13325}{13395}Parkiraj svoj teret | i parkiraj si usta.
+{14250}{14330} PRISTAJANJE DOVRŠENO  |  STOJ 
+{14336}{14396}Èangrizava Maro, | provjerit æu teret!
+{14397}{14462}Prema tvojim željama, vozaèu!
+{14500}{14575}Magnetski pod aktiviran.
+{15287}{15358}Kako ste mi, ha?
+{15628}{15682}Sviða ti se to, je li?
+{15771}{15827}Svi ste sretni?
+{15909}{15990}Onda, gdje mi je pivo | i kad æe mi se platiti?
+{15991}{16042}Možeš otkopèati zapregu, Canyon.
+{16043}{16087}Prièekaj kod ureda, i za pola sata
+{16088}{16130}dat æu ti èek.
+{16131}{16217}Otkopèat æu kad dobijem novac, | bez uvrede.
+{16218}{16265}Znaš da to nije | politika tvrtke.
+{16266}{16296}Da, znam.
+{16297}{16377}Zato je moja politika | ne otkopèati dok me se ne plati.
+{16378}{16444}Kasniš, dosta kasniš!
+{16445}{16491}Nisam se isprièao?
+{16492}{16552}Imam prasce, lijepo uzgojene,
+{16553}{16584}došao sam brzo koliko sam mogao.
+{16585}{16637}Znao si da mi je tegljaè spor, | i unajmio si me za posao.
+{16638}{16688}Uzimam to u razmatranje.
+{16689}{16764}Zbog toga sam ti voljan | ponuditi 1.500 kredita.
+{16765}{16825}Ne, ne... duguješ mi 6.000.
+{16826}{16860}Ne èini mi se da æeš ih dobiti.
+{16861}{16943}Nudim ti samo 1.500, | u naletu velikodušnosti.
+{16944}{16989}Mislim da je vrijeme da odeš.
+{16990}{17042}Uznemiruješ mi prasce.
+{17043}{17076}U redu, Jackie.
+{17077}{17105}Drmni ga, Jackie!
+{17106}{17152}Sa zadovoljstvom.
+{17179}{17218}Ne... Jackie,
+{17219}{17305}Tako se ne zadaje udarac | u nultoj gravitaciji.
+{17306}{17370}Vidiš, ovo je | preporuèena tehnika.
+{17561}{17602}Sranje!
+{17667}{17704}Koji vrag hoæeš napraviti?
+{17705}{17776}Rastlaèit æeš prostor | i sve nas pobiti.
+{17777}{17821}Canyone, | prasci su kompanijino vlasništvo.
+{17822}{17882}Pripadaju meni, dok ne platiš!
+{17883}{17918}I sad se gubi s mojeg tegljaèa!
+{17919}{17968}Donijet æu sudski nalog, | èuješ?!
+{17969}{18014}Oduzet æe ti pravo | za ikakvu isplatu!
+{18015}{18071}Da...
+{18076}{18110}Si me èuo?
+{18340}{18400} ÈVORIŠTE ZA OBJED 
+{19153}{19184}Hej, Cindy!
+{19185}{19249}Haj, Johne!
+{19250}{19306}Ovaj put ti je trebalo samo èetiri tjedna?
+{19307}{19338}Da, imao sam sreæe.
+{19339}{19430}Pokupio sam tovar kockastih | svinja na Marsu.
+{19431}{19467}Tko je to?
+{19468}{19518}Zovem se Mike Pucci.
+{19519}{19572}Nemojmo istrèavati.
+{19573}{19609}Ti si svemirski kamiondžija, mali?
+{19610}{19636}Još ne.
+{19637}{19671}Danas preuzima solo.
+{19672}{19690}Da?
+{19691}{19777}Daj mi hamburger, jaèe zapeèen | i pommes frites.
+{19778}{19814}Kakav tegljaè voziš?
+{19815}{19851}Debelokožac 2000.
+{19852}{19888}Debelokožac? Ajme!
+{19889}{19961}Onda veæ dugo voziš, | valjda?
+{19962}{20040}Teško je pobijediti | ovog starog lava, mali.
+{20041}{20133}Student Mike Pucci, | prijavak u podruèje T.
+{20134}{20172}To sam ja.
+{20173}{20201}Poželi mi sreæu, Cindy.
+{20202}{20224}Sretno, Mike!
+{20225}{20260}Vidimo se.
+{20298}{20345}Tko je mali? Mislim tebi?
+{20346}{20391}Mušterija, kao i ti.
+{20392}{20505}Nisam uvijek bio | samo mušterija.
+{20564}{20608}Oprosti, nova pravila.
+{20609}{20686}Recikliraju | sve ostatke, ok?
+{20692}{20754}Uvaljuju sama jeftina sranja.
+{20770}{20802}Ne volim to ništa | više no ti,
+{20803}{20852}ali ne mogu dopustiti | biti otpuštena.
+{20853}{20892}Posebno sada.
+{20893}{20940}O èemu se  radi?
+{20958}{21016}Pa, znaš da mi je majka | na Zemlji, je li?
+{21017}{21050}Možda si spomenula, da.
+{21051}{21116}Imat æe operaciju, | zbilja ozbiljnu,
+{21117}{21176}a obeæala sam | da æu biti tamo s njom.
+{21177}{21200}To je u redu, žao mi je,
+{21201}{21225}i kad odlaziš?
+{21226}{21270}Odlazim? Znaš što bi za to trebala?
+{21271}{21337}Trebala bi potegnuti duple smjene | preko godinu dana
+{21338}{21373}da bih mogla odavde otiæi.
+{21374}{21463}Daj da se raspitam, | i vidim što mogu oko toga.
+{21464}{21491}Dobar si èovjek, Johne.
+{21492}{21545}Ali nisi èovjek tvrtke.
+{21546}{21636}Naloge za Zemlju daju | samo èlanovima tvrtke.
+{21637}{21694}A od njih nijedan nema  muda | riskirati da me povede.
+{21704}{21752}Dala bi sve.
+{21753}{21805}Znaš što želim?
+{21826}{21867}Da!
+{21873}{21925}Koliko sam te puta zaprosio?
+{21926}{21947}Tri?
+{21948}{21992}Mislim da si nekoliko izostavio.
+{21993}{22055}Nekoliko posljednjih puta bio si | prilièno natankan.
+{22056}{22157}Znaš šta, | pristaneš li se za mene udati,
+{22158}{22183}odvest æu te na Zemlju.
+{22184}{22199}Cindy!
+{22200}{22226}Da, baš!
+{22227}{22268}Onda, dogovor?
+{22269}{22338}Johne, odvezi me na Zemlju,
+{22339}{22393}i ako æeš me još uvijek htjeti oženiti | kad stignemo,
+{22394}{22431}pristat æu.
+{22432}{22463}Dobro, dobro.
+{22464}{22514}Idem se vratiti poslu.
+{22572}{22609}Tako  je.
+{22837}{22869}Akustièni kalauz.
+{22870}{22916}Mirno, èovjeèe!
+{22929}{22970}Da.
+{22978}{23015}Pripremi servisni kamion!
+{23016}{23051}Otkvaèit æu teret, | i tamo se naðemo.
+{23052}{23086}Važi!
+{23415}{23461}Hej, Johne!
+{23468}{23518}Još radiš kao neovisni, Johne?
+{23519}{23579}Još imam vlastiti tegljaè, | preuzimam svoj tovar,
+{23580}{23619}i ne koristim svoje sise|kao reklamni stup,
+{23620}{23661}ako ste o tome prièali?
+{23662}{23722}Vratio si se na Kevov sprovod?
+{23723}{23745}Nisam za to èuo.
+{23746}{23803}Na teret navalio je | èopor otpadnika.
+{23804}{23869}Nije puno ostalo od njega.
+{23873}{23907}Gusari su ga ubili, huh?
+{23908}{23946}I još nešto.
+{23947}{23976}Tko mislite da ga je?
+{23977}{24035}Brinemo da je kapetan Macanudo  | zapeo za njega.
+{24036}{24079}Tip je vražja izopaèena životinja.
+{24080}{24123}Zaplijenio je Kevov teret.
+{24124}{24201}Dobili smo natrag samo njegov pimpek...
+{24216}{24280}U teniskoj loptici umjesto lijesa.
+{24281}{24354}Spaljivanje bi bilo | dostojanstvenije, da mene pitate.
+{24355}{24443}Za svaki sluèaj, Johne, planiramo | bdijenje nakon usluživanja.
+{24444}{24475}I John?!
+{24476}{24521}Držiš Inter Pork kaveze s prascima?
+{24522}{24598}Da, to su moji prasci | dok me ne plate.
+{24599}{24649}Isuse, vidi ovo.
+{24650}{24695}Neka hrpa smeæa umotana | u ljudsku kožu
+{24696}{24764}pokušava mi diæi teret.
+{25104}{25144}Da?
+{25153}{25208}Htjeli ste me vidjeti, g. Keller?
+{25209}{25307}Da, doznao sam da si maturirao | školu svemirskih kamiondžija.
+{25308}{25331}Da.
+{25332}{25379}Trebam nekog da odgura | pošiljku kockastih prasaca
+{25380}{25414}u Mali Chicago na Titanu.
+{25415}{25462}Kockaste svinje?
+{25463}{25519}Nije li to teret Johna Canyona?
+{25520}{25563}To je teret Inter Porka.
+{25564}{25610}Otpustio sam Canyona, juèer.
+{25611}{25672}Smeta li ti|jedno od toga?
+{25673}{25724}Ne.
+{25735}{25768}Ne, tipa jedva poznam.
+{25769}{25791}Dobro.
+{25792}{25871}Jer 1500 ljudi želi|taj posao.
+{25872}{25931}Da, najbolji sam.
+{25932}{26012}Potencijal ti je strašan.
+{26013}{26039}Želiš posao?
+{26040}{26083}Preuzet æu.
+{26116}{26192}Pokupi ružièaste pripravnièke kombinezone | od naoružanja i opskrbe.
+{26193}{26235}Gledaj ih držati èistima.
+{26236}{26286}Ružièasti, ha?
+{26290}{26333}Ružièasti.
+{26388}{26428}Mike, èestitam.
+{26429}{26457}Hvala.
+{26458}{26543}Johne, Mike je dobio posao.
+{26544}{26630}Pa, obièno bi se trebali | nekako zasrati... zbog toga.
+{26631}{26727}Ali ono što vidim po tvojoj pidžami, | za koga radiš,
+{26728}{26800}nije za slavljenje.
+{26812}{26863}John, ne može svatko | biti neovisan.
+{26864}{26919}Niti može svatko | voziti vlastiti tegljaè, bebane.
+{26920}{26976}Johne, žao mi je što si | izgubio posao.
+{26977}{27015}To mi je jedini zgoditak.
+{27016}{27070}Nemam novca. | Nemam kredita.
+{27071}{27149}Netko mora te svinje | odbaciti do Titana.
+{27220}{27283}Ušao si neustrašivi svijet | trgovine, mali?
+{27284}{27352}I zatim mi uzeo posao?
+{27369}{27423}Ako s tim možeš živjeti, odlièno.
+{27424}{27466}Ali ja ne moram.
+{27467}{27526}A sad se sagni kod druge | strane muda.
+{27527}{27558}Èuj, odnosim ti se s poštovanjem.
+{27559}{27609}Tražim da i ti isto postupaš.
+{27610}{27650}Keller je ovdje.
+{27731}{27770}Vidi, mali!
+{27771}{27852}Tvoj je šef sa sobom | doveo cirkus.
+{27853}{27916}Došli smo izraziti štovanje.
+{27917}{27954}Cirkus!
+{27955}{28008}Papagaj i dresirana pura su stigli.
+{28009}{28050}Ispušta paru | g. Keller,
+{28051}{28098}ono s Kevom je ljude uzbudilo.
+{28099}{28142}Škljocni zube, Delia!
+{28143}{28183}Želim da napustiš èvorište, Canyone!
+{28184}{28226}Želim ti se obvezati,
+{28227}{28271}platiš li mi, | odmah æu nestati.
+{28272}{28308}Natankali smo ti tegljaè.
+{28309}{28354}Smjesta mièi svoju guzicu | i odlazi sa postaje!
+{28355}{28408}Ne radim za tebe!
+{28447}{28481}Ok!
+{28714}{28770}Netko je nešto rekao, ha?
+{28840}{28881}Ne zezaj se sa mnom, Canyon!
+{28882}{28941}I da se nisi ikada | zezao sa tvrtkom.
+{28942}{28972}Prièekajte, g Keller.
+{28973}{29004}Èovjek ima svoja prava!
+{29005}{29034}Odstupi, mali!
+{29035}{29093}Mali je pravi svemirski pravnik.
+{29391}{29449}Nosi se od mene, Canyone!
+{29493}{29562}Jackie, nešto napravi!
+{29642}{29716}Jackie, nešto napravi!
+{29913}{29996}Bože, pomognite mi!
+{30030}{30100}Molim, pomozite!
+{30392}{30468}Jack, doði!
+{30701}{30727}Dohvatite ga!
+{30728}{30788}Ne, Cindy, nosimo se odavde.
+{30815}{30864}Cindy, odlazimo.
+{31059}{31104}Daj ruku!
+{31105}{31140}Hajde!
+{31454}{31492}Hajdemo odavde!
+{31499}{31517}To su pogrešna vrata!
+{31518}{31541}Ulazi, smjesta!
+{31542}{31592}John, pogrešna vrata!
+{31677}{31730}Izlazite. Što to radite?
+{31731}{31762}John, zatvori.
+{31763}{31810}Zauzeto je!
+{31946}{31973}Divna dama.
+{31974}{32024}Uðite u kabinu, oboje.
+{32260}{32318}U redu, pretražite sve šekrete!
+{32359}{32431}Izlazite, što to radite?
+{32432}{32483}Zauzeto je! |  OPASNOST OD RADIJACIJE 
+{32547}{32652}Ovo ne bi trebao biti | poziv za društvo, zar ne?
+{32653}{32740}Uvijek mi je užitak vidjeti vas, | g. Zesty!
+{32829}{32890}Trebam gibati sa èvorišta.
+{32895}{32951}Trebam teret.
+{33009}{33084}To je problematièno, Johne!
+{33085}{33142}Problematièno.
+{33143}{33295}Ima ljudi koji bi te htjeli vidjeti | da se uvijaš kao zaraženi pas.
+{33321}{33390}Masa ljudi.
+{33393}{33486}Što kad bi ja stalno recitirao | da sam ja tebe izvlaèio?
+{33487}{33560}To i to... tu i tamo...
+{33561}{33626}Želiš naglasiti svoju|sentimentalnost?
+{33627}{33667}Da.
+{33668}{33756}Otvorit æu srce svoje, najednom.
+{33757}{33821}Imam nešto.
+{33822}{33890}Nešto neugodno, bojim se.
+{33891}{33942}Preuzimamo.
+{33943}{33970}Njegov sam partner.
+{33971}{33997}Tko kaže?
+{33998}{34034}Što? Kažeš da nisam?
+{34035}{34095}Izgubio sam zbog tebe svoj posao, | duguješ mi.
+{34096}{34156}Ostanem li ovdje, zakucat æe mi | guzicu za palubu.
+{34157}{34238}Ti si putnik, ne partner.
+{34239}{34303}Onda, što imaš, g. Zesty?
+{34304}{34388}Hitnu otpremu za Zemlju.
+{34389}{34430}Dvodnevna isporuka.
+{34431}{34539}Kontajneri za ostaviti | u visokoj putanji u pristizanju.
+{34540}{34600}Rekao je Zemlja.
+{34635}{34684}Otpremit æemo.
+{34711}{34741}Što je tovar?
+{34742}{34924}Objava iskazuje... eksrtudirani | polimerni seksualni nadomjesci.
+{34925}{34966}Seks lutke?
+{34967}{35042}Plaæaju peterostruku | cijenu od uobièajene.
+{35043}{35150}Oèekuju da ljudi sve | zaborave, naravno i...
+{35151}{35213}da se ne da otkriti.
+{35218}{35272}Rekoh... uèinjeno.
+{35273}{35378}Oklijevam opomenuti | èovjeka tvog iskustva
+{35379}{35500}da æe primatelji tereta biti | jako suosjeæajni
+{35501}{35599}ako se rok otpremanja | ispoštuje.
+{35600}{35647}I...
+{35648}{35732}ne luduj s tim kontajnerima.
+{35778}{35802}Hoæe li dugo trajati?
+{35803}{35840}Policajci su posvuda.
+{35841}{35877}Ne, skoro sam gotov.
+{35878}{35897}Vidiš ju da dolazi?
+{35898}{35958}Ne, misliš da ju je zakon dohvatio?
+{35959}{36013}Ne, uspjet æe.
+{36015}{36064}Sviða mi se.
+{36066}{36123}Drug je.
+{36124}{36186}Da, ima ugodnu narav.
+{36187}{36292}Smeta ako pitam | što imaš sa Cindy?
+{36304}{36359}Ne kopèam te?
+{36360}{36395}Mislim da joj se sviðam.
+{36396}{36465}Htio bih ju zaprositi kasnije.
+{36467}{36522}Volio bih znati | jesi li upleten.
+{36523}{36608}Ako te shvaæam, | a shvaæam te,
+{36609}{36688}moram ti kao gentleman reæi, Mike,
+{36689}{36764}gentleman ne bi odgovorio | na takvo pitanje.
+{36765}{36813}To je ne?
+{36907}{36939}Oprostite, kasnim.
+{36940}{37012}Morala sam davati | 30 sekundi izjavu.
+{37062}{37107}Pomozi mi ovo.
+{37126}{37152}U redu je.
+{37153}{37227}Ajme, moje donje rublje.
+{37249}{37309}Ovo prije nisam vidio.
+{37315}{37340}To ti je prijateljica?
+{37341}{37375}Zapravo moja majka, Carol.
+{37376}{37441}Slikano je prije no sam se rodila.
+{37451}{37516}Vidim otkuda si | dobila lijep izgled.
+{37517}{37546}Hvala.
+{37547}{37602}Ne bi mi smetalo | da sam ju onda upoznao.
+{37603}{37618}Da?
+{37619}{37656}Da.
+{37768}{37804}Eto nas.
+{38595}{38637}Eno.
+{38730}{38810}Nisam dosad vidio | ovakve prikolice.
+{38877}{38917}Izgledaju nekako...
+{38918}{38962}Jezivo.
+{38964}{39034}Izgledaju kao da su dosad | veæ prešle dug put.
+{39035}{39078}Što misliš da je u njima, | Johne?
+{39079}{39126}Ne mislim.
+{39129}{39196}Nešto stvarno jezivo.
+{39430}{39462}Uz najveæu brzina,
+{39463}{39541}bit æemo šest sati na krivoj | strani vremena isporuke.
+{39542}{39601}Moraju shvatiti da brodovi kasne.
+{39648}{39699}Johne, hoæeš me uputiti u | svoje planove?
+{39700}{39752}Ne pitam za tvoje.
+{39789}{39823}Svi smo u tome  | zajedno, je li tako?
+{39824}{39894}Mislim da si meni i Cindy | dužan uètivo odgovoriti.
+{39898}{39983}Sustav djelatnog tlaka | unutar prihvatljivog raspona.
+{39984}{40058}Elektronièki sustavi u potpunosti.
+{40059}{40120}Johne, minutu nakon što se | pomaknemo odavde,
+{40121}{40197}transportna policija bit æe | posvuda okolo, je li kopèaš?
+{40198}{40241}Odi nauèiti živjeti | sa svojim strahom.
+{40242}{40337}Bude li ti loše, diši u | nekakvi škarnicl.
+{40351}{40396}Zaveži!
+{40418}{40460}Upuzaj u æeliju.
+{40865}{40924}Radije iskljuèi pogon, Canyone!
+{40928}{40970}Žao mi je, deèki.
+{40971}{41032}Imam prioritetni teret | kvarljive robe.
+{41033}{41073}Zahtjev nije zbog toga.
+{41074}{41128}Imamo pitanja o Kelleru.
+{41129}{41167}Kad sam ga zadnji put vidio,
+{41168}{41267}prvi je praznio šupak | u vanjsku tminu.
+{41268}{41310}Johne, mislim da tipovi | to primaju ozbiljno.
+{41311}{41338}Bolje da stanemo.
+{41339}{41364}Da.
+{41365}{41432}Ne dok još imam | otvorenu moguænost.
+{41503}{41561}Sve jedinice, približite se.
+{42205}{42230}Obustavite potjeru.
+{42231}{42285}Ponavljam, ne gonite ga.
+{42286}{42318}Možemo ga dostiæi, dovraga!
+{42319}{42378}Odredbe su, obustaviti potjeru.
+{42379}{42431}Volim primati odredbe.
+{42708}{42755}Kao da smo ih izgubili.
+{42756}{42804}Više kao da su nas prestali natjeravati.
+{42805}{42872}To je jedna od najboljih vožnji | koje sam vidio.
+{42885}{42922}Hvala.
+{42923}{42969}Stisneš gas do daske,
+{42970}{43027}i moli se onom u što vjeruješ.
+{43342}{43389}Doruèak je gotov.
+{43390}{43495}Hej vi gore, gotova je hrana.
+{43507}{43630}Mike, Cindy, dolazite!
+{43832}{43864}Jesmo li na vrijeme?
+{43865}{43908}Uspjet æemo.
+{43930}{43986}Napustili smo Spensinan.
+{43987}{44048}Prije oko šest sati.
+{44121}{44146}Što je ovo?
+{44147}{44217}Slina aktivira | cappuccino i jaja.
+{44218}{44260}Dopada vam se?
+{44345}{44386}Koji je ovo vrag?
+{44387}{44447}Nekakvo lebdeæe smetlište?
+{44491}{44559}Dobrodošli u jato smeæa.
+{44763}{44826}Koji im se vrag dogodio?
+{44827}{44868}Asteroidi su nekog pobili.
+{44869}{44940}Asteroidi? Gdje su?
+{44941}{44966}Gdje su?
+{44967}{44996}Da, gdje su?
+{44997}{45066}Upozorenje, polje asteroida gustoæe 10.
+{45067}{45086}Vozaèu šlepe...
+{45087}{45162}Prilazite prebrzo | za manevre izbjegavanja.
+{45163}{45222}Ne tjeraj me da te ugasim, Maro!
+{45223}{45294}Johne, tu prikazuje veliko jato | koje prilazi izravno.
+{45295}{45322}Ja ne vidim ništa.
+{45323}{45388}Mora biti neispravnost, je li?
+{45507}{45549}Crna stijena!
+{45550}{45600}Tjerajte unutra!
+{46207}{46272}Mislim da smo na èistom.
+{46297}{46372}Nisam se tako u | životu uplašila.
+{46417}{46460}Pazi!
+{46644}{46676}Ok, Cindy?
+{46677}{46701}Da.
+{46702}{46730}Mike?
+{46731}{46765}Da!
+{46798}{46852}Idem po malo svjetla.
+{47098}{47157}Koliko loše misliš da je?
+{47183}{47215}Osjetilo se gadno.
+{47216}{47246}Pa da.
+{47247}{47305}Maro, potvrdi što | ja tu vidim!
+{47306}{47383}Vozaèu šlepe, glavni i | pomoæni motori ne rade.
+{47384}{47455}Neusklaðena dekompresija u | sastavnici kontrole pravca.
+{47456}{47480}Hvala, Maro.
+{47481}{47572}Unutarnji sustav prièuve | takoðer srušen.
+{47573}{47624}Prijatno, vozaèu šlepe.
+{47625}{47671}Nema moguænosti popravka?
+{47687}{47734}Ima.
+{47741}{47789}Nakon pet sati ohlaðivanja.
+{47790}{47856}Do tada æemo biti peèeni.
+{47973}{48006}Ovdje postaje vruæe.
+{48007}{48102}Mislim da imamo dva sata | dok ne izgorimo.
+{48103}{48159}Spasilaèka èahura ne vrijedi.
+{48160}{48265}Predaleko je do najbliže | kolonije da bi uspjeli.
+{48266}{48338}A ionako stanu samo dvoje.
+{48339}{48377}Što to znaèi? Umrijet æemo?
+{48378}{48417}Uvijek postoji moguænost.
+{48418}{48479}Naš radio-far æe | nekoga privuæi prije no se to dogodi.
+{48480}{48557}Nekoga? | Kako misliš nekoga?
+{48563}{48616}Johne!
+{48619}{48731}Naravno, uvijek ima šanse, | mala.
+{48732}{48783}Uvijek ima šanse.
+{48963}{49046}Ostalo nam je još juhe | u parkirnoj raketi.
+{49047}{49127}Možemo otkvaèiti teret.
+{49155}{49230}Mogli bi se baciti u | sjenu nekog asteroida.
+{49231}{49290}Da, tako bi dobili dovoljno vremena | za popravak glavnog motora.
+{49291}{49312}Idemo.
+{49313}{49364}To je posao za jednog.
+{49460}{49505}Budi oprezan.
+{49729}{49772}Roðena si na Zemlji, Cindy?
+{49773}{49837}Da, New York, grad.
+{49843}{49917}Tehnièki je to dio Zemlje.
+{49931}{50041}Zemlja, oduvijek sam sanjao | o odlasku na Zemlju.
+{50042}{50098}Guba je.
+{50108}{50212}Znaš... ptice, drveæe.
+{50220}{50267}One stvari žive u rijekama?
+{50268}{50312}Da, ribe.
+{50321}{50397}Majka me vodila vidjeti ih, | nekoliko puta.
+{50398}{50480}Zemlja je èudesno mjesto.
+{50519}{50554}Tako je vruæe.
+{50555}{50592}Da.
+{50703}{50719}Nemaš protiv?
+{50720}{50759}Ne.
+{50819}{50860}I ja æu isto.
+{51911}{51976}Osjeæam se puno bolje.
+{52288}{52356}Johne, kako ti je vani, | èovjeèe?
+{52357}{52440}Nekakav problem s automatskom kukom | je u pitanju.
+{52441}{52505}Pokušat æu to odlomiti.
+{52506}{52590}Dobro, radi. | Obavijesti ako ti mogu pomoæi.
+{53271}{53328}Mike, moramo prestati.
+{53329}{53365}Èekaj... èekaj...
+{53366}{53410}Stani, uvijek mi se to dogodi.
+{53411}{53467}Ok, shvati jednu stvar.
+{53477}{53525}Zaruèena sam.
+{53526}{53559}Što?
+{53560}{53619}Poèelo je kao šala. | John me pitao da se za njega udam.
+{53620}{53682}Rekla sam, može, | ako me odvedeš na Zemlju.
+{53683}{53714}To je kompletno sranje.
+{53715}{53776}Obeæanje je obeæanje. | John je dobar èovjek.
+{53777}{53859}Ne moram se opravdavati ni | tebi, niti ikome...
+{54046}{54090}Dobro, stani.
+{54091}{54131}Oprosti.
+{55122}{55194}Ovo se neæe moæi obaviti.
+{55406}{55463}Odvratno je vruæe ovdje.
+{55472}{55542}Pretpostavljam da je tu vruæe, je li?
+{55592}{55733}Pa ako se skineš, | bit æe udobnije.
+{55734}{55752}Toèno?
+{55753}{55787}Da.
+{55788}{55852}Hoæe li to biti tvoja zamisao?
+{55871}{55914}Bila je moja zamisao, pa što?
+{55915}{55994}Koji glupi izgovor| za gledati cice moje zaruènice.
+{55995}{56023}Prestani, Johne!
+{56024}{56080}Uopæe se o tome ne radi!
+{56081}{56160}Trebao bi ti ju povjeriti, Mike, | kralju pasa ulizica.
+{56161}{56238}"Oh, unutra je vruæe, | a muž ti je vani..."
+{56239}{56268}Jesmo li veæ vjenèani?
+{56269}{56301}Kakav èovjek prisiljava djevojku
+{56302}{56337}na udaju u zamjenu | za prijevoz?
+{56338}{56359}Volio bi znati što misliš!
+{56360}{56410}Hej, stani...
+{56411}{56442}Prestanite se boriti za djevojku
+{56443}{56508}koja æe postati dvije šeflje pepela | za oko dva sata.
+{56509}{56546}Umrijet æemo tu, ok?
+{56547}{56629}Da probate malo | dostojansvenije, za promjenu?
+{56871}{56936}Ne mogu otkopèati teret.
+{57006}{57171}Na kontejnerima je nekakav | mehanizam samoobrane.
+{57243}{57294}Što god je u njima, | nisu seks lutke.
+{57295}{57369}Plastiènom partneru|ne treba takva zaštita.
+{57370}{57421}Da, prièaj mi.
+{57422}{57468}I što æemo sada?
+{57489}{57518}A da preusmjerimo hlaðenje?
+{57519}{57566}Iz hladnjaka u | unutarnji cjevovod?
+{57567}{57594}Odlièna zamisao.
+{57595}{57642}Bar sam nam zadao | nekog posla.
+{57643}{57784}Tegljaè Debelokožac 2000... | nema hladnjake.
+{57785}{57819}Zbog kojeg vraga nema?
+{57820}{57881}Jer je dodatna oprema.
+{57888}{57934}Ne kupujem dodatke.
+{57935}{58038}Kao sjedala od jelenje kože.
+{58039}{58162}Ili poluprozirne prijenosne| tihe vakuumske zahode.
+{58163}{58210}Ne kupujem dodatke.
+{58211}{58276}Dobro, dobro.
+{58321}{58371}Ali sam ponio ovo.
+{58603}{58661}Srknimo Suck a Zux!
+{58669}{58718}Na kraju moramo primijetiti...
+{58719}{58789}Vrijeme je da se | pripremimo za kraj.
+{58830}{58883}Ionako bi došao.
+{60012}{60046}Pozor, vozaèu šlepe.
+{60047}{60123}Približeni smo |elitnom putnièkom linijašu.
+{60124}{60193}Putnièki linijaš, | spašeni smo.
+{60194}{60256}Po svoj prilici, | dodaj tome stanovite okolnosti.
+{60257}{60370}Linijaš prepoznat kao | bivši brod A7 N843.
+{60371}{60422}Nestao 10, 24, 92.
+{60423}{60496}Nije nestao, dignut je.
+{60497}{60551}Tipovi su pirati, èovjeèe.
+{60552}{60601}Ako jesu oni koji misliš da su,
+{60602}{60679}deèko, sretan si što ne nosiš | pidžamu kompanije.
+{61315}{61337}Hajde, idemo!
+{61338}{61404}Otvori vratašca, hajde!
+{61438}{61507}Johne, koliko imamo pušaka?
+{61529}{61566}Nisam siguran ni | ova radi li.
+{61567}{61584}Ovdje su, èovjeèe.
+{61585}{61638}Ako ju neæeš koristiti, daj meni. | Ja hoæu!
+{61639}{61709}Ne misliš napraviti|neki oèajnièki potez?
+{61710}{61765}Kao da ne znamo što  | nam je šljam namijenio?
+{61766}{61812}Što misliš što æe | njoj uèiniti?
+{61813}{61867}Mike, ne možemo puno uèiniti.
+{61868}{61987}Nadajmo se da æe nam stav suradnje | iæi u prilog.
+{61988}{62030}Što ti je na pameti, Mike?
+{62031}{62066}Zadržavat æemo ih  | koliko možemo, i...
+{62067}{62086}Što?
+{62087}{62122}Saèuvat æu dva metka za nas dvoje.
+{62123}{62181}Odlièno, da.
+{62182}{62242}Možeš tu stvar odložiti | ne sigurnije mjesto?
+{62243}{62291}Neæemo im dopustiti da nas osvoje. | Daj pušku!
+{62292}{62334}Mike, hoæu iæi na Zemlju.
+{62335}{62427}Ako æu prièekati i raditi | nastrana sranja, ipak æu iæi.
+{62579}{62652}Svi, hajde, gibaj!
+{62655}{62724}Ne radimo za tvrtku, | upamti!
+{62739}{62777}Mi smo prijatelji, prijatelji.
+{62778}{62802}Spusti ga!
+{62803}{62850}Ne radimo za tvrtku.
+{62851}{62912}Preko, za upravljaèku ploèi, | gibaj, odma!
+{62913}{62959}Idemo...
+{62963}{63020}Svi ste zatvorenici | Regalie, ako je tko radoznao.
+{63021}{63149}Pokušate li pobjeæi, | bit æete ubijeni.
+{63150}{63231}Opirete li se, bit æete ubijeni.
+{63232}{63340}Ne poslušate li naredbe, | bit æete ubijeni.
+{63341}{63392}Dovraga...
+{63393}{63461}najvjerojatnije æemo vas | svakako ubiti.
+{63463}{63510}U redu, vadi ih odavde!
+{63511}{63630}Hajde! Gibaj! Van!
+{63631}{63669}Skidaj ruke sa mene...
+{63686}{63766}Mièi ih van!
+{63828}{63855}Hajde!
+{63856}{63887}Ne radimo za tvrtku.
+{63888}{63935}Mièi!
+{63957}{63971}Oprostite!
+{63972}{64004}Davaj!
+{64047}{64103}Dobro, ostani uz mene.
+{64288}{64340}Vidi ovo!
+{64343}{64405}Spasilaèki specijalac.
+{64426}{64495}Zaveži! Što imaš?
+{64496}{64540}Ne znamo.
+{64580}{64653}Kažem ti, ne znamo, | nije nas briga.
+{64654}{64746}Pogreška je odustati pitati.
+{64771}{64843}To je previše, | Macanudou se ne bi svidjelo.
+{64844}{64902}Kapetana prepusti meni!
+{64903}{64940}Sa zadovoljstvom.
+{64941}{64977}Cutt, èovjeèe!
+{64978}{65058}U tovarnici stoji | da voze seks lutke.
+{65059}{65101}Seks lutke?
+{65128}{65165}Što misliš da zaista | prevoze?
+{65166}{65238}Mora biti nešto vruæe. | Možda drogu?
+{65239}{65288}Više voliš drogu ili oružje, Lou?
+{65289}{65327}Drogu, èovjeèe.
+{65328}{65349}Ja više volim oružje.
+{65350}{65362}Drotar!
+{65363}{65379}Da!
+{65380}{65402}Objesi ih!
+{65403}{65437}Ovuda!
+{65461}{65504}Gdje je kapetanova oprema?
+{65505}{65552}Ovamo!
+{66253}{66335}U tovarnici stoji da | voze seks lutke.
+{66428}{66474}Hvala što si me obavijestio, | g. Cutt.
+{66475}{66550}Znam koliko volite biti | obaviješteni, gospodine.
+{67114}{67170}Bila si se preznojavala?
+{67171}{67256}Bilo je oko 60 u kabini.
+{67375}{67414}Iskazujem pohvalu, draga.
+{67415}{67463}Imaš snažan, osobit,
+{67464}{67549}i nadasve ne | neugodan miris tijela.
+{67550}{67608}Ugodno pristupaèan.
+{67609}{67691}Kapetane, želimo zahvaliti | što ste nas spasili.
+{67692}{67768}Zahvalni smo vam, hvala.
+{67864}{67938}Nisam vas spasio, | smeæe tvrtkino,
+{67939}{67966}ukrao sam ti teret.
+{67967}{68017}Svejedno, mi to cijenimo.
+{68018}{68118}Mislim da je važno shvatiti | da ne radimo za tvrtku.
+{68263}{68313}Želim znati što vam je tovar.
+{68314}{68374}Tko je otpremnik, | a tko primatelj?
+{68375}{68436}Ne znamo ništa od toga.
+{68453}{68510}Odrezat æu ti mjehur.
+{68534}{68608}Imaš li teškoæa | sam mi priopæiti,
+{68883}{68973}morat æu ti odrezati | izdanak muškosti.
+{68974}{69011}Govori o mojem pimpeku?
+{69012}{69111}Kapetane, mi smo neovisni | ugovorni tegljaèi.
+{69112}{69143}Pokušavamo preživjeti.
+{69144}{69181}Ne pitamo puno pitanja.
+{69182}{69220}Znam samo...
+{69221}{69331}u kolima je nešto | s èim se ne treba petljati.
+{69332}{69385}Lièim li ja na nekog |koga treba zajebavati?
+{69386}{69411}Ne, gospodine.
+{69412}{69478}Kao imam IQ  | pješèanog sata za jaja?
+{69479}{69506}Ne.
+{69507}{69591}Vidim visoko-sigurne dvoslojne | kontejnere u tvojoj zaprezi.
+{69592}{69649}Rekao bih da ste vi par | tvrtkinih guzièara.
+{69650}{69686}Krivo.
+{69687}{69747}Ako mi hoæeš odsjeæi pimpek, | odsjeci.
+{69748}{69831}Pa æu si promijeniti ime u Terry | ili Lee ili nešto nepristrano.
+{69832}{69905}To neæe promijeniti | ono što znam.
+{69937}{69996}Tvoj pimpek?
+{70062}{70134}Je li to tvoj pimpek?
+{70137}{70181}Ne.
+{70182}{70232}Taj je moj.
+{70289}{70401}Ok, idem si staviti nešto | Fermatova teorema u glavu.
+{70402}{70527}Trebat æe mi izmeðu 8 | i 17 sekundi.
+{70539}{70600}Onda æemo poèeti isponova.
+{70648}{70681}Kapetan je genij.
+{70682}{70722}Da.
+{70811}{70900}Bio sam voditelj tvrtkina | istraživanja i razvoja.
+{70917}{70954}Èelni èovjek.
+{70955}{71024}Vodio velike projekte.
+{71025}{71130}Izdan sam, od onog kopileta, | E. J. Saggsa.
+{71131}{71198}Razotkrio se prije no me ubio.
+{71199}{71290}Napravio je grešku što je to uèinio | u laboratoriju.
+{71291}{71365}Imao sam moguænost spasiti se.
+{71388}{71463}Stvorit æemo meni tijelo.
+{71464}{71541}Veoma si privlaèna žena.
+{71542}{71581}U uvjetima normalnih | ljudskih odnosa,
+{71582}{71639}vjerojatno me ne bi | dvaput pogledala.
+{71640}{71698}Kapetane, | kamo æe nas to odvesti?
+{71699}{71766}Èeznem za ljepotom | kao i ostali.
+{71767}{71927}Ljepota... ljepota mi ispunjava šupljine, | da tako kažem.
+{71935}{72044}Da nisi vezana za | glavni potporanj broda,
+{72045}{72084}ne bih dobio priliku | seksa s nekim,
+{72085}{72194}i biti toliko oèaran.
+{72195}{72250}Ostavi ju, | polurazumna šupèino!
+{72251}{72272}Nije to mislio.
+{72273}{72330}Poštuje hrabrost kakvom si se | sukobio sa svojim invaliditetom.
+{72331}{72364}Ubijte ga!
+{72365}{72388}Èekaj!
+{72389}{72432}G. Cutt!
+{72447}{72542}Moram iæi na Zemlju, | vidjeti svoju majku.
+{72543}{72645}Zadrži teret i | i pusti nas...
+{72663}{72728}Seksat æu se s tobom.
+{72800}{72830}Zbilja?
+{72831}{72858}Da.
+{72859}{72940}Ovdje na podu, | ako tako poželiš.
+{73010}{73096}Mislim da æemo prirediti | u mojim odajama.
+{73121}{73159}Drotar!
+{73495}{73517}Johne, moramo nešto uèiniti.
+{73518}{73570}Što æemo? | Tu sjediti?
+{73571}{73623}Ne prisvajaj si pravo | biti ozlojeðen, mali.
+{73624}{73669}Ona je moja zaruènica.
+{74329}{74422}Kako bi ti bolje ugodio, | draga?
+{74471}{74556}Imam sedam razlièitih | oblika opuštanja.
+{74572}{74626}Alkohol.
+{74658}{74724}Klasièna farmakologija...
+{74739}{74777}Ne zavaravajmo se, Kapetane.
+{74778}{74844}Želim samo da to obavimo.
+{74861}{74906}Prihvaæam.
+{74907}{75056}Ipak, uvjeren sam da mogu | ostaviti povoljan dojam.
+{75390}{75458}Reizgradio sam si svoj mozak.
+{75478}{75540}Znaèi imaš mozak "kuæna radinost"?
+{76599}{76656}Sve sam si obnovio.
+{76710}{76759}Sve organe.
+{77142}{77250}Napravio sam niskonaponsko | elektrièko drmalo
+{77251}{77344}oblikovano da ženu dovede | do vrhunskog užitka.
+{77345}{77446}Stani, tjeraš me na povraæanje.
+{77460}{77539}Prestani govoriti, ili dogovor | propada, važi?
+{77731}{77775}Dozvoli molim nekoliko trenutaka
+{77776}{77898}za usklaðivanje svog rijetko korištenog | reproduktivnog nastavka.
+{77911}{77962}Da, svakako.
+{78245}{78326}Lou, omotaèi s saèinjeni od | neke rijetke slitine.
+{78327}{78386}Ova sigurnosna izolacija, èovjeèe, | to je nešto novo.
+{78387}{78430}Ne bih se petljao s tim teretom.
+{78431}{78492}To je loše. Pojest æe vas žive.
+{78493}{78573}Srce æe mi iskoèiti, g. Kamiondžija.
+{78574}{78623}Dobro, Same!
+{78645}{78685}Navali!
+{78892}{78935}Dobro si?
+{78986}{79036}Dijamantno sjeèivo se zdrobilo.
+{79037}{79077}Kakvi je to ðava?
+{79078}{79132}Jedan od kontejnera.
+{79136}{79166}Probat æemo još nešto, | Lou.
+{79167}{79201}Da!
+{79249}{79317}Koji je to vrag?
+{80257}{80304}Same?!
+{80379}{80469}Same... jesi li dobro?
+{80470}{80553}Što se kuha? | Nešto se kuha.
+{80554}{80589}O èemu ti to?
+{80590}{80669}Miriše kao kad netko | peèe hamburgere.
+{80670}{80781}Dovraga, Same, to si ti!
+{80913}{80977}Same...
+{80979}{81008}Što sam ti rekao?
+{81009}{81053}Zaveži!
+{81115}{81167}Idem reæi kapetanu.
+{81183}{81216}Johne, nešto moramo uèiniti.
+{81217}{81274}Što misliš, | što joj tamo radi?
+{81275}{81354}Nije joj prvi put | da to radi zbog ekipe.
+{81820}{81890}Sto posto operativno, | draga moja.
+{82188}{82262}Hoæeš to skinuti? | Dobit æu krvarenje iz nosa.
+{82263}{82311}To mi je sretna amajlija, | nikad ju ne skidam.
+{82312}{82388}Zatvori oèi i  | misli na Brooklyn.
+{82654}{82701}Gaduro!
+{82702}{82750}Ništa osobno.
+{82870}{82983}Napravila si najveæu pogrešku | u svom životu.
+{82984}{83065}Grubo govoriš za momka | koji se ne može ustati na noge.
+{83151}{83195}Nikada neæeš otiæi s broda.
+{83196}{83255}Da? Gledaj me!
+{83297}{83334}G. Cutt!
+{83464}{83506}Tu ste, kapetane?!
+{83507}{83586}Lou vas je otišao potražiti, | teret...
+{83590}{83637}Hoæeš me napustiti?
+{83638}{83699}U redu, kapetane, dobro.
+{83834}{83918}Vratio si se gnjusno brzo, | je li kapetane?
+{83925}{83983}Otpisala te?
+{84015}{84070}Da ih ubijem, uh?
+{84091}{84170}Što? Što?
+{84179}{84254}Vi ih hoæete ubiti, savršeno.
+{84255}{84309}Hoæete da ih odvežem?
+{84394}{84484}Nemate protiv ako ih | prije malko smekšam?
+{84508}{84545}Drotar!
+{84546}{84643}Prepušeni kretenu!
+{84770}{84851}Ne treba li ti malo popravka?
+{84985}{85075}Žao mi je što nisi smogla srèanosti | dati mi priliku.
+{85076}{85139}Mogla si mi biti | ljubljena priležnica.
+{85140}{85193}Dijeliti sa mnom položaj.
+{85194}{85262}Valjda mi to nije pisalo | na licitarskom srcu.
+{85263}{85341}Što æeš sada dijeliti, | je moja posada.
+{85342}{85416}312 njih u nasumiènom redoslijedu.
+{85465}{85596}A prvo, možeš gledati | kako ti ubijam prijatelje.
+{85597}{85694}Ako bi radije,| možeš svoj nosiæ okrenuti drugamo.
+{85695}{85722}Daj ih!
+{85723}{85797}Kapetane, ne pada vam na pamet
+{85798}{85824}da provjera tereta s ovakvom zaštitom
+{85825}{85849}treba biti na prvom mjestu?
+{87609}{87665}Nakon tebe, g. Cutt!
+{87674}{87712}Da, gospodine!
+{87777}{87829}Odmah poslije tebe, Lou!
+{87830}{87868}Hajde, ulazi!
+{88213}{88256}Èovjeèe!
+{88407}{88461}Sveto govno!
+{88485}{88553}Koji vrag je to svo smeæe?
+{88566}{88664}To su moje bebice.
+{88684}{88724}Kapetane!
+{88804}{88901}Posljednje dostignuæe | u dezintegratorima, momci.
+{88961}{89052}Te bi bebe èovjeka ispekle | u 500 milisekundi,
+{89053}{89138}i ostavile ruèni sat | i malo kusura na stolu.
+{89168}{89245}Što... što to tu imamo, gospodine?
+{89246}{89325}Imamo Saggsa!
+{89337}{89497}Uhvatili smo E. J. Saggsa | ravno za njegovu zgužvanu kesu.
+{89569}{89643}Malo preprogramiranja i | tvrtka je moja.
+{89644}{89697}Naša, ako izvolijevate.
+{89698}{89803}A Saggsovom jetrom æu | hraniti brodske štakore.
+{89833}{89899}Pogledaj ovo. Ovaj nedostaje.
+{89900}{89942}Što?
+{90087}{90126}Prokletstvo!
+{90181}{90221}Èemu to služi, kapetane?
+{90222}{90266}Tiho!
+{90547}{90583}Dolazi!
+{90584}{90645}Ubij ga...
+{92112}{92149}Koji se ðavao tu dogaða?
+{92150}{92214}Ne znam, ali kladim se, | bit æemo mi okrivljeni.
+{92331}{92368}Gubimo se odavde!
+{92795}{92855} VRATA ZA TERET  |  POZOR 
+{93119}{93193}Pojedi orašèiæ smrti, šupèino!
+{93700}{93744}Spremni! Idemo!
+{94436}{94479}Pet minuta do dovršenja ohlaðivanja.
+{94480}{94533}Nemamo pet minuta.
+{94885}{94930}Vužgi ga, hajde, Mike?
+{95672}{95713}Uspjeli smo.
+{95714}{95769}Ne vjerujem da smo | otišli odande.
+{95770}{95833}Moram reæi da sam | jako jako sretan što smo ovdje,
+{95834}{95865}vraški jesam.
+{95866}{95906}I ja.
+{95907}{95977}Sigurno se uvijek tako osjeæaš | nakon skore propasti.
+{95978}{96016}Otrcano je.
+{96017}{96047}Pozornost, vozaèu šlepe!
+{96048}{96121}Propuštanje u vanjskom omotaèu | kontejnera jedan.
+{96122}{96183}Tlak i udio kisika u padanju.
+{96184}{96267}Dovezemo li vakumiran kontejner, | to je šteta.
+{96268}{96341}Kvarljiva roba se | uvijek pokvari.
+{96342}{96399}Da, zato zaboravite.
+{96483}{96553}Èekajte trenutak. Jeli tko èuo | nešto tamo straga?
+{96554}{96620}Ne zvuèi li da | je pozadi nešto?
+{96621}{96663}Meni zvuèi.
+{96734}{96791}Èangrizava Maro, preuzmi!
+{96792}{96833}Mike, kombinezon!
+{96834}{96897}Cindy, prebaci se ovamo.
+{96971}{97037}Sjedni. Prati ove baždare.
+{97038}{97089}Vidiš li da se pojavi crveno svjetlo,
+{97090}{97127}zovneš me na radio, važi?
+{97128}{97166}U redu!
+{97167}{97227}Želim da poradite | na svojim uputama!
+{97228}{97307}Èangrizava Maro,  | ti drži kurs prema Zemlji!
+{97326}{97395}Bolje imaj ovo, dobro?
+{97433}{97474}To je SOS!
+{97475}{97544}Da, a može biti i zamka.
+{98872}{98933}Zapali mi.
+{98934}{98992}Upaljaè mi je u džepu.
+{99285}{99341}Možda da donesem | kutiju prve pomoæi?
+{99353}{99392}Zaboravi!
+{99406}{99461}Spalio sam glavne arterije,
+{99462}{99505}ali mi nije preostalo suviše vremena.
+{99506}{99556}Što se poslije dogodilo | na Regaliji?
+{99557}{99589}Vojnik...
+{99590}{99708}Aktivirao se uèiniti | za što su ga  programirali.
+{99709}{99793}Što j e s... naši spremnici, | znaš što je u njima?
+{99794}{99829}Vojska.
+{99830}{99847}Što?
+{99848}{99922}Napravio sam ih za tvrtku.
+{99923}{99983}Genetièki ustrojeni.
+{99984}{100069}Biokemijski super vojnici.
+{100070}{100169}Moje bebice... morate ih zaustaviti.
+{100170}{100235}Mora postojati naèin da se | kopilad ugase.
+{100236}{100295}Propali smo....
+{100306}{100356}bojim se.
+{100374}{100433}Da imam èmar...
+{100434}{100513}vjerojatno bih se sav zasrao.
+{100545}{100621}Trebaš nam reæi | kako da te stvorove zaustavimo.
+{100622}{100684}Aktiviraju se u valovima.
+{100685}{100801}1,2,4,8...
+{100920}{100996}Ova ih stvar ovdje, zakljuèava.
+{101270}{101344}Jeste li momci | za ovo spremni?
+{101474}{101495}Nema ga.
+{101496}{101525}Da.
+{101526}{101617}Za kuèkine sinove, | družbu nasilnih ubojica.
+{101618}{101695}Umro je, ok? Hajdemo.
+{102104}{102144}Johne!
+{102197}{102266}Johne! Daj ga!
+{102450}{102509}Poæi æu provjeriti ovdje vani.
+{102710}{102741}Treba nam neko svjetlo.
+{102742}{102802}Imam baterijsku.
+{102844}{102893}Nije baš strogo | za svemir naèinjena.
+{102894}{102947}Napravili su je za | èitanje ispod plahte, je li?
+{103285}{103328}Prokletstvo!
+{104664}{104735}Ovo ne radi dok se | potpuno ne razviju.
+{104736}{104810}Hajdemo... ih natrag van | prièekati.
+{104811}{104847}Da.
+{104858}{104924}Poði...
+{105042}{105083}Evo.
+{105217}{105254}Johne?!
+{105348}{105398}Je li tamo iza | sve dobro?
+{105399}{105450}Još ne znamo.
+{105562}{105594}Ništa ne vidim.
+{105595}{105653}Ne bi li ih trebalo biti èetiri?
+{105654}{105696}Da!
+{105706}{105756}Gdje su ostala dvojica?
+{106186}{106256}Cindy, nabaci svemirski kombinezon!
+{106286}{106345}Krenuli su prema kabini.
+{107168}{107213}Daj ih, Johne!
+{107234}{107277}Ukoèi ih!
+{107604}{107661} POZOR   | Nemoj oštetiti ili uništiti
+{107662}{107704}sredstva transporta na Zemlju...
+{107705}{107804}Programirani su! | Ne mogu probiti svoj kamion.
+{107842}{107903}Johne, ima švicarski vojni nož!
+{108001}{108050}Sranje, èovjeèe!
+{109105}{109185}Preostalo vrijeme kuhanja 45 sekundi.
+{109778}{109849}Sljedeæi put æe ih biti osam.
+{109926}{109973}Uæi æemo u Zemljinu atmosferu,
+{109974}{110047}i kad otkvaèim teret izgubit æemo ih | kad ih bacimo u atmosferu.
+{110048}{110113}Spalit æemo mutirane momke.
+{110114}{110203}Hoæu da vas dvoje odete u | spasilaèku èahuru i odete odavde.
+{110210}{110261}Ne, iæi æemo s tobom.
+{110262}{110297}Neæe te se pitati.
+{110298}{110352}Mike, ti voziš èahuru.
+{110368}{110420}Koji je plan, Johne?
+{110467}{110539}Pa... pokušat æu se osloboditi tereta.
+{110540}{110595}Diæi u zrak, ako moram.
+{110596}{110645}Onda æu tegljaè odvesti dolje.
+{110646}{110726}Èuj, Johne, vražji tegljaè neæe | preživjeti atmosferu.
+{110727}{110757}Uozbilji se.
+{110758}{110843}Mali, to je tegljaè Debelokožac 2000.
+{110844}{110905}Imao sam ga kad se još | nisi rodio.
+{110906}{110939}Znam što može.
+{110940}{110997}A sad vam oboje imam | nešto reæi.
+{110998}{111053}Cindy, razrješavam te,
+{111054}{111114}svih obveza udaje za mene, | istog èasa.
+{111115}{111232}Želim se isprièati | zbog naèina kako sam ih dobio.
+{111233}{111276}Nije bilo u redu.
+{111277}{111349}I, valjda sam bio ljubomoran
+{111350}{111436}kad sam vidio kako se vas dvoje | odnosite jedno prema drugom, u redu?
+{111437}{111505}Johne, ne trebaš se isprièavati, | zaista.
+{111506}{111587}Ne bih... to ionako | dobro izveo.
+{111588}{111637}Vjerojatno jer to dosad | nisi uèinio.
+{111638}{111720}Moj savjet tebi...  | odvedi tu ženu u crkvu
+{111721}{111801}na prvom silasku s autoceste | i vezan si.
+{111802}{111854}Sretan si èovjek.
+{111876}{111979}U redu, partneru, drži guzicu.
+{112338}{112365}Spremni smo, Johne.
+{112366}{112397}Kako ide, kompa?
+{112398}{112445}Oh, visi o koncu.
+{112446}{112491}Nemam ih vremena otkopèati.
+{112492}{112555}Praktièno ih moram razbiti od sebe.
+{112556}{112621}Ni znaka od genetièke nevolje.
+{112622}{112701}Odlazite, nosite se odavde.
+{112863}{112935}Johne, mislim da æemo iæi | u svemirsku luku Palmdale.
+{112936}{112973}Tegljaè možeš dovesti tamo.
+{112974}{113010}Da, èini se dobro.
+{113011}{113056}Tamo se vidimo.
+{116110}{116230} POKRETAÈI 
+{116428}{116509}Maro, koliko još dok | ne zviznemo u atmosferu?
+{116510}{116580}32 sekunde, vozaèu šlepe.
+{116916}{116964}Ulazimo u atmosferu.
+{117390}{117460}Je li vam dosta?
+{117911}{117951}Evo ga!
+{118044}{118069}Vidi, Mike, je li to dim?
+{118070}{118101}Obavezno se dimi.
+{118102}{118136}Pali se ljuštura.
+{118137}{118202}Hajde, Johne, hajde maleni!
+{118203}{118247}Hajde... približava se.
+{118248}{118295}Uspjet æe!
+{118299}{118324}Uspjet æe!
+{118325}{118363}Evo ga!
+{118451}{118504}Bože moj!
+{118532}{118600}Bože moj, Mike!
+{118827}{118876}Hej... vidite ovamo!
+{119124}{119179}Hej, jeste li se veæ vjenèali?
+{119261}{119309}Sretan sam te vidjeti.
+{119381}{119451}Prekidamo program zbog | posebnih novih vijesti.
+{119452}{119501}Dvojica svemirskih kamiondžija | i konobarica
+{119502}{119580}spasili su Zemlju od invazije | iz dalekog svemira.
+{119581}{119601}Njih su troje otkrili
+{119602}{119673}da su prevozili vojsku | robotièkih ratnika,
+{119674}{119745}poslanih od nepoznate osobe | zbog porobljavanja Zemlje.
+{119746}{119780}Mama!
+{119781}{119845}Imam tu sa sobom Mikea i Johna.
+{119846}{119889}Oh, samo trenutak.
+{119890}{119944}Hoæeš da se vratimo | kad se više upoznate?
+{119945}{120015}Ne, odmah æu vam doæi.
+{120017}{120052}Sjednite.
+{120053}{120109}Možemo vam što donijeti, | gðo. Welch?
+{120110}{120196}Možeš ovo Mike, zovi me Carol.
+{120382}{120429}Mama?!
+{120441}{120486}Mama!
+{120498}{120525}Ovo je Mike.
+{120526}{120623}Mike, da, dobrodošao u obitelj.
+{120624}{120665}Ovo je John.
+{120666}{120706}Oh, da?!
+{120707}{120761}Ti si Carol Welch?
+{120762}{120850}Cindy ti je kæer? | Ova Cindy?
+{120854}{120898}Što? Izgledam èudno, | ili što?
+{120899}{120969}Izgledaš odlièno... i prekrasno.
+{120970}{121017}Kao na slici na kojoj | sam te vidio.
+{121018}{121110}Slika je uslikana | prije dvadeset godina.
+{121168}{121244}Može mi tko reæi | o èemu se tu radi?
+{121250}{121331}Vidiš, kad sam oboljela, | ponudili su mi odabir.
+{121332}{121386}Umrijeti ili se dati zamrznuti.
+{121387}{121445}Svakako, uzela sam duboko zamrzavanje.
+{121446}{121503}Otkravili su me, izlijeèili,
+{121504}{121535}i eto me.
+{121536}{121573}Zmrznili su te?
+{121574}{121668}Pa, to je jedan od mnogih | izmišljenih naziva za to...
+{121669}{121714}Da.
+{121721}{121783}Ne izgledam smrznuto ili spaljeno, je li?
+{121784}{121847}Ne koliko ja vidim.
+{121884}{121933}Posebni agent Ridgid. | Preuzimam zapovjedništvo.
+{121934}{121956}Što želite?
+{121957}{121980}Cupni ih dolje!
+{121981}{122014}Što?
+{122024}{122061}Predsjednik sam  | predsjednikovog osiguranja.
+{122062}{122124}Osigurat æemo sobu zbog | posjete predsjednika.
+{122434}{122460}Predsjednika?
+{122461}{122525}Predsjednik svijeta | dolazi ovamo?
+{122526}{122564}Da?
+{122638}{122656}G. Predsjednièe...
+{122657}{122696}Ok, Ridgid, produžite.
+{122697}{122739}Odbij!
+{122888}{122941}Ja sam predsjednik Saggs.
+{122942}{123018}Došao sam izraziti zahvalnost | svoje administracije.
+{123019}{123119}I biraèa svih | naroda sustava.
+{123120}{123161}Saggs? E. J. Saggs?
+{123162}{123216}Mislio sam da je predsjednikovo | ime Dobey?!
+{123217}{123256}Dobey je bivši predsjednik.
+{123257}{123307}Prošlog tjedna je odstupio.
+{123308}{123392}Vlada je bila privatizirana.
+{123393}{123454}Znamo tko si Saggs, ok?
+{123455}{123533}Ti se te stvorove poslao na Zemlju!
+{123534}{123575}Koštaš nas dobrog tegljaèa
+{123576}{123633}i ubio si nas skoro | oko 50 puta.
+{123634}{123677}Smiri se!
+{123678}{123721}Ovdje govoriš sa predsjednikom.
+{123722}{123781}Dopuštam da ste poèinili pogreške
+{123782}{123839}i izrekli laži.
+{123840}{123897}Ali vas uvjeravam | da za sve ste rekli
+{123898}{123984}nisam bio obaviješten | i nisam bio umiješan.
+{123985}{124025}Niste bili obaviješteni, tako je.
+{124026}{124147}Nije li moguæe je da se neki  | tvrtkin pojedinac
+{124148}{124207}suviše ovlastio?
+{124208}{124292}Poslao te stvorove na Zemlju | u svrhu nekakve police osiguranja.
+{124293}{124361}Za sluèaj da poslovi ujedinjenja | ne uspiju.
+{124362}{124445}Ali ne bi mi se dopalo da takvo šaputanje | poène kružiti
+{124446}{124520}u presudnim danima | moje administracije.
+{124521}{124583}Ili... ikada.
+{124584}{124617}Nema problema.
+{124618}{124684}Nekako se zbilo da je | novi tegljaè spreman za preuzeti,
+{124685}{124769}i èeka vas na | postolju F.
+{124770}{124797}Što mislite, da æete?
+{124798}{124821}Kupiti nas kao sendviè | od tune?
+{124822}{124853}Takoðer sam uredio
+{124854}{124941}da se bolnici tvoje majke | plati raèun lijeèenja.
+{124942}{124965}Èekaj malo...
+{124966}{125027}I za ostale nevolje...
+{125050}{125171}Možda æe ovo obeštetiti | neka manja neslaganja.
+{125314}{125355}To što smo uèinili, | nismo radili za novac.
+{125356}{125411}Novac ne može  sve popraviti, | toèno?
+{125476}{125536}Imate našu suradnju i | našu šutnju, gospodine.
+{125537}{125607}Dobro, dobro!
+{125612}{125680}Pa, moram... moram bježati.
+{125713}{125747}Pazite na našu tajnicu! 
+{125748}{125765}Da, gospodine.
+{125766}{125833}Hvala na svemu.
+{125920}{125942}G. Neovisni!
+{125943}{125971}Èemu sad to?
+{125972}{125994}Ovo æete zadržati?
+{125995}{126016}Ne, neæemo zadržati.
+{126017}{126050}Ne želimo ni djeliæ | tog novca.
+{126051}{126101}Vi bi zaista mogli | trebati novac,
+{126102}{126130}vjenèati se i to...
+{126131}{126163}Hej, takav novac ne želimo.
+{126164}{126214}Vas dvoje ne shvaæate, je li?
+{126215}{126259}Ne uzmete li novac,
+{126260}{126320}i ne ušutite o tome | što se dogodilo,
+{126321}{126412}pronaæi æe vas i | nestat æe te.
+{126413}{126464}Zato morate uzeti!
+{126465}{126498}Trebamo uzeti?
+{126499}{126522}Trebamo to primiti?
+{126523}{126593}I postati tvrtkini guzièari | do kraja života?
+{126594}{126658}Hoæu se uvjeriti | da si razumio èinjenice.
+{126659}{126700}Hoæeš to ti uzeti, Johne?
+{126701}{126717}Hoæeš uzeti?
+{126718}{126805}Ne, ali ne želim da završite | kao ja.
+{126810}{126858}Bog prašta!
+{127389}{127433}Netko je spržio Saggsa!
+{127434}{127475}Znaš, mislim da smo to bili mi.
+{127476}{127532}Oh, Bože moj!
+{127541}{127589}Bolje se gubimo odavde.
+{127590}{127624}Poðimo.
+{127732}{127790}Šteta što se Saggs raznio.
+{127791}{127856}Nismo mu zahvalili za novi tegljaè.
+{127878}{127935}U redu, evo nas.
+{127936}{127983}Nisam još ovo radila.
+{127984}{128045}Ima šanse da izgubim ruèak?
+{128046}{128071}Bit æe ti dobro.
+{128072}{128189}5,4,3,2,1...
+{128190}{128233}Pali!
+{128620}{128974}{C:$0000FF}{y:ib} preveo |{C:$FF0000}{y:b} drdamjan  
+{128975}{129030}režija:
+{129660}{129730}igrali:

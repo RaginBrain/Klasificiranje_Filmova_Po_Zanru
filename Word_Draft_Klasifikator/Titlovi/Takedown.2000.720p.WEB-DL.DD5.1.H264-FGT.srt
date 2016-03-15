@@ -1,0 +1,3415 @@
+1
+00:00:30,079 --> 00:00:34,079
+www.titlovi.com
+
+2
+00:00:37,079 --> 00:00:40,749
+BAZIRANO NA ISTINITOJ PRIÈI
+
+3
+00:01:07,276 --> 00:01:12,781
+Postoji Hakerska etika koja kaže 
+da sve informacije trebaju biti slobodne
+
+4
+00:01:13,699 --> 00:01:16,994
+To je hakerski komunizam.
+
+5
+00:01:21,331 --> 00:01:27,838
+...ima ljudi koji rade i po 24 sata 
+na kompjutoru
+
+6
+00:01:28,046 --> 00:01:31,717
+i žele pokazati koliko su pametni
+
+7
+00:01:31,925 --> 00:01:35,012
+Na cyber prostoru su smještene 
+vrijedne informacije...
+
+8
+00:01:35,179 --> 00:01:40,934
+...virusi se repliciraju na 6000 kompjutera
+i spremaju se napraviti ogromnu štetu.
+
+9
+00:01:42,477 --> 00:01:46,356
+Cijeli planet ima 
+pristup na internet
+
+10
+00:01:48,066 --> 00:01:51,069
+Što znaèi da cijeli planet ima pristup
+do vašeg kompjutora...
+
+11
+00:01:51,236 --> 00:01:53,488
+kao što telefonska tehnologija 
+je pojednostavljena za korištenje...
+
+12
+00:01:53,655 --> 00:01:57,159
+telefonske linije su omiljeno 
+igralište za hakere...
+
+13
+00:02:01,038 --> 00:02:05,959
+Obièno se koriste.. od obiènog prisluškivanja
+do industrijske špijunaže..
+
+14
+00:02:10,797 --> 00:02:14,843
+Ima i hakera koji izbjegavaju da naprave štetu.
+
+15
+00:02:15,052 --> 00:02:17,971
+Ustanovilo se polako da je
+veæa zaštita.
+
+16
+00:02:18,180 --> 00:02:23,769
+...najèešæe su korišteni telefoni i faks mašine...
+
+17
+00:02:25,479 --> 00:02:28,857
+FBI, se priprema da telefonske kompanije......
+
+18
+00:02:28,982 --> 00:02:33,987
+Da li se zapitate etièki 
+Što to èinite ?
+
+19
+00:02:34,238 --> 00:02:36,823
+To bi trebalo prvo pitati FBI.
+
+20
+00:02:47,459 --> 00:02:51,755
+Kako ste? Ja sam Lens.
+- Ja sam Aleks, a ovo je Kevin
+
+21
+00:02:51,964 --> 00:02:54,258
+Mitnik? Kako je.
+
+22
+00:02:54,466 --> 00:02:58,011
+Èuo sam puno o vama.
+Posebno za tebe Kevin.
+
+23
+00:02:58,178 --> 00:03:01,849
+Da? E pa nismo mi èuli
+ništa za tebe.
+
+24
+00:03:02,057 --> 00:03:06,770
+Ne.Jeste li èuli IceBreaker?
+- Ne.
+
+25
+00:03:06,979 --> 00:03:10,315
+Kažem vam, zakon sam.
+- Ne sumnjamo.
+
+26
+00:03:10,566 --> 00:03:16,488
+Ti si želio ovaj sastanak ? Zašto?
+- Mislio sam malo na porazgovaramo.
+
+27
+00:03:16,697 --> 00:03:19,825
+I mi isto.
+- I više ne hakiram.
+
+28
+00:03:19,992 --> 00:03:22,202
+Niti mi.
+- Da, da.
+
+29
+00:03:22,411 --> 00:03:28,417
+Hoèemo li da podijelimo informacije..
+- Što imaš?
+
+30
+00:03:33,839 --> 00:03:37,759
+Imam pristup do ministarstva.
+
+31
+00:03:37,926 --> 00:03:40,179
+I mi.
+
+32
+00:03:41,763 --> 00:03:45,100
+Imam, prisluškivaè za mobilne
+telefone.
+
+33
+00:03:46,226 --> 00:03:49,813
+Tvoja hak lista je sranje,
+isto kako i ti.
+
+34
+00:03:50,063 --> 00:03:53,525
+Što, hej... 
+a što znate za SAS?
+
+35
+00:03:53,775 --> 00:03:55,652
+Što je to?
+
+36
+00:03:55,819 --> 00:03:59,448
+Niste èuli,ha?
+- Što je to?
+
+37
+00:03:59,615 --> 00:04:06,788
+Specijalna telefonska služba
+cijela kalifornija pod kontrola FBI-a
+Može da prati bilo koji telefon, bilo kada.
+
+38
+00:04:08,832 --> 00:04:11,835
+Zainteresiran si za takav sistem?
+
+39
+00:04:12,961 --> 00:04:17,966
+Da, da nije fantazija.
+To je siguran DajlAp sistem, nemoguæe.
+
+40
+00:04:18,217 --> 00:04:22,262
+E pa ja ga imam, Što imaš ti?
+
+41
+00:04:22,513 --> 00:04:26,975
+Idemo.
+- Ostaæemo u vezi
+
+42
+00:04:31,438 --> 00:04:35,359
+..druga moguænost je 
+da ga zaboravimo
+
+43
+00:04:35,526 --> 00:04:39,863
+ionako je tip èudan,
+smrdi mi na zamku
+
+44
+00:04:40,072 --> 00:04:45,827
+Pomisli kao stariji
+imat æeš ženu,djecu.
+
+45
+00:04:45,994 --> 00:04:52,543
+Ti uvijek tako zapadneš u nevolju.
+
+46
+00:04:52,709 --> 00:04:54,670
+Pušteni smo na uslovno.
+
+47
+00:04:54,878 --> 00:05:00,843
+Poslije digitalnog haka, FBI 
+želi da te baci u zatvor...
+
+48
+00:05:01,009 --> 00:05:03,720
+Zašto moraš ovo da èiniš?
+
+49
+00:05:06,390 --> 00:05:09,017
+Jednostavno, moram da znam.
+
+50
+00:05:26,076 --> 00:05:27,911
+Joe Fredy.
+
+51
+00:05:31,290 --> 00:05:33,417
+Zdravo, ovdje je Joe Fredy
+
+52
+00:05:34,501 --> 00:05:38,213
+Fredy, iz PTT
+
+53
+00:05:42,301 --> 00:05:44,887
+Zdravo, ja sam Joe Fredy
+
+54
+00:05:45,095 --> 00:05:47,639
+samo želim da ukradem par stvari.
+
+55
+00:05:52,227 --> 00:05:55,522
+Ovdje Joe
+- Joe Fredy, ovdje je PTT
+
+56
+00:05:55,731 --> 00:06:00,652
+Pravim nekakvu listu za Dean Vix
+Trebala je za juèer.
+
+57
+00:06:00,819 --> 00:06:04,114
+Gadovi, uvijek to traže.
+- O da.
+
+58
+00:06:04,323 --> 00:06:08,785
+Kako mogu da ti pomognem?
+- Treba mi informacija za SAS sistem.
+
+59
+00:06:08,952 --> 00:06:11,413
+SAS sistem?
+Što je to?
+
+60
+00:06:11,622 --> 00:06:16,960
+Pojma nemam, ja samo èitam šta ovdje piše.
+Mislim nekakva siva kutija
+
+61
+00:06:17,169 --> 00:06:20,923
+obièno stoji na 
+zidu, nekada i dolje?
+
+62
+00:06:21,089 --> 00:06:23,091
+Èekaj da provjerim.
+
+63
+00:06:33,852 --> 00:06:38,482
+Naðoh.Tamo gdje si rekao samo što
+piše na kutiji
+
+64
+00:06:38,690 --> 00:06:44,988
+hej, nitko nije savršen. Što piše?
+SAS. Relejni sistem.
+
+65
+00:06:45,155 --> 00:06:51,161
+A da mi kažeš serijski broj ?
+a da, i ime proizvoðaèa?
+
+66
+00:07:22,067 --> 00:07:25,696
+Trebao bih, Kris Manson-a.
+- Na telefonu, tko je tamo?
+
+67
+00:07:25,863 --> 00:07:28,991
+Joe Fredy, PTT
+
+68
+00:07:29,199 --> 00:07:33,871
+Podružnica NetKorp-a gdje ste dizajnirali SAS
+- Da
+
+69
+00:07:34,079 --> 00:07:37,916
+Žao mi je što vam firma nije uspjela
+Imate mnogo dobar proizvod.
+
+70
+00:07:38,167 --> 00:07:41,920
+I ja sam tako mislio,donekad
+da firma nije probala,
+
+71
+00:07:42,087 --> 00:07:46,341
+ja i 200 zaposleni, 
+smo se našli nasred ulice.
+
+72
+00:07:46,592 --> 00:07:52,014
+Tako mi je žao. Nazvao sam vas
+da vam èestitam za dobar rad.
+
+73
+00:07:54,349 --> 00:07:56,351
+Stvarno?
+
+74
+00:07:57,603 --> 00:08:02,357
+Prilièno je dobar?
+- Odlièan je, vidi se da znate svoj posao
+
+75
+00:08:02,524 --> 00:08:06,737
+Biste li porazgovarali o tome,
+pogotovo za dizajn i aplikacije.
+
+76
+00:08:06,904 --> 00:08:09,323
+Nema problema.
+
+77
+00:08:09,531 --> 00:08:13,827
+Možete da vam prebacim informacije na vaš kompjutor...
+
+78
+00:08:14,036 --> 00:08:20,959
+ili da ga ispišem ili da ga faksiram,
+Može i na disketu ako želite.
+Pa vi odgovorite šta vas interesira.
+
+79
+00:08:21,126 --> 00:08:22,669
+To bi bilo super, Kris.
+
+80
+00:08:30,552 --> 00:08:35,682
+Interesantno.
+- FBI, Policija
+
+81
+00:08:35,849 --> 00:08:40,812
+Ima i broj znaèki
+
+82
+00:08:40,979 --> 00:08:47,528
+Kakav rad, koja smjena.
+- Big Brother svega.
+
+83
+00:08:47,694 --> 00:08:51,073
+Zdravo Sheli.
+- Aleks
+
+84
+00:08:51,281 --> 00:08:53,450
+Zdravo.
+
+85
+00:09:02,960 --> 00:09:04,878
+Predivno,nije li?
+
+86
+00:09:12,302 --> 00:09:15,389
+Mike Lehy.
+- Tony Grin od Inc.., kako si?
+
+87
+00:09:15,597 --> 00:09:18,392
+Dobro sam Tony, Ti?
+- I ja sam dobro.
+
+88
+00:09:18,600 --> 00:09:24,982
+Malo u gužvi sam, Treba mu informacije
+Da mi vi date brojeve za SAS sistem
+
+89
+00:09:25,148 --> 00:09:28,318
+No zaglavio sam na sastanku, znate kako je.
+- Eh, znam.
+
+90
+00:09:28,485 --> 00:09:34,324
+Slušaj, Trebaju mi odmah brojevi.
+- Nema problem, Faksirat cu ih u Inc...
+
+91
+00:09:34,491 --> 00:09:39,788
+Još bolje,nekoga æu poslati po nje.
+- Siguran si
+- Jako je hitno.
+
+92
+00:09:43,750 --> 00:09:46,461
+Mike zdravo, Joe Tarner.
+
+93
+00:09:48,589 --> 00:09:53,760
+Ne želim da budem nepristojan
+dali ti radiš za PTT?
+
+94
+00:09:53,927 --> 00:09:59,308
+Ne, ja sam prodavaè za Cal-Com
+Završavam dogovor sa Tonyem.
+
+95
+00:10:01,226 --> 00:10:03,395
+Znaš li šta je ovo?
+
+96
+00:10:03,520 --> 00:10:09,234
+Ne,ja samo Tonyu pravim uslugu.
+Prolazio sam kraj firme i on je rekao da pokupim
+
+97
+00:10:09,401 --> 00:10:11,778
+nekakav paket.
+Samo to znam.
+
+98
+00:10:16,950 --> 00:10:21,246
+Kaži Tonyu da mi vrati putem pošte
+- Dogovoreno.
+
+99
+00:10:36,970 --> 00:10:43,268
+Jane, pošalji ovo poštom na Inc...
+Adresiraj ga na Mike Leyn od PTT.
+
+100
+00:10:43,477 --> 00:10:47,773
+I ne razgovaraj sa deèkom na telefon.
+- Neæu zaboravit.
+
+101
+00:10:47,981 --> 00:10:51,777
+Samo trenutak.
+
+102
+00:10:52,569 --> 00:10:56,532
+Momci,
+Drago mi je što ste se javili.
+
+103
+00:10:56,740 --> 00:11:00,160
+Doneli smo i novu igraèku.
+- Super.
+
+104
+00:11:00,410 --> 00:11:03,872
+Da provjerimo,jel tako?.
+- Svakako!
+
+105
+00:11:04,081 --> 00:11:07,167
+Moram da odem do WC
+
+106
+00:11:37,781 --> 00:11:43,579
+Koliko dobar deèko.
+- Koliko je dobar, i pristojan.
+
+107
+00:11:43,787 --> 00:11:48,333
+On je zakon.
+- Definitivno, IceBreaker je zakon.
+
+108
+00:11:49,501 --> 00:11:53,422
+Imam poklon za tebe.
+- Da vidim.
+
+109
+00:11:53,589 --> 00:11:58,927
+Ovaj æe ti se dopasti.
+- Super, daj da vidim.
+
+110
+00:12:16,111 --> 00:12:19,656
+Odakle ti ovo?
+
+111
+00:12:19,907 --> 00:12:23,827
+Ti imaš nešto za nas, imamo mi i za tebe
+Poslije, IceBreaker.
+
+112
+00:12:24,077 --> 00:12:25,662
+Moramo da idemo.
+
+113
+00:12:27,664 --> 00:12:30,918
+Rekao si im za SAS?
+Kako si tako glup.
+
+114
+00:12:31,126 --> 00:12:34,838
+Trebalo mi je da poènem razgovor.
+I napravio sam što sam morao da napravim.
+
+115
+00:12:34,963 --> 00:12:39,092
+Ti si rekao da možeš isporuèiti Mitnick-a.
+Umjesto toga kažeš mu za SAS?
+
+116
+00:12:39,259 --> 00:12:42,763
+Znaš li što to znaèi.
+On æe sigurno probiti u SAS.
+
+117
+00:12:42,971 --> 00:12:47,059
+Ovaj...
+- Što znaèi da èemo morati iskljuèiti cijeli sustav.
+
+118
+00:12:47,267 --> 00:12:51,980
+On ga veæ ima.
+Sistem.
+
+119
+00:12:54,733 --> 00:12:57,236
+Uèinio sam što sam mogao.
+
+120
+00:12:57,486 --> 00:13:00,280
+Lens,odkud me zoveš?
+Što?
+
+121
+00:13:00,447 --> 00:13:05,994
+Odkud me zoveš?
+- Od kuæe, zašto?
+
+122
+00:13:07,079 --> 00:13:14,253
+Da si ti Mitnick koji bi bio prvi broj
+što bi ga prisluškivao sa SAS-om?
+
+123
+00:13:16,171 --> 00:13:18,882
+Da možda ne bi bio tvoj?
+
+124
+00:13:26,390 --> 00:13:30,477
+O, èovjeèe
+Ovo je super.
+
+125
+00:13:33,313 --> 00:13:38,902
+Sigurno su ljuti. Sigurno æe doæi po tebe.
+
+126
+00:13:39,111 --> 00:13:44,199
+Uvjetno mi je još 3 dana.
+- Oni neæe doæi za tri dana nego za 2 sekunde.
+
+127
+00:13:44,449 --> 00:13:47,119
+Znam.
+
+128
+00:14:03,010 --> 00:14:07,598
+DVIJE GODINE POSLIJE
+
+129
+00:14:20,611 --> 00:14:21,945
+Prokletstvo.
+
+130
+00:14:39,671 --> 00:14:43,133
+4 srpanj, 1994
+FBI traži najboljeg hakera.
+
+131
+00:14:44,259 --> 00:14:46,970
+Lozinka Oziris
+Ime: Tomi
+
+132
+00:14:51,850 --> 00:14:53,977
+Dobro jutro, Oziris
+
+133
+00:14:54,228 --> 00:14:59,149
+Kada ti letiš za Washington?
+- Dobro jutro. U 10.
+
+134
+00:14:59,274 --> 00:15:02,653
+Da te odvezem?
+- Ne.
+
+135
+00:15:02,819 --> 00:15:04,863
+Hoæeš li kavu?
+
+136
+00:15:06,573 --> 00:15:09,368
+Zašto ne ostaneš i odspavaš.
+
+137
+00:15:11,995 --> 00:15:14,289
+Kao da uvijek spavam.
+
+138
+00:15:14,540 --> 00:15:19,294
+Slušaj ovo. Kombiniraš tehnièko znanje
+sa njegovom praksom...
+
+139
+00:15:19,503 --> 00:15:25,676
+Kevin Mitnik je odlièan kompjuterski programer
+i vlasti ga nemogu pratiti.
+
+140
+00:15:25,884 --> 00:15:30,305
+Jedan od najpamernijih kompjuterskih kriminalaca, Mitnik
+pretpostavlja se da je ukrao
+
+141
+00:15:30,556 --> 00:15:33,809
+poveæu kolièinu informacija, korisnika statièkih i 
+mobilna telefona
+
+142
+00:15:33,976 --> 00:15:40,566
+Radnici Cal-Com-a,su mu davali
+lozinke i kompjuterske kodove.
+
+143
+00:15:40,732 --> 00:15:42,192
+koje je mogao iskorištavat za,
+probijanje na kompjutore.
+
+144
+00:15:42,442 --> 00:15:47,990
+Predpostavlja se da je Mitnick, 
+Živio nekada u Kaliforniji.
+
+145
+00:15:48,198 --> 00:15:51,869
+FBI je uspio da stavi uvjetno od 1 i po godinu.
+
+146
+00:16:01,211 --> 00:16:05,299
+Kevin je na naslovnoj stranici.
+On je zvijezda.
+
+147
+00:16:05,507 --> 00:16:09,219
+On je pametan èovjek.
+
+148
+00:16:09,428 --> 00:16:14,141
+Zašto uvijek koriste tu ružnu sliku.
+Izgleda kao ubojica.
+
+149
+00:16:14,349 --> 00:16:17,102
+Misliš da trebaju staviti manekensku sliku?
+
+150
+00:16:17,227 --> 00:16:19,646
+Zašto je tebe briga?
+
+151
+00:16:27,529 --> 00:16:30,616
+Super.
+- Što je?
+
+152
+00:16:32,534 --> 00:16:34,828
+Kevin je.
+
+153
+00:16:35,078 --> 00:16:36,955
+Stvarno ?
+
+154
+00:16:37,164 --> 00:16:40,083
+Vratio se.
+
+155
+00:16:41,084 --> 00:16:44,171
+Jesil ovo proèitao?
+- Da, gluposti.
+
+156
+00:16:44,379 --> 00:16:47,174
+Gradonaèelnik želi da
+ga odmah pritvorimo.
+
+157
+00:16:47,341 --> 00:16:51,345
+Ovdje piše da nemaju nikakav
+dokaz protiv Kevin-a Mitnik.
+
+158
+00:16:51,512 --> 00:16:56,099
+Zavisi kako gledaš, protiv
+svih tih hakera.
+
+159
+00:16:56,266 --> 00:17:02,648
+Cijeli sat sam objašnjavao ministarstvu,
+da ovisi kako gledaš na to.
+
+160
+00:17:02,814 --> 00:17:08,779
+Da ga pritvorimo protiv kršenja uvjetnog?
+- Neznam, od tebe zavisi.
+
+161
+00:17:11,448 --> 00:17:15,160
+Slušaj imam pravi sluèaj
+sa pravim žrtvama.
+
+162
+00:17:15,369 --> 00:17:18,747
+Mitch.Naði Kevina i pritvori ga.
+I s time smo gotovi.
+
+163
+00:17:44,022 --> 00:17:48,777
+Da ovo nije malo previše,Kevine?
+
+164
+00:17:49,152 --> 00:17:51,446
+Mjesto je jezivo.
+
+165
+00:17:51,613 --> 00:17:55,826
+Hvala što si došao, Aleks.
+
+166
+00:17:56,034 --> 00:17:58,078
+Bio sam zabrinut za tebe.
+
+167
+00:17:58,203 --> 00:18:03,208
+Zabrinut?
+- Da, bio.
+
+168
+00:18:03,417 --> 00:18:06,461
+Treba mi usluga.
+
+169
+00:18:08,046 --> 00:18:12,634
+Umoran sam,treba mi neko mjesto da se
+odmorim nekoliko tjedana.
+
+170
+00:18:23,228 --> 00:18:26,106
+Dobro.
+
+171
+00:18:26,815 --> 00:18:30,819
+Zahvaljujem Gospodinu Shimamur-i
+što se pojavio pred komisijom.
+
+172
+00:18:33,071 --> 00:18:39,745
+On je nauènik u fizici, i jedan od 
+najboljih kompjutorskih struènjaka u državi.
+
+173
+00:18:39,912 --> 00:18:42,664
+Radi za više korporacija,
+
+174
+00:18:42,915 --> 00:18:47,544
+te za parlament, Ministarstvo odbrane
+i druge vladine organizacije.
+
+175
+00:18:47,669 --> 00:18:53,425
+Momentalno je zaposlen u super kompjutorskom
+centru u San Diegu,
+
+176
+00:18:53,634 --> 00:18:56,553
+na Kalifornijskom sveuèilištu.
+
+177
+00:18:56,762 --> 00:19:01,850
+G-dine Shimamura, molim poènite
+sa vašom demonstracijom.
+
+178
+00:19:01,975 --> 00:19:07,105
+U ruci imam mobilni telefon, što ga
+proizvodi firma Nokia.
+
+179
+00:19:07,231 --> 00:19:13,403
+U stavri je to radio, kontroliran
+od kompjutora, skener.
+
+180
+00:19:23,163 --> 00:19:25,874
+Mislim da je dovoljno.
+
+181
+00:19:28,252 --> 00:19:30,796
+Dovoljno je.
+
+182
+00:19:33,048 --> 00:19:39,555
+Samo da kažem ova,opcija je
+ugraðena u proizvod.Ja sam je samo otkrio.
+
+183
+00:19:39,763 --> 00:19:43,475
+Gluposti.
+Koga misli varat.
+
+184
+00:19:43,767 --> 00:19:46,603
+Tip je malo glup
+
+185
+00:19:46,770 --> 00:19:52,985
+Kao što vidite,buduænost može
+biti zagrižena za takav proizvod.
+
+186
+00:19:55,195 --> 00:19:59,491
+Kao da je jednostavno
+pobuditi javnost.
+
+187
+00:19:59,616 --> 00:20:02,828
+Ne dopada mi se taj dip.
+Da li je barem Amerikanac?
+
+188
+00:20:02,995 --> 00:20:08,750
+Ma,hajde èovjeèe..
+
+189
+00:20:10,752 --> 00:20:14,798
+Znaš što želim?
+Taj Nokijin kod.
+
+190
+00:20:15,924 --> 00:20:20,345
+Kada bi imao taj kod, znao bih
+unaprijed kada dolazi FBI.
+
+191
+00:20:27,519 --> 00:20:31,899
+Kako si?
+- Dobro
+
+192
+00:20:32,107 --> 00:20:35,360
+Imaš li ugodan dan?
+- Da.
+
+193
+00:20:35,527 --> 00:20:37,487
+Zdravo, Kevin.
+
+194
+00:20:41,909 --> 00:20:44,536
+Bila si kod Tim-a?
+- Toèno
+
+195
+00:20:44,661 --> 00:20:48,373
+Jesi mu nahranila ribicu?
+- Da.
+
+196
+00:21:19,363 --> 00:21:22,449
+Halo!
+- Treba mi G-din Shimamura.
+
+197
+00:21:22,658 --> 00:21:26,370
+Tko je tamo ?
+- Bill Rondel od Sun Microsystems.
+
+198
+00:21:28,664 --> 00:21:31,959
+Gledali smo vaše izlaganje na
+televiziji pred kongresom.
+
+199
+00:21:32,167 --> 00:21:37,089
+Prilièno smo impresionirani,
+odlièan produkt.
+
+200
+00:21:38,382 --> 00:21:42,594
+Uostalom vam se javljam, poradi ranjivosti
+preko e-mailova
+
+201
+00:21:42,803 --> 00:21:45,556
+pa bih trebao malo pomoæi.
+
+202
+00:21:45,722 --> 00:21:49,810
+Izvinjavam se, imam nekoga na drugoj liniji.
+Hoæete li prièekat?
+
+203
+00:22:00,195 --> 00:22:01,905
+NIJE PRONAÐEN.
+
+204
+00:22:02,114 --> 00:22:08,620
+Bill Rondel, od Sun Microsystems,jel toèno?
+- Da, da. Taj sam. Dajte mi vaš mail..
+
+205
+00:22:08,829 --> 00:22:12,708
+Takav nije zaposlen kod 
+Sun Microsystems.
+
+206
+00:22:12,875 --> 00:22:19,047
+Ako želiš nekoga prevariti, barem se potrudi
+složiti bolju prièu. Poèetnik si.
+
+207
+00:22:27,723 --> 00:22:30,058
+Hey,hey..
+Što ti je èovjeèe?
+
+208
+00:22:31,226 --> 00:22:33,645
+Rekao mi je da sam poèetnik.
+
+209
+00:22:34,146 --> 00:22:38,066
+Tako ti je rekao.
+Neznam da li si.
+
+210
+00:22:40,736 --> 00:22:43,238
+Halo!
+- Da ti nešto kažem..
+
+211
+00:22:43,405 --> 00:22:48,118
+Tvoja djevojka Julija.
+Julija. Tako se zove?
+
+212
+00:22:48,243 --> 00:22:51,205
+Bivša djevojka Piter-a Madoks.
+To je tvoj suradnik jel tako?
+
+213
+00:22:51,413 --> 00:22:56,543
+Da ti nešto kažem,dok ju jebeš jer izgovara njegovo ime?
+To bi bilo perverzno,jeli?
+
+214
+00:22:58,128 --> 00:23:02,382
+Tko si ti?
+- Netko tko se brine.
+
+215
+00:23:08,847 --> 00:23:11,058
+To ti nije mnogo produktivno.
+
+216
+00:23:11,225 --> 00:23:15,145
+Ne poèinji Aleks.
+- Samo ti kažem da tip nezna ni èitati.
+
+217
+00:23:16,438 --> 00:23:19,691
+To su gluposti.
+- Nisi ga èula?
+
+218
+00:23:19,858 --> 00:23:25,697
+Tomy, to što je spomenuo mene 
+i Piter zna sa je gotovo.
+
+219
+00:23:34,957 --> 00:23:39,837
+Propuštaš nešto. On se potrudio da
+dozna sve o tebi.
+
+220
+00:23:40,045 --> 00:23:43,006
+Ako je dobar,
+može otkriti sve.
+
+221
+00:23:43,173 --> 00:23:48,887
+Shimamura. Saldo: 1548,20 $
+
+222
+00:23:56,895 --> 00:24:00,983
+Predobar si da te odam.
+Imam mnogo klijenata.
+
+223
+00:24:22,588 --> 00:24:25,632
+Znaš i oni moraju malko prièekati.
+
+224
+00:25:22,981 --> 00:25:25,108
+Da se nisi usudio.
+
+225
+00:25:38,121 --> 00:25:43,001
+Halo ? Tko je?
+- Hey, imam nešto za tebe.
+
+226
+00:25:43,168 --> 00:25:48,590
+Za najboljeg kompjutorskog struènjaka.
+Znaš li šta mu se desilo?
+
+227
+00:25:48,841 --> 00:25:51,593
+Haknuo sam ga.
+Vjeruj mi, prièa je istinita.
+
+228
+00:26:07,693 --> 00:26:09,486
+Hajde.
+
+229
+00:26:15,200 --> 00:26:17,619
+Hoèeš li mi reæi šta se dešava?
+
+230
+00:26:39,474 --> 00:26:41,894
+Dobra veèer, G-din Shimamura.
+
+231
+00:27:03,207 --> 00:27:05,250
+San Diego, Kompjuterski Centar.
+
+232
+00:27:07,419 --> 00:27:10,255
+Nokitel
+direktorij ne postoji
+
+233
+00:27:10,464 --> 00:27:13,550
+Contempt
+direktorij ne postoji
+
+234
+00:27:20,557 --> 00:27:22,476
+Nemoguæe.
+
+235
+00:27:24,645 --> 00:27:27,356
+35 centi? èovjeèe.
+
+236
+00:27:41,787 --> 00:27:43,455
+Aleks, neæeš mi vjerovati!
+
+237
+00:27:43,580 --> 00:27:49,002
+haknuo sam mu kompjutor,
+imam Nokijin kod.
+
+238
+00:27:49,127 --> 00:27:50,963
+Šuti èovjeèe.
+
+239
+00:27:52,756 --> 00:27:54,675
+Slušam.
+
+240
+00:27:55,759 --> 00:28:00,681
+Cijelo jutro je policijsko
+vozilo pred mojom kuæom.
+
+241
+00:28:06,019 --> 00:28:09,982
+Jesu prièali su sa tobom?
+- Ne, samo nadgledavaju.
+
+242
+00:28:10,190 --> 00:28:13,861
+Jebeš zaradu što Markof dobije za prièu,
+to i SAS.
+
+243
+00:28:14,069 --> 00:28:17,322
+Prespojio si govornicu?
+- Da da.
+
+244
+00:28:17,489 --> 00:28:20,450
+Sigurno prisluškivaju tvoje komšije.
+
+245
+00:28:21,618 --> 00:28:27,624
+Halo, iz bolnice vam se javljam.
+
+246
+00:28:27,833 --> 00:28:32,421
+Trebate doæi do bolnice,
+da mu izvadimo krv.
+
+247
+00:28:32,629 --> 00:28:35,591
+Nemogu vjerovat.
+
+248
+00:28:38,302 --> 00:28:41,722
+Ova mu je dobra,
+ova mu je mnogo dobra.
+
+249
+00:28:43,807 --> 00:28:49,021
+Odlaze.
+- Ostavi stražnja vrata otvorena,vidimo se kasnije.
+
+250
+00:28:55,027 --> 00:28:58,489
+Mene plaæaju da
+pratim hakere.
+
+251
+00:28:58,739 --> 00:29:02,201
+Moj posao je napraviti najbolji lijek
+za najgoru bolest.
+
+252
+00:29:02,367 --> 00:29:06,830
+No prvi korak je stvoriti najgoru bolest.
+Ja sam to uèinio.
+
+253
+00:29:08,081 --> 00:29:09,958
+nazvao sam ga CONTEMPT.
+
+254
+00:29:10,167 --> 00:29:14,838
+Comptent probija svaki obrambeni sustav
+i to kompletno.
+
+255
+00:29:15,047 --> 00:29:18,425
+To je virus?
+- Ne, ne razumiješ me.
+
+256
+00:29:18,550 --> 00:29:24,640
+Contempt razumije strukturu 
+Internet linkova.
+
+257
+00:29:24,806 --> 00:29:29,811
+Sa nekoliko Enter-a, možeš da
+staviš pod kontrolu, cijeli grad pa i državu.
+
+258
+00:29:29,978 --> 00:29:34,816
+Može da blokira telefoniju, email sistem,
+avionski saobraæaj, da blokiraš grad.
+
+259
+00:29:34,983 --> 00:29:40,280
+može da kodira softver.Štogod da koristis
+bolnice i bankomate, i nitko nemože da ga sprijeèi.
+
+260
+00:29:40,489 --> 00:29:42,533
+I sada je slobodan.
+
+261
+00:29:42,741 --> 00:29:47,746
+Hakeri su ukrali tisuce stranica od Oziris-a.
+Istraživanja,tekstove, e-mail poruke.
+
+262
+00:29:47,955 --> 00:29:53,752
+Sve sam imao snimito.
+Golemo je kao i telefonski imenik.
+
+263
+00:29:53,961 --> 00:29:59,508
+Sakrio sam to iza Nokijinog koda.
+To èe ga zadržati neko vrijeme.
+
+264
+00:30:01,677 --> 00:30:04,137
+Potrebna ti je pomoæ.
+
+265
+00:30:04,304 --> 00:30:06,598
+Trebat æeš da nekome kažeš o tome.
+- Što ?
+
+266
+00:30:06,807 --> 00:30:13,063
+Ne za Contempt. No Bred i njegovi prijatelji
+možda ti pomognu da naðeš toga èovjeka.
+
+267
+00:30:13,188 --> 00:30:16,066
+Iskoristi ga, i mene.
+
+268
+00:30:17,401 --> 00:30:20,279
+Ako imaš pravo.
+
+269
+00:30:20,487 --> 00:30:23,323
+Ne smiješ prestati tražiti.
+
+270
+00:30:47,139 --> 00:30:53,228
+Odobren je nalog za pretres.
+
+271
+00:30:55,230 --> 00:31:01,528
+za Aleks Low-ov stan.
+
+272
+00:31:16,251 --> 00:31:20,631
+Low.Možeš li iskljuèiti tu jebenu glazbu.
+
+273
+00:31:20,797 --> 00:31:22,549
+Zašto?
+
+274
+00:31:23,675 --> 00:31:28,805
+Što ti je,
+ovo je moja kuæa èovjeèe.
+
+275
+00:31:28,972 --> 00:31:32,392
+Trenutno,
+mogu da budem bogat.
+
+276
+00:31:32,559 --> 00:31:38,649
+Mogu upotrijebiti ovaj kompjutor
+da uzmem koliko hocu novaca
+
+277
+00:31:38,815 --> 00:31:43,862
+od bilo koje banke na svijetu
+i da ga stavim bilo gdje na raèun.
+
+278
+00:31:44,112 --> 00:31:45,864
+Ali ja to ne èinim.
+
+279
+00:31:45,989 --> 00:31:48,408
+I što dobivam za to?
+
+280
+00:31:49,868 --> 00:31:52,955
+Ne samo John Dilinger-a.
+
+281
+00:31:53,121 --> 00:31:57,042
+Izdan je nalog ?
+
+282
+00:31:58,794 --> 00:32:01,880
+Samo da te zaplaše.
+
+283
+00:32:03,715 --> 00:32:07,594
+Hajde,
+proèitaj si e-mail.
+
+284
+00:32:11,098 --> 00:32:15,394
+Policajcu, neka bude ovu brzo i tiho.
+- Dobro.
+
+285
+00:32:27,573 --> 00:32:30,200
+Provjerite sve sobe.
+
+286
+00:32:33,745 --> 00:32:36,331
+Promašili ste me.
+
+287
+00:32:38,876 --> 00:32:43,839
+Polako.
+
+288
+00:32:44,006 --> 00:32:46,717
+Polako.
+
+289
+00:32:46,884 --> 00:32:48,302
+Što je?
+
+290
+00:32:48,510 --> 00:32:52,931
+Dobro jutro, G-din Low.
+Ja sam Gibson iz FBI-a.
+
+291
+00:33:56,954 --> 00:33:58,789
+Hej, malecki.
+
+292
+00:34:53,218 --> 00:34:56,221
+Što se dešava?
+
+293
+00:34:59,933 --> 00:35:01,643
+To malo kopile.
+
+294
+00:35:14,156 --> 00:35:18,619
+Subota, 8:34 popodne.
+
+295
+00:35:18,785 --> 00:35:23,540
+Shimamura, ja sam najbolji.
+Šef mi je zakon.
+
+296
+00:35:23,790 --> 00:35:28,962
+Ja znam send mail tehniku
+hej, ti, tvoj kung fu nije dobar.
+
+297
+00:35:29,171 --> 00:35:31,507
+Jesil bio neposlušan?
+
+298
+00:35:33,550 --> 00:35:38,222
+Znaš što. Ja i moji prijatelji
+æemo da te ubijemo.
+
+299
+00:35:55,280 --> 00:35:59,993
+Ovaj Oziris kompjutor je kod mene kod kuæe.
+Tamo držim Nokijin kod i ostale podatke.
+
+300
+00:36:00,160 --> 00:36:02,996
+Ovo je Ariel, kompjutor 
+na kojem mi ovdje radimo.
+
+301
+00:36:03,247 --> 00:36:08,710
+Oziris nemože da komunicira so svijetom, to
+može samo Ariel.To je njegov zaštitni zid.
+
+302
+00:36:30,148 --> 00:36:33,110
+Ariel je spojen na internetski modem.
+
+303
+00:36:33,277 --> 00:36:38,282
+I to bi bilo prvo izloženo probijanju i
+prouèavanju od strane hakera.
+
+304
+00:36:38,448 --> 00:36:44,496
+A da bi probio Ariel treba mu lozinka.
+No da stigneš do Oziris-a, nije moguæe.
+
+305
+00:36:44,705 --> 00:36:47,291
+Za samo 4 minute. Stvarno nemoguæe.
+
+306
+00:36:58,010 --> 00:37:02,514
+Govorimo o velikom novcu.
+Sredi to, ili æe da propadne dogovor..
+
+307
+00:37:09,646 --> 00:37:15,194
+Pronaðimo dio koda koji je
+haker ostavio kod Oziris-a.
+
+308
+00:37:15,360 --> 00:37:18,071
+ako nekoga interesira datoteke su
+imale sekvencu
+
+309
+00:37:18,238 --> 00:37:23,243
+I-T-N-I kako potpis od Mitnik-a.
+- Misliš da je Mitnik napravio to?
+
+310
+00:37:23,827 --> 00:37:27,831
+Probio si Nokijin kod.
+- Da, trebaju mi samo još slike lopova.
+
+311
+00:37:27,956 --> 00:37:33,837
+Znaš šta mi je još èudno. To što
+ti se javio i najavio hack.
+
+312
+00:37:34,046 --> 00:37:37,466
+I što ?
+- Zašto napravi tako?
+
+313
+00:37:37,674 --> 00:37:43,514
+Gibson.
+- Ovdje upravitelj MotorVehicle korporacije.
+
+314
+00:37:43,722 --> 00:37:48,268
+Prije 30 minuta sam primo poziv, i
+se prestavio kao vi.- Što je trebao sa pozivom?
+
+315
+00:37:48,477 --> 00:37:53,273
+Barem slike,od nekoliko službenika FBI-a,
+ukljuèivši i vaše.
+
+316
+00:37:53,690 --> 00:37:57,986
+Savršen hak je kada žrtva
+ni ne zna da je hakirana,jel tako?
+
+317
+00:37:58,153 --> 00:38:03,075
+A ovaj se javi da moze poceti?
+
+318
+00:38:03,242 --> 00:38:09,039
+To znaèi da je netko koga znate,
+ili netko koga si iznervirao.
+
+319
+00:38:09,957 --> 00:38:14,503
+To bi bili,skoro svi Julija.
+- I ja tebe volim Brad.
+
+320
+00:38:14,711 --> 00:38:18,298
+Na èudan naèin pokazujete,šefe.
+
+321
+00:38:18,966 --> 00:38:23,971
+Tip je pametan.Dao,
+je FBI faks broj.
+
+322
+00:38:24,137 --> 00:38:29,017
+No kada smo potražili èiji je broj,
+vidjeli smo da je to fotokopiraona Culver.
+
+323
+00:38:29,184 --> 00:38:32,563
+Oni su samo preusmjerili broj.
+
+324
+00:38:32,771 --> 00:38:34,982
+Daj mi adresu toga mjesta.
+
+325
+00:38:49,788 --> 00:38:52,207
+Mislim da je,
+to adresirano na mene?
+
+326
+00:38:55,294 --> 00:38:58,005
+Imaš pravo, adresirano je
+na neko govno.
+
+327
+00:40:41,316 --> 00:40:45,320
+Prièaš li samnom?
+- Ne.
+
+328
+00:40:45,487 --> 00:40:49,324
+Kad ne prièaš,to znaèi da si nekulturan.
+- Nisam nekulturan
+
+329
+00:40:49,575 --> 00:40:52,494
+To je totalno nekulturno.
+
+330
+00:40:52,619 --> 00:40:55,622
+Možeš li mi reæi gdje si?
+- Ne.
+
+331
+00:40:57,499 --> 00:41:00,711
+Želiš skakat kroz prozor.
+- Što ?
+
+332
+00:41:00,919 --> 00:41:03,172
+Znaš kako je.Putujem brzinom svjetlosti.
+
+333
+00:41:03,338 --> 00:41:06,425
+Provijeravaš li prtljagu ?
+
+334
+00:41:06,633 --> 00:41:11,471
+Internet je za mene skladište
+za osobne potrebe.
+
+335
+00:41:11,638 --> 00:41:14,933
+Uèini mi uslugu, 
+Nemoj da te uhapse.
+
+336
+00:41:17,352 --> 00:41:19,813
+Nemožeš uhvatiti ono
+što ne vidiš.
+
+337
+00:41:20,898 --> 00:41:25,944
+Konferencija protiv
+zloupotrebe kompjutera.
+
+338
+00:41:30,782 --> 00:41:32,451
+Ima li pitanja?
+
+339
+00:41:32,659 --> 00:41:37,164
+Želite li reæi da ova
+provala
+
+340
+00:41:37,372 --> 00:41:39,917
+dijelo Kevin-a Mitnik-a?
+
+341
+00:41:40,125 --> 00:41:42,252
+Bez komentara.
+
+342
+00:41:42,377 --> 00:41:46,507
+Da li on zna za Nokijin kod?
+- Logièna pretpostavka.
+
+343
+00:41:46,673 --> 00:41:49,635
+Što su još dobili?
+
+344
+00:41:51,261 --> 00:41:55,140
+To je povjerljivo.
+- E pa, više nije.
+
+345
+00:42:00,771 --> 00:42:04,775
+Što znaš ti,a da ja neznam.
+- Oprosti,ali to je povjerljivo.
+
+346
+00:42:04,983 --> 00:42:08,821
+Samo se ti smiješi.
+- Dobro izgledam.
+
+347
+00:42:08,987 --> 00:42:12,241
+Hvala.
+
+348
+00:42:12,449 --> 00:42:16,870
+Hej, gdje je nešto 
+kao besplatni kolaèi ili bilo što?
+
+349
+00:42:17,120 --> 00:42:21,875
+Samo smireno i polako.
+Samo tako æeš ga pobijediti.
+
+350
+00:42:22,084 --> 00:42:23,836
+G-dine Shimamura.
+
+351
+00:42:26,171 --> 00:42:30,717
+Mitch Gibson, FBI.
+Imate li malo vremena?
+
+352
+00:42:31,885 --> 00:42:35,180
+Možda je Mitnik.
+- Možda i nije,možda je netko drugi.
+
+353
+00:42:35,389 --> 00:42:39,017
+Samo da doznaš nešto poveæe
+za vas hakere.
+
+354
+00:42:39,184 --> 00:42:42,980
+Ja sam haker, Mitnik je craker
+Ogromna razlika.
+
+355
+00:42:43,188 --> 00:42:48,485
+Nisam ovlašten sam da ga pritvorim,Mitnik-a
+ni na koju osnovu.
+
+356
+00:42:48,610 --> 00:42:54,491
+Lièno mislim da je propalica,sposoban da
+napravi štetu,da prekrši uvjetno...
+
+357
+00:42:54,616 --> 00:42:58,912
+Mitch,
+Da li se razumijete?
+
+358
+00:42:59,163 --> 00:43:02,291
+Da li ste kvalificirani 
+za ovaj sluèaj ?
+
+359
+00:43:02,499 --> 00:43:09,131
+Možda me gledate i kažete
+što je ovaj tip glup.
+
+360
+00:43:09,298 --> 00:43:14,511
+Po tvoe je možda tako, No po mome
+mislim da je to ovdje najvažnije
+
+361
+00:43:14,720 --> 00:43:20,475
+Ja sam agent sa iskustvom, a ti si
+desocijaliziran kompjuteraš
+
+362
+00:43:20,642 --> 00:43:22,644
+a da ne spominjem
+tvoju djevojku.
+
+363
+00:43:22,811 --> 00:43:27,733
+Mitch, kako si srce ?
+Sjeèaš se mene?
+
+364
+00:43:27,941 --> 00:43:30,944
+Aleks Low, blizak prijatelj
+Kevin-a Mitnik-a.
+
+365
+00:43:31,153 --> 00:43:36,658
+Hej Tomo, kompjuterski majstore
+- Taj ti je ostavio poruku na sekretarici.
+
+366
+00:43:38,911 --> 00:43:44,541
+Loše za nas, no znam
+hajde da si pomognemo.
+
+367
+00:43:44,750 --> 00:43:46,668
+Poslušaj me,maleni?
+
+368
+00:44:30,087 --> 00:44:31,839
+Hajde èovjeèe,šta ti kažem..
+
+369
+00:44:32,047 --> 00:44:39,012
+On mi bijaše radikalan židov.
+Znaèi ona, oko za oko, i takva sranja.
+
+370
+00:44:39,179 --> 00:44:43,058
+To je njegov prijatelj, stalno
+odjelo je pustinja
+
+371
+00:44:43,183 --> 00:44:46,478
+stavljali ogromne postere
+od Hitlera, i tako vježbale.
+
+372
+00:44:48,605 --> 00:44:51,567
+Vidiš li ovo ?
+- Kako vidim ?
+
+373
+00:44:51,775 --> 00:44:57,197
+Eden.tar datoteka u
+direktoriju Contempt
+
+374
+00:44:57,322 --> 00:45:01,785
+Eden.del je
+kriptiran.
+
+375
+00:45:01,910 --> 00:45:04,163
+Šta li je ovo ?
+
+376
+00:45:04,371 --> 00:45:09,209
+Ne znam, ovaj kod
+još nisam vidio do sada.
+
+377
+00:45:09,376 --> 00:45:11,920
+Što imame ovdje ?
+
+378
+00:45:17,009 --> 00:45:23,807
+Izgleda kao nekakav crv i virus kod zajedno,
+kao neki stealth attack kod.
+
+379
+00:45:24,016 --> 00:45:29,438
+No, ne vidim nikakav
+vladin klasifikat.
+
+380
+00:45:29,646 --> 00:45:34,735
+Nema ni od CIA, od FBI, NSA
+
+381
+00:45:34,902 --> 00:45:37,446
+Mislim da je ovo djelo 
+one Big Brother igre.
+
+382
+00:45:37,654 --> 00:45:42,951
+Nema smisla.Zašto bi to pravio
+za sebe ? Zašto bi èinio takvo što?
+
+383
+00:45:43,118 --> 00:45:45,746
+Zato što može.
+
+384
+00:45:57,132 --> 00:45:59,551
+Hvala što si mi rekao.
+
+385
+00:45:59,760 --> 00:46:01,220
+Novi napad
+
+386
+00:46:01,386 --> 00:46:03,639
+Nisam znao.
+
+387
+00:46:13,232 --> 00:46:17,152
+Mogu li vas poslužiti?
+- Može jedan Esspreso.
+
+388
+00:46:23,951 --> 00:46:26,870
+Èitaš o Cyber-teroristima.
+
+389
+00:46:27,079 --> 00:46:30,040
+Prvi borci za slobodu.
+
+390
+00:46:30,165 --> 00:46:34,795
+Sve zavisi od toga, 
+kako gledate na njihov rad.
+
+391
+00:46:35,003 --> 00:46:38,423
+Kako bi te naterali
+da gledaš, ne misliš tako?
+
+392
+00:46:38,590 --> 00:46:41,385
+Možda se i slažem sa time.
+
+393
+00:46:45,472 --> 00:46:47,766
+Idem da ti donesem kavu.
+
+394
+00:46:53,480 --> 00:47:00,445
+Mislim da bi trebalo
+da produžimo ovaj razgovor.
+
+395
+00:47:01,613 --> 00:47:03,574
+Važi.
+
+396
+00:47:05,826 --> 00:47:08,287
+Ja se zovem, Kerryn.
+
+397
+00:47:20,507 --> 00:47:23,510
+To je u Seattlu ?
+
+398
+00:47:26,346 --> 00:47:32,769
+Potvrdite MINS? Jack daj mi 
+broj, javit æu ti se za sat vremena.
+
+399
+00:47:39,318 --> 00:47:42,905
+Tsutomu ? Jack Cronning
+odijeljenje mobilna telefonija i prijestupi.
+
+400
+00:47:58,337 --> 00:48:02,382
+Èovjeèe,koje nevrijeme
+- Poveæaje se svaki pol sata.
+
+401
+00:48:02,549 --> 00:48:05,385
+Dobrodošli u Seattle.
+
+402
+00:48:05,552 --> 00:48:11,850
+Posljednja dva tjedna,pratim osumnjièenog
+koji krade telefonske brojeve
+
+403
+00:48:12,100 --> 00:48:14,561
+Pravi dugove i do 10.000$
+
+404
+00:48:14,770 --> 00:48:18,816
+Obièno vrti preko modema.
+- Hakira
+
+405
+00:48:18,982 --> 00:48:25,113
+Koristivsi mobitelski skener
+pratio ga i imao sreæe.
+
+406
+00:48:25,280 --> 00:48:30,953
+Otkrio sam signal, negdje
+kod Broocklyn Avenije.
+
+407
+00:48:31,119 --> 00:48:37,835
+Zašto misliš da je isti moj cracker ?
+- Pa evo snimio sam posljednji razgovor.
+
+408
+00:48:45,008 --> 00:48:48,846
+Gledaš li, Tsutomu je na prvoj stranici.
+- Da, i ti si.
+
+409
+00:48:49,096 --> 00:48:52,850
+Da, on je heroj, a ja sam državni
+neprijatelj broj 1.
+
+410
+00:48:53,016 --> 00:48:54,977
+Razmisli malko èovjeèe,
+
+411
+00:48:55,143 --> 00:49:00,816
+za 20 miliona kompjutera postoji
+rizik da budu haknuti.
+
+412
+00:49:01,024 --> 00:49:03,777
+Prilièno je oèigledno da je taj vaš.
+
+413
+00:49:43,817 --> 00:49:46,111
+Ideš li?
+
+414
+00:49:46,904 --> 00:49:49,656
+Brian Meryl, je hrabro mlado momèe
+
+415
+00:49:49,823 --> 00:49:54,328
+nema nikakav dosje, nema
+ni prijavi, nema ništa
+
+416
+00:49:54,495 --> 00:49:56,955
+Što znaèi da imamo 
+posla sa nekakvom legendom.
+
+417
+00:49:57,122 --> 00:50:01,710
+G-din Shimamura kaže da je na 61-A
+
+418
+00:50:01,835 --> 00:50:06,548
+osumnjièeni je oèigledno Kevin Mitnik.
+
+419
+00:50:08,133 --> 00:50:12,763
+Prvi amandman, je prilièno važen,
+ima nekakvu vrijednost.
+
+420
+00:50:12,971 --> 00:50:14,389
+da...
+
+421
+00:50:14,556 --> 00:50:20,646
+samo neznam, kakvu svrhu ima haker koji
+provalji u ministarstvo.
+
+422
+00:50:20,854 --> 00:50:24,483
+Javnost ima pravo da zna
+Što se dešava.
+
+423
+00:50:24,650 --> 00:50:30,447
+Kome èeš vjerovati Big Brotheru,
+korporaciji, vladinoj organizaciji?
+
+424
+00:50:30,656 --> 00:50:36,245
+Gledaj na hakerstvo kao sluga narodu
+- Kada bih znala da su hakeri dobri.
+
+425
+00:50:36,453 --> 00:50:40,582
+Moraš priznati da postoje nastrojeni tipovi
+
+426
+00:50:40,749 --> 00:50:44,294
+koji kradu samo tuði rad.
+To je strašno.
+
+427
+00:50:44,461 --> 00:50:47,840
+Obièno nije tako.
+Obièno je samoodbrana.
+
+428
+00:50:48,048 --> 00:50:50,592
+Želiš sladoled ?
+
+429
+00:51:11,738 --> 00:51:13,157
+Nema nikog.
+
+430
+00:51:14,032 --> 00:51:18,495
+Izlgeda da obožavaš tog Mulnik tipa.
+- Mitnik
+
+431
+00:51:18,704 --> 00:51:24,126
+Ne obožavam ga,
+Imam sauèešæe sa njime,predpostavljam.
+
+432
+00:51:24,334 --> 00:51:26,503
+Zašto ?
+
+433
+00:51:26,628 --> 00:51:30,174
+Sigurno je usamljen tamo.
+
+434
+00:51:30,340 --> 00:51:35,929
+Izgleda da ga traže
+i to doživotno.
+
+435
+00:51:36,096 --> 00:51:39,892
+I ako se bjegunac, 
+to te promijeni.
+
+436
+00:51:44,521 --> 00:51:46,523
+Brian ?
+- Kamo idemo ?
+
+437
+00:51:46,773 --> 00:51:49,943
+Nemam pojma
+- Ajde da se trkamo.
+
+438
+00:52:05,626 --> 00:52:07,836
+Trebali ste da èekate.
+
+439
+00:52:25,145 --> 00:52:27,731
+Izvini.
+- U redu je.
+
+440
+00:52:52,965 --> 00:52:55,884
+Jesil skenirala nekoga ?
+
+441
+00:52:56,134 --> 00:52:59,179
+Skenirala ?
+- Ono o èemu smo maloprije govorili.
+
+442
+00:52:59,429 --> 00:53:01,890
+Da ti pokažem.Nije ništa strašno.
+
+443
+00:53:02,057 --> 00:53:05,310
+Isto kao da programiraš
+na kompjutoru.
+
+444
+00:53:05,561 --> 00:53:10,899
+Normalno je programiran da bude
+telefon, no sa malo promjena postaje skener.
+
+445
+00:53:11,066 --> 00:53:15,904
+Skeniraš li ti èesto ?
+- Biraš po frekvencijama dok ne naðeš govor.
+
+446
+00:53:16,155 --> 00:53:20,200
+Tako nauèiš stvari.
+- Ja radije ne bih.
+
+447
+00:53:20,409 --> 00:53:23,412
+Slušaj,mislim da æe ti se dopasti.
+
+448
+00:53:34,423 --> 00:53:38,510
+Bio je nesretan sluèaj
+što ga udari
+
+449
+00:53:38,635 --> 00:53:43,307
+ni ja nisam vidila automobil
+pozadi..
+
+450
+00:53:43,473 --> 00:53:46,226
+kuèko jedna.
+
+451
+00:54:02,826 --> 00:54:05,537
+Ova je bila dobra.
+
+452
+00:54:06,955 --> 00:54:11,627
+Ne, no kladim se da
+ima i nekih dobrih.
+
+453
+00:54:11,835 --> 00:54:14,546
+stvarno možeš svašta da nauèiš.
+
+454
+00:54:20,802 --> 00:54:22,971
+Znaš,trebala bih se ustat
+
+455
+00:54:23,138 --> 00:54:29,353
+mnogo rano, radim prvu smijenu
+pa si mislim...
+
+456
+00:54:29,561 --> 00:54:32,147
+možda bih se trebala odmoriti.
+
+457
+00:54:34,817 --> 00:54:37,277
+Mama mi je bila konobarka.
+
+458
+00:54:37,486 --> 00:54:41,031
+Stvarno ?
+- Da, i ona je bila kuèka.
+
+459
+00:56:26,136 --> 00:56:27,846
+Kevin ?
+
+460
+00:57:02,422 --> 00:57:06,009
+Šta je ? Šta hoæeš od mene ?
+- Ukrao si mi rad.
+
+461
+00:57:06,176 --> 00:57:10,013
+Šta hoæeš ?
+- Znaš što hoæu, ukrao si mi datoteke.
+
+462
+00:57:10,180 --> 00:57:15,310
+Šta još hoæeš ? Ni ne poznajem te.
+Ovaj èovjek mi je ukrao novèanik.
+
+463
+00:57:15,477 --> 00:57:18,397
+Vrati mu novèanik èovjeèe.
+- Ja ga ni ne poznajem.
+
+464
+00:57:18,564 --> 00:57:22,901
+Vrati mu novèanik èovjeèe.
+- Što vam je ? Kakav novèanik ?
+
+465
+00:57:28,615 --> 00:57:30,450
+Vrati mu novèanik.
+
+466
+00:59:26,108 --> 00:59:30,487
+Gdje sam ?
+Na jednom mjestu u blizini Seatla.
+
+467
+00:59:30,779 --> 00:59:32,281
+Zvuèiš kao da si umoran.
+
+468
+00:59:32,489 --> 00:59:38,203
+Umoran sam Alex.
+Cijeli ovaj rad smrdi.
+
+469
+00:59:38,370 --> 00:59:42,374
+Zašto je on bio tamo ?
+- Nemam pojma.
+
+470
+00:59:42,499 --> 00:59:45,919
+Znaš što Alex,
+baš si mi od velike pomoæi.
+
+471
+00:59:46,128 --> 00:59:49,923
+Hej,hej ne iskaljavaj se na meni,
+i ja sam na tvojoj strani.
+
+472
+00:59:50,174 --> 00:59:52,342
+Znam.
+
+473
+00:59:52,509 --> 00:59:57,014
+Doðu ti i pokucaju na vrata,
+i ti poèneš odmah da se grizeš.
+
+474
+00:59:57,181 --> 01:00:00,642
+Što je sa tim kodom od virusa
+što ga Shimamura traži.
+
+475
+01:00:00,809 --> 01:00:03,187
+Neznam baš.
+No znam da mu je važan.
+
+476
+01:00:03,312 --> 01:00:07,941
+Poveæi dio koda je
+kriptiran.
+
+477
+01:00:08,108 --> 01:00:12,905
+Možeš da ga staviš na net.
+- Razmišljao sam o tome
+
+478
+01:00:13,113 --> 01:00:15,073
+Ili možeš da pobjegneš iz zemlje.
+
+479
+01:00:17,242 --> 01:00:20,954
+Ako otiðem možda neæu imati šanse
+da se vratim.
+
+480
+01:00:21,121 --> 01:00:24,500
+Može da doðe i do toga, ali prvo
+moram da probijem šifru.
+
+481
+01:00:24,708 --> 01:00:26,960
+Nemaš vremena Kevine.
+
+482
+01:00:28,337 --> 01:00:29,963
+Jednostavno moram da znam.
+
+483
+01:00:43,811 --> 01:00:48,816
+Obadvojica znamo da Shimamura 
+radi za NSA.
+
+484
+01:00:48,982 --> 01:00:54,863
+Stoga je logièna predpostavka da je
+za kriptiranje Contempa koristio 56 bitnu zaštitu.
+
+485
+01:00:55,113 --> 01:01:00,452
+Znaš što to znaèi ? Postoji
+370 milijardi kombinacija...
+
+486
+01:01:00,577 --> 01:01:03,038
+za dekriptiranje Contempta.
+
+487
+01:01:03,163 --> 01:01:06,458
+Sa tvojim kompjutorom,
+bit æe ti potrebno otprilike...
+
+488
+01:01:06,708 --> 01:01:11,004
+100 godina da probiješ šifru.
+
+489
+01:01:11,171 --> 01:01:12,840
+Znam za to Alex.
+
+490
+01:01:13,048 --> 01:01:19,012
+No ja sam razmišljao da iskoristim 10.000
+sveuèilišnih kompjutora da ga probijem.
+
+491
+01:01:57,718 --> 01:01:59,219
+Zdravo prijatelju.
+
+492
+01:02:06,226 --> 01:02:09,104
+Dobro veèer Ray.
+
+493
+01:02:09,313 --> 01:02:15,611
+Obièno vas kompjutoraše ne volim gledati ovako kasno.
+- Kasno je,obièno je kasno kada odlazim.
+
+494
+01:02:15,777 --> 01:02:21,783
+Imam jedan semestarski rad,
+i moram da ga obavim.
+
+495
+01:02:21,950 --> 01:02:25,037
+Imaš li osobnu kartu.
+
+496
+01:02:25,204 --> 01:02:28,081
+Da, svakako.
+
+497
+01:02:32,336 --> 01:02:34,630
+O, izvini...
+
+498
+01:02:34,838 --> 01:02:38,509
+Nema problema, samo
+donesi je iduæi put.
+
+499
+01:02:40,552 --> 01:02:44,139
+Hvala.
+- Nema ne èemu,Martin.
+
+500
+01:03:12,417 --> 01:03:14,545
+Mitnik je dobar.
+
+501
+01:03:14,711 --> 01:03:20,133
+I više od toga. No nije savršen.
+On nije mašina.
+
+502
+01:03:36,775 --> 01:03:41,613
+Napravit æe pogrešku, i ja
+æu da otkrijem tu grešku.
+
+503
+01:03:53,000 --> 01:03:58,422
+Usporedite brojeve koje je koristio
+sa brojevima Meril centrale.
+
+504
+01:04:50,557 --> 01:04:53,268
+Siguran sam da ga je koristio
+NetCom je njegov glavni provider.
+
+505
+01:04:53,519 --> 01:04:58,565
+Kladim se ako pregledamo login datoteke
+da æemo dobiti brojeve koje je Mitnik ukrao.
+
+506
+01:04:59,733 --> 01:05:03,695
+Provjerio sam login datoteke
+što ste tražili.
+
+507
+01:05:03,779 --> 01:05:09,243
+On pripada na G-din Kremer, 52 godišnji
+reklamni agent iz Minesote.
+
+508
+01:05:09,409 --> 01:05:12,162
+Odlièno.
+- Vjerojatno taj èita poštu jednom mjeseèno.
+
+509
+01:05:12,412 --> 01:05:16,458
+Trenutno je na Telnet-u .
+Drugi korisnik, je negdje u Izraelu.
+
+510
+01:05:16,583 --> 01:05:20,879
+Izrael ?
+- Da, JSZ je definitivno kratica za Izrael.
+
+511
+01:05:21,129 --> 01:05:27,052
+Martin: Šetam  po telnetu i FTP
+jsz: isn = m+f ? vjeruješ mi.
+
+512
+01:05:34,893 --> 01:05:38,856
+Martin: probaj na Nokiji
+
+513
+01:05:39,481 --> 01:05:42,985
+Nokija, Martine treba da je to naš èovjek.
+
+514
+01:05:43,193 --> 01:05:46,196
+Može li se tracirati POP server.
+- Mogu probati.
+
+515
+01:05:48,740 --> 01:05:52,161
+jsz: moj heroj je IceBraker!
+martin: moj je Shimo.
+
+516
+01:05:56,874 --> 01:05:59,084
+Nastavi tipkati,idiote.
+
+517
+01:06:12,055 --> 01:06:16,643
+Treba mailati na NY-Times, 
+da im prikažem
+
+518
+01:06:16,894 --> 01:06:21,064
+kako Shimo zlostavlja
+djecu.
+
+519
+01:06:21,231 --> 01:06:22,816
+O, molim te.
+
+520
+01:06:25,068 --> 01:06:26,904
+Vidite ovo.
+
+521
+01:06:27,529 --> 01:06:30,616
+U periodu od 6 sati
+birao je sljedeæa mjesta.
+
+522
+01:06:30,782 --> 01:06:34,703
+...Hawaii, Boston,
+Port Spain, Dallas.
+
+523
+01:06:34,828 --> 01:06:39,082
+Kakva teleportacija.
+- Ron, mi trebamo njegov POP
+
+524
+01:06:39,249 --> 01:06:41,627
+Ostani u{te malku na linija.
+
+525
+01:07:18,831 --> 01:07:24,878
+martin: dali je publika prisutna ?
+
+526
+01:07:26,588 --> 01:07:29,591
+< Veza je prekinuta >
+
+527
+01:07:30,175 --> 01:07:34,179
+Lokalni poziv,
+nema pozivni broj.
+
+528
+01:07:34,429 --> 01:07:37,766
+Imam ga,
+Zvao je od Raley Duram-a
+
+529
+01:07:37,891 --> 01:07:42,104
+Siguran si ?
+- Da,vaš èovjek je u Sjevernoj Carolini.
+
+530
+01:07:42,271 --> 01:07:46,608
+G-dine Shimamura, Gibson me
+izvjestio za sljedeæi korak
+
+531
+01:07:46,817 --> 01:07:50,195
+No ovo nije za kompjutorsko osiguranje,
+ovo je policijski rad.
+
+532
+01:07:50,445 --> 01:07:56,076
+Hoæu da budem izvješten ?
+- Razumijem to
+
+533
+01:07:56,201 --> 01:08:01,915
+No, ne moram da dozvolim, civilu da zna
+ono što je sada postalo kriminal.
+
+534
+01:08:02,082 --> 01:08:06,378
+U svakom sluèaju,ja æu vas obavijestiti
+kako se odvija sluèaj.
+
+535
+01:08:07,337 --> 01:08:10,048
+Vidjet æe što se dogaða.
+
+536
+01:08:10,215 --> 01:08:14,428
+Šta se dogaða ?
+- Brad, to je samo što pristigne kod Raleya.
+
+537
+01:08:15,596 --> 01:08:22,519
+Znam. Ima nešto kod toga èovjeka. Juèer sam bio
+na telnet-u,i on je bio pratio me.
+
+538
+01:08:22,769 --> 01:08:26,648
+Slušaj se što prièaš.
+- Kažem ti,bio je tamo.
+
+539
+01:08:26,815 --> 01:08:31,820
+Pretjeruješ, kako si mogo znati da je bio tamo.
+- Bio je tamo.
+
+540
+01:08:32,029 --> 01:08:37,534
+Alex, ujutro u 9 sati,
+nemoj zaboraviti i nemoj kasniti.
+
+541
+01:08:41,413 --> 01:08:46,835
+Takve informacije ne mogu da vam dajem.
+- Pusti to Dane.
+
+542
+01:08:47,044 --> 01:08:52,966
+G-dine Shimamura, znam da vam to mnogo znaèi,
+no ja vam ne mogu dati tu informaciju.
+
+543
+01:08:53,133 --> 01:08:55,844
+Obeæao si preko telefona da æeš pomoæi.
+- Ja želim da pomognem.
+
+544
+01:08:56,094 --> 01:09:00,265
+No ako vam dadem to što tražite,
+mogao bih izgubiti posao.
+
+545
+01:09:00,474 --> 01:09:04,394
+Dane, doputovao sam izdaleka
+i neæu otiæi dok ne...
+
+546
+01:09:04,561 --> 01:09:08,857
+Slušaš li što ti kaže ? Može ostat bez posla.
+Pokaži makar malo poštovanja.
+
+547
+01:09:09,066 --> 01:09:14,154
+Ti si genijalac.
+Razmisli malo što èiniš.
+
+548
+01:09:31,421 --> 01:09:35,801
+Dobro Dane, slušaj..
+
+549
+01:09:35,968 --> 01:09:40,472
+Tražimo pozive preko 
+NetCom sistema
+
+550
+01:09:40,681 --> 01:09:45,602
+Treba usporediti sa onime što imamo ?
+Možeš li da to uèiniš ?
+
+551
+01:09:45,769 --> 01:09:48,313
+Možemo li Dane ?
+- Hajde Dane ?
+
+552
+01:09:49,606 --> 01:09:55,195
+Pretpostavljam da mogu to da uèinim.
+- Ispravno razmišljeno.
+
+553
+01:10:14,506 --> 01:10:19,178
+Kakav vam je bio vikend G-dine Fory.
+- Kratak, prekratak.
+
+554
+01:10:22,514 --> 01:10:24,725
+To je bilo brzo.
+
+555
+01:10:28,937 --> 01:10:35,777
+Tom ? Jesi li se to ti javio na telefon ?
+- Ovaj....Tko je tamo ?
+
+556
+01:10:35,944 --> 01:10:42,326
+Greg Mandi BEC Computers, javljam se zato
+što imamo žalbi sa softwareom koji vi koristite.
+
+557
+01:10:42,493 --> 01:10:46,497
+Imate li vi problema ?
+- Ne, koliko ja znam.
+
+558
+01:10:46,663 --> 01:10:50,334
+Rachel,jesmo li imali problema 
+sa softwareom od BEC ?
+
+559
+01:10:56,798 --> 01:11:00,135
+Ovaj problem 
+ruši sustav.
+
+560
+01:11:00,260 --> 01:11:07,226
+Zato sam vam poslao jednog iz održavanja
+da provjeri to. Zove se Joe,i doæi æe odmah.
+
+561
+01:11:07,434 --> 01:11:12,689
+Ako postoji kakav problem, on 
+æe da ga odkrije i odstrani.
+
+562
+01:11:12,856 --> 01:11:16,151
+Mi iz BEC želimo da ste
+zadovoljni sa našim proizvodom.
+
+563
+01:11:16,401 --> 01:11:19,571
+Jo Tarner iz BEC.
+
+564
+01:11:24,117 --> 01:11:30,958
+Petak 3:29 popodne, 
+broj 404-555-7332
+
+565
+01:11:31,124 --> 01:11:33,418
+Vrijeme potrošeno na razgovor,44 minuta ?
+
+566
+01:11:33,585 --> 01:11:35,003
+Da, imam taj.
+
+567
+01:11:48,183 --> 01:11:50,686
+Koji poèetak za ponedjeljak,ha ?
+
+568
+01:12:00,737 --> 01:12:02,614
+Ok Joe, tvoj je.
+
+569
+01:12:03,198 --> 01:12:06,493
+Da probamo druga pozicija
+isti dan.
+
+570
+01:12:06,702 --> 01:12:13,917
+broj 612-555-6400.
+10:22 popodne
+
+571
+01:12:14,918 --> 01:12:19,173
+vrijeme,49 minuti.
+- Imam ga.
+
+572
+01:12:35,731 --> 01:12:38,484
+Zdravo Rachel.
+Možeš li mi uèiniti uslugu.
+
+573
+01:12:38,734 --> 01:12:43,447
+Donesi mi jednu kavu ?
+- Svakako.
+
+574
+01:12:48,410 --> 01:12:55,667
+Ovaj je nedjelja, 2:21 poslije ponoæi.
+broj 919-555-8900.
+
+575
+01:12:58,545 --> 01:13:00,255
+Da.
+
+576
+01:13:00,631 --> 01:13:04,968
+Dali su svi sa
+jednog mobitela ?
+
+577
+01:13:11,141 --> 01:13:18,398
+dodaj:
+Tu sam da vas slušam gospodaru.
+
+578
+01:13:28,367 --> 01:13:30,452
+Zapravo jesu.
+
+579
+01:13:31,537 --> 01:13:33,455
+Pa gdje je ?
+
+580
+01:13:37,292 --> 01:13:41,171
+Predio 19
+Dio grada,blizu aerodroma.
+
+581
+01:13:41,296 --> 01:13:46,552
+Koliko je veliko podruèje ?
+- Radijus je,ne veæi od dva kilometra.
+
+582
+01:13:46,718 --> 01:13:50,722
+Hej Dane,jesil kada bio u patroli ?
+
+583
+01:13:50,889 --> 01:13:52,891
+Patroli ?
+- Da.
+
+584
+01:13:54,309 --> 01:13:57,813
+Da, u kombiju kao u filmovima.
+
+585
+01:13:57,980 --> 01:14:02,359
+želite li navjestiti ribolov,
+mogli bismo zajedno...
+
+586
+01:14:03,485 --> 01:14:08,866
+Gotovo je.Nisam ništa našao.
+- Hvala Joe,spasitelj si.
+
+587
+01:14:09,741 --> 01:14:11,702
+Bye Nancy Dru.
+
+588
+01:14:19,501 --> 01:14:21,628
+Dobar dan.
+
+589
+01:14:21,879 --> 01:14:27,217
+Želim vam zahvaliti na pomoæi
+u vezi ovoga sluèaja.
+
+590
+01:14:27,384 --> 01:14:31,597
+Samo da vam još ovo kažem.
+
+591
+01:14:31,763 --> 01:14:37,728
+Imamo osjetljivu situaciju. Pokušavamo
+da napravimo sluèaj protiv Kevina Mitnika.
+
+592
+01:14:37,895 --> 01:14:45,110
+Želimo da sluèaj uspije, da i
+unajmi najboljeg advokata na svijetu.
+
+593
+01:14:45,235 --> 01:14:47,946
+Vjeruješ li mu ?
+
+594
+01:14:48,113 --> 01:14:55,245
+neželimo da ne uspijemo i, zaboravimo na maleni
+detalj koji nam bude nedostajao
+
+595
+01:14:55,412 --> 01:14:58,540
+..da ga sredimo.
+
+596
+01:14:58,707 --> 01:15:01,960
+Dali sam dovoljno jasan ?
+
+597
+01:15:02,211 --> 01:15:06,798
+Ako imate nalog za to, Super.
+ako nemamo, ne èinimo ništa.
+
+598
+01:15:06,965 --> 01:15:11,261
+Neželim nikakve, rasprave
+diskusije, niti alibi.
+
+599
+01:15:11,428 --> 01:15:17,476
+Mi skupljamo informacije, mi sreðivamo
+administrativne poslove, i mi æemo uspjeti.
+
+600
+01:15:20,395 --> 01:15:22,481
+Prijatan vam dan svima.
+
+601
+01:15:22,689 --> 01:15:24,858
+Kakve gluposti èovjeèe.
+
+602
+01:15:32,783 --> 01:15:36,078
+Dane, može li Brad da
+koristi tvoj telefon ?
+
+603
+01:15:36,245 --> 01:15:41,041
+Brad kontaktiraj sa Ron Bouvijem iz NetComa
+i raspitaj se za G-din Kremen.
+
+604
+01:15:41,250 --> 01:15:44,169
+Što tražimo ?
+- Pravilnosti.
+
+605
+01:15:44,378 --> 01:15:49,466
+Mislim da ima isti telefon kao i u Seatlu.
+Što znaèi da ga možemo uhvatiti.
+
+606
+01:15:49,675 --> 01:15:52,678
+Tu sam da vas slušam gospodaru.
+
+607
+01:15:52,845 --> 01:15:59,017
+10.000 pod tvojom kontrolom ?
+To je kao vlastita superprivatna mreža. Super.
+
+608
+01:15:59,184 --> 01:16:02,146
+Kakva je opasnost da te otkriju ?
+- Skoro nikakva.
+
+609
+01:16:02,312 --> 01:16:06,066
+Nemogu da doznaju kako sam logiran
+nema sistemskih log datoteka.
+
+610
+01:16:06,275 --> 01:16:12,447
+Koliko æe trebati da probiju Contempt ?
+- 24 do 36 sata možda.
+
+611
+01:16:12,614 --> 01:16:14,491
+Super.
+
+612
+01:16:14,700 --> 01:16:16,493
+Ja sam genijalac.
+
+613
+01:16:28,922 --> 01:16:32,634
+Što imate tamo ?
+- Pojeftinjena verzija vaše bazne stanice.
+
+614
+01:16:32,885 --> 01:16:36,096
+Nije nešto,
+no radi svoj posao.
+
+615
+01:16:36,305 --> 01:16:39,224
+Kako može da takva mašina doðe
+u ruke obiènog graðana ?
+
+616
+01:16:39,433 --> 01:16:43,395
+Ja sam je napravio.
+- Od toga sam malo nervozan.
+
+617
+01:16:43,604 --> 01:16:48,942
+Proèitaj mi brojeve Julia
+- 555-0106.
+
+618
+01:16:49,151 --> 01:16:53,155
+Sljedeæi.
+- 555-0120.
+
+619
+01:16:53,322 --> 01:16:54,740
+Sljedeæi.
+
+620
+01:17:08,378 --> 01:17:10,756
+Imam ga. Skreæi lijevo.
+
+621
+01:17:13,425 --> 01:17:16,553
+Kakav je signal ?
+- Jak.
+
+622
+01:17:19,348 --> 01:17:20,808
+Gospode.
+
+623
+01:17:21,975 --> 01:17:24,102
+Uspori malo.
+
+624
+01:17:26,146 --> 01:17:28,273
+Blizu smo.
+
+625
+01:17:41,161 --> 01:17:44,039
+Pojaèava se.
+Lijevo.
+
+626
+01:17:50,879 --> 01:17:54,842
+Blizu smo.
+- Stani tu.
+
+627
+01:18:04,309 --> 01:18:07,729
+Definitivno je ova zgrada.
+
+628
+01:18:31,336 --> 01:18:33,297
+Imaš dovoljno kreme i šeæera.
+
+629
+01:18:33,463 --> 01:18:37,217
+Ako izaðe.... 
+-Uhapsiti æemo ga zbog kršenja uslovnog.
+
+630
+01:18:37,426 --> 01:18:41,638
+Znaèi da i vi prisluškivate telefone ?
+- Svi razgovori su kodirani.
+
+631
+01:18:41,805 --> 01:18:45,517
+Što misliš šta æe napraviti kada
+èuje kodiranu poruku ?
+
+632
+01:18:48,061 --> 01:18:49,813
+Imaš smisla.
+
+633
+01:18:49,938 --> 01:18:56,653
+U svakom sluèaju,za 1 sat Gibson
+æe nabaviti nalog,iako neznamo za koji je stan
+
+634
+01:18:56,820 --> 01:19:00,741
+No sa nalogom,možemo
+da ga pritvorimo.
+
+635
+01:19:02,242 --> 01:19:07,539
+Sada je 3 sata. Ja se nadam da
+bi do 10:30 sve bilo gotovo.
+
+636
+01:19:07,748 --> 01:19:09,750
+To bi bilo dobro.
+
+637
+01:19:10,709 --> 01:19:13,837
+Ne bih pio toliko kave.
+
+638
+01:19:20,844 --> 01:19:23,514
+Barem neæu zaspati.
+
+639
+01:19:32,105 --> 01:19:35,275
+GREŠKA U PROGRAMU
+PRITISNI CTRL-ALT-DEL
+
+640
+01:19:52,751 --> 01:19:57,881
+Modem.Ne sviða mi se kada èujem taj zvuk.
+- Zašto ?
+
+641
+01:19:58,048 --> 01:20:01,426
+Svaki put kada se spoji
+stavi svoje datoteke nekamo na net
+
+642
+01:20:01,593 --> 01:20:04,596
+Zadnji put je koristio NetCom
+
+643
+01:20:04,847 --> 01:20:10,310
+uploada podatke, izbriše èvrsti disk,
+i kada policajci pokucaju na vrata...
+
+644
+01:20:10,477 --> 01:20:14,106
+Što ? Tomy, šta je ?
+
+645
+01:20:14,314 --> 01:20:16,900
+Kada kucaju na vrata ?
+
+646
+01:20:19,069 --> 01:20:21,155
+To mu je jedino
+što mu je potrebno.
+
+647
+01:20:21,363 --> 01:20:25,909
+uploada podatke na neko mjesto,
+i on zna gdje se nalaze.
+
+648
+01:20:26,994 --> 01:20:29,788
+Nema dokaza.
+- Trebamo naæi te podatke.
+
+649
+01:20:29,997 --> 01:20:34,918
+Možemo vratiti podatke,samo
+trebamo odrediti njihov položaj.
+
+650
+01:20:36,461 --> 01:20:38,755
+Što vi radite ovdje ?
+- Dane,treba mi usluga.
+
+651
+01:20:38,922 --> 01:20:44,386
+Imaš li tu simulator za mobitele ?
+- Misliš,za posuditi ?
+
+652
+01:20:44,595 --> 01:20:50,517
+Znam èovjeka,koji pozna èovjeka,
+ali nije baš prijateljski raspoložen.
+
+653
+01:21:31,391 --> 01:21:33,977
+DEKODIRANJE JE NEUSPJEŠNO
+
+654
+01:21:58,585 --> 01:22:01,129
+Slušaj...
+
+655
+01:22:01,296 --> 01:22:06,760
+nisi dobio ovo od mene. I ne želim
+da Mitnik posumnja na mene.
+
+656
+01:22:19,565 --> 01:22:25,612
+Poštujem tvoju privatnost.
+- Privatnost ? Nikada èuo za to.
+
+657
+01:22:37,374 --> 01:22:38,792
+DEKODIRANJE JE USPJEŠNO
+
+658
+01:22:40,419 --> 01:22:44,506
+ULAZ JE ODOBREN.
+DOBRODOŠLI TSUTOMI!
+
+659
+01:22:45,924 --> 01:22:48,886
+Gibson je odobrio nalog.
+- Dolaze u 9:30
+
+660
+01:22:49,052 --> 01:22:52,806
+Rolins je rekao u 10:00
+- Nema veze, dolaze u 9:30
+
+661
+01:22:52,931 --> 01:22:55,100
+Požuri se ovamo.
+
+662
+01:22:57,936 --> 01:23:00,731
+Neæeš uspjeti èovjeèe.
+
+663
+01:23:06,945 --> 01:23:10,449
+CONTEMPT program
+pokrenut
+
+664
+01:23:11,950 --> 01:23:14,328
+Spojen na server za zraèni promet.
+
+665
+01:23:17,539 --> 01:23:19,082
+Spojen na server za telefoniju
+
+666
+01:23:19,249 --> 01:23:23,629
+Tomy, Tomy...
+Znaèi zbog ovoga me goniš.
+
+667
+01:23:23,837 --> 01:23:29,468
+Znamo da je negdje
+na drugom katu zgrade..
+
+668
+01:23:29,635 --> 01:23:31,678
+Agent Gibson...
+
+669
+01:23:31,845 --> 01:23:37,226
+èe koristiti detektor za mobitel da otkrijemo.
+u kojem je stanu.Kada naðemo,ulazimo.
+
+670
+01:23:48,237 --> 01:23:52,282
+Na drugom katu je.
+- Samo malo.
+
+671
+01:24:05,295 --> 01:24:10,467
+jsz: kakav kod. Možda je japanac špiun ?
+Što je napisao taj program ?
+
+672
+01:24:12,970 --> 01:24:16,265
+martin: voliš povijest,zar ne ?
+
+673
+01:24:26,775 --> 01:24:29,611
+jsz: ja sam car povijesti.
+
+674
+01:24:31,113 --> 01:24:36,702
+Arhimed kaže: Daj mi dovoljno veliko mjesto,
+
+675
+01:24:36,910 --> 01:24:39,705
+i ja æu pomaknuti zemlju.
+
+676
+01:25:00,809 --> 01:25:02,227
+Gubi se,Rolins.
+
+677
+01:25:03,520 --> 01:25:05,063
+Mislim da su ga našli.
+
+678
+01:25:25,250 --> 01:25:26,668
+Ovo æe biti dobro.
+
+679
+01:25:33,425 --> 01:25:35,761
+Dolazi Rolins.
+
+680
+01:26:06,291 --> 01:26:08,961
+Tko je ?
+- FBI, otvaraj.
+
+681
+01:26:12,172 --> 01:26:15,759
+Hajde, Mitnik.
+- O, bože.
+
+682
+01:26:17,177 --> 01:26:20,264
+USPOSTAVLJENA VEZA
+
+683
+01:26:23,892 --> 01:26:27,604
+Vrijeme je da pokažem tvoj virus Tomy,
+svijet ima pravo da zna.
+
+684
+01:26:42,494 --> 01:26:46,498
+ZAVRŠENO
+
+685
+01:26:52,754 --> 01:26:55,632
+1, 2, 3...
+èovjeèe...
+
+686
+01:26:59,094 --> 01:27:02,639
+Kako mogu da vam pomognem.
+- Uhapšeni ste.
+
+687
+01:27:03,807 --> 01:27:07,519
+Uhvaæen je najbrilijantniji haker
+iz Sjeverne Caroline.
+
+688
+01:27:07,686 --> 01:27:11,231
+Mitnik je uhapšen, rano ujutro u èetvrtak...
+
+689
+01:27:11,440 --> 01:27:16,111
+FBI traži ovoga hakera
+veæ skoro dvije godine...
+
+690
+01:27:16,361 --> 01:27:20,449
+Mitnik je otkriven od kompjutorskog
+struènjaka Tsutomu Shimamura.
+
+691
+01:27:20,657 --> 01:27:25,954
+Okrivljen je za kraðu podataka u
+vrijednosti od milijun dolara.
+
+692
+01:27:26,121 --> 01:27:30,417
+On je FBI-in najtraženiji 
+kompjutorski kriminalac,
+
+693
+01:27:30,542 --> 01:27:36,131
+Kevin Mitnik je dokaz o
+nezaštiæenosti podataka.
+
+694
+01:27:37,758 --> 01:27:40,969
+ŠEST MJESECI POSLIJE
+
+695
+01:28:08,413 --> 01:28:12,251
+Hvala što si mi dopustio da te posjetim.
+Samo sam želio da te upoznam.
+
+696
+01:28:12,417 --> 01:28:14,378
+Žao mi je što mora da bude ovako.
+
+697
+01:28:18,966 --> 01:28:23,470
+Što se desilo sa ....
+Što je sa datotekama ?
+
+698
+01:28:23,595 --> 01:28:28,392
+Što se desilo sa datotekama ?
+- Imao sam simulator mobitela ispred stana
+
+699
+01:28:28,600 --> 01:28:34,481
+Kada si mislio da si spojen na NetCom,
+bio si spojen samnom.
+
+700
+01:28:34,731 --> 01:28:37,109
+Ja sam primio upload.
+
+701
+01:28:38,485 --> 01:28:41,321
+Ti si bio mašina.
+
+702
+01:28:41,488 --> 01:28:43,866
+Da, jesam.
+
+703
+01:28:45,492 --> 01:28:50,789
+Zašto to èiniš Kevine ?
+- Pitanje je kako.
+
+704
+01:28:50,914 --> 01:28:54,293
+Pitanje je uvijek kako ?
+
+705
+01:28:56,211 --> 01:28:59,798
+Da ja tebe pitam nešto.
+
+706
+01:28:59,923 --> 01:29:03,302
+Zašto sam ja ovdje, a ti ne?
+
+707
+01:29:05,596 --> 01:29:10,434
+Nemaš odgovor ?
+Zašto sam ja ovdje, a ti ne ?
+
+708
+01:29:10,601 --> 01:29:14,897
+Što sam napravio toliko loše ? A ti toliko dobro ?
+Probio sam tvoj virusni kod.
+
+709
+01:29:15,105 --> 01:29:20,777
+To što sam napravio,bilo je pogreška.
+I cijelo istraživanje sam uništio.Nema ga.
+
+710
+01:29:20,944 --> 01:29:26,325
+Dirljivo, Nadam se da mirno spavaš noæu sada.
+- Želiš znati zašto si ti Kevine ?
+
+711
+01:29:26,492 --> 01:29:31,538
+Dobio sam ovu poštu.
+Od kompanije koja se bavi otkrivanjem.
+
+712
+01:29:31,788 --> 01:29:36,668
+trošak od  29.450 dolara.
+Ti si im žrtva.
+
+713
+01:29:36,835 --> 01:29:39,922
+Ja to nisam napravio.
+No znam tko je.
+
+714
+01:29:40,130 --> 01:29:42,758
+Za tebe je to igra ?
+- Da, ponekad.
+
+715
+01:29:42,925 --> 01:29:48,096
+Da iskorištavaš poštovanje ?
+- Od kada ti poštuješ nekoga ?
+
+716
+01:29:54,144 --> 01:29:56,396
+Stražar.
+
+717
+01:30:00,692 --> 01:30:06,573
+Tako je,idi kuæi kopile.
+Ti odvratno kopile.
+
+718
+01:30:13,580 --> 01:30:16,291
+Konaèno je gotovo.
+
+719
+01:30:18,085 --> 01:30:21,380
+Drago ti je što je ispalo ovako ?
+
+720
+01:30:21,547 --> 01:30:24,466
+Drago ? Ne.
+
+721
+01:30:24,675 --> 01:30:27,261
+U zatvoru je,radi mene.
+
+722
+01:30:31,014 --> 01:30:33,559
+Dobro došli G-din Shimamura
+unesite vaš pin kod
+
+723
+01:30:35,060 --> 01:30:36,687
+vaš izbor ?
+
+724
+01:30:38,021 --> 01:30:39,439
+Nemate novaca.
+
+725
+01:30:41,066 --> 01:30:43,610
+Nemate dovoljno novaca.
+
+726
+01:30:43,777 --> 01:30:46,864
+Nemoguæe, tek sam dobio èek.
+
+727
+01:30:49,908 --> 01:30:51,910
+glupa mašina
+
+728
+01:30:52,119 --> 01:30:54,496
+pojela mi je karticu.
+
+729
+01:30:54,705 --> 01:30:57,583
+OSLOBODITE KEVINA
+
+730
+01:31:07,342 --> 01:31:12,514
+Kevin Mitnik, pritvoren je 1995.godine
+i zatvoren radi kršenja uslovnog
+i posjedovanja neovlaštenih sprava.
+
+731
+01:31:15,184 --> 01:31:20,230
+Èekajuæi da ga sud stavi na uslovno zbog probijanja u
+kompjutor, podneo je žalbu u svibnju 1999 godine...
+
+732
+01:31:22,733 --> 01:31:27,946
+U 1999 godini,August, biæe osuðen na 5 god. zatvora
+(od èega je dio odslužio) i kazna od 4.125 dolara.
+
+733
+01:31:29,740 --> 01:31:34,661
+Vlada je tražila 1.5 milioni dolara
+Kevin treba da bude osloboðen u sijeènju 2000-te godine
+
+734
+01:31:40,125 --> 01:31:45,130
+Tsutomu Shimamura, je ostao zaposlen kao
+savjetnik za 500 kompanija i vladine agencije.
+
+735
+01:31:49,000 --> 01:31:59,000
+Prijevod: Maryo V.
+Prilagodio za WEB-DL: josip12345/Pajo_Ri.
+
+736
+01:32:02,000 --> 01:32:06,000
+Preuzeto sa www.titlovi.com
+
